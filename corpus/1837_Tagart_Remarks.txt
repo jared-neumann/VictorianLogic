@@ -1,0 +1,4651 @@
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project 
+
+to make the world's books discoverable online. 
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
+
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
+
+are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover. 
+
+Marks, notations and other maiginalia present in the original volume will appear in this file - a reminder of this book's long journey from the 
+
+publisher to a library and finally to you. 
+
+Usage guidelines 
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the 
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing tliis resource, we liave taken steps to 
+prevent abuse by commercial parties, including placing technical restrictions on automated querying. 
+We also ask that you: 
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for 
+personal, non-commercial purposes. 
+
++ Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine 
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the 
+use of public domain materials for these purposes and may be able to help. 
+
++ Maintain attributionTht GoogXt "watermark" you see on each file is essential for in forming people about this project and helping them find 
+additional materials through Google Book Search. Please do not remove it. 
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just 
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
+countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of 
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner 
+anywhere in the world. Copyright infringement liabili^ can be quite severe. 
+
+About Google Book Search 
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers 
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web 
+
+at |http: //books .google .com/I 
+
+
+
+REMARKS 
+
+ON 
+
+MATHEMATICAL OR DEMONSTRATIVE 
+
+REASONING: 
+
+ITS CONNEXION WITH LOGIC; 
+AND ITS APPLICATION TO SCIENCE, 
+
+PHYSICAL AND METAPHYSICAL, 
+
+
+
+.-^ • \r. 
+
+
+
+¦» 
+
+
+
+V: 
+
+
+
+WITH REFERENCE TO SOME RECENT PUBLICATIOI^Sf.-' 
+
+
+
+BY 'V' 
+
+* < 
+
+
+
+I 
+
+
+
+EDWARD TAGART, F.G.S. 
+
+MINISTER OF THE CHAPEL IH LITTLE PORTLAND-STREET, REGENT-STREET. 
+
+
+
+" The light of human minds is perspicuous words ; but by definition first 
+snuffed, and purged from ambiguity." — Hobbea. 
+
+" It is an old remark that geometry is the best logic."— BerAre/ey'* Analyst. 
+
+
+
+/ 
+
+
+
+LONDON: 
+
+JOHN GREEN, 121, NEWGATE STREET. 
+
+1837. 
+J^4 
+
+
+
+'J 
+
+
+
+PRINTED BT RICHARD KINDER, 
+GREAT NEW STREET, FETTER LANE. 
+
+
+
+TO 
+
+
+
+THE REV. W. TURNER, JUX., 
+
+OF HALIFAX. 
+
+
+
+My Dear Sir, 
+
+To your valued instructions in Manchester College, 
+York, I am indebted for much of the pleasure which I 
+have occasionally derived from metaphysical inquiries 
+and discussions. In the metaphysical as well as theo- 
+logical department of that Institution, we were taught to 
+study with care and candour the best works, not to cavil 
+and confute, '* nor to beheve and take for granted, but 
+to weigh and consider." To you, therefore, as one well 
+skilled in weighing arguments and detecting fallacies, 
+I beg leave to inscribe this little volume, and remain 
+
+Your grateful pupil, 
+
+EDWARD TAGART. 
+Bayswater, 
+September 1837. 
+
+
+
+a2 
+
+
+
+PREFACE. 
+
+
+
+The remarks here offered to the reader 
+were commenced some time ago, with the 
+design of adapting them to the pages of a 
+Review or Magazine. Hence they have 
+perhaps too much of a critical and contro- 
+versial air for a distinct Essay on an abstract 
+subject. But the remarks grew under my 
+hands ; and becoming, as they grew, less and 
+less fit for any existing periodical, they are 
+now presented, but with great diffidence, in 
+
+
+
+VI PREFACE. 
+
+a separate form — with what advantage, the 
+reader of course will judge. 
+
+The well-instructed student of mathema- 
+tics, of logic, of the nature and theory of 
+language, and of what is called moral evi- 
+dence, will be apt to remark at the close of the 
+work, that it makes no specific addition to the 
+amount of his knowledge. But if the views 
+presented even to him be admitted to be 
+correct as far as they go ; if some thoughts 
+are here conveniently brought together which 
+must at least be sought for in widely-scat- 
+tered sources ; if they have the good effect of 
+awakening the attention of the less profound 
+to important points connected with the sub- 
+ject before him, hitherto overlooked ; if they 
+suggest or stimulate inquiries worthy of con- 
+tinuance, — the pubUcation will not be in vain. 
+Much use has been made of the sentiments 
+
+
+
+PREFACE. VU 
+
+of others, so as to form a sort of philo- 
+sophical discussion in which many authors 
+are made to speak for themselves. But an 
+ample apology for this, if one be necessary, 
+will be found in the words of Dr. Law in his 
+preface to the translation of Dr. King's Essay 
+on the Origin of Evil : — 
+
+*' A writer often does more good by show- 
+ing the use of some of those many volumes 
+which we have already, than by offering new 
+ones, though this be of much less advantage 
+to his own character. I determined there- 
+fore not to say anything myself where I 
+could bring another conveniently to say it 
+
+for me ; and transcribed only so much from 
+others as was judged absolutely necessary to 
+
+give the reader a short view of the subject, 
+
+and by that sketch to induce those who have 
+
+leisure, opportunity, ^ and inclination to go 
+
+
+
+VIU PREFACE. 
+
+further and consult the originals, and to 
+afford some present satisfaction to those who 
+have not. 
+
+** But how judiciously this is performed, 
+the notes themselves must testify." 
+
+
+
+CONTENTS. 
+
+
+
+Paije. 
+
+Introductoiy remarks ..... 1 
+
+Mathematical reasoning sets out from definitions . o 
+These definitions settle the meaning of terms . 10 
+
+lliese terms, signs of ideas of figure and quantity — 
+
+ideas originating in sensible impressions . . *20 
+Mathematical reasoning supported by diagrams, or 
+
+evidence of the senses . , . . .22 
+Mr. Wliewell*s language on experience as the source 
+
+of mathematical conceptions, criticised . .27 
+Beddoes on Demonstrative Evidence, and Playfair 
+
+on Beddoes, considered . , , . .33 
+Influence of habit, or constant connexion of the 
+
+terms with the same ideas, in producing assent to 
+
+mathematical processes . . . . .36 
+Fewness of premises and of terms in mathematical 
+
+reasoning ....... 38 
+
+Distinctness and simplicity of ideas of number and 
+
+figure ........ 40 
+
+Final and essential characteristic of demonstrative 
+
+reasoning . . . . . . .44 
+
+
+
+CONTENTS. 
+
+
+
+SECTION II. 
+
+Page^ 
+
+Mr. Dugald Stewart's, Dr. Whately's, and the Edin- 
+burgh reviewer's remarks on mathematical and 
+general reasoning contrasted . . . .50 
+
+Sir John Herschel's character of Sir Isaac New- 
+ton ........ 57 
+
+Whately's opinion on the sameness of the reasoning 
+
+processes asserted and vindicated . . .60 
+
+Account of logic in the Encyclopaedia Britannica . 63 
+Logic another term for reasoning . . .65 
+
+Whately's logic considered . . . . .68 
+
+His analysis of arguments . . . . .73 
+
+Nature of syllogism . . . . . .74 
+
+Comparison of logical and mathematical reasoning . 80 
+
+
+
+SECTION III. 
+
+The connexion between language and reasoning in 
+general ........ 92 
+
+Approach to mathematical exactness in metaphysical 
+sciences, how attainable . . . . .95 
+
+Distinction between mathematics which commence, 
+and inquiries which end, with definitions . . ^ 96 
+
+Demonstration not always necessary . . .100 
+
+On demonstrative reasoning in physical science . 102 
+
+
+
+CONTENTS. M 
+
+Vi'.isv. 
+
+Advantages of physical science . . . .104 
+
+
+
+Works of reference ..... 
+Cuvier on the study of natural history . 
+Metaphysical science ..... 
+Metaphysical discussions concern the meaning of 
+
+words . . . . 
+
+Stewart's and Mackintosh's dissertations 
+Stewart's estimate of Locke 
+Mill's Fragment on Mackintosh . 
+Mackintosh on Hartley .... 
+Laplace's Essay on Prohabilities . 
+Playfair on Laplace ..... 
+Laplace on association .... 
+
+Character of Mr. Austin's work, ** Tlie Pro\ ince of 
+
+Jurisprudence determined" 
+Austin's remarks on demonstration connected with 
+
+exmcs •*.«•.. 
+
+
+
+107 
+108 
+109 
+
+111 
+112 
+113 
+US 
+121 
+124 
+1-26 
+127 
+
+1 30 
+
+131 
+
+
+
+REMARKS. 
+
+
+
+It is more than a century since Locke con- 
+ceived and maintained, after Hobbes and 
+perhaps others, that demonstrative reasoning 
+was applicable to other subjects besides the 
+mathematics, and particularly to morahty. 
+Doctors Law and Hartley, the disciples and 
+successors of Locke, entered fully into his 
+views ; and Dr. Hartley especially was fond of 
+exhibiting his reasoning in a mathematical 
+form, and in some instances has very happily 
+applied algebraic formulae to illustrate, I do 
+not say to confirm, his trains of moral spe- 
+culation, 
+
+Mr. Whewell's Thoughts on Mathematics, 
+in which he affirms that mathematics afford 
+the best example of practical logic, and the 
+elaborate article in the Edinburgh Review, 
+
+B 
+
+
+
+2 INTRODUCTORY REMARKS. 
+
+No. 126, on Mathematical Studies, which 
+treats generally of the influence of mathe- 
+matics upon the intellectual character and 
+powers, have in some degree recalled atten- 
+tion to the subject, and induced me to offer 
+some thoughts upon it, which I trust will not 
+appear altogether unworthy of perusal. 
+
+I do this with earnestness, and even anxiety; 
+not because I conceive that anything original 
+or remarkable will be found in the following 
+observations ; for I bear in mind an aphorism 
+of Dr. Johnson, ** He who tries to say that 
+which has never been said before him, will 
+probably say that which will never be re- 
+peated after him ;" but because clear and 
+just views on this subject have a close and 
+important bearing upon the pursuit of science 
+of all kinds, whether physical or metaphy- 
+sical ; upon the attainment and diffusion of 
+truth ; upon the mental and moral improve- 
+ment, and consequently the harmony and 
+happiness, of man. These clear and just 
+views appear to be absent from the minds 
+and writings of many whose names are of 
+no smaU account in the literary and scientific 
+
+
+
+INTRODUCTORY REMARKS. 6 
+
+world, although within easy reach of the in- 
+quiring, if they will use the glass supplied 
+by the plain and manly writers of the true 
+English school of philosophy. 
+
+I venture upon it further, because Mr. 
+Whewell, in the second edition of his pam- 
+phlet, declines going more at length into the 
+matters touched upon by the reviewer. He 
+has therefore left the field open to any one 
+who may dare to enter the Usts against that 
+formidable and heavily-armed knight. 
+
+The interest which may have been felt in 
+the papers alluded to has perhaps already 
+subsided, but the subject to which they re- 
+late is of permanent importance. Mr. 
+Whewell discussed the relative value of 
+different modes of pursuing mathematical 
+studies, assuming their usefulness and im- 
+portance. The reviewer, however, went 
+into a much wider field, namely, the 
+influence of mathematical studies upon the 
+mental powers and character in general. 
+And it was his strain of remark, so far as it 
+was of a metaphysical character, his obser- 
+vations about '* two logics," " dissimilar de- 
+
+b2 
+
+
+
+4 INTRODUCTORY REMARKS. 
+
+velopments of thought," and ''higher and 
+lower faculties," which induced me to review 
+the reviewer, and put together a few thoughts 
+upon the nature of reasoning and evidence in 
+general. With many of the positions of the 
+reviewer and of those whom he quotes, about 
+mathematical evidence and mathematical pro- 
+cesses, the matter of this Essay will be found 
+substantially to coincide ; but if there be 
+any truth in his view of the disquaUfication 
+of mere mathematicians for inquiries into 
+mental and moral philosophy, I have en- 
+deavoured to approach more closely to the 
+sources of that disquaUfication, or rather so to 
+point out the distinction between the nature 
+of our thoughts and language on mathe- 
+matical and other subjects, as to furnish 
+some useful guidance to reasoners and in- 
+quirers in morals and religion. 
+
+Moreover, while it seemed to me that the 
+reviewer had merely taken occasion from 
+Mr. Whewell's pamphlet to propound cer- 
+tain semi-German notions, and heap together 
+certain Kantian phrases, than which none 
+are more utterly distasteful to a healthful 
+
+
+
+DEFINITIONS. 5 
+
+English palate, it is perceptible, if I mis- 
+take not, that Mr. Whewell himself is not 
+altogether so clear and satisfactory as he 
+might be, his own mind being apparently 
+tainted in some slight degree with German 
+phraseology and metaphysics. But I shall 
+not trespass further upon ground which lies 
+beyond the limits which it is my present in- 
+tention to occupy, nor detain the reader from 
+the real subject before us. 
+
+Now in order to perceive the possible ap- 
+plication of mathematical or demonstrative 
+reasoning to metaphysical, subjects, the first 
+requisite is to understand exactly the nature 
+of that reasoning. In order to do this I ob- 
+serve, then, — 
+
+First, That it is the important character- 
+istic of mathematical reasoning to proceed 
+from definitions. It sets out from these as 
+precise data, to which appeal is made in 
+every step of the demonstrative process. If 
+these definitions be not clearly understood, 
+if they be not fully granted and well laid up 
+in the mind, in vain does the student or 
+pupil attempt to proceed. The foundations 
+
+
+
+b DEFINITIONS. 
+
+of the science will then be broken up, the 
+field of mathematical reasoning will then be 
+closed, for these are the gate of entrance. 
+
+It affects not the truth of the above 
+position to inquire and settle whether the 
+definitions are hypotheses or facts ; whether 
+they be explanations of terms, abstractions 
+of the mind, inductions from observation, or 
+assumptions which have no foimdation in 
+the nature of things ; nor to inquire whether 
+the definitions of any particular treatise or 
+mathematician, from EucUd and his nume- 
+rous editors downwards to Newton and his 
+successors, are in every respect the best 
+possible, such as suit best the subsequent 
+course of reasoning, are most easily ad- 
+mitted by the student, or bring most clearly 
+before the mind the principle necessary for 
+future guidance ; nor to inquire how far the 
+postulates and axioms partake of the nature 
+of definitions, may be resolved into them, or 
+may be dispensed with altogether, without 
+injury to the study. These may be proper 
+subjects for the metaphysician or logician. 
+They may, to a certain degree, call for the 
+
+
+
+DEFINITIONS. 7 
+
+early attention of the mathematical student ; 
+but the tutor who should begin with telling 
+his pupil all that has been said or might be 
+said about the definitions, postulates, and 
+axioms, would probably never get him over 
+the asses' bridge. Suffice it, as a matter of 
+fact, that when you open any elementary 
+treatise on mathematics, Euclid, the conic 
+sections, plane and spherical trigonometry, 
+and even books of arithmetic and algebra, 
+the first objects of careful attention to the 
+student are definitions. These are the foun 
+dations of his science, the elements of his 
+reasoning. To these he must adhere ; and 
+if there be anything inconsistent with them, 
+confusion ensues^ demonstration ceases. 
+
+"It is in this last circumstance (I mean 
+the pecuUarity of reasoning from definitions) 
+that the true theory of mathematical reason- 
+ing is to be found," says Dugald Stewart in 
+his chapter on Mathematical Reasoning, 
+chap. ii. sect. 3, of his second volume of the 
+Philosophy of the Human Mind, one of the 
+best portions of his writings, yet tinctured 
+deeply with his pecuUar faults. This is the 
+
+
+
+8 DEFINITIONS. 
+
+point upon which he rests ; and the writers 
+to whom he refers, and with quotations from 
+whom he is so fond of nibbUng, will be found 
+substantially to agree with him. 
+
+The following passage from Hobbes' Le- 
+viathan is also apt to my purpose. " To 
+the priviledge of absurdity, no Uving crea- 
+ture is subject, but man onely. And of 
+men, those are of all most subject to it, 
+that professe philosophy. For it is most 
+true that Cicero saith of them somewhere ; 
+that there can be nothing so absurd, but may 
+be found in the books of philosophers. And 
+the reason is manifest. For there is not one 
+of them that begins his ratiocination from 
+the definitions, or explications of the names 
+they are to use ; which is a method they are 
+to use onely in geometry ; whose conclusions 
+have THEREBY been made indisputable." — 
+Part i. chap. v. 
+
+The importance of the definitions admits 
+of the following familiar illustrations. It 
+happened to me to commence the study of 
+Euclid with a youth who stumbled at the 
+first definition, — " A point is that which hatk 
+
+
+
+DEFINITIONS. 9 
+
+no parts, or which hath no magnitude.'' 
+*' Then," said he, '* it is a nonentity, — it is 
+nothing." He could not or he would not 
+admit such an abstraction ; and he began to 
+puzzle himself about the infinite divisibility of 
+matter, the nature and extension of ultimate 
+atoms, the impossibiUty of finding a given 
+place for that which had no parts, and so on. 
+He was not content to take this or any other 
+definition as a matter of course, and wait to 
+see how far the mathematician would be 
+consistent with himself in his subsequent 
+reasoning. He was determined to weigh and 
+settle the justness of every definition in his 
+own mind before he would proceed further ; 
+in short, he would concede nothing and dis- 
+pute everything. Consequently he never 
+took kindly to mathematical studies; and 
+perhaps to this hour he looks upon mathe- 
+matics as a multitude of words about non- 
+entities, or things which have no real ex- 
+istence, and consequently no practical value. 
+I by no means imply that in mathematics, 
+the student is to begin with submitting to 
+authority, and not to think about the 
+
+B 5 
+
+
+
+10 DEFINITIONS DECIDE 
+
+meaning of the language he uses ; nor 
+that the tutor should not be prepared to 
+defend his own prehminary statements. Of 
+this, perhaps, more hereafter. It is sufficient 
+to add at present, that Mr. De Morgan, in 
+his work on mathematical studies, pubUshed 
+by the Society for the Diffusion of Useful 
+Knowledge, ranks definition first among the 
+characteristics, and, I may say, as at the 
+foundation, of mathematical reasoning. 
+
+Secondly y It may appear to many super- 
+fluous, but it is important to observe that 
+the definitions on which mathematical rea- 
+soning depends are definitions properly so 
+called ; that is, they are explanations of terms 
+—determinations of that sense in which the 
+words employed as signs and instruments of 
+thought are to be taken, used, and under- 
+stood. 
+
+Every one who reads over the definitions 
+of Euclid must, I should think, immediately 
+assent to this. One definition may be 
+better than another of a line, or a straight 
+line, of a circle, or of parallel Unes ; but 
+its superiority can only consist in fixing 
+
+
+
+THE MEANING OF TERMS. 1 1 
+
+more clearly that sense of the word about 
+to be used, or that quality in the mind's con- 
+ception of the thing signified, (more simply, 
+the signification,) which alone is to be pre- 
+sent to the mind in its subsequent appU- 
+cation of the term. 
+
+The definitions of geometry concern, it is 
+obvious, the meaning of the terms point, 
+Une, straight Une, superficies, angle, triangle, 
+circle, and so on, so far as they are de- 
+finable. And the student would have 
+Uttle occasion to pore over these definitions 
+if all the terms were previously famiUar 
+to him, and all had that fixed and clear 
+meaning in his mind ; that is, were the signs 
+of those certain ideas of figure for which 
+they stand in the mind of the geometrical 
+reasoner. 
+
+If Mr. Dugald Stewart had kept EucUd 
+open before him when speaking of the 
+definitions, I can scarcely imagine he would 
+ever have called them hypotheses ; and if he 
+had not called them hypotheses, he would 
+not have maintained that it is the pecuUarity 
+of mathematical reasoning to employ hypo- 
+
+
+
+12 DEFINITIONS DECIDE 
+
+theses instead of facts as the data on which 
+we proceed. See Stewart's Philosophy, 
+vol. ii. pp. 158, 160. 
+
+Take for example the ninth and eleventh 
+definitions. " A plane rectiUneal angle is 
+the incUnation of two straight lines to one 
+another, which meet together but are not in 
+the same straight Une." *' An obtuse angle 
+is that which is greater than a right angle." 
+With what propriety can it be said that 
+these are hypotheses? An hypothesis is 
+that mode of accounting for certain appear- 
+ances which, although probable, remains to 
+be verified by future experiments or obser- 
+vations ; or it is the supposed cause of certain 
+effects, whose adequacy or invariable an- 
+tecedency is assumed until disproved by 
+further investigation. This is the sense in 
+which the term hypothesis is generally em- 
+ployed. In this sense the Ptolemaic and 
+Tycho-Brahic systems of astronomy were 
+hypotheses ; in this sense the theory of 
+gravitation, as it first occurred to the mind 
+of Sir Isaac Newton, as accounting for the 
+phases and motions of the heavenly bodies. 
+
+
+
+THE MEANING OF TERMS. 13 
+
+was an hypothesis ; in this^ sense the undu- 
+latory theory of light is an hypothesis. 
+
+Now there is no analogy between this 
+meaning of the term hjrpothesis and the 
+definitions of geometry, or of any branch of 
+mathematical science. These definitions are 
+not imaginary explanations of given pheno- 
+mena, nor supposed causes of given effects ; 
+they are, as above said, simple explanations 
+of terms, or attempts, by the substitution of 
+other words in place of one general term, to 
+place before the mind, often assisted by 
+diagram or sensible representation to the 
+eye, that object of thought to which the 
+said term is invariably and solely to be ap- 
+pUed. " Every general term," says Aristotle, 
+'* is the abridgement of a definition." 
+
+I observe that Mr. De Morgan, on the 
+Study of Mathematics, p. 70, places reason- 
+ing from hypothesis second among the 
+cha;racteristics of geometrical reasoning. " In 
+the statement of every proposition," he says, 
+'' certain connexions are supposed to exist, 
+from which it is asserted that certain con- 
+sequences will follow. Thus, in an isosceles 
+
+
+
+14 DEFINITIONS DECIDE 
+
+triangle, the angles at the base are equal, or, 
+if a triangle be isosceles, the angles at the 
+base will be equal. Here the hypothesis or 
+supposition is, that the triangle has two 
+equal sides ; the consequence asserted is, that 
+the angles at the base, or third side, will be 
+equal." 
+
+Let us remark, however, that still the 
+hypothesis impUes a clear understanding of 
+the words employed, as m the above in- 
+stance, isosceles and triangle, both of which 
+have been clearly defined and are well under- 
+stood. Hypothesis here is strictly and merely 
+supposition ; a certain figure or relation of 
+Unes is supposed or granted to exist, from 
+which certain consequences are deduced. 
+The reasoning would not be valid, or there 
+would be no reasoning at all, if the terms 
+employed did not in the first instance ex- 
+actly express the thing intended, — the object 
+of thought. Much of common reasoning is 
+reasoning from hypothesis in this sense; 
+that is, it consists in supposing certain re- 
+lations to exist, and in showing that certain 
+consequences follow. 
+
+
+
+THE MEANING OF TERMS. 15 
+
+It was not in this sense that Mr. Dugald 
+Stewart maintained that " in mathematics 
+we employ hypotheses instead of facts" as a 
+general proposition ; but rather with intent 
+to show that the whole of mathematics 
+rested upon assumptions, and therefore dif- 
+fered from reasonings which turn upon ob- 
+servation, and what he calls facts. He often 
+impUes that mathematical reasoning remains 
+good, though there be no such things in 
+reality as points, Unes, triangles, circles, and 
+squares in the mathematical sense. But if 
+it be so, even admitting all this, still let us 
+remember that the hypotheses or assump- 
+tions, so far as the definitions are included 
+in them, are of a certain kind ; namely, that 
+certain words shall invariably be associated 
+with certain meanings or ideas, and no 
+other: for example, that you shall not 
+reason about a triangle as if it could possibly 
+mean a circle, nor about parallel Unes as if 
+they were not equidistant at all points. 
+
+'* It is not on the definition but the con- 
+ception," Mr. Whewell asserts, *' that the 
+properties and demonstrations are built." 
+
+
+
+16 DEFINITIONS DECIDE 
+
+But why separate definition and concep- 
+tion ? Are they not virtually the same thing ? 
+unless by definition we are to understand 
+mere words without signification, Uttle black 
+marks upon a piece of white paper. The 
+definition is of value solely in fixing, and, ^s 
+it were, embodying the conception. Human 
+beings reason with words, which are the signs 
+or channels of ideas. You can only convey 
+your conception of a straight Une or triangle 
+to another mind by a definition or descrip- 
+tion. It is the object of the definition to single 
+out that quality or property in the mind's 
+conception of the thing which distinguishes 
+it most completely from every other object 
+or thing whatsoever ; and which, by being so 
+distinguished, and having such settled pro- 
+perty, becomes the subject of reasoning. If 
+it belonged, for instance, to anything else 
+besides an angle to be composed of two 
+straight hues meeting together, but not in the 
+same straight line ; in these words we should 
+have no sufficient definition of an angle. 
+
+In the Appendix to his work on the Con- 
+nexion of Number and Magnitude, Mr. 
+
+
+
+THE MEANING^ OF TERMS. 17 
+
+De Morgan makes some admirable and use- 
+ful observations on the definitions, postulates, 
+and axioms of Euclid ; and thus expresses 
+himself: — " Some of the definitions contain 
+assumptions of certain conceptions existing, 
+to which names are to be given ; namely, 
+those of a point, a Une, the extremities of a 
+line, a straight line, a surface, the extremi- 
+ties of a surface, a plane surface, a plane 
+angle, a plane rectilineal angle; others 
+assume the possibiUty of certain relations 
+existing, as will appear from the form in 
+which they are put." 
+
+He afterwards speaks of these as *' in- 
+definable notions," and places the common 
+definitions of them in the light of postulates ; 
+thus, " Let it be granted that a point has no 
+parts or magnitude, and that we are con- 
+cerned with no other property of it, if there 
+be any." Again, he speaks of some of the 
+definitions, those from the eleventh to the 
+fourteenth, and from the nineteenth to the 
+twenty-third, as purely nominal, and there- 
+fore needing no remark. From the tenor of 
+his language, which the reader who is not 
+
+
+
+18 DEFINITIONS DECIDE 
+
+acquainted with it will do well to consult, it 
+would seem that he considered the geometry 
+of EucUd as resting very much on common 
+notions (xoivtj cvvoia) which scarcely admit of 
+definition. Nevertheless I do not think that 
+his language countenances any separation 
+between the conception and what is usually 
+considered the definition, but the contrary. 
+The object of all the definitions clearly is 
+to associate a certain term with a particular 
+notion or conception, and thus to fix and 
+Umit the meaning of the term. In his paper 
+on the study of mathematics, Mr. De Mor- 
+gan says, (p. 69.) " This {i.e. definition) is 
+merely substituting, instead of a description, 
+the name which it has been agreed to give to 
+whatever bears that description." 
+
+In regard to nominal definition, it is to my 
+purpose to quote here what Dr. Whateley 
+says in his Elements of Logic, p. 155, fifth 
+edition ; and although I begin the quotation 
+in the middle of a sentence, no alteration is 
+made in its force or meaning : — " all that is 
+requisite for the purposes of reasoning 
+(which is the proper province of logic) is, 
+
+
+
+THE MEANING OF TERMS. 19 
+
+that a term shall not be used in diiFerent 
+senses ; a real definition of anything belongs 
+to the science or system which is employed 
+about that thing. It is to be noted, that in 
+mathematics (and indeed in all strict sciences) 
+the nominal and the real definition exactly 
+coincide ; the meaning of the word and the 
+nature of the thing being exactly the same. 
+This holds good also with respect to logical 
+terms, most legal, and many ethical terms." 
+
+Upon the whole we conclude that the 
+definitions of geometry settle the meaning of 
+terms.* 
+
+Thirdly y These terms are the signs of our 
+ideas of figure and quantity, including in the 
+latter term number and magnitude (both the 
+
+* Pascal, in his Reflexions sur la G^ometrie en G^ndral, 
+justly observes, however, that many notions are assumed, 
+and terms are used in mathematics which are not defined. 
+" Cette judicieuse science est bien 6loign6e de definir ces 
+mots primitifs, espace, temps, mouvement, ^galit4, ma- 
+jority, diminution, tout, et les autres que le monde entend 
+de soi-m6me." And this must be the case in all reason- 
+ing ; for, as definition is merely explaining one term by 
+many, it is obvious we might go on defining without 
+end, and not advance a step towards any valuable con- 
+clusion. 
+
+
+
+20 MATHEMATICAL CONCEPTIONS 
+
+how many and how great, quantus) ; which 
+ideas or notions come to us, so to speak, 
+originally from without ; i. e. they originate 
+in sensible impressions. They are not signifi- 
+cant merely of what passes within, or of 
+mental states, Uke the terms memory, the 
+will, judgement, attention, and desire, unless 
+indeed every sensation, such as of whiteness 
+or blackness, be considered a mental state, 
+and every idea an affection of the- mind. 
+
+Here, perhaps, I am treading upon the 
+most doubtful, because metaphysical, ground. 
+Right or wrong, however, in what may be said 
+under this head, it will not invalidate what 
+has been said about ddinition and its object. 
+It appears to me that mathematical reasoning 
+consists in tracing the relations of our ideas 
+of figure and quantity by means of exactly 
+defined symbols, whether words, diagrams^ 
+or other symbols, one with another, in re- 
+spect of agreement or disagreement, equa- 
+lity, or inequaUty ; and these terms and ideas 
+receive clearness and strength by constant 
+application and reference to external things, 
+or sensible impressions \ and also by their 
+
+
+
+ORIGINATE IN SENSIBLE IMPRESSIONS. 21 
+
+observed, clear, uniform, and well-defined 
+relation to each other. 
+
+The subject matter of mathematical reason- 
+ing may therefore be considered to be real 
+existencies, with as much justice as the sub- 
+ject matter of any other reasoning. For in 
+all reasoning, what has the mind before it 
+but its own abstractions or notions, and 
+terms affixed to those notions ? And who 
+can say that circles, angles, squares, lines, 
+have not as much foundation in, and refer- 
+ence to, things as they exist, as white, blue, 
+black, soft, hard, or other qualities of body, 
+solid, liquid, brittle, or elastic; or the ab- 
+stract ideas of space, time, beauty, honour, 
+virtue, and so on ? Our ideas of number 
+and figure are ideas constantly forced upon 
+us by sensible objects, and all that fills this 
+visible diurnal sphere ; the terms significant 
+of these ideas are in constant use and appli- 
+cation in ordinary Ufe. They are employed 
+by the humblest in station and education 
+with uniformity of meaning, with clearness 
+and accuracy for their purposes. It is true 
+they may not know anything of the rela- 
+
+
+
+^2 DIAGRAMS. 
+
+tions and properties of triangles, squares, 
+circles, parallelograms, as traced by the ma- 
+thematician ; but the mathematician's skill 
+and wisdom consist only in having traced 
+and studied these relations by means of his 
+exact definitions, and by his deeper or more 
+frequent meditation on their several con- 
+nexions and consequences. The ideas or 
+notions of number and figure are common to 
+all minds. Attention and instruction only 
+are necessary to furnish them with the exact 
+definitions and new combinations. In num- 
+ber, it is obvious that the terms or figures are 
+themselves definitions, or their equivalents. 
+
+It is because the subject matter of mathe- 
+matical reasoning consists, in our ideas of 
+figures and magnitudes or quantities, that 
+the reasoning may be carried on by other 
+signs than words, viz. sensible diagrams. 
+The Arabic numerals, and the notations of 
+algebra, are artificial contrivances or abbre- 
+viated symbols for tracing the relations of 
+quantity as they are wanted, or as those re- 
+lations follow from the nature of the con- 
+trivances themselves. These diagrams, these 
+
+
+
+
+DiAGRAMS. 23 
+
+figures and notations, are the signs and in- 
+struments of the mathematician's or alge- 
+braist's thoughts ; and it is because they are 
+always of a clear and certain nature, and 
+bear a uniform, fixed, and definite relation 
+one to another, that the geometrical reason- 
+ing, and the arithmetical and algebraic pro- 
+cesses are the same to every mind. 
+
+Upon this circimistance, namely, the power 
+of fixing the attention and carrying on the 
+reasoning by means or help of sensible dia- 
+grams, Locke fastens, as of the first import- 
+ance, and the great pecuUarity in mathema- 
+tical studies. 
+
+" That which has given the advantage to 
+the ideas of quantity, and made them thought 
+more capable of certainty and demonstration, 
+is, first, that they can be set down and 
+represented by visible marks, which have a 
+greater and nearer correspondence with them 
+than any words or sounds whatsoever. Dia- 
+grams drawn on paper are copies of the ideas 
+in the mind, and not liable to the uncer- 
+tainty that words carry in their signification. 
+An angle, circle, or square, drawn in lines, 
+
+
+
+24 DIAGRAMS. 
+
+lies open to the view, and cannot be mistaken : 
+it remains unchangeable, and may at leisure 
+be considered and examined, and the demon- 
+stration be revised, and all the parts of it 
+may be gone over more than once without 
+any danger of the least change in the ideas. 
+This cannot be thus done in moral ideas ; we 
+have no sensible marks that resemble them, 
+whereby we can set them down." — (BooklV., 
+chap, iii., § 19.) 
+
+It matters not that he is the best mathe- 
+matician, or arithmetician, who needs least 
+the sensible diagram, or the figure on the 
+paper ; nor to say, with Mr. Stewart, that 
+the figure on paper cannot pretend to that 
+precise exactness which is the object of our 
+reasoning ; that the line we draw will have 
+some breadth, and the circle, however steady 
+the instrument and the hand, may deviate in 
+some point from equidistance. The most 
+skilful reasoners can only have a certain 
+idea of visible figure, and of the relation 
+of its several parts present to their minds, 
+which the less skilful require for facility and 
+permanency of reference on the paper. The 
+
+
+
+DIAGRAMS. 25 
+
+diagram approaches sufficiently to sensible 
+exactness to keep before the mind that qua- 
+lity of the figure which is the sole object of the 
+reasoning ; and it is sufficient that the more 
+nearly the specific figure before us approaches 
+to exactness, the more appUcable will the 
+reasoning be to that figure, — or, more cor- 
+rectly, it is only in so far as the figure fairly 
+represents the mind's view of its quaUties 
+that the reasoning applies to it at all. There 
+is no such mystery in the most obscure of 
+the definitions as to make us deny their re- 
+ference to a certain specific quaUty of ob- 
+jects, that is, to real existencies, in the 
+only practical sense of the words. The 
+constant application of mathematical rea- 
+sonings to the various branches of natural 
+philosophy, and the common use of mathe- 
+matical terms in the mathematical sense, 
+prove the contrary. We speak, for in- 
+stance, of the line between one shade of 
+colour and another, and length without 
+breadth is the only object of the mind's 
+contemplation in so speaking. Points and 
+angles are words of perpetual occurrence : the 
+
+c 
+
+
+
+26 MATHEMATICAL NOTIONS 
+
+former in the sense of the commencement or 
+termination of lines, without being any de- 
+cided parts or given portions of the Une ; 
+and the latter in the sense of the meeting of 
+two or more- lines together, converging or 
+diverging with more or less of rapidity or 
+extension. 
+
+It is perhaps of Uttle consequence to de- 
+termine whence we get the notions or con- 
+ceptions upon which mathematical reasoning 
+turns, whilst it is certain we have the notions 
+and defined terms appropriate to them, ex- 
+cept in so far as it appears that in numerical 
+calculations, and in the geometry of EucUd, 
+there is a certain verification of the reasoning 
+by an appeal to the evidence of the senses. 
+In fact, it is hard to divine whence we get 
+notions of figure or quantity if it be not 
+from the sight and the touch, or from expe- 
+rience, — a word of extensive signification, 
+comprehending all the results of observation 
+and reflection. Those who say we do not 
+get these notions or conceptions from expe- 
+rience, would do well to tell us whence we do 
+get them, or produce the mathematician 
+
+
+
+DERIVED FROM THE SENSES. 27 
+
+upon whom God has not bestowed the five 
+senses with which he has happily blessed the 
+rest of mankind. 
+
+I will here venture a remark upon Mr. 
+Whewell's language, in his pamphlet on Ma- 
+thematical Studies (second edition, p. 32) : 
+
+'' I mentioned it," says Mr. Whewell, " as 
+likely to make the study of mathematics 
+less beneficial as a mental discipline than it 
+might otherwise be if the first principles of 
+our knowledge be represented as borrowed 
+from experience, in such a manner that the 
+whole science becomes empirical only. 
+
+'' I will not suppose that any person who 
+has paid any attention to mathematics does 
+not see clearly the difference between neces- 
+sary truths and empirical facts, — between 
+the evidence of the properties of a triangle 
+and that of the general laws of the structure 
+of plants. The peculiar character of mathe- 
+matical truth is, that it is necessarily and 
+inevitably true ; and one of the most im- 
+portant lessons which we learn from our ma- 
+thematical studies is a knowledge that there 
+
+c2 
+
+
+
+28 MATHEMATICAL NOTIONS 
+
+are such truths, and a familiarity with their 
+form and character. 
+
+'*This lesson is not only lost, but read 
+backwards, if the student is taught that 
+there is no such diflFerence, and that mathe- 
+matical truths themselves are learnt by ex- 
+perience. I can hardly suppose that any 
+mathematician would hold such an opinion 
+with regard to geometrical truths, although 
+it has been entertained by metaphysicians of 
+no inconsiderable acuteness, as Hume. We 
+might ask such persons how experience can 
+show, not only that a thing is, but that it 
+must be ; by what authority he, the mere 
+recorder of the actual occurrences of the 
+past, pronounces upon all possible cases, 
+though as yet to be tried hereafter only, or 
+probably never. Or, descending to par- 
+ticulars, when it is maintained that it is 
+from experience alone that we know that 
+two straight lines cannot enclose space, we 
+ask, who ever made the trial, and how? 
+And we request to be informed in what way 
+he ascertained that the lines with which he 
+
+
+
+DERIVED FROM THE SENSES. 29 
+
+made his experiment were accurately straight. 
+The fallacy is in this case, I conceive, too 
+palpable to require" to be dwelt upon." 
+
+A meaning of the word empirical has 
+crept into our language lately, in conse- 
+quence of the freedom with which some phi- 
+losophers treat the king's EngUsh, and I fear 
+also from the bad translation of some Grer- 
+man writings, which it was not wont to 
+have, as if it were simply equivalent to ex- 
+perimental ; whereby we are threatened with 
+the loss of a good word for a very important 
+idea, namely, that of quackery, or the ob- 
+servance of rules drawn from a narrow ex- 
+perience, in neglect or defiance of a large 
+and true experience. In eight instances of 
+the use of the word by our best old English 
+authors, which Johnson gives, it is inva- 
+riably associated with this latter meaning. 
+No fact, which is a fact, can deserve the 
+epithet empirical. 
+
+Mr. Whewell would have done well, if 
+we do not get our knowledge of the first 
+principles, or, as he better expresses it, 
+the fundamental conceptions of mathema- 
+
+
+
+30 MATHEMATICAL NOTIONS 
+
+tical science from experience, to inform us 
+whence or how we do get them. As he has 
+not supplied that information, his reader 
+may be apt to pause ; and if he be a friend 
+of that wise and cautious old gentleman 
+hight Experience, he will not easily allow 
+the laugh to be turned against him. Just 
+so Mr. Dugald Stewart, in his remarks upon 
+demonstrative reasoning, says, "It is by no 
+means sufficient to account for the essential 
+distinction which every person must perceive 
+between the irresistible cogency of a mathe- 
+matical demonstration and that of any other 
+process of reasoning :" " that, in mathema- 
+tics, there is no such thing as an ambiguous 
+word." But Mr. Stewart does not help his 
+reader to account for it in any other way. 
+Thus he first plunders him of an all-sufficient 
+principle, and then leaves him in the dark ; 
+nay, he lays it down as his own principle^ 
+that it is the peculiarity of mathematics to 
+reason from definition, as if keeping to him- 
+self what he would not allow to another.* 
+
+* See on this the passage of Du Hamel's, quoted by 
+the Edinburgh reviewer, p. 427. 
+
+
+
+DERIVED FROM THE SENSES. 31 
+
+It appears to me very reasonable to ask, 
+" What but experience can show, not only 
+that a thing is, but that it must 6e?" — a 
+very general and perhaps useless proposition. 
+— Experientia docet ; and let every man be 
+careful how he limits the extent and value of 
+her lessons. As we did not make our own 
+senses, nor the external world, we are 
+supplied by the constitution of our frame 
+with certain conceptions which are natural 
+to, and inseparable from, that frame. We 
+make words or signs for our conceptions, 
+and by use the words become indissolubly 
+associated with those conceptions; and so 
+long as we make those signs or words stand 
+for those certain conceptions, so long, in 
+fact, as being signs they have signification, 
+we act the part of rational and consistent 
+beings. If a plain man be asked how he 
+knows that two straight lines cannot enclose 
+space, he may, in his turn, ask the questioner 
+whether he ever knew it otherwise ; and so 
+may force him to own that constant experi- 
+ence taught him that truth ; that nature had 
+furnished him with the notions of a Une and 
+
+
+
+32 EXPERIENCE. 
+
+of straightness, and the words belonging to 
+those notions ; that his mathematical studies 
+had built upon that experience ; and that, in 
+regard to ascertaining that any given lines be- 
+fore him were accurately straight, it was clear 
+that the straighter they were, in any conceiv- 
+able meaning of the term straight, the less 
+likely they were to enclose a space. K I 
+were asked how I know that in any right- 
+angled triangle the square which is described 
+upon the side subtending the right angle is 
+equal to the squares described upon the sides 
+which contain the right angle, my first an- 
+swer might be, that I knew it by studying 
+the 47th of the first book of Euchd. But the 
+study of EucUd forms a small part of my ex- 
+perience, which includes all my observations 
+and reflections upon the contents of EucUd, 
+and all the conceptions gathered from the 
+study of the relations traced and traceable be- 
+tween the various figures therein the subject 
+of meditation. In short, experience, Uke na- 
+ture, is a word of such very comprehensive im- 
+port, as containing within itself so completely 
+the sources of knowledge and instruction, that 
+
+
+
+BEDDOES ON DEMONSTRATION. 33 
+
+whatever does not fall within the houndaries 
+of that wide domain, can be nothing short 
+of immediate inspiration.* If a friend asks 
+me to show him that the thing must be 
+so, or in other words to furnish him with 
+Euclid's proof, or a mathematical proof of 
+the truth of that 47th proposition, that is 
+another question ; and then I should recal 
+the steps of the demonstration; and what 
+demonstration is, is the matter into which we 
+are now inquiring. 
+
+There is a well-known work by Dr. Beddoes, 
+on the nature of Demonstrative Evidence, 
+wliich contains many useful observations on 
+the connexion between language and thought, 
+in which he endeavours to show that Euchd's 
+reasoning begins from experiment and pro- 
+ceeds by experiments. There is an awkward- 
+
+* Of course it would be absurd to contend that the 
+truths and demonstrations of geometry are lessons of 
+mere experience in a sense strictly analogous to that in 
+which we apply the term to the observations and details 
+of our ordinary daily existence and sensation. We are 
+discussing solely the origin of the fundamental concep- 
+tions on which mathematical reasoning rests — the data 
+from which it starts. 
+
+c 5 
+
+
+
+34 PLAYFAIR ON BEDD0E9. 
+
+ness in the phrase mental experiments, which 
+the Poctor uses, and which might have been 
+avoided by a different mode of stating his 
+argument or view ; and which seems to be 
+this, — ^that the fundamental notions or con- 
+ceptions from which mathematical reasoning 
+starts, and to which it appeals, are as much 
+the result of experience, and rest as much 
+upon the evidence of the senses, and the 
+natural meaning of our own words, in con- 
+nexion with that evidence, as the funda- 
+mentals of any physical science whatsoever ; 
+and he instances particularly the axioms, as 
+they are called, that " two straight lines 
+cannot enclose a space," and " the whole is 
+greater than its part." 
+
+In a review of a treatise of LesUe's, on 
+mathematics, attributed to Professor Play- 
+fair, in the twentieth volume of the Edin- 
+burgh Review, there are some remarks 
+upon this work of Dr. Beddoes, which, 
+coming from Professor Playfair, are entitled 
+to particular consideration. Playfair sug- 
+gests that Beddoes was no great mathe- 
+matician. But with submission, this is no 
+
+
+
+HARTLEY ON PROPOSITIONS. 35 
+
+answer to Beddoes* argument, and rather 
+too near an approach to the common tac- 
+tics of controversial writing, in which the 
+reader's attention is diverted from the ques- 
+tion, and the pursuit of truth, by some in- 
+sinuation against the character or abiUties of 
+an adversary. Play fair tells us that ** geome- 
+trical reasoning is a process purely intellec- 
+tual, and resting ultimately on truths which 
+the mind intuitively perceives,'^ Are we, then, 
+to rest here without going further, — ^without 
+venturing to ask what are *' truths intuitively 
+perceived" ? In what sense this is, true, the 
+present observations are meant to illustrate, 
+and, if I am not very much deceived, will 
+sufficiently, or in a great measure, help the 
+reader to understand. Meantime I beg to 
+call his attention to a remarkable and just 
+sentence of Hartley's, in his invaluable and 
+profound chapters on ** Words, and the Idea& 
+associated with them, and on Propositions 
+and the Nature of Assent.'' "Rational 
+assent to any proposition may be defined 
+a readiness to affirm it to be true, proceeding 
+from a close association of the ideas sug~ 
+
+
+
+36 FORCE OF HABIT 
+
+gested by the proposition, with the idea or 
+internal feeling belonging to the word truth, or 
+of the terms of the proposition with the word 
+truth ;" and then follow some observations 
+on geometrical and mathematical reasoning, 
+which are as clear, beautiful, and unanswer- 
+able, as any observations upon abstract truths 
+within the circle of human science and phi- 
+losophy. 
+
+But, fourthly, whencesoever we get the 
+notions or conceptions with which we are 
+concerned in mathematical reasoning, I 
+think it must be admitted, that habit, i. e. 
+the constant recurrence of the same simple 
+ideas of numiber and figure, and the constant 
+association of the same terms with the same 
+ideas, has much to do with that feeling of 
+certainty and satisfaction, that readiness and 
+confidence of assent, which we recognise in 
+connexion with the processes of arithmetic, 
+algebra, and geometr}^ 
+
+How much there is in habit may be easily 
+and irresistibly shown. Thus we say that 
+2 and 3 make 5, and the three angles of 
+a triangle are equal to two right angles; 
+
+
+
+IN MATHEMATICAL REASONING. 37 
+
+and we feel the truth as we pronounce 
+the words. But if we take higher numbers, 
+and more advanced propositions, — if we say 
+that nine thousand six hundred and seventy- 
+three (9673) times seventy-three thousand 
+six hundred and nine (73,609) make 
+712,019,857, or upwards of seven hundred 
+and twelve millions ; or if wfe take some of 
+the propositions relating to proportion in the 
+fifth book, or go on to the more abstruse calcu- 
+lations in algebra, trigonometry, and fluxions, 
+will our assent be so ready? Who will 
+assert it ? And why ? — ^because we are not in 
+the habit of attending to high numbers and 
+advanced propositions. Doubt, ignorance, 
+and difficulty attach themselves to our terms. 
+He who has just risen from calculations, or the 
+study of mathematics, will feel a confidence in 
+terms and propositions which others do not. 
+A ready accountant casts up with a glance or 
+two a long column of accounts ; he perceives 
+the relation of each item to the whole 
+amount in a space of time that appears incre- 
+dibly short to one wholly unaccustomed to 
+such work. Those who are in the habit of 
+
+
+
+38 FEWNESS OF TERMS AND PREMISES 
+
+estimating the number of persons in a 
+crowded room or assembly, can tell by 
+looking at the mass, with reference to the 
+space occupied, how many may be present 
+with much more correctness than another 
+who should try for the first time to count the 
+heads. So the bare statement of a pro- 
+position, and a glance at the diagram, will 
+enable the quick mathematician to under- 
+stand the whole demonstration, and to re- 
+peat the various steps of the process faith- 
+fully to another; while he who is slow at 
+combining the ideas of figure, notwithstand- 
+ing ever so careful reading of the proof, will 
+be still at a loss to perceive its coeency : and 
+wiU pass from the words to the figure, and 
+the figure 'to the words, without being a 
+whit the wiser, or having any distinct idea of 
+what he is about, or where he is, present to 
+the mind. The elaborate paper of Sir W. 
+Hamilton, of Dublin, to the Royal Society*, 
+appears a chaos of warring elements, a mere 
+jumble of letters and figures to the tyro 
+
+* " On a General Method in Dynamics." — ^Phil. Trans. 
+1834, Pt.ii.,p.247. 
+
+
+
+IN MATHEMATICAL REASONING. 39 
+
+in algebraic studies ; " monstrum horrendum 
+inform' ingens cui lumen ademtum ;" but to 
+that of the learned reader, and to his own 
+eye, it appears as the harmonious and beau- 
+tiful arrangement of simple elements, each 
+having its due pljice and force, combining to 
+one noble, important, and useful result. 
+
+Further, in geometrical and mathematical 
+reasoning the premises are few; the terms 
+employed are few ; and the mind is only en- 
+gaged in tracing the relations of a few dis- 
+tinct simple ideas, which are fixed by sen- 
+sible impressions. The whole vocabulary of 
+EucUd may be comprised in a couple of 
+pages. Each book turns upon a few defi- 
+nitions. The whole volume is filled with 
+repetitions of the same terms, with appeals 
+to the same brief premises ; attention is 
+more or less frequently recalled to each pro- 
+position as it passes in review, and which' 
+ranks, when proved, among the foregone 
+premises. The notations of algebra are 
+comparatively few ; the letters which stand 
+for unknown quantities derive their meaning 
+solely from connexion with, and relation to, 
+the known quantities, at least in their first 
+
+
+
+40 SAMENESS OF TERMS 
+
+use ; and at last from their relation to each 
+other, in consequence of an extended mean- 
+ing in the symbols, with which meaning, by 
+habitual contemplation, the mind becomes 
+familiar. Among the figures of arithmetic 
+there are but nine units ; after ten you begin 
+with new relations of the first nine ; hun- 
+dreds are combinations of tens, thousands of 
+hundreds, and so on. And with regard to 
+the higher numbers, we can always make 
+clear their value to the senses ; for though 
+we could form not the least notion how many 
+men there might be in a field of battle, or 
+how many grains of corn in a sack, by 
+looking at them in the mass, yet divide 
+them into companies of thousands, of hun- 
+dreds, and tens, and by this arrangement the 
+mind gains a clear and practical sense of the 
+number. It is doubtless by understanding the 
+number and character, and the due arrange- 
+ment of his forces, that a commander-in-chief 
+is enabled to dispose of them to the best ad- 
+vantage, and form the order of battle. 
+
+Our ideas of number and figure are what 
+Locke calls "distinct simple modes;" and 
+however varied in combination or relations, 
+
+
+
+AND SIMPLICITY OF IDEAS. 41 
+
+the same signs or terms are invariably con- 
+nected with the same conformations of figure, 
+and the same relations of number. Put 
+down a three-sided figure in lines, or any 
+four or more of the Arabic nimxerals in a 
+line, as 4565, and every human being using 
+the English language would express the 
+relation in the same terms, — ^would pro- 
+nounce the one a triangle, and read the other 
+four thousand five hundred and sixty-five. 
+
+" The idea of two is as distinct from that 
+of one,'* says Locke, B. II., chap, xiii., " as 
+blueness from heat, or either of them from 
+any number ; and yet it is made up only of 
+that simple idea of an unit repeated ; and 
+repetitions of this kind joined together, 
+make those distinct simple modes of a dozen, 
+a gross, a milUon." 
+
+Thus also he speaks concerning figure, 
+$ 6 : " The mind having a power to repeat 
+the idea of any length directly stretched out, 
+and join it to another in the same direction, 
+which is to double the length of that straight 
+line, or else join another with what inclina- 
+tion it thinks fit, and so make what sort of 
+
+
+
+42 FEWNESS OF TERMS 
+
+angle it pleases ; and being able also to 
+shorten any line it imagines by taking from 
+it one-half, or one-fourth, or what part it 
+pleases, without being able to come to an 
+end of any such division, it can make an 
+angle of any bigness ; so also the lines that 
+are its sides of any length it pleases, which 
+joining again to other lines of different 
+lengths, and at different angles, till it has 
+wholly enclosed any space ; it is evident that 
+it can multiply figures, both in their shape 
+and capacity, in infinitum ; all which are but 
+so many difierent simple modes of space." 
+
+There does not appear any advantage, but 
+the contrary, in the use of the term " modcy^ 
+and alternating it with " idea^^^ as Locke 
+does in this and in other parts of his Essay; 
+but whether ideas or modes, it is evident 
+they are simple, because they do not admit 
+of being resolved into other ideas or notions 
+still simpler, but result at once from uni- 
+formity in the structure and impressions of 
+the senses, which uniformity lays the foun- 
+dation for language and reasoning. 
+
+The simplicity and uniformity of the sen- 
+
+
+
+IN MATHEMATICAL REASONING. 43 
+
+sible impressions of space, or figure and 
+number, and the comparative fewness of the 
+terms or . symbols in use in mathematical 
+reasoning, constantly associated with the 
+same impressions, — terms or symbols which 
+are in fact human contrivances for conveying 
+those impressions from one mind to another, 
+— these things are to be borne in mind, and 
+duly weighed, in estimating the nature of 
+demonstrative evidence. Nor let any man 
+despise mathematical studies,* or think them 
+a mere ringing of changes upon the same set 
+of bells, because the terms employed are 
+few, and the original simple ideas few ; 
+otherwise, let him despise the English lan- 
+guage, or language in general, because there 
+are only twenty-six letters in the alphabet. 
+For what endless varieties of thought, — ^what 
+worlds of wisdom,- — ^what vast structures of 
+science, are these twenty-six letters, all-sufli- 
+cient ! And what would human Ufe be with- 
+out them ? 
+
+But we have not yet analysed the nature 
+of mathematical reasoning. We have said 
+that mathematical reasoning sets out from 
+
+
+
+44 FINAL CHARACTERISTIC 
+
+definitions ; that these definitions settle the 
+meaning of terms ; that these terms are the 
+signs of our ideas of figure and quantity, of 
+numbers and magnitudes; that these ideas 
+are among the simplest, clearest, with which 
+our minds and senses are conversant ; that 
+the terms in use, and the simple ideas 
+to which they are uniformly appropriated, 
+are comparatively few; that the constancy 
+of connexion between the terms and ideas, 
+that is, habit, has much to do with that 
+feeling of assent and conviction to which the 
+reasoning gives rise, by which the processes 
+are accompanied, as any one must perceive 
+who begins to instruct children in arithmetic 
+or in geometry. 
+
+But further, fifthly, and lastly, the demon- 
+strative quality of mathematical reasoning 
+consists essentially in this, — the perception 
+of the agreement or disagreement of certain 
+ideas and certain terms with other inter- 
+mediate ideas and terms, which are used as 
+a measure or test of truth, such ideas and 
+terms having been previously selected by the 
+mind for a measure or test ; in other words, 
+
+
+
+OF DEMONSTRATION. 45 
+
+a means or standard of comparison. To 
+demonstrate is to show that a certain propo- 
+sition not granted to be true is true by virtue 
+of some premise previously admitted or as- 
+sumed as a criterion of truth, or by virtue of 
+some other truth previously demonstrated,^ In 
+other words, to demonstrate is to discover 
+and trace further and new relations amongst 
+our ideas by comparing them one with an- 
+other ; which new relations will be of deter- 
+minate and constant character, in proportion 
+as the intermediate ideas which are used as a 
+means of comparison, as a measure, are 
+themselves of distinct and constant character 
+and value. Or again, it is to show that 
+ideas not clearly perceived to harmonize or 
+agree, do harmonize, by comparison, with 
+other ideas whose agreement is clearly per- 
+ceived. Thus in the first proposition of 
+EucUd, the sides of a given triangle are 
+proved to be equal when they are all shown 
+to belong to the class of lines which radiate 
+
+* The reader may consult the papers on mathematics, 
+by Mr. De Morgan, who gives this just account of de- 
+monstration. 
+
+
+
+46 - FINAL CHARACTERISTIC 
+
+from the centre to the circumference of the 
+same circle, or of equal circles ; of which 
+class of lines equality is previously premised 
+in the fifteenth definition. 
+
+This essential quality of demonstrative 
+reasoning is thus distinctly laid down by the 
+great master Locke, book iv., c. ii. : — 
+
+" The next degree of knowledge is where 
+the mind perceives the agreement or dis- 
+agreement of any ideas, but not immediately. 
+Though wherever the mind perceives the 
+agreement or disagreement of any of its ideas 
+there be certain knowledge, yet it does not 
+always happen that the mind sees that 
+agreement or disagreement which there is 
+between them, even where it is discoverable ; 
+and in that case remains in ignorance, at 
+most gets no farther than a probable con- 
+jecture. The reason why the mind cannot 
+always perceive presently the agreement or 
+disagreement between two ideas, is because 
+those ideas, concerning whose agreement or 
+disagreement the inquiry is made, cannot by 
+the mind be so put together as to shew it. 
+In this case, then, when the mind cannot so 
+
+
+
+OF DEMONSTRATION. 47 
+
+bring its ideas together, as by their imme- 
+diate comparison, and, as it were, juxta- 
+position and application one to another, to 
+perceive their agreement or disagreement, it 
+is fain, by the intervention of other ideas, 
+(one or more as it happens,) to discover the 
+agreement or disagreement which it searches ; 
+and this is what we call reasoning.'* 
+
+Again, § 3 : — 
+
+" Tliose intervening ideas which serve to 
+show the agreement of any two others are 
+called proofs ; and where the agreement and 
+disagreement is by this means plainly and 
+clearly perceived, it is called demonstration." 
+
+Again, ^ 7 : — 
+
+** In every step reason makes in demon- 
+strative knowledge, there is an intuitive 
+knowledge of that agreement or disagreement 
+it seeks with the next intermediate idea, 
+which it uses as a proof ; for if it were not so, 
+that yet would need a proof; since without 
+the perception of such agreement or dis- 
+agreement there is no knowledge. If it be 
+perceived by itself, it is intuitive knowledge ; 
+if it cannot be perceived by itself, there is 
+
+
+
+48 FINAL CHARACTERISTIC 
+
+need of some intervening idea, as a common 
+measure to show their agreement or disagree- 
+ment. * =* =* * So that to make a thing a 
+demonstration, it is necessary to perceive 
+the immediate agreement of the intervening 
+ideas, whereby the agreement or disagree- 
+ment of the two ideas under examination 
+(whereof the one is always the first and the 
+other the last in the account) is found." 
+
+It is not without reason that Locke dwells 
+upon this ; and he repeats himself in ch. xv. 
+of the fourth book on Probability, which 
+the reader may consult. 
+
+In this analvsis of demonstrative or mathe- 
+matical reasoning, it is finally to be observed 
+that the definitions are used as the primary 
+common measures or tests ; they are the 
+original ideas or settled notions by means of 
+which the relations of other ideas one with 
+another are traced, and the agreement or 
+disagreement ascertained and settled, and 
+by which the new relations, so ascertained, 
+become themselves of determinate and con- 
+stant character. Each book begins with its 
+necessary definitions ; and each proposition, 
+
+
+
+OF DEMONSTRATIVE REASONING. 49 
+
+when settled, becomes itself a premise or test, 
+by help of which further relations are traced, 
+and new agreements or disagreements as- 
+certained and fixed. The mind is con- 
+tinually reverting to its original simple no- 
+tions, builds carefully upon them, and not only 
+has a power to retrace, but is very frequently 
+employed in carefully retracing every step 
+of its progress. Thus we return to the point 
+from which we set out, that definition is the 
+basis of mathematical reasoning, and gives 
+it its pecuUarly fixed, clear, and cer- 
+tain character. 
+
+The reader who may doubt whether 
+this be a correct or perfect analysis of 
+mathematical or demonstrative reasoning, 
+is requested, by a careful examination of 
+mathematical works, to supply the deficiency. 
+Let him apply it to the most simple or the 
+most abstruse propositions and demonstra- 
+tions, and say what essential quality of such 
+reasoning has been omitted. 
+
+
+
+D 
+
+
+
+50 STEWART CONTRASTED 
+
+
+
+SECTION 11. 
+
+Having now analysed with all the com- 
+pleteness in our power, the nature of de- 
+monstrative reasoning, we are prepared for 
+the inquiry, whether it differs from other 
+reasoning, or reasoning in general, in any 
+respects or particulars whatsoever. And, 
+if it do not so differ, we are then prepared 
+for the important inquiry, how the cogency 
+and certainty of mathematical science can be 
+appUed to and obtained in moral, poUtical, 
+metaphysical, and religious subjects. 
+
+Now the tendency and almost the object 
+of Mr. Dugald Stewart's chapters on mathe- 
+matical demonstration, and on the Aristo- 
+telian logic, is to draw a broad Une of dis- 
+tinction between mathematical reasoning, 
+mathematical evidence, and other kinds of 
+reasoning, other kinds of evidence. '' Ma- 
+thematical definitions," he says, (vol. ii., 
+p. 156, 4to,) " are of a nature essentially dif- 
+ferent from the definitions employed in any 
+
+
+
+WITH WHATELY. 51 
+
+of the other sciences." Again, p. 1 57, he 
+speaks of " the essential distinction which 
+every person must perceive between the irre- 
+sistible cogency of a mathematical demon- 
+stration and that of any other process of 
+reasoning." He repeats this idea in various 
+places. I need only refer to p. 203, 
+where he says, *' If the account which has 
+been given of the nature of demonstrative 
+evidence be admitted, the province over 
+which it extends must be limited almost en- 
+tirely to the objects of pure mathematics." 
+
+But what says Dr. Whately in his Ele- 
+ments of Logic ? 
+
+" One of the chief impediments to the attain- 
+ment of a just view of the nature and objects of 
+logic, is the not fully understanding, or not suffi- 
+ciently keeping in mind, the sameness of the 
+reasoning process in all cases. If, as the ordinary 
+mode of speaking would seem to indicate, mathe- 
+matical reasoning, and theological, and meta- 
+physical, and pohtical, &c., were essentially differ- 
+ent from each other, L e. different kinds of reason- 
+ing, it would follow that, supposing there could 
+be at all any such science as we have described 
+logic, there must be so many different species, 
+or at least different branches of logic. And such 
+
+d2 
+
+
+
+52 EDINBURGH REVIEWER 
+
+is perhaps the most prevaihng notion/^ — ^Srd. ed. 
+p. 23, 
+
+Again, p. 25, he says, — 
+
+^^ Supposing it to have been perceived that the 
+operation of reasoning is in all cases the same^ the 
+analysis of that operation could not fail to strike 
+the mind as an interesting matter of inquiry/^ 
+
+And thus, p. 50 : — 
+
+^^ Whatever the subject matter of an argument 
+may be, the reasoning itself, considered by itself, 
+is in every case the same process; and if the 
+writers against logic had kept this in mind, they 
+would have been cautious of expressing their con- 
+tempt of what they call svllogistic reasoning, 
+which is in truth aU reasoning> 
+
+
+
+Let us contrast with this, — for there is 
+nothing more instructive than bringing into 
+juxtaposition the different aspects in which 
+these recondite matters are presented to our 
+attention, — ^let us contrast with this the 
+barely intelligible lq.nguage of the Edinburgh 
+reviewer, p. 413. 
+
+^^ Now as all matter is either necessary or con- 
+tingent, (a distinction which may be here roughly 
+assumed to coincide with mathematical or non- 
+
+
+
+CONTRASTED WITH WHATELY. 53 
+
+mathematical,) we have thus, besides a theoretic or 
+general logic, two practical or special logics in 
+their highest universality or contrast. 
+
+"theoretical logic. 
+
+Practical logic, as spe- Practical logic, as spe- 
+cially apphed to neces- cially appUed to con- 
+sary matters = mathe- tingent matter = philo- 
+matical reasoning. sophy and general rea- 
+
+soning.^^ 
+
+He says, p. 422, — 
+
+" How opposite are the habitudes of mind which 
+the study of the mathematical and the study of 
+the philosophical sciences require and cultivate, 
+has attracted the attention of observers from the 
+most ancient times. The principle of this con- 
+trast lies in their different objects, in their differ- 
+ent ends, and in the different modes of considering 
+their objects.^' 
+
+He speaks also of mathematics as ^* de- 
+termining dissimilar developments of thought 
+from other sciences," as " not developing the 
+higher faculties," as " dependant on the 
+lower imagination." 
+
+Again, p. 422 : — 
+
+"Mathematics, departing from certain original 
+hypotheses, and these hypotheses exclusively de- 
+termining every movement of their procedure, and 
+
+
+
+54 GENERAL INFLUENCE 
+
+the images or vicarious symbols, about which 
+they are conversant, being clear and simple, the 
+deductions of these sciences are apodictic or 
+demonstrative; that is, the possibiUty of the con- 
+trary is at every step seen to be excluded in the 
+very comprehension of the terms. On the other 
+hand, in philosophy, (with the exception of the 
+science of logic,) and in our reasonings in general, 
+such demonstrative certainty is rarely to be at- 
+tained ; probable certainty ^ L e. where we are never 
+conscious of the imposisibiUty of the contrary, is all 
+that can be compassed ; and this also not being 
+internally evolved from any fundamental data, 
+must be sought for, collected, and applied from 
+without/* 
+
+" From this general contrast it will be seen how 
+an excessive study of the mathematical sciences, 
+not only does not prepare, but absolutely incapaci- 
+tates the mind for those intellectual energies which 
+philosophy and life require. We are thus dis- 
+qualified for observation either internal or external, 
+for abstraction and generalization, and for common 
+reasoning.** 
+
+Now common reasoning we conceive to be 
+very bad reasoning ; such reasoning as fails 
+to satisfy the man who is seeking for clear 
+and exact views, who fears to be misled by 
+words, and who remembers that fine phrase- 
+ology teaches nothing. It may be observed 
+
+
+
+OF MATHEMATICAL STUDIES. 55 
+
+here, that whatever force or justness there is 
+in the reviewer's general course of observation, 
+it all lies in the word *' excessive" — ** an ex- 
+cessive study of the mathematical sciences." 
+And it is perfectly obvious that he who is con- 
+versant only with mathematical notions and 
+mathematical processes, may be ignorant of 
+many other objects of human attention,, 
+which come nearer home to the business and 
+bosoms, the pleasures and pains, of mankind 
+at large. He who is always dwelling in 
+circles and squares, ellipses and parabolas, 
+differentials and integrals, may have a pro- 
+portionally confined range of thought. He 
+will not understand the feelings and thoughts 
+of other men ; and he may fancy, from the 
+habitual association of his ideas, or from his 
+determining everything in the same way, that 
+he can ascertain the precise quantity of en- 
+joyment which a company of aldermen de- 
+rive from eating and drinking, by means of 
+the differential or integral calculus, and de- 
+termine the relative merits of Homer and 
+Virgil by the rule and compasses. But what 
+then? Shall mathematical studies not be 
+
+
+
+56 GENERAL INFLUENCE 
+
+valued as an essential part of the training of the 
+youthful mind ? Is Mr. Whewell's sentiment 
+invalidated, that they are the best practical ex- 
+emplification and exercise of logic ? If there 
+be one mode of studying mathematics better 
+than another, shall not a mathematical pro- 
+fessor discuss this question, and endeavour 
+to settle which is best ? How many sciences 
+are there which require for their pursuit, 
+comprehension, and enjoyment, a thorough 
+knowledge of the higher branches of mathe- 
+matics, such as astronomy, optics,, dynamics, 
+and all those which go under the name of the 
+mixed sciences. Who would undervalue 
+the highest mathematical attainment when 
+applied to these branches of science; and 
+not rather regret, when he sees the mathe- 
+matician soaring in the clouds and lost in 
+the dim distance of algebraic formulae, his 
+inability to follow ? ** Non omnes possumus 
+omnia." But we can all enjoy and apply 
+those practical and simple conclusions, for 
+the estabUshment of which the most pro- 
+found mathematical investigations are oft- 
+times necessary. 
+
+
+
+Of MATHEMATICAL STUDIES. 57 
+
+If the question be, What degree of time 
+and attention should be given up to mathe- 
+matical studies in a thoroughly comprehen- 
+sive course of academic education ? or, How 
+far exclusive encouragement should be given 
+to high mathematical attainment in an uni- 
+versity? (which the reviewer has in part 
+raised and discussed,) this may be settled 
+without depreciating the importance and 
+value of mathematics for the discipline of 
+the youthful mind. You have then to take 
+into account the great and general purposes 
+of education, . the whole constitution of the 
+human mind, the condition and wants of 
+society at large, the fitness of an individual 
+for the particular station which he is de- 
+signed to occupy, and the kind of knowledge 
+which his meditated profession may re- 
+quire. 
+
+It is curious to contrast the reviewer's 
+statement of the injurious influence of 
+mathematical science in disqualifying for ob- 
+servation, either internal or external, for 
+abstraction and generalization, with the in- 
+tellectual character of Sir Isaac Newton 
+
+d5 
+
+
+
+58 herschel's character 
+
+drawn by Sir John Herschel in his Treatise 
+on the Study of Natural Philosophy, p. 271. 
+
+" His wonderful combination of mathematical 
+skill with physical research enabled him to invent, 
+at pleasure, new and unheard-of methods of in- 
+vestigating the effects of those causes which his 
+clear and penetrating mind detected in operation. 
+Whatever department of science he touched, he 
+may be said to have formed afresh. Ascending by 
+a series of close-compacted inductive arguments 
+to the highest axioms of dynamical science, he 
+succeeded in applying them to the complete ex- 
+planation of all the great astronomical phenomena, 
+and many of the minuter and more enigmatical 
+ones. In doing this, he had every thing to create ; 
+the mathematics of his age proved totally inade- 
+quate to grapple with the numerous difficulties 
+which were to be overcome. * * * Of the optical 
+discoveries of Newton we have already spoken; 
+and if the magnitude of the objects of his astrono- 
+mical discoveries excite our admiration of the 
+mental powers which could so famiUarly grasp 
+them, the minuteness of the researches into which 
+he there set the first example of entering, is no less 
+calculated to produce a corresponding impression* 
+Whichever way we turn our view, we find our- 
+selves compelled to bow before his genius, and to 
+assign to the name of Newton a place in our 
+veneration which belongs to no other in the an- 
+nals of science. His era marks the accomphshed 
+
+
+
+OF SIR ISAAC NEWTON. 59 
+
+maturity of the human reason as applied to such 
+objects. Every thing which went before might 
+be more properly compared to the first imperfect 
+attempts of childhood, or the essays of inexpert 
+though promising adolescence. Whatever has 
+been since performed, however great in itself, and 
+worthy of so splendid and auspicious a beginning, 
+has never, in point of intellectual effort, surpassed 
+that astonishing one which produced the Prin- 
+cipia.^^ ^ - 
+
+I refer to this treatise with a strong feeling 
+of interest, because it is evident from the 
+observations on nomenclature, and on science 
+generally, that Herschel's clear English 
+mind duly estimates the importance of 
+settled terms with settled meanings; and 
+while he dwells on the necessity of having 
+exact and uniform standards of measure- 
+ment and value, his reader is set upon the 
+inquiry into the nature and purposes of 
+measures or tests. He who can perceive the 
+importance of a proper use of words in 
+physical science, must feel that importance 
+also in metaphysical. Without it, in fact, 
+we can have nothing worthy of the name of 
+science. Sir John Herschel would probably 
+
+
+
+60 LOGIC DEFINED. 
+
+smile at the idea of mathematical science 
+disqualifying for generalization and abstrac- 
+tion or any useful exercise of mind. 
+
+I have indulged in these references to 
+Dugald ^Stewart, Dr. Whately, the Edin- 
+burgh reviewer, and Sir John Herschel, 
+with a view to place before the reader in an 
+easy manner the different lights in which the 
+same objects, or objects closely allied in 
+nature and character, are presented to our 
+attention, and the necessity of close and 
+cautious investigation. 
+
+Now bearing in mind the foregone analysis 
+of geometrical or demonstrative reasoning, 
+in order to perceive its connexion with logic, 
+it is necessary to understand what logic is. 
+Is Dr. Whately right or wrong when he says 
+the reasoning process is the same in all cases ? 
+If he is right, of course it follows that 
+mathematical or geometrical reasoning is 
+but one illustration or practical application 
+of logic. 
+
+I am unable to attach any other consistent 
+meaning to the term logic, than that it is an- 
+other word — the Greek word — for reasoning. 
+
+
+
+LOGIC DEFINED. 61 
+
+As a science it investigates the principles of 
+reasoning, or analyses and determines the 
+process of the mind in reasoning ; as an art 
+it is the practical appUcation or exemphfica* 
+tion of the rules so deduced. On this 
+point nothing can be clearer and more satis- 
+factory than Dr. Whately's observations in 
+his preface and throughout his treatise. 
+
+Yet notwithstanding this clearness, and 
+notwithstanding Dr. Whately's correction of 
+the error of Watts in considering logic as 'Hhe 
+right use of reason," *'a method of invigo- 
+rating and properly directing all the powers 
+of the mind," a writer on logic in the edition 
+of the Encyclopsedia Britannica now in the 
+course of pubUcation, says, ^' Logic may be 
+defined as the science of the laws of thought 
+considered as thought. This is the central 
+notion towards which the various views of 
+the science, from Aristotle downwards, gravi- 
+tate ; it is the one definition in which others, 
+apparently the most opposite, find their com- 
+plement and reconcihation." Then, by way 
+of elucidating this definition, the writer 
+(whom from his use of the term laws, and the 
+
+
+
+62 LOGIC AS TREATED 
+
+epithets, contingent, necessary, universal, di- 
+rigible, and so on, I could suspect to be the 
+Edinburgh reviewer already alluded to) pro- 
+ceeds to tell us, first, that logic is conversant 
+about thought ; in the second place, about 
+thought considered as thought ; and in the 
+third place, it is the science of the laws of 
+thought, because it is conversant about the 
+universal and necessary in thought. 
+
+These are the remarks of a writer who 
+comments on the erroneous definition of 
+logic, in an article which the editor of the 
+Encyclopaedia has reprinted ; an article 
+which tells us that " Logic is the art of 
+properly conducting reason in the knowledge 
+of things, whether for instructing ourselves 
+or others ; or it may be defined the science 
+of human thought, inasmuch as it traces the 
+progress of knowledge ; and that its business 
+is to evolve the laws of human thought, and 
+the proper manner of conducting the reason, 
+in order to the attainment of truth and 
+knowledge." And while the writer comments 
+on this article, he further teUs us that from 
+Aristotle downwards the purity of the science 
+
+
+
+BY THE ENCYCLOP-aEDIA BRITANNICA. 63 
+
+has been contaminated by foreign infusions. 
+He speaks of Dr. Whately's Elements 
+as vague and vacillating in its views, its 
+doctrines neither being developed from the 
+primary laws of thought, nor combined to- 
+gether as the essential parts of one necessary 
+whole. In short, being desirous to make 
+something more of a subject than has ever 
+yet been made of it, and to see further 
+into things than any one else has seen, he 
+plunges into darkness and a wood of words, 
+
+• • . " hunc tegit omnis 
+
+Lucus, et obscuris claudunt convallibus umbrae/' 
+
+or, hke many of his brethren, he is so 
+blinded by the mists of his own land that he 
+cannot enjoy the cheerful sun and daylight 
+loved by the children of the south; and 
+when he is pleased to consider thought as 
+thought, he forgets that no one in his senses 
+was likely to mistake it for " cakes and ale." 
+Indeed, but for the eminence to which the 
+Encyclopaedia Britannica aspires, and is in 
+part deservedly raised as an authority in the 
+sciences, he might be benevolently left to the 
+condition and neglect in which the New 
+
+
+
+64 LOGIC AS TREATED 
+
+Poor-Law leaves those who will not help 
+themselves when they can. 
+
+Seriously, however, when we talk of the 
+science of the laws of thought, do we know 
+what we are talking about ? With confidence, 
+I answer No. The whole subject of meta- 
+physics, the whole state of our knowledge 
+and language on the nature, qualities, powers, 
+and affections of the human understanding, 
+as may be inferred from the article meta- 
+physics in this very Encyclopaedia, is such, 
+that to talk of the laws of thought, to speak 
+of primary laws, which implies secondary, 
+and universal and necessary, which implies 
+particular and contingent, is to talk of no- 
+body knows what. What has logic to do 
+with the laws by which thoughts come and 
+go in the mind of a child or of a maniac ? for 
+I suppose a maniac has thoughts, and, if so, 
+is subject to laws of thought. True enough, 
+all logic supposes a thinking mind ; but so 
+does every other science ; so do carpentry and 
+masonry; and wherever we have thinking 
+minds, there we have minds subject no 
+doubt to what we are pleased to call laws. 
+
+
+
+BY THE ENCYCLOPiEDIA BRITANNICA. 65 
+
+But to set the mind hunting after the gene- 
+ral laws of thought, under pretence of study- 
+ing logic, is to entrap the student into un- 
+looked-for difficulties, to leave Aristotle 
+utterly in the lurch, to give us our labour 
+for our pains, and to bring us, after a 
+fatiguing hunt, like Spenser's good knight, 
+only to the cave of despair. If logic be the 
+science of the laws of thought, what is the 
+province of mental philosophy? I do not 
+question that the one touches closely the 
+province of the other, but science used for- 
+merly to consist in nicely distinguishing 
+rather than confounding the things that dif- 
+fer, howsoever minute that difference. At the 
+risk of appearing merely to reprint what my 
+reader may find elsewhere, but what cannot 
+be too strongly impressed upon the mind, 
+I must use the words of Dr. Whately, and 
+say that '* the attempt to comprehend so 
+wide a field is no extension of science, but a 
+mere verbal generalization, which leads only 
+to vague and barren declamation. In every 
+pursuit, the more precise and definite our 
+
+
+
+66 NATURE OF REASONING 
+
+object, the more likely we are to attain some 
+valuable result." 
+
+Without further discussion, I must assume 
+that logic is but another word for reasoning ; 
+and the object of it as a science is to ascer- 
+tain the process of the mind, to which we 
+specially give that name. Now we have 
+analysed the nature of mathematical reason- 
+ing, or, in other words, we have examined 
+the process of the mind in that reasoning. 
+Can we, then, abstract what is pecuUar to 
+the mathematics, and talk of reasoning in 
+general without regard to any particulars ? 
+May we not ask what is meant by reasoning 
+as a term standing alone ? Is there one 
+determinate process of mind to which the 
+term reasoning is peculiarly and alone appro- 
+priate ? 
+
+Nature and the senses give me the idea of 
+a man and of a horse. I suppose the body 
+and legs of a horse joined to the breast and 
+head of a man, and call that supposition or 
+conception by the name of a centaur. Doing 
+this, would you say I reason ? No, I only 
+
+
+
+EXAMINED. 67 
+
+imagine, and give a name to the object of 
+my imagination, which are indeed important 
+elements of the reasoning powers. But when 
+I say all animals have feeling, no vegetable 
+has feeling, therefore no vegetable is an 
+animal; you would say I reason, although 
+from the very obviousness of the words, and 
+from their arrangement, and the smallness 
+of the effort of which we are conscious in 
+following that arrangement, the portion of 
+reason concerned, if we could divide reason 
+into measureable portions, is almost too in- 
+significant to be worthy of the name. But 
+if this be reasoning, what have we ? 
+
+First of all, words, or audible sounds asso- 
+ciated with many sensible impressions or 
+objects — animals . 
+
+Secondly, These objects classified, and 
+viewed in a common relation or under the 
+affirmation — having feeUngs. 
+
+And thirdly. Other objects, viewed under 
+a different relation, having no feeUng, there- 
+fore excluded from this class, no vegetables 
+animals, or vegetables no animals. 
+
+In this who can detect any thing but the 
+
+
+
+68 whately's logic 
+
+results or lessons of human experience or 
+registered observation, classified, and clothed 
+in appropriate language, — that which is 
+affirmed of one being denied of the other 
+class, — language being to us the means 
+and very element of thought, at least of 
+thought conveyed from one mind to an- 
+other ? and hence the beauty of the Greek 
+word Koyo$, which is at once verbum and 
+ratio — the audible sound and mental ap- 
+prehension. 
+
+I prefer, however, taking a work of au- 
+thority Uke Dr. Whately's as a guide for the 
+course of thought which it appears most 
+useful and important to pursue. In ana- 
+lysing the operation of the mind in reason- 
+ing. Dr. Whately says, '* It will be found 
+that every conclusion is deduced in reahty 
+from two other propositions, thence called 
+premises." He contends there must be two 
+propositions, and says, (section third,) of a 
+valid argument, "It is impossible for any 
+one who admits both premises to avoid ad- 
+mitting the conclusion." Then, after giving 
+an example of the true syllogism, he says 
+
+
+
+CONSIDERED. 69 
+
+there is this maxim resulting from it, '^ that 
+whatever is predicated universally of any 
+class of things, may be predicated in like 
+manner of any thing comprehended in that 
+class," — the celebrated principle called the 
+dictum de omni et nullo of Aristotle. After 
+some observations on the substitution of 
+letters and symbols for the terms of the 
+syllogism, on apparent arguments, on the 
+importance of finding a proper middle 
+term, on generalization and abstraction, 
+he winds up the analysis with the remark, 
+" that it consists in referring the term we 
+are speaking of to some class, viz, a mid- 
+dle term, which term again is referred 
+to or excluded from (as the case may be) 
+another class, viz, the term which we wish 
+to affirm or deny of the subject of the 
+conclusion." 
+
+With a very strong sense of the value 
+of Dr. Whately's Elements, — of the cor- 
+rectness, and usefulness of the principles and 
+views therein detailed, — it may be permit- 
+ted me to observe, that even that work is, 
+in some degree, deficient in the rigid 
+
+
+
+70 whately's logic 
+
+propriety of language which the subject 
+demanded, and which might easily have been 
+given to it. The analytical outline of logic 
+can scarcely be regarded as a successful and 
+complete elucidation of the science. Dr. 
+Whately himself calls it an imperfect and 
+irregular sketch. 
+
+For as the analytical outUne, and the syn- 
+thetical compendium, appear in juxtaposi- 
+tion, the reader naturally expects that they 
+should answer exactly the one to the other, 
+the analysis being the resolution of the whole 
+into the parts, or, if the reader like it 
+better, the tracing of given effects to the 
+causes from which they spring ;— the syn- 
+thesis, — the enumeration of the several 
+parts which combine to make the whole, or 
+the advance from the cause to the varied 
+effects or consequences. But this corre- 
+spondence is by no means so clear as it 
+might have been, — as it ought to be. For in- 
+stance : having in the analysis stated that 
+the operation of reasoning is in all the cases 
+the same, (p. 25, fifth edition,) and that in 
+every instance in which we reason a certain 
+
+
+
+CONSIDERED. 71 
+
+process takes place in the mind, which is 
+one and the same in all cases, Dr. Whately 
+opens the compendium by saying, " There 
+are three operations or states of the mind 
+which are immediately concerned in argu- 
+ment." Again, after having in the analysis 
+described the process in reasoning as the 
+deduction of a conclusion from two other 
+propositions, thence called premises, in the 
+compendium he says, '^ Resisoning is the 
+act of proceeding from one judgement to an- 
+other, founded upon that one, or the result 
+of it." These discrepancies may be more 
+apparent than real ;. they may be of slight 
+consequence : but the careful reader is, to a 
+certain degree, distracted. And as the great 
+object of the study of logic is to clear and 
+to brace the mind, — as it is but the athletics 
+and gymnastics of the reasoning faculties, — 
+as clearness and strength are entirely depend- 
+ant on perfect precision in the use of terms, 
+— so the teacher of logic should avoid a ver- 
+bal discrepancy as fatal to his science, as the 
+man under training should avoid diluents 
+and laxatives of every kind. 
+
+
+
+72 ANALYSIS AND SYNTHESIS. 
+
+I am aware that some may think I have 
+drawn too strictly the paralleUsm between 
+the analytical and synthetical modes ; but, 
+after a careful perusal of Mr. Dugald 
+Stewart's remarks upon the use of these 
+terms in ancient and modern philosophy, 
+showing that authority may be pleaded for 
+using them in an exactly opposite and mu- 
+tually convertible sense, and that he himself 
+is at a loss to give them precise meaning, — 
+sometimes confuting in the notes what he lays 
+down in the text ; — after reading also what 
+Maclaurin says about these modes, in his ac- 
+count of Sir I. Newton's discoveries, — I cannot 
+help considering them in a very simple and 
+obvious light, as different or opposite modes 
+of going over the same or a precisely similar 
+path ; according to the simile of Condillac, 
+one being up and the other down the hill : 
+only instead of saying, with Condillac, that 
+as the two methods are contrary to one an- 
+other, if the one be good the other must be 
+bad, I rather say both may be good, accord- 
+ing to the position and view which we as- 
+sume, and the walk which, for the time, we 
+
+
+
+ANALYSIS OF ARGUMENTS. 73 
+
+please to take. Dr. Whately, at any rate, 
+cannot object to a rigid parallelism, since, in 
+his Introduction, he uses the words as they 
+are used in chemistry ; and by synthesis he 
+appears to understand the enumeration of ele- 
+mentary substances, thence proceeding on- 
+wards to simple combinations or more com- 
+plex substances ; by analysis only resolving 
+these last, namely, the complex substances, 
+step by step, into their simple elements. 
+He should therefore obviously have begun 
+his synthetical compendium with a clear and 
+explicit enumeration of those very elements 
+into which, in his analysis, he had resolved 
+the science or art under review. 
+
+But the first and second sections of the 
+third chapter and second book, on Argu- 
+ments, contain a sufficient analysis of argu- 
+ments, which are ^'Reasonings expressed in 
+words ;" and with such reasonings chiefly, if 
+not entirely, is logic concerned. '' An 
+argument," says Dr. Whately, '^is an ex- 
+pression in which, from something laid 
+down and granted as true, (i. e. the premises,) 
+
+£ 
+
+
+
+74 SYLLOGISM. 
+
+something else (i. e. the conclusion) beyond 
+this must be admitted to be true as following 
+necessarily from the other." Again, a syl- 
+logism, — (and let us remember that every just 
+argument may be reduced into the form of a 
+perfect or pure categorical syllogism, which 
+is sufficiently obvious to the student of logic,) 
+— " a syllogism is an argument so expressed 
+that the conclusiveness of it is manifest 
+from the mere force of the expression." 
+
+I conceive this to be a just and sufficient 
+account of syllogistic reasoning, taken in 
+connexion with what was before said respect- 
+ing terms. By logic, the force of all reasoning, 
+or the correctness of syllogism, is shown to 
+depend entirely upon the degree of exactness 
+and comprehensiveness of meaning in the 
+terms employed, or, what is virtually the 
+same thing, of distinctness in the things 
+signified ; and the chief purpose or use of 
+the study is to call the attention of the mind 
+to those forms of expression, and to fix those 
+forms upon the memory, which are always 
+essential to strict, legitimate, and convincing 
+
+
+
+SYLLOGISM. 75 
+
+inference. Now the value or correctness of 
+a syllogism depends mainly upon one prin- 
+cipal term, called the middle term. 
+
+" Every syllogism," says Dr. Whately, 
+** has three, and only three, terms ; viz. the 
+middle term, and the two terms (or ex- 
+tremes, as they are commonly called.) of 
+the conclusion or question. The middle 
+term (called, by the older logicians, argu- 
+mentum,) is that with which each of them is 
+separately compared, in order to judge of 
+their agreement or disagreement." Again 
+he says, " Every argument consists of two 
+parts : that which is proved, and that by 
+means of which it is proved." And again, 
+'' The axioms or canons by which the vaH- 
+dity of pure syllogisms is to be explained 
+are these ; viz, first, if two terms agree with 
+one and the same third, they agree with 
+each other; secondly, if one term agrees 
+and another disagrees with one 'and the same 
+third, these two disagree with each other." 
+
+It is obvious that here we have but dif- 
+ferent views or statements of substantially 
+the same thing, namely, the use of one 
+
+E 2 
+
+
+
+76 SYLLOGISM. 
+
+term, called a middle or third, as a means of 
+comparison between two other terms; in 
+other words, a reference of two terms to one 
+and the same object of comparison, used as 
+a measure or test of their agreement or dis- 
+agreement, — ^in short, the celebrated dictum 
+of Aristotle, that whatever may be predi- 
+cated universally of a class of objects may be 
+predicated of every individual comprehended 
+in it ; which is analogous to the axiom, or 
+common notion of equaUty, that things 
+which are equal to the same are equal to one 
+another, or that the whole is made up of all 
+the parts. 
+
+A syllogism, to meike a homely simile, is 
+a kind of two-pronged fork; the middle 
+term is the handle which unites the prongs, 
+and enables us to seize conveniently the ob- 
+ject of our thought, and feed our mental 
+appetite with food convenient for it. 
+
+E.g. All horned animals are ruminant; 
+the ox is a homed animal ; therefore the ox 
+is ruminant. Supposing the habits of the ox, 
+in particular, unknown or doubtful, but the 
+circumstance of its possessing horns evident. 
+
+
+
+SYLLOGISM. 77 
+
+you infer that that may be predicated of the 
+ox which you have previously predicated of 
+the class to which it evidently belongs ; and 
+although the syllogism is evidently of httle 
+use in cases of experimental knowledge, 
+where the vaUdity both of the premises and 
+the conclusion depends upon one and the 
+same process of observation, yet is it evi- 
+dent that the first premise of the above ex- 
+ample can only be true by involving the 
+truth of the conclusion. 
+
+Homed animals 
+
+.1 ' ^1 
+
+ruminate the ox 
+
+Whatever exhibits marks of design must 
+have an inteUigent creator ; the universe ex- 
+hibits marks of design ; therefore the uni- 
+verse must have an inteUigent creator. 
+
+Design 
+
+^ ^ ' ^ 
+
+Creator the universe 
+
+All reasoning is included in the term Logic ; 
+mathematics is reasoning upon figure and 
+quantity ; therefore mathematics is a branch 
+of logic. 
+
+
+
+/O SYLLOGISM. 
+
+r n 
+
+reasoning mathematics 
+
+The whole mystery of syllo^sm consists, 
+therefore, simply in referring the two things 
+whose relation you wish to ascertain, to some 
+common class signified by what is called the 
+middle term ; or, regarding the conclusion 
+as a truth you wish to demonstrate, the 
+demonstration consists in referring it to 
+some test, i. e. to some more general pro- 
+position, whose truth, whose use as a test, 
+is previously admitted, agreed upon, or 
+assumed.* 
+
+* My attention was arrested by the vignette attached 
+to the originiJ edition of Hobbes' Leviathan after writing 
+the above, as cahibiting a similar idea of logic to the 
+
+
+
+
+The connexion between logic and just classification 
+
+
+
+SYLLOGISM. 79 
+
+In examining the nature of syllogistic rea- 
+soning, it is now evident that you have, — 
+
+In the first place, something laid down, 
+granted as true, or assumed as necessary, for 
+the subsequent proceeding of the mind. It 
+does not affect the truth of this position to 
+determine whether you must always have two 
+propositions, as in a regular syllogism, before 
+a conclusion can be drawn ; or whether the 
+mind, having admitted one judgement or pro- 
+position, be led on from that one to an- 
+other inevitably following from it. Suffice it, 
+that in every argument you must begin with 
+something laid down, granted^ or assumed ; 
+in other words, you must have some datum 
+or data, as points from which to start, or 
+ground on which to rest. 
+
+Secondly. Having something laid down 
+or granted, it is the characteristic of all cor- 
+
+
+
+proves that Hobbes is about right, though he meets with 
+Mr. Stewart's particular reprobation, in sajdng that 
+** when a man reasoneth, he does nothing else but con- 
+ceive a sum total from addition of parcels, or conceive a 
+remainder from subtraction of one sum from an- 
+other," &c. 
+
+
+
+80 COMPARISON OF LOGICAL 
+
+rect or logical reasoning, that the conclusion 
+necessarily follows from the premises. It is 
+involved in the premises ; it is a consequence 
+inevitably connected with them. An absolute 
+necessity is the quaUty of all sound reasoning. 
+
+How then does logical or common reason- 
+ing differ from what we call mathematical or 
+demonstrative reasoning ? In both we have 
+data from which to start, and conclusions 
+inevitably resulting, involved in the meaning 
+of the terms, i. e. in our conception of the 
+things signified. 
+
+Will any man assert that logical reason- 
+ing is not demonstrative in the mathematical 
+sense of the term? that is, does not con- 
+vey a feeling of certainty to the mind in the 
+justness and necessity of the conclusion. For 
+my own part, I feel no difference in respect 
+of absolute certainty. Having admitted that 
+* ' whatever exhibits marks of design must 
+have an intelligent author," and that " the 
+universe exhibits marks of design," it appears 
+to me as inevitable to admit that ''there- 
+fore the universe must have an intelligent 
+author," as to admit that the three angles of 
+
+
+
+AND MATHEMATICAL REASONING. 81 
+
+a triangle are equal to two right angles, hav- 
+ing admitted that the sum of the angles 
+on the same side of a straight line, at the 
+same point, is equal to two right angles. The 
+conclusion is involved in the meaning of the 
+terms : in the latter case it jrests upon the 
+notion of equaUty ; in the former, the notion 
+of design. It must be confessed, however, 
+that the notion of design is not so imme- 
+diately an idea of sensation^ to use Locke's 
+phraseology, as that of equality. It is an 
+idea drawn rather from reflection, or what 
+we are conscious of when the mind turns in- 
+ward upon itself. In common language, two 
+things are said to be equal when there are no 
+sensible marks of difference between them. 
+But an object of nature or of art will indicate 
+design to an observer very much in propor- 
+tion to the observer's power of appreciating 
+the end aimed at, and the means employed ; 
+and surely it is impossible to separate the 
+idea of design from the perception of means 
+and ends. 
+
+It is not, then, in the circumstance of start- 
+ing from certain data or given principles ; it 
+
+E 5 
+
+
+
+82 COMPARISON OF LOGICAL 
+
+is not in the necessity of the conclusion, as 
+resulting inevitably from the data, that logical 
+or common reasoning, and mathematical 
+reasoning, differ from one another. We must 
+seek for that difference elsewhere. When, 
+therefore, the Edinburgh reviewer, after 
+Kant, talks of necessary and contingent mat- 
+ter, as distinguishing two sorts of logic, one 
+of Avhich he equals to mathematical reason- 
+ing, the other to general reasoning, it is a 
+talk without meaning, or at least without 
+clear and sufficient meaning. For in all logic, 
+as in all mathematics, the conclusion is 
+equally necessary, equally contingent ; equally 
+necessary in the sense of inevitably following 
+from, or being involved in, the data ; equally 
+contingent upon the comprehension or force 
+of the terms ; that is, the degree of clearness 
+and exactness in the things signified. 
+
+But, again, if in all reasonings you start 
+from some data, and in all reasonings you 
+have necessary conclusions, where lies the 
+difference between what we call mathema- 
+tical and common reasoning? Obviously 
+we must seek it in the nature or difference of 
+
+
+
+AND MATHEMATICAL REASONING. 83 
+
+the data : and here, perhaps, we shall come 
+to see in what sense it is true, if in any sense 
+it be true, that in mathematics you have ne- 
+cessary, in logic contingent, matter. In ma- 
+thematics we have, as I have shown, defini- 
+tions, i. e. exact terms, significant of certain 
+clear ideas of figure and quantity ; and we 
+are efmployed in tracing the relations of these 
+ideas one with another. In all other reason- 
+ing we have also terms, and these terms are,, 
+or ought to be, signs of ideas. But while, 
+in mathematical reasoning, we are concerned 
+with ideas of figure and quantity, (to say no- 
+thing of forces and motion, with whatever else 
+can be viewed and treated mathematically,) in 
+logic we have every variety of term and of 
+idea. There is no proposition of any kind, no 
+number of words which can be put together 
+so as to form a proposition, to whatever sub- 
+ject it may relate, which may not form part 
+of a syllogism. It is owing to this compre- 
+hensiveness or vastness of logic, in its prac- 
+tical application, that its true nature is so 
+little understood. In all reasoning, in all 
+thought, as communicated from one mind to 
+
+
+
+84 COMPARISON OF LOGICAL 
+
+another, we have, firstly, the terms; se- 
+condly, the things signified: but the sole 
+question is, how far the terms are exact, and 
+the things signified clear. 
+
+To put tliis in another light. If, as we 
+have endeavoured to show, the essence of 
+logic, of all arguments or syllogisms, consist 
+in the reference of two terms to one anH the 
+same common term or object of comparison, 
+used as a measure or test of agreement or dis- 
+agreement ; and if, as we have also shown, the 
+essence of mathematical or geometrical rea- 
+soning consist in the perception of the agree- 
+ment or disagreement of certain ideas and 
+terms, by means of other intermediate ideas 
+and terms, previously admitted as a test ; it 
+remains only to inquire what are the peculiar 
+measures, or what is the excellence of the 
+tests, in mathematical reasoning; for by 
+these it obtains its character of force and 
+clearness, that is, of demonstration. 
+
+Have you in mathematics better data, bet- 
+ter measures, than in other subjects ? The 
+only answer is, that in mathematics you are 
+conversant with ideas of figure and quantity, 
+
+
+
+AND MATHEMATICAL REASONING. 85 
+
+and that you have certain well-defined terms 
+always associated with the same simple ideas 
+or impressions ; the uniformity in the struc- 
+ture of the senses, and in the sensible impres- 
+sions made upon them, laying the foundation 
+for that pecuUar constancy of language, and 
+consequent clearness of reasoning, which we 
+recognize in connexion with figures and 
+numbers. 
+
+It follows, therefore, that it is not in any 
+theories about generalization and abstraction, 
+it is not in any difference between the higher 
+faculties and the common faculties, that you 
+are to seek for an explanation of the cogency 
+of mathematical and the weakness of other 
+reasoning. It is because your abstraction is 
+so comparatively easy, and your generahza- 
+tion so complete ; and because you have cer- 
+tain exact terms and symbols, used as known 
+and admitted measures, or criteria of proof, 
+about the appUcation of which there neither 
+is nor can be a possibility of doubt, that 
+mathematical reasoning is so satisfactory.* 
+
+* Perhaps this comparative easiness of the abstraction 
+and generalization in the mathematical sciences is the 
+
+
+
+86 COMPARISON OF LOGICAL 
+
+If in that reasoning there were the slightest 
+ambiguity in terms ; if an angle were mis- 
+taken for a chord ; if A B were mistaken for 
+any other line than that intended in the 
+geometrical proof ; the reasoning would be 
+vitiated, the demonstration lost, the link of 
+concatenation broken ; just as in arithmetic, 
+if you mistook a 3 for a 5, your answer 
+would be wrong ; or, in more dignified phrase, 
+your postulatum would exhibit an erratum. 
+So, in logic, if the sense of your terms be 
+changed in the premises and conclusion, the 
+force of the syllogism is destroyed ; the bolt 
+of the stable is drawn, and the horse gone. 
+
+Think not there is no classification (and 
+wherever classification is, there is of course 
+
+main thing intended by the reviewer when he speaks of 
+the lower faculties only being employed and developed in 
+the study ; but the word " faculties" makes sad havoc in 
+the writings of some philosophers, who w^uld lead you 
+to suppose man had as many distinct faculties as a cen- 
+tipede has legs. A faculty is simply a power; every 
+action and every thought may be attributed to a distinct 
+faculty for that action and that thought ; and we may, if 
+we please, talk of a faculty for sitting and a faculty for 
+walking ; but we gain confusion and lose distinctness by 
+such phraseology. 
+
+
+
+AND MATHEMATICAL REASONING. 87 
+
+abstraction and generalization,) in mathema- 
+tics; for in the very first proposition you 
+prove your triangle to be equilatieral, when 
+the sides are shown to belong to the class of 
+lines which radiate from the centre to the 
+circumference of the same circle, or of equal 
+circles, of which class of Unes you have pre- 
+mised equality as the characteristic ; and he 
+who should dispute this premise must look 
+out for another proof of the first proposition 
+than that with which his EucUd has furnished 
+liim. 
+
+It is to be observed particularly, that the 
+definitions in geometry, and, I think, in all 
+the branches of mathematics, are classifica- 
+tions or abstractions of a very simple kind : 
+in geometry, of certain sensible impressions, 
+derived partly from sight and partly from 
+touch. Thus, a line is defined, "Length 
+without breadth." It has been suggested 
+that the words " without breadth" are unne- 
+cessary ; but their use is perhaps expedient, 
+in order to confine attention to that which is 
+exclusively the object of the thought or rea- 
+soning. If any given line before us have 
+
+
+
+88 COMPARISON OF LOGICAL 
+
+sensible breadth, that breadth forms no part 
+of or consideration in the reasoning. Now 
+more or less of what we call length is found 
+in all visible and tangible objects. There is 
+not an object wliich we see or handle that 
+has not some outline, straight or curved. To 
+this quaUty of objects, common to all, but 
+peculiar to none, we give the name line or 
+length. It is an instance of abstraction, sim- 
+ple and complete ; and when we have lines 
+of a certain kind, we give them a correspond- 
+ing denomination, as straight, curved, waving. 
+It is not however with lines, in this very ge- 
+neral or abstract character, that geometrical 
+reasoning has much to do ; but it is concerned 
+with Unes in more precise and limited cha- 
+racter ; as they are related to each other in 
+a certain fixed, perceptible, or conceivable 
+manner: for instance, as perpendicular or 
+inclined, as meeting in a point and forming 
+angles, as parallel or equidistant, as forming 
+squares, circles, ellipses, parabolas, or other 
+curves, with fixed properties and relations. 
+Hence figures are classed as triangles and 
+parallelograms, as equilateral and equiangu- 
+
+
+
+AND MATHEMATICAL REASONING. 89 
+
+lar, as pentagons, hexagons, polygons, and 
+so on. And with regard to all these classes 
+of figures, or definite arrangements of lines, 
+the mathematical reasoning is strictly syllo- 
+gistic ; as in the fifth proposition of the first 
+book, the proof of the equality of the angles 
+at the base of an isosceles triangle turns upon 
+bringing the angles in question within a cer- 
+tain class, viz. the class of angles subtended 
+by equal bases, in triangles which have two 
+sides of the one equal to two sides of the 
+other, of which equality is demonstrated in 
+the fourth proposition : and let us remember 
+that every proposition in Euclid is demon- 
+strated as true, not merely of the individual 
+diagram before the student, but of its class, 
+of which class the said diagram is, in respect 
+of the reasoning, a perfect and sufficient ex- 
+ample. Thus the angles of aU triangles are 
+equal to two right angles, whatever be the 
+length of the sides, whether they be right- 
+angled or obtuse ; whether the lines be black 
+or blue ; whether it be the triangle on the 
+paper, or a supposed triangle, formed by 
+lines conceived to meet m the centres of the 
+
+
+
+90 COMPARISON OF LOGICAL 
+
+earth, the sun, and the moon. It is the 
+simplicity and perfection of the classes ; the 
+accuracy with which every term marks and 
+defines the class ; and the never-faiUng con- 
+nexion between the terms and the sensi- 
+ble impressions, and the ease and certainty 
+with which the sensible impressions lead to 
+and support the mathematical conceptions 
+and definitions ; these things help to make, 
+if they do not, as I conceive, themselves 
+make, the proof so cogent and the assent 
+so firm in geometry. 
+
+The dependence of the reasoning upon a 
+clear apprehension of the definition, starting 
+from it and adhering to it, becomes still 
+more clear, if we look at the subject of pro- 
+portion upon which Mr. Whewell has made 
+some but not very distinct remarks. The 
+fifth book of Euclid, which treats of pro- 
+portion, Mr. De Morgan calls, in con- 
+junction with Aristotle's logic, the most in- 
+disputable treatise that ever was written. On 
+the other hand, LesUe, in the fourth Preli- 
+minary Dissertation to the Encyclopaedia 
+Britannica, says that it cannot possibly be 
+
+
+
+AND MATHEMATICAL REASONING. 91 
+
+taught. The whole difficulty seems clearly 
+to lie in the necessity of enlarging the mind's 
+view of proportion, previously and strongly 
+associated with numbers, i. e. with arith- 
+metical proportion, to magnitudes whose re- 
+lation to each other cannot be expressed in 
+numbers; and this difficulty can only be 
+overcome by the assiduous study of such 
+magnitudes, and of a book, or books, in 
+which such magnitudes and their relations 
+are brought before the mind. The mind, by 
+the study of the subject, grows to the ap- 
+prehension of the definition, which is a ge- 
+neral principle or view of a certain mutual 
+relation of magnitudes, involving the truth of 
+the propositions to which it is afterwards ap- 
+plied. 
+
+
+
+92 LANGUAGE AS CONNECTED 
+
+
+
+SECTION III. 
+
+Having now shown that the object of the 
+science of logic is to call the attention to 
+those fonns of expression which are essential 
+to valid arguments, in which the conclusion 
+is necessarily involved in the premises, and 
+the mind is led to perceive a connexion or 
+relation which it did not before perceive 
+between its ideas and terms, — that it resolves 
+itself very much into just classification ; 
+having also shown that mathematical reason- 
+ing owes its clearness and cogency to the 
+simplicity and clearness of its subject mat- 
+ter, — ^its abstractions and classifications, or 
+relations of figures and quantities, being 
+marked by defined terms, which are the 
+media of mathematical proof, — ^we have to in- 
+quire how far other notions, besides those of 
+figure and quantities, are susceptible of exact 
+definition and exact language, and thereby 
+of exact comparison one with another. This 
+is the sum and substance of the question, — 
+
+
+
+WITH GENERAL REASONING. 93 
+
+the susceptibility of exact comparison be- 
+tween our notions of other subjects than 
+figure and quantity ; subjects less connected 
+with sensible impressions, and in which our 
+reasoning cannot be assisted or verified by 
+an immediate appeal to the evidence of the 
+senses. 
+
+I may be as certain, and doubtless I am, 
+that there lived a celebrated orator named 
+Cicero, at Rome, as that the angles at the base 
+of an isosceles triangle are equal to one an- 
+other ; but it is evident that the ideas asso- 
+ciated with the words Cicero, celebrity, ora- 
+tory, Rome, are of a far more varied and com- 
+plex character than the ideas associated with 
+the terms of the above or any mathematical 
+proposition ; and of a hundred persons who 
+will equally readily assent to the historical or 
+moral proposition, the ideas associated with its 
+terms will differ by a thousand modifications 
+and varieties. Here, then, lies the difficulty. 
+Forms and magnitudes visible to the eye, 
+and weighed by the hand, can be compared, 
+and their exact difference can be estimated 
+and described. But who shall compare and 
+
+
+
+94 LANGUAGE AS CONNECTED 
+
+estimate the exact difference between two 
+tastes and two sounds ? and how indefinite 
+must those terms remain which are not only 
+associated with a number of such sensible 
+impressions incapable of comparison, but 
+with trains of sensation and emotion, the 
+traces of which pass away with the moment 
+in which they have birth, and which are, 
+perhaps, wholly similar in no two existing 
+minds. 
+
+It is often said, by way of distinguishing 
+mathematical science from all other kinds 
+of reasoning, that the mathematics are hu- 
+man contrivances for attaining human ends ; 
+and that in the reasoning we are only evolving 
+the nature and properties of these contri- 
+vances. Thus in numbers, we have fractions 
+and decimals ; in algebra, equations and roots ; 
+so in the affgdrs of Ufe we have invented 
+common measures with which to compare 
+magnitudes and quantities: thus we have 
+the foot, the yard, the pound weight, the 
+ton, the pint, the bushel ; by means of which 
+quantities, distances, and magnitudes, are re- 
+latively ascertained and settled. So we have 
+
+
+
+WITH GENERAL REASONING. 95 
+
+thermometers, barometers, and chronometers, 
+for measuring atmospheric weight, heat, and 
+time. These are some of the received mea- 
+sures or tests for ascertaining and determin- 
+ing the degrees of difference by which one 
+quantity varies from another, of whatsoever 
+can be measured or tested. 
+
+Let us, however, remember that all lan- 
+guage is a human contrivance for expressing 
+human thoughts in all their wide relations 
+and variety ; and although the language which 
+we daily use may have, and most general 
+terms have, very different ideas associated 
+therewith in different minds, yet reasoners 
+have a certain power over its use. We can 
+examine, control, and the exact reasoner 
+always seeks to control by examination and 
+reflection, the associated ideas. It should 
+seem, indeed, that where we have no com- 
+mon measures or exact standards of compa- 
+rison, we cannot come to any exact conclu- 
+sions. And this must be the case in all ques- 
+tions of degree, in things that cannot be re- 
+duced to measure ; where we must be con- 
+tent to use our comparatives and superlatives 
+
+
+
+96 LANGUAGE AS CONNECTED 
+
+indefinitely, and satisfy ourselves with the 
+old maxim, * De gustibus non disputandum.' 
+But it is in our power to approach to exact- 
+ness,. (in mathematical phrase, as nearly as we 
+please,) by using welUdejined terms associated 
+with uniform sensible impressions, and by dis- 
+tinguishing things that differ in kind, if not 
+in degree. We may scrupulously avoid un- 
+necessary changes of terms, when the subject 
+matter of our reasoning is the same ; leave 
+nothing to be understood which it is possible 
+to express ; and beware of using relatives 
+and pronouns, to which there is no clear or 
+certain antecedent. 
+
+It is also often said, by way of further dis- 
+tinguishing the metaphysical sciences from 
+the mathematical, that the latter turns upon 
+human abstractions or hypotheses, and you 
+begin with definitions ; whilst the former 
+turns upon facts, and you end with definitions. 
+But is this an adequate distinction ? Every 
+one, doubtless, must be aware of a certain 
+difference between what are called inquiries 
+into facts, and the pursuit of a train of 
+mathematical reasoning. But what is that 
+
+
+
+Ik 
+
+
+
+V WITH GENERAL REASONING. 97 
+
+difference? What is the process of mind 
+in the two cases ? In mathematical pro- 
+positions you have all the facts before you, 
+and are deducing logically the consequences 
+which flow from the acknowledged data. 
+In what are called inquiries into fact, you 
+are generally testing the correctness of some 
+verbal statement, which indicates the ex- 
+istence of some but perhaps by no means 
+clear impressions upon the human mind ; or 
+you are seeking to supply the want of impres- 
+sions on your own senses, by considering 
+the nature and evidence of the impressions 
+on the senses of others. These impressions 
+you gather from what is called testimony ; 
+and testimony introduces all the ambiguities 
+and difficulties of language. Here you must 
+have various methods of examination or 
+tests of truth drawn from experience and 
+suited to the particular case under exami- 
+nation, into which it is unnecessary to enter 
+at length. 
+
+It is often difficult, we say, to ascertain 
+what is the fact. In general all the difficulty 
+arises from, or is increased by, the indefinite- 
+
+F 
+
+
+
+98 LANGUAGE AS CONNECTED 
+
+ness of the terms in which the statement of 
+fact is enwrapped by the witnesses, and the 
+want of care, caution, and skill in observing 
+and registering observations. The extreme 
+rapidity with which the hmnan mind min- 
+gles its own inferences with its observations 
+or sensible impressions ; the confidence 
+with which it attaches imaginary or expe- 
+rienced causes to the perceived effects, and 
+the difficulty of dissociating the one from 
+the other, give rise to various embarrass- 
+ments not merely with regard to reliance 
+upon the statements, but in ascertaining 
+even the meaning of others, — embarrass- 
+ments which most writers of reputation in 
+the abstruse subjects of morals and reUgion 
+rather increase than help to overcome. 
+However, '' it is possible,'' say's the sweet- 
+minded Hartley, " for two persons of inteUi- 
+gent and candid minds to understand one 
+other.'' 
+
+Then, as to ending with definitions, the 
+metaphysician who talks of that as his end, 
+w^hile it is the mathematician's beginning, 
+should remember that this is only another 
+
+
+
+I 
+
+
+
+WITH GENERAL REASONING. 99 
+
+mode of stating that his metaphysical dis- 
+cussions are disputes about words. As such 
+no doubt they have their importance, the 
+question being, What are the ideas associated 
+with, or the mehtal phenomena to be classed 
+under, certain terms which exercise exten- 
+sive sway over the thoughts, feeUngs, and 
+conduct of men? Let the metaphysician, 
+then, take care of the road by which he 
+proposes to pursue this end. Let him take 
+heed whilst he is in pursuit of a proper defi- 
+nition of a certain term, of such a definition 
+as will be acceded to by the student, that he 
+does not embarrass himself and his reader by 
+a multitude of other still less defined or 
+definable expressions, which thicken the 
+darkness and the difficulty, and conduct to 
+dismay and to despair. 
+
+These simple observations will, I conceive, 
+go some way towards illustrating the ques- 
+tion, in what manner, if in any manner, 
+demonstrative reasoning may be connected 
+with and obtained in metaphysical and 
+moral science. Logic calls our attention 
+to the nature and force of terms ; to those 
+
+f2 
+
+
+
+100 DEMONSTRATION 
+
+forms of expression which are essentially 
+connected with vaUd reasonings — reason- 
+ings to w^hich the mind . assents through 
+the very nature of the terms. Mathe- 
+matical science exhibits the perfection of 
+such reasoning and such terms. It works 
+with symbols significant of certain clear and 
+uniform notions of figures and magnitudes. 
+In its higher branches it is indeed the very 
+science of symbols ; its results arising out of 
+the conceived and admitted nature of the 
+symbols themselves, and their uniform rela- 
+tions one with another. 
+
+Before saying a few words on the appUca- 
+tion of demonstrative reasoning to physical 
+and metaphysical science, I cannot forbear 
+remarking how groundless is the common no- 
+tion that demonstrative reasoning is stronger 
+than all other Idnds of evidence, — than the 
+evidence of the senses or of testimony ;* a 
+
+* There is some logical impropriety in connecting the 
+words demonstration and evidence, and in talking of 
+demonstrative evidence. In demonstrative reasoning we 
+trace the harmony subsisting among our agreed princi- 
+ples or admitted notions and conceptions, and the con- 
+sequences or connected notions. The senses (and testi- 
+
+
+
+NOT ALWAYS NECESSARY. 101 
+
+notion which makes some men call for 
+demonstration where it is evidently absurd 
+to make that call, unless it be remembered 
+that the nature of -every proposition must 
+determine the nature of the demonstration, 
+or the kind and criteria of proof. But who 
+shall undertake to demonstrate by any ad- 
+mitted criteria of proof that milk is white 
+and the sky sometimes appears blue ? These 
+are simple instances of names attaching to 
+the objects of sense, and all communion of 
+mind depends on agreeing to give similar 
+names to similar impressions. And what 
+folly would it be when my servant testifies 
+that a crowd is in the streets, or Mr. Smith 
+is in the study, to ask him to demonstrate 
+these affirmations and propositions. The 
+conduct of life depends upon notions and 
+habitual statements which require no demon- 
+stration, no laboured process of inquirj^ and 
+proof; and with the general language of 
+human intercourse, the associated ideas are 
+
+mony, which must be ultimately referred to impressions 
+on the senses) evidence the existence of certain causes of 
+sensation external to ourselves, independent of our own 
+minds, and supply the fundamental conceptions from 
+which we reason. 
+
+
+
+102 PHYSICAL SCIENCE. 
+
+sufficiently clear and uniform for the harmony 
+and happiness and the ordinary wants of 
+society. But when men aspire to what is 
+called science, then must they take heed of 
+language, as the ladder on whose rails the 
+foot must rest in every step of the ascent. 
+
+Now with regard to physical science, it is 
+obvious man is simply the observer and 
+registrar of external nature. " Homo est 
+naturae minister," is the short and obvious 
+maxim of the natural philosopher, and it 
+is evident that the sciences which we call 
+inductive merely give us the combined re- 
+sults of human observation in various spe- 
+cified departments, arranged, classified, and 
+marked, and mathematical science is essen- 
+tial to perfect our observations. 
+
+As we range the walks of time and space, 
+every new object or relation which presents 
+itself to attention, a new term, significant 
+of that object or relation, must be given. 
+That same term will suflice for the same 
+object or its counterpart, when the mind 
+meets with it again. And the uniformity 
+and variety in nature gives rise to the uni- 
+formity and variety in the structure and use 
+
+
+
+PHYSICAL SCIENCE. 103 
+
+of human language, which, as a whole, 
+may be considered a mystical radiation from 
+nature, imprinting its pictures upon the 
+subtle ground- work of the mind. A term 
+becomes general by being applied to many 
+similar objects or impressions. The uni- 
+formity in the objects and processes leads 
+us analogically to apply the term laws to 
+the phenomena and processes of nature, as 
+science in its various departments reveals 
+and registers the order, succession, and 
+character of these phenomena. Each sci- 
+ence having its own pecuUar phenomena to 
+register, requires its own pecuUar terms ; 
+nor can we, where new objects of perception, 
+new relations of thought, are to be expressed 
+and held forth to the contemplation of 
+the mind, object to many new and there- 
+fore hard terms. But in these davs the 
+student of nature must be warned against 
+supposing that a mere knowledge of terms 
+is scientific knowledge, although it must be 
+admitted as an indispensable and an un- 
+avoidable part thereof. The learner of a 
+new science cannot but be as the child, whose 
+
+
+
+104 PHYSICAL SCIENCE. 
+
+understanding grows to the meaning and 
+right use of the language of the world around 
+him, nor must he complain of difficulties and 
+impediments. Happy the learner, however, 
+who is in the hands of judicious guides, w^ho 
+consider terms subsidiary to instruction in 
+things, with whom books are, as they 
+assuredly ought to be in physical science, 
+not the substitutes for the companionship of 
+nature, but the aids to interpret her lessons, 
+and to observe and to arrange her instruc- 
+tions. The botanist must keep in the fields 
+and the garden ; the chemist in the laboratory; 
+the geologist in the quarry, by the hill side 
+or under the cliff; the astronomer must sweep 
+the heavens with his glass, and report to 
+others 
+
+" Of fields of radiance, whose unfading light 
+Has travell'd the profound six thousand years. 
+Nor yet arrived in sight of mortal things.'* 
+
+And it is the beauty of physical science, 
+when legitimately and lovingly pursued, that 
+it calls us into communion with fhe Creator 
+as he reveals himself in his works, and away 
+from the perverse disputes and vain jang- 
+
+
+
+PHYSICAL SCIENCE. 105 
+
+lings of men. In physical science there is 
+comparatively little of tiresome useless argu- 
+mentation ; the facts on which the classifica- 
+tions and conclusions rest are evident to those 
+senses of whose use not even the Fall has 
+deprived the children of Adam. And though 
+the senses may sometimes deceive us from 
+a kind of natural difference in keenness or 
+constitutional imperfection, or through hasty 
+inferences and casual associations, yet the 
+philosopher who builds his system of science, 
+physical or metaphysical, upon other ground, 
+who thinks the root of the tree of life aiid 
+knowledge is not in that plain but all-sup- 
+porting soil, had better return at once to the 
+speculations of the schoolmen, and puzzle 
+himself with inquiries into the necessary 
+attributes of spirits that have never inhabited 
+a body, or dilate upon that pleasant and 
+edifying subject, '* chimsera bombinans in 
+vacuo." 
+
+Vanity, partiality for their own habits of 
+study, and their own modes of classifica- 
+tion, may even in physical science lead men 
+to differ widely and warmly ; but the differ- 
+
+F 5 
+
+
+
+lOG PHYSICAL SCIENCE. 
+
+ence will hardly be very sore, if unconnected 
+with any worldly interests. Questions of fact, 
+and questions of the meaning of terms in 
+most matters of pure science, would be settled 
+without length of debate, if men did not w^ish 
+to appear wiser than they are ; if they w-ere 
+content patiefitly to learn and mildly to in- 
+struct ; if they sought the knowledge and 
+love of nature rather than the estimation of 
+men ; if they looked upon themselves as 
+mutual interpreters, and mutual servants of 
+the will of Him, w^ho has made of one blood 
+all nations of tha earth to dw^ell together 
+upon its face, and bound the vast family of 
+man together by the strongest ties of mutual 
+interest, making it their chief and noblest 
+happiness to benefit and assist each other. 
+
+In the pursuit of physical science it would 
+be very easy to repeat some of the principal 
+rules to be observed : but thev are alreadv in 
+various forms and in abundance before the 
+studious and inquiring world. To observe and 
+register carefully, not to generalize too fast, to 
+take special care of your premises before you 
+arrive at your conclusions, to build the super- 
+
+
+
+WORKS OF REFERENCE. 107 
+
+structure of system upon the solid ground- 
+work of clear and well-ascertained facts, and 
+with the strong masonry of well-defined and 
+chastised language — the cement of human 
+knowledge — these are the short and simple, 
+but universal rules for all philosophy. The 
+Novum Organum of Bacon ; the first 
+of the preliminary^ dissertations prefixed to 
+BufFon's Thdorie du Monde ; the admirable 
+Reflexions sur la Geometric, in the Pensees 
+de Pascal ; Hartley's invaluable Observations 
+on Propositions and the Nature of Assent ; 
+the last book of Locke's Essay on the Human 
+Understanding ; Herschel's Treatise on the 
+Study of Natural Philosophy ; Dr. Wliately's 
+Logic ; some of the remarks of Laplace, 
+in his Essay on Probabilities, to which I 
+shall hereafter advert, and of Cuvier in the 
+Preface and Introduction to his Animal 
+Kingdom ; and Mr. De Morgan's treatises 
+published by the Society for the Diffusion of 
+Useful Knowledge ; — are among the works of 
+most importance in connexionwith the subject 
+of this Essay. The following passage from the 
+preface to Cuvier's first edition of his Rfegne 
+
+
+
+108 EXTRACT FROM CUVIER. 
+
+Animal will be acceptable to the reader who 
+is not previously acquainted with it, and 
+bears closely upon our present course of 
+thought. ** The habit necessarily acquired 
+in the study of natural history, of the mental 
+classification of a great number of ideas, is one 
+of the advantages of that science which is sel- 
+dom observed, and which, when it shall have 
+been generally introduced into the system of 
+common education, will become perhaps the 
+principal one. By it the student is exercised 
+in that part of logic which is termed method, 
+just as he is by geometry in that of syllo- 
+gism ; because natural history is the science 
+which requires the most precise methods, as 
+geometry is that which demands the most 
+vigorous reasoning. Now this art of method, 
+once well acquired, may be appUed with in- 
+finite advantage to studies the most foreign 
+to natural history. Every discussion im- 
+plying a classification of facts, every inquiry 
+which demands a distribution of materials, is 
+performed according to the same laws ; and 
+the young man who had cultivated this 
+science merely for amusement, is surprised ^^ 
+
+
+
+METAPHYSICAL SCIENCE. 109 
+
+when he makes the experiment, at the facili- 
+ties it affords him in disentangUng all kinds 
+of affairs. It is not less useful in solitude. 
+Sufficiently comprehensive to satisfy the 
+most powerful mind, sufficiently various and 
+interesting to calm the most agitated soul, 
+it consoles the unhappy, it soothes animosi- 
+ties. Once elevated to the contemplation of 
+that harmony of nature irresistibly regulated 
+by Providence, how weak and insignificant 
+appear those causes which it has been pleased 
+to leave dependant on the arbitrary will of 
+man. How astonishing to behold so many 
+examples of fine genius consuming them- 
+selves so vainly for their own happiness, or 
+that of others, in the pursuit of empty specu- 
+lations, whose very traces a few years suffice 
+to sweep away." 
+
+But is the motto " homo est naturae mi- 
+nister" applicable solely to physical and not 
+to metaphysical, moral, and political sci- 
+ence ? Can we study the human mind and 
+human interests without a careful observa- 
+tion of the phenomena or facts ? Is man to 
+interpret his mental and moral constitution 
+
+
+
+110 METAPHYSICAL SCIENCE. 
+
+by means of some a priori principles, which 
+are to be received, without question, upon 
+the ipse dixit of this or that philosopher? 
+There is indeed a gi'owing perception of the 
+importance of the Baconian method, in moral 
+and political science as well as in other de- 
+partments of human inquiry, notwithstand- 
+ing the tendency of many productions of 
+eminence to draw away men's attention from 
+the palpable instruction of nature to the 
+cloudy, obscure, inconsistent, and unmean- 
+ing language of the schools. But a shght 
+acquaintance with the most popular works 
+on ethical and metaphysical philosophy, will 
+lead to the conclusion that they are sadly 
+deficient in that exact language which is 
+the essential characteristic of all true science, 
+and must be its foundation. 
+
+" A plain and unadorned style," says 
+Lord Bacon, " is the proper style for philo- 
+sophy." Yet how far from being plain, — 
+how studied in variety of phrase, — how re- 
+dundant in poetic and metaphoric ornament, 
+are the pages of a Stewart and Mackintosh ! 
+Their pages seem to have been written under 
+
+
+
+STEWART AND MACKINTOSH. Ill 
+
+the impression that no effort of art should be 
+spared to beguile the reader in the study of 
+matters so dry and so laborious as ethics and 
+metaphysics. But the result of this is to 
+give the real student, who is carefully looking 
+out for facts and principles, more trouble 
+than can be estimated in finding the object of 
+his search, — in separating the important 
+from tiie trivial, — in testing, by the appUca- 
+tion of precise logic, the presence and 
+quantity of meaning in a cloudy solution of 
+verbiage. Their dissertations leave hardly 
+any definite impression on the mind. Nor 
+is this owing to any peculiar difficulty in 
+coming at the facts which lay the foundation 
+for principles, so much as to an erroneous 
+view of the true method, or from a bad 
+habit of philosophising, or perhaps to an in- 
+disposition for that patient and cautious exa- 
+mination of details, with that simplicity 
+and exactness of phrase, which have few 
+charms for any but the obscure devotees of 
+truth. 
+
+Metaphysical discussions are pre-eminently 
+discussions about words. Ideas, feelings, 
+
+
+
+112 STEWART AND MACKINTOSH. 
+
+principles, faculties, powers, affections, ma- 
+terialism, spiritualism, necessity, free-will, 
+cum multis aliis, occur so constantly in these 
+discussions, with so little exactness of mean- 
+ing, and such variety of indistinct associated 
+notions, that the student is still, like Milton's 
+angels, *' in wandering mazes lost." 
+
+The dissertations of Stewart and Mackin- 
+tosh, prefixed to the Encyclopaedia Britannica, 
+enjoy a high degree of reputation. They are 
+spoken of by critics of eminence as inimitable 
+and invaluable. Reviews of great authority 
+deUght in recording the highest estimation of 
+their merit. They are unquestionably use- 
+ful and pleasing ; but of what are they the 
+history ? If we compare them wdth the ac- 
+companying dissertation by Playfair, on the 
+History of Natural Philosophy, they must 
+sink in the comparison, inasmuch as they 
+fail to give that systematic view of real 
+though gradual additions to human know- 
+ledge, — of discoveries, with the authors, and 
+times of discovery, which can alone properly 
+constitute a history of any science or phi- 
+losophy. They do not fasten upon im- 
+
+
+
+Stewart's estimate of locke. 113 
+
+portant epochs of improvement in the mode 
+of studying and treating the philosophy oi 
+mind. They do not give the details of writers 
+and their systems, in the clear and exact 
+manner most essential to the reader, nor sum 
+up their respective merits and defects by the 
+apphcation of any well-stated, established, and 
+acknowledged principles or criteria of excel- 
+lence. 
+
+Mr. Stewart makes the chief merit of 
+Locke to consist in the inquiring spirit 
+with which he imbues his reader. Speaking 
+of the general effect of Locke's discussions, 
+in preparing the thinking part of his readers 
+to a degree till then unknown, for the un- 
+shackled use of their own reason, he says, 
+"This has always appeared to me the most 
+characteristical feature of Locke's Essay ; and 
+that to which it is chiefly indebted for its 
+immense influence on the philosophy of the 
+eighteenth century." The Essay of Locke 
+is certainly the production of a profoundly 
+thoughtful mind; and the diligent reader, 
+called into sympathy with such a mind, must 
+partake, and imbibe in some degree, the spirit 
+
+
+
+114 LOCKE. 
+
+of the great and good philosopher. But 
+surelv the merits of Locke, as the founder of 
+a school of metaphysicians, are of a much 
+higher order than such an estimate of his 
+chief characteristics implies. Locke not only 
+prepares the reader to reason, but prepares 
+him to reason well ; to know himself, and 
+man, and nature, better. It is difficult for 
+us in these times to conceive the clouds and 
+mists which the Essay on the Human Under- 
+standing dissipated, and how it illuminated 
+the whole horizon of human thought. Cud- 
+worth's Intellectual System is a book which 
+sets the reader upon using his own reason ; 
+and it requires a vastly superior stock of eru- 
+dition to weigh and consider its contents. But 
+Cudworth's learning oppresses the mind with 
+its weight, and lies upon the intellect like a 
+London fog upon the chest ; whereas Locke 
+clears and braces the understanding. He 
+has laid the broad and deep basis for a true 
+intellectual system in his grand division of 
+Sensation and Reflection ; the world without 
+us, and the world within. His second chap- 
+ter, on the Origin of our Ideas, and his last 
+
+
+
+LOCKE. 115 
+
+chapter, on Knowledge, Reason, Faith, and 
+Judgemept, are full of rich, just, and invalua- 
+ble matter. In the 28th chapter of the 2nd 
+book he has given, incidentally, an analysis of 
+moral laws, which must be in part followed by 
+every other inquirer into ethics and jurispru- 
+dence ; and the few words of Mr. Austin (in 
+a note, p. 1 74 of his work on Jurisprudence) 
+are far more worthy of the subject than all 
+Mr. Stewart's elaborate though elegant 
+phraseology. " Allowing for defects, which 
+were nearly inevitable, his analysis is stri- 
+kingly accurate. It evinces that matchless 
+power of precise and just thinking, with that 
+religious regard for general utility and truth, 
+which marked the incomparable man who 
+emancipated human reason from the yoke of 
+mystery and jargon. And from this, his in- 
+cidental excursions into the field of law and 
+morahty, and from other passages of his 
+essay wherein he touches upon them, w^e 
+may infer the important services which he 
+would have rendered to the science of ethics 
+if, complying with the instances of Molyneux, 
+he had examined the subject exactly." 
+Mr. Stewart's estimate of the defects 
+
+
+
+116 LOCKE. 
+
+and excellencies of Locke can never sa- 
+tisfy the deep and cautious investigator of 
+the constitution and powers of the human 
+understanding ; and his everlasting, untiring 
+intimations that the principles of Locke's 
+Essay, if carried out, or not guarded by 
+Locke's admissions, lead to the scepticism of 
+Hume, are beyond measure unsatisfactory 
+and wearisome to those who neither see nor 
+understand the consequence, and who find it 
+difficult to make out, at least from Mr. 
+Stewart's statements, in what the scepticism 
+of Hume precisely consisted, or how far it 
+extended, save in the celebrated Essay on 
+Miracles, where the uniformity of nature, 
+or our own experience of it, is contrast- 
+ed, in a loose manner, with the variable- 
+ness of human testimony, and perhaps in a 
+general want of principles and convictions in 
+all the objects of metaphysical inquiry. 
+There are two very different states of mind 
+often confounded under the term scepti- 
+cism ; one is that of an inquirer, who is de- 
+sirous of placing his own meaning, and the 
+meaning of others, before him in the clear- 
+est and most satisfactory light, and pro- 
+
+
+
+MACKINTOSH. 117 
+
+portioning the degree of his assent to the 
+strength of the evidence ; the other, that of 
+a man who concludes positively against cer- 
+tain opinions and propositions, as having no 
+foundation in truth, merely because he can- 
+not keep steadily before him the chain of 
+arguments or evidence by which they are 
+supported. The former is alUed to what 
+Hartley calls a '' rehgious scepticism,*' which 
+receives nothing rashly, and is always pre- 
+pared and seeking for evidence, with a view 
+of concluding wisely and rationally. The lat- 
+ter is less allied to scepticism than to dog- 
+matism, and becomes dogmatism when a 
+man, losing sight of the degrees of evidence 
+by which the opinions he controverts are sup- 
+ported, thinks to bear them down by the 
+strength, rather than the justness, of his 
+assertions. It is that of a man who is not 
+seeking for truth, but doubts its existence ; 
+who is in the habit of questioning every 
+thing, and believing nothing. 
+
+But if Mr. Stewart's work be open to cri- 
+ticism, what shall we say of Sir James Mack- 
+intosh, whose Dissertation excites the prin- 
+
+
+
+118 MILL ON MACKINTOSH, 
+
+cipal reviews to rapture, and which Mr. 
+Whewell undertakes to preface and to edit ? 
+That it is well — very well — ^worth perusal, may 
+be asserted, partly because so little is written 
+and so httle is read w^ith becoming care in 
+such departments of human inquiry. But that 
+the more it is read and examined, the less 
+satisfactory it will appear, may also be assert- 
+ed ; and he who does not choose to rest his 
+justification of this assertion upon any ela- 
+borate showing of his own, may shelter him- 
+self behind Mill's Fragment on Mackintosh, 
+and ask, Where is the answer to that book ? 
+He may ask why the laudatory reviewers never 
+allude to its existence, and why, since it con- 
+tains so vigorous, hearty, and relentless an at- 
+tack upon the merits of Sir James, there is no 
+attempt to protect his fame, to meet and rebut 
+its arguments. Surely Mr. Mill was no puny 
+adversary — no mere fly, that stings but im- 
+pedes not the noble racer in his dazzling 
+course. The peaceful student of nature and 
+of truth may not admire the somewhat bear- 
+ish style in which Mr. Mill shakes and tears 
+his prey ; and with his Fragment strews the 
+
+
+
+I 
+
+
+
+MILL ON MACKINTOSH. 119 
+
+ground with fragments of Sir James's mangled 
+Dissertation. He may feel that the arrow from 
+Mr. Mill's quiver, when he touches upon Sir 
+James's " dandy philosophy" and lack-a- 
+daisical style, has been dipped too cruelly in 
+poison, tinged too darkly with the '^ gall of 
+bitterness." Yet while his feelings of pity 
+and tenderness are roused, and he cries out 
+for mercy ! mercy ! on Sir James, it is a cry 
+for mercy rather than for justice. The soft 
+heart wishes to spare, and not to trample on 
+the fallen. But Mr. Mill, roused by the ap- 
+parent, though as he calls it affected candour, 
+with real injustice to Mr. Bentham, descends 
+like a second Achilles to avenge his friend, 
+and drags his victim thrice round the field 
+of his defeat. 
+
+Seriously, he convicts Sir James over and 
+over ag£dn of those superficial statements, of 
+that vagueness and confiisedness of lan- 
+guage, which have hitherto been, and which 
+continue to be, the great impediments to 
+sound progress in the philosophy of mind. 
+Yet, to do Sir James some justice, he is free 
+from that aversion to acknowledge the full 
+
+
+
+120 HARTLEY. 
+
+extent and importance of the " law of asso- 
+ciation," which is characteristic of many, I 
+beUeve most, of the Scotch metaphysical 
+writers. He shares not in Dugald Stewart's 
+antipathy to Hartley. He is the first meta- 
+physical writer of considerable repute of late 
+years, as far as i know, who seems to be 
+somewhat duly aware of the merit and im- 
+portance of the Hartleian theory and prin- 
+ciples. He is wrong when he affects to see 
+deeper into the moral constitution of man 
+than others who have gone before him. He 
+is convicted of error and absurdity in sup- 
+posing that those of whom he was writing 
+had overlooked a distinction which he had 
+sagacity to discover between thoughts and 
+feelings, perceptions and emotions. And even 
+while he admits that Hartley was a great 
+philosopher and a good man, there is hardly 
+a sentence upon tjie nature of Hartley's sys- 
+tem which conveys to the reader a distinct 
+idea of it, — of its apprehended merits or 
+defects. ^* Nothing," says Sir James, " more 
+evidently points out the distinction of the 
+Hartleian system from all systems called self- 
+
+
+
+HARTLEY. 121 
+
+ish, not to say its superiority in respect to dis- 
+interestedness over all moral systems before 
+Butler and Hutcheson, than that excellent 
+part of it which relates to the Rule of Life." 
+Now the Rule of Life contains the whole 
+moral system of Hartley, and is a deduction 
+from the inquiry which Hartley instituted 
+into the frame and constitution of mani 
+And in the whole compass of human philo- 
+sophy does any thing surpass that rule of 
+life ? But for Butler and Hutcheson, it is 
+evident that Hartley would have been the 
+favourite philosopher of Mackintosh. Now 
+since, according to his own showing, Butler 
+and Hutcheson have really no system, but 
+merely assert that human nature has certain 
+characteristics, which no one ever denied, 
+and which the philosophers of the Hartleian 
+school have resolved, or tried to resolve, 
+into the true elementary principles, we may 
+perhaps, notwithstanding Mr. Mill's caustic 
+animadversions, admit that the Dl^s ttation 
+of Sir James Mackintosh will, aftci -li, help 
+the student of mental philosopl:/ to the 
+quarter where Ught is to be found Ikit he 
+
+G 
+
+
+
+122 PRESENT STATE 
+
+must continue to be a student, and verify 
+statements and weigh opinions for himself. 
+
+It may appear unwarrantable to some 
+readers that I should have lapsed from an 
+inquin^ into the nature of mathematical rea- 
+soning and its application to science, sud- 
+denly to a criticism upon the Dissertations 
+cf Stewart and Mackintosh. But the reason 
+is obvious : these Dissertations appear to 
+be tlie most popular, and so far the most 
+important, treatises pubUshed of late upon 
+the mental and moral constitution of man, 
+which is doubtless the noblest of all human 
+objects of inquir}" and contemplation. I 
+see or fancv that these Dissertations, both 
+admitting and lamenting the ambiguity of 
+language as the greatest obstacle in the way 
+of the moral philosopher, are utterly defi- 
+cient in earnest and successful efforts to 
+grapple with the difficulty and overcome it ; 
+nay, increase rather than diminish the evil. 
+True it is, that while we confine ourselves to 
+that which we can rigidly and logically prove, 
+in the present state of ethical science, 
+we shall go but a little way, and we shall 
+
+
+
+OF ETHICAL SCIENCE. 123 
+
+soon come to all the conclusions which can 
+be safely concluded, whether gathered from 
+our most comprehensive inductions or flow- 
+ing from the nature of our conceptions and 
+terms. 
+
+" How little can be known! 
+
+This is the wise man's sigh : how far we err ! 
+This is the good man's not unfrequent pang." 
+
+The Excursion. 
+
+But it is better to make sure of a little than 
+to darken counsel by words without know- 
+ledge ; it is better to build a small house fit 
+and furnished to dwell in, than ruin our 
+fortunes by undertaking a palace which we 
+can neither finish nor inhabit; and let us 
+remember that philosophy is, after all, only 
+strong sense, or the combined result of 
+larger observation and deeper reflection in a 
+little better dress than that of ordinary 
+life. When a writer or reader sits dow^n to 
+philosophize, or to logical composition, he 
+should consider first what it is he proposes 
+to prove ; and secondly, by what means 
+he proposes to prove it ; and he will soon 
+find that he must make the nature and use 
+
+g2 
+
+
+
+124 LAPLACE ON PROBABILITIES. 
+
+of language his principal study, as it is the 
+main instniment of thought and communi- 
+cation ; and in the proper use of it, consists 
+the chief difference between the strong and 
+the weak mind. 
+
+" Scribendi recte sapere est et priocipiuin et fons." 
+
+In considering the application of mathe- 
+matical reasoning to moral and metaphysical 
+subjects, it would be unpardonable to over- 
+look the Philosophical Essay of Laplace, on 
+Probabilities, reviewed by Playfair in the 
+twenty-third volume of the Edinburgh Review. 
+Laplace has touched upon the applicability 
+of the calculus to moral sciences in the fol- 
+lowing order of topics : — First, the proba- 
+bilities of testimony ; second, the votes and 
+decisions of assemblies ; third, the judgements 
+of legal tribunals ; fourth, tables of mortality, 
+the mean duration of life, of marriages, and 
+any social relations ; fifth, illusions in the 
+estimate of probabilities. 
+
+Although many just and some curious and 
+novel observations are made by Laplace 
+under these heads, yet their general effect is 
+
+
+
+LAPLACE ON PROBABILITIES. 125 
+
+to show the wide difference which exists be- 
+tween those events which, by a strict and 
+clear resemblance, can be classed together 
+and subjected to numerical calculation, and 
+those which are of more complicated charac- 
+ter, have a less perfect analogy, differ from 
+each other by many circumstances peculiar 
+to each case, — diversities growing out of the 
+general mental, and moral constitution of 
+man, and which cannot, therefore, be so 
+legitimately classed, nor so successfully 
+brought within the category of number. 
+It is indeed somewhat singular, that La- 
+place should have placed tables of mor- 
+tality and the duration of life, and the re- 
+lative proportion of births, marriages, and 
+deaths, to population, — events of such uni- 
+formity of character, and so easily and na- 
+turally classed, — in connexion with subjects 
+so wide and general as the nature of testi- 
+mony, the decisions of popular assemblies 
+and legal tribunals, and the illusions of ima- 
+gination, — subjects which he has touched 
+but slightly. Statistical calculations ought 
+not indeed to be overlooked by the moralist, 
+
+
+
+126 PLAYFAIR ON LAPLACE. 
+
+since they furnish that extended view of 
+the phenomena of life and of the moral 
+world, which is essential to the deduction of 
+sound moral rules and principles, and af- 
+fords great help to the interpretation of the 
+laws and ends of Divine Providence in the 
+administration of the world. Any collection 
+of analogous phenomena in the physical 
+world is of importance in the moral, since 
+such collections lay the foundation of general 
+rules, and supply the exact knowledge which 
+is of the greatest use in the conduct of life. 
+But in collecting analogies we must not 
+overlook differences, and be duly cautious 
+in the application of general maxims, which 
+are apt to mislead as well as to instruct. 
+Playfair has made some just remarks on the 
+vagueness of Laplace's language and views 
+on the subject of testimony ; and it is easy 
+to conceive that Laplace's devotedness to 
+the exact sciences may have disposed him to 
+an unreasonable mistrust and disregard of all 
+conclusions of the pure intellect, drawn from 
+the phenomena of history and the moral 
+world. But when Playfair intimates that no 
+
+
+
+LAPLACE ON ASSOCIATION. 127 
+
+conclusion founded on the application of the 
+calculus to moral probabiUties should be al- 
+lowed to interfere with the truths of religion, 
+he seems to imply that such an interference 
+may be anticipated, and rationally feared, and 
+to forget that, to the philosophic mind, truth 
+in all departments must be ever consistent 
+with itself; that though the atoms of the 
+universe may be weighed and measured, and 
+every seeming accident shall be reduced to 
+order and to rule, the reasons for adoring the 
+Creator, and trusting in him and obeying 
+him, and for loving our neighbour as our- 
+selves, w^ill only be proportionably multi- 
+plied. 
+
+It is to me truly interesting to observe La- 
+place perceiving and recording the impor- 
+tance of that principle of association into 
+which Hartley, followed by Mill, resolves all 
+reasoning. ** The most fertile of all the 
+principles of psychology," (Laplace, p. 224, 
+of the 8vo. edition of his Essay,) *' is that of 
+the association of all things which have had 
+in the sensorium a simultaneous or regularly 
+successive existence ; an association whereby 
+
+
+
+128 LAPLACE OX ASSOCIATION. 
+
+the return of one calls up all the others con- 
+nected with it ; the objects which we have 
+formerly seen awaken the traces of things 
+which in the first \'iew were associated with 
+them. These traces call up in the same 
+manner those of other objects, and so on in 
+succession, so that by means of one thing 
+presented to the mind, we can recal an infi- 
+nity of others, and rest our attention upon 
+whatever we w^sh to consider. To this 
+principle the employment of signs and lan- 
+jrua^e for recallins; sensations and ideas be- 
+lonf^s ; it accounts for the formation and 
+analysis of complex, abstract, and general 
+ideas, and for reasoning. Many philosophers 
+have well developed this principle, which up 
+to the present time constitutes the real part 
+of metaphysics." " I have endeavoured to 
+show in these papers," says Hartley, at the 
+conclusion of his 99th proposition, " that 
+all reasoning, as well as affection, is the mere 
+result of association." 
+
+Some further extracts from Laplace might 
+perhaps be given with interest to the reader, 
+but it does not appear to me that Laplace 
+
+
+
+Austin's jurisprudence. 129 
+
+adds any thing to the ingenious observations 
+and speculations of Hartley, in his chapter 
+on the Deduction of Rules for the ascertain- 
+ment of Truth, and advancement of Know- 
+ledge, from the mathematical Methods of con- 
+sidering Quantity. Mr. Dugald Stewart, in 
+the Preliminary Dissertation to his Philoso- 
+phical Essays, was pleased to sneer at some 
+of the most refined and natural conclusions 
+of that great and good philosopher, Hartley, 
+in the chapter referred to, and to consider 
+them as evidence of the unsoundness of his 
+understanding. But Mr. Stewart is very 
+often unfortunate in his selection of the sen- 
+timents of the greatest English metaphysi- 
+cians, which he marks for peculiar reproba- 
+tion and contempt. 
+
+I have now brought together, and laid 
+before the reader, some thoughts which have 
+occurred to me when reading the more po- 
+pular scientific pubUcations of the day. I am 
+not without hope of awakening the attention 
+of a few, into whose hands these pages may 
+fall, to the contents and merits of authors 
+whose works they may not already sufl[i- 
+
+
+
+130 Austin's jurisprudence. 
+
+ciently appreciate, but which it is good " to 
+feed upon, as insects on a leaf, till the whole 
+heart be coloured with the fibre." The rea- 
+der who wishes to see one of the best examples 
+which our times have afforded of strictly lo- 
+gical or demonstrative reasoning applied to 
+moral and metaphysical subjects, will do well 
+to study the work of Mr. John Austin, if he is 
+not already acquainted with it, entitled, *' The 
+Province of Jurisprudence Determined," 
+being the substance of lectures delivered 
+at the Universitv of London as Professor of 
+Jurisprudence. Contrary to the practice of 
+those numerous writers who confound that 
+of which they are treating with every thing 
+else with which it can, by possibiUty, be con- 
+founded, Mr. Austin carefully distinguishes 
+his subject from every thing with w^hich it is, 
+howsoever remotely, related. He is one of 
+the few writers who does not fear to repeat 
+himself, so much as to be misunderstood by 
+his reader. He would rather give you a whole 
+sentence two or three times over, than intro- 
+duce a pronoun whose antecedent might be 
+doubtful or nonexistent. He seeks not, by 
+
+
+
+Austin's jurisprudence. 131 
+
+showy phrase, to impose on the understanding 
+of his reader, or to smooth over with received 
+verbiage the difficulties of his subject and the 
+absence of thought; and if he sometimes 
+wearies with the repetition of a lengthened 
+phrase, for which a convenient abbreviation 
+might have been advantageously adopted, we 
+could forgive much more than this to a writer 
+who feels so acutely the audacity of the para- 
+dox, " that men really should think distinctly 
+and speak with a meaning." As it bears very 
+closely, indeed, upon the topic discussed in 
+these pages, and as the matter is itself of the 
+highest importance in connexion with ethical 
+inquiries, I shall not scruple to close this 
+essay with the following extract from Mr. 
+Austin's work, feeling, as I do, its fullness 
+of truth : — 
+
+'* If there were a reading public nume- 
+rous, discerning, and impartial, the science 
+of ethics, and all the various sciences which 
+are nearly related to ethics, would advance 
+with unexampled rapidity. 
+
+'' By the hope of obtaining the approba- 
+tion which it would bestow upon genuine 
+
+
+
+132 Austin's jurisprudence. 
+
+merit, writers would be incited to the patient 
+research and reflection which are not less re- 
+quisite to the improvement of ethical than 
+to the advancement of mathematical science. 
+
+" Shght and incoherent thinking would be 
+received with general contempt, though it 
+were cased in poDshed periods, studded with 
+brilhant metaphors. Ethics would be con- 
+sidered bv readers, and therefore treated bv 
+writers, as the matter or subject of a sci- 
+ence ; as a subject for persevering and ac- 
+curate investigation, and not as a theme for 
+childish and babbling rhetoric. 
+
+" This general demand for truth, (though 
+it were clothed in homely guise,) and this 
+general contempt of falsehood and nonsense, 
+(though they were decked with rhetorical 
+graces,) would improve the method and the 
+style of inquiries into ethics, and into the 
+various sciences which are nearly related to 
+ethics. The writers would attend to the 
+suggestions of Hobbes and of Locke, and 
+would imitate the method so successfully 
+pursued by geometers ; though such is the 
+variety of the premises which some of their 
+
+
+
+Austin's jurisprudence. 133 
+
+inquiries involve, and such are the com- 
+plexity and ambiguity of some of the terms, 
+that they would often fall short of the per- 
+fect exactness and coherency which the few- 
+ness of liis premises, and the simplicity and 
+definiteness of his expressions, enable the 
+geometer to reach. But though they would 
+often fall short of geometrical exactness and 
+coherency, they might always approach, and 
+would often attain, to them : they would 
+acquire the art and the habit of defining 
+their leading terms ; of steadily adhering to 
+the meanings announced by the definitions ; 
+of carefully examining, and distinctly stating, 
+their premises ; and of deducing the con- 
+sequences of their premises with logical 
+rigour. Without rejecting embeUishments 
+which might happen to fall in their way, the 
+only excellencies of style for wliich they 
+would seek are precision, clearness, and con- 
+ciseness ; the first being absolutely requisite 
+to the successful prosecution of inquiry, 
+whilst the others enable the reader to seize 
+the meaning with certainty, and spare him 
+unnecessary fatigue. 
+
+
+
+134 Austin's jurisprudence. 
+
+" And what is equally important, the pro- 
+tection afforded by this public to diUgent and 
+honest writers, would inspire into writers 
+upon ethics, and upon the neai^y-related 
+sciences, the spuit of dispassionate inquirj', 
+the indifferency or impartiahty in the pursuit 
+of truth, wliicli is just as requisite to the 
+detection of truth as continued and close 
+attention, or sincerity and simpUcity of pur- 
+pose. Relying on the discernment and the 
+justice of a numerous and powerful pubhc, 
+shielded by its countenance from the shafts 
+of the hypocrite and the bigot, — ^indifferent 
+to the idle whistUng of that harmless storm, 
+they would scrutuiize established institutions 
+and current or received opinions fearlessly, 
+but coolly, with tlie freedom which is de- 
+manded by general utihty, but without the 
+antipathy which is begotten by the dread of 
+persecution, and wliicli is scarcely less ad- 
+verse than * the love of tilings ancient' to 
+the rapid advancement of science. 
+
+" This patience in investigation, this dis- 
+tinctness and accuracy of method, this free- 
+dom and * indifferency ' in the pursuit of the 
+
+
+
+Austin's jurisprudence. 135 
+
+useful and the true, would thoroughly dispel 
+the obscurity by which the science is clouded, 
+and would clear it from most of its uncer- 
+tainties. The wish, the hope, the prediction 
+of Mr. Locke, w^ould, in time, be accom- 
+])lished, and ' ethics would rank with the 
+sciences which are capable of demonstration.' 
+The adepts in ethical as w^ell as in mathema- 
+tical science would commonly agree in their 
+results ; and as the jar of their conclusions 
+irradually subsided, a body of doctrine and 
+authority to which the multitude might trust 
+would emerge from the existing chaos." 
+
+
+
+F I N I s. 
+
+
+
+E. KiKDFR. Printer, 21, Great New Street. 

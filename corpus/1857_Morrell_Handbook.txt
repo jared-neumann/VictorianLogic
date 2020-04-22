@@ -1,0 +1,5299 @@
+HANDBOOK OF LOGIC. 
+
+
+
+ADAPTED SPECIALLY 
+
+
+
+FOR THE USE OF SCHOOLS AND TEACHERS. 
+
+
+
+BY 
+
+
+
+J. D. MORELL, A.M. 
+
+OKI OT HER UAJIBSTY'S nrSPBCTOBS OF SCHOOLS. 
+
+
+
+SECOND EDITION. 
+
+
+
+LONDON: 
+ONGMAN, BROWN, GREEN, LONGMANS, & ROBERTS. 
+
+1857. 
+
+
+
+j^4^.^. y^. 
+
+
+
+LONDOW: 
+
+Printed by Spottihwoopb k Co, 
+New-«treetSqaare. 
+
+
+
+PREFACE. 
+
+
+
+Thbre can be no doubt, I think, that the whole system of 
+English Education has hitherto been greatly wanting in the 
+sound development of the powers of ahatract thinking. The 
+proper road, nevertheless, to the cultivation of these powers 
+appears to me to be very simple. The natural introduction into 
+the whole region of the abstract, is undoubtedly an intelligent 
+study of grammar : for grammar is the science of language, and 
+language shows the natural mode in which we generalise our 
+sensations and ideas. Affcer the principles of grammar have 
+been well understood, the laws of thought, which are spontane- 
+ously involved in language, should be studied more scientificatty : 
+and to do this we want a simple introduction to Logic, After 
+Logic, the next step should be an elementary treatise on the 
+human mind, viewed in relation both to the teacher and the 
+taught 
+
+This, then, is the plan of an elementary discipline which has 
+been for some time before my mind, and whidh I have now 
+partly realised. The ** Essentials of English Grammar** was 
+intended to be a simple introduction to the study of granmiar 
+generally ; and, consequently, is adapted rather to explain prin- 
+ciples, than to enter into all the minutiae of the English Lan- 
+guage. Next, ** The Analysis of Sentences ** was intended to 
+go somewhat further than English Grammar ordinarily has done, 
+in this country, into the general structure of language, as an 
+organ of thought. This end, I trust, it has accomplished ; and 
+I am pleased here to record my satisfaction at the large amount 
+of interest which has already become manifested in the method 
+of study there expounded. 
+
+A 2 
+
+
+
+IV PREFACi:* 
+
+I now offer the present little work as one farther contrihntion 
+to my general plan. The object of a brief coarse of Logic is, to 
+exercise the intellectual factdtieSj to accustom them to abstract 
+processes, and to giye some idea of the general laws of thought. 
+In doing so, I have followed, with the excisption of the introduce 
+tion, the usual Aristotelian road ; belieying, as I do, that even if the 
+system of Aristotle be capable of gr&at simplification (which no 
+doubt it is), yet there will be both a good exercise of the intel- 
+lect, as well as some historical interest, in treading along this 
+oldpathf which was so diligently beaten by our forefathers in the 
+middle ages. The mode of presenting the subject however will, 
+I hope, be found here much simplified. As to the illustrations 
+and exercises, I have partly made them myself, and partly culled 
+them from other books on Formal Logic. The student will 
+find, in going steadily through this Handbook, every thing 
+essential to the subject ; but if his cariosity leads him to go a 
+little further in the same direction, he might study Archbishop 
+Whately's excellent treatise, and then the Port Royal Logic, as 
+translated by Mr. Baynes of Edinburgh. At any rate I should 
+strongly recommend every student to work all the exercises 
+given at the end of the book, as he proceeds ; for it is only by 
+making such attempts for himself, that he can possibly derive 
+much mental discipline from the study of the subject. 
+
+If I can spare sufficient time from my official duties, I hope, 
+one of these days, to complete my plan in the form of an Ele- 
+mentary Psychology, viewed expressly in reference to Education. 
+
+J. D. MORELL. 
+June, 1857. 
+
+
+
+ELEMENTS OF LOGIC. 
+
+
+
+PRELIMINARY EXPLANATIONS. 
+
+# 
+
+L 
+
+All our knowledge begins, in the order of time, with 
+the exercise of the senses. When any part of the ner- 
+vous system is affected, and a feeling is produced, of 
+which the mind is conscious, such feeling is termed a 
+sensation* Sensation does not imply any knowledge 
+of the external object affecting us, — not even of its 
+existence ; it is confined wholly to the oonsciousness 
+of the internal impression. 
+
+2. 
+
+If our mental life consisted merely in the conscious^ 
+ness of successive impressions, there would be no unity 
+or connexion in it. Very soon, accordingly, in the 
+order of the mind's growth, the sensations experienced 
+begin to cluster round a central point to which they all 
+alike stand related. This central point we term self- 
+consciousness ;^\t is the instinctive feeling we possess, 
+that all our sensational impressions belong to one sub' 
+ject, which we afterwards term self, or the me. 
+
+3. 
+
+With the rise of self-consciousness there is deve- 
+loped, contemporaneously, the consciousness of an 
+
+A 3 
+
+
+
+I , 
+
+ir 
+
+'I 
+
+I 
+
+
+
+I 
+
+
+
+external world, — of its primary qualities, and its per- 
+petual changes. ' This power, which the mind possesses, 
+of passing from the inward feeling to the external 
+object producing it, is termed Perception, 
+
+The neuter verb •* I feel '* (strangely), corresponds with a «cti- 
+sation ; the active verb ** I feel " (the table), corresponds with 
+an act of perception. 
+
+4. 
+
+Perception, — or as it is sometimes termed intuition, 
+— is the primary form of human knowledge, that 
+which arises from the first direct action of the world 
+
+J without upon the mental factilties. It is by perception 
+
+or intuition, that we come to know the properties of 
+matter as they exist in time and space — extension, 
+size, resistance, motion, &c. ; and it is by a similar 
+I intuitive process, that on the presentation of the proper 
+
+external conditions, we experience the^r^^ elementary 
+consciousness of beauty, proportion, harmony, right, 
+and reverence. 
+
+All the elements of human knowledge, in fact, exist 
+primarily in the form of intuition, before they are 
+brought into a more definite state by the processes we 
+have yet to explain. 
+
+5. 
+
+The very same effort which leads the mind to per- 
+ceive objects external to itself, leads it also to grasp 
+them with the greatest possible degree of clearness. 
+This efibrt is called attention. 
+
+In directing our attention to an outward phenome- 
+non, we pass by the minor points, and seizing naturally 
+I'll upon the most striking features of it, retain them with 
+
+more than ordinary distinctness before our view, Thus 
+the mind, by virtue of its own activity, constructs a 
+new and peculiar aspect of this phenomenon, and by 
+so doing prepares the way, as we shall see, for another 
+"^erj important process in our mental history. 
+
+
+
+\ 
+
+
+
+6. 
+
+The more free and active the mind is in performing 
+any operation, the more permanent is the result. In 
+sensation the mind is least free (or spontaneous) ; and 
+consequently we cannot recall a purely sensational im- 
+pression with any thing approaching its original inten- 
+sity. In perception the mind is more free than 
+in sensation ;• and consequently our intuitions can be 
+much more perfectly reproduced than our sensations. 
+When, however, the mind has had its attention ener- 
+getically directed to a phenomenon, when it has seized 
+upon the prominent features and constructed a peculiar 
+point of view for itself, the idea of it thus formed may 
+return with almost the same vividness, with which it 
+was first experienced in the presence of the object 
+itself. This reproduction we term Memory. 
+
+7. 
+
+In sensation we experience internally a feeling pro- 
+duced by some affection of the nervous system. In 
+perception we interpret this feeling, and attribute it to 
+the object with which we stand, as it were, face to face. 
+In attention, we idealise this object by letting the un- 
+important features disappear, and by seizing the more 
+prominent points of view. Lastly, in memory we rc- 
+peat this act of attention when the object is no longer 
+present, and thus make an internal representation of 
+it to ourselves. This we term a Representative Idea. 
+
+8. 
+
+When we store up a number of these ideas in the 
+mind, disconnect them from the external phenomena, 
+from which they first took their rise, and then recom- 
+bine them into new forms or images, we are said to be 
+exercising the imagination. The order in which the 
+ideas come and go (the one calling up or suggesting 
+the other), depends upon what are termed the Laws of 
+Association. 
+
+A 4 
+
+
+
+8 
+
+
+
+9. 
+
+
+
+All the processed we have hitherto described nkay 
+go on without the aid of Language.. Our intuitions 
+are felt or experienced internally, but they can never 
+be adequately expressed. No words can convey to any 
+one the full realisation of an object which he has never 
+seen. For the same reason memory and imagination 
+(as dealing with the elements of our actual experiences) 
+lie partially beyond the range of language also. In 
+consequence of this the mental images we experience 
+in the processes of memory and imaginationy are inde- 
+finite and variable^ — merging often, like dissolving 
+views, one into the other, just as we often realise them 
+in our dreams. It is only when they are embodied in 
+* an external sign^ that they first heeome fixed, are held 
+clearly apart, and are thus raised above the fluctuations 
+of our inward and more individual experiences. 
+
+10. 
+
+When the mind has once created Language, as the 
+objective embodiment of its ideas^ it possesses an organ 
+by means of which it can proceed to a range of far 
+higher intellectual processes than would have been 
+possible without it. Every object which we contem- 
+plate externally presents to us a cluster of qualities, 
+constituting the entire phenomenon that we term a 
+thing. We have already seen, that in the process of 
+attention, the minor features of such phenomena dis- 
+appear, so that we grasp only the more prominent 
+points. Now it may so happen, that a great number 
+of different things all agree in alike possessing these 
+prominent features, on which the attention has become 
+fixed. 
+
+Thus all the different kinds of trees are alike distinguished 
+by the possession of trunk, branches, leaves, roots, &c., however 
+different in other respects. 
+
+Passing by, therefore, their numerous differences, we 
+
+
+
+£nd that they all unite in one general representation. 
+If the general representation then be in each case fixed, 
+and designated by a sign, it will soon become evident 
+that the very same term may be equally well applied to 
+a great number of individual existences ; that it will 
+express what is alike essential to them all ; and that 
+it may be henceforth used as the common sign for the 
+entire class. This process is termed Generalisation, 
+
+11. 
+
+By a slight variation of the process, we may separate 
+any given quality from a number of difierent objects. 
+This quality, when thus separated, viewed apart from 
+the several objects to which it belongs, and fixed by a 
+term,' becomes what we call an abstract idea. The 
+process of forming it is then called Abstraction. 
+
+12. 
+
+Having arrived, then, so far, the mind can banish, at 
+will, the whole concrete world, with its various images 
+and impulses, from the consciousness, and occupy itself 
+for a time only with abstractions and generalisations 
+as exhibited in words. The mental faculty which deals 
+thus with abstract and general ideas, fixes their pre- 
+cise meaning, ranges them one over the other in the 
+order of their generality^ classifies our knowledge 
+under them into definite heads, forms them into pro- 
+positions, and draws conclusions from one set of pro- 
+positions to another, is called the Understanding. 
+
+13. 
+
+The Understanding proceeds according to certain 
+fixed laws, termed the laws of Thought The region 
+of our intuitions and of our representative ideas is not 
+pervaded by any fixed and absolute laws whatever. 
+Much depends in their case on the peculiar constitution 
+of the individual mind, and the circumstances in which 
+it is placed. The succession of our ideas and the com- 
+
+
+
+I 
+
+I 
+
+
+
+10 
+
+bination of them into new forms is, we know, to 
+great extent arbitrary. Once, however, project the; 
+images out of ourselves, — objectify them — emboc 
+them in terms which are adequately defined by the 
+relation to other terms, and the whole process becom 
+subject to definite laws, which the mind is constrain< 
+to look upon as absolute. 
+
+14. 
+
+The absoluteness of the laws of thought flows fro 
+the very nature of the processes of abstraction ar 
+generalisation. In a pure generalisation we sink i 
+reference to the intuitions out of which it has be< 
+elaborated, and consider the designating term only : 
+reference to the other terms which it includes under : 
+Thus the word Eagle is used in Natural History 
+designate a certain class of birds, including some ar 
+excluding otiiers. The meaning of it is wholly dete 
+mined by the enumeration of certain qualities. Tl 
+abstract idea therefore conveyed by the term Eagle 
+definitely fixed by the understanding, though we m? 
+have no experience whatever of the thing itself, Ar 
+every general term, in like manner, looked at apa 
+from any actual experience of the thing, must 1 
+reckoned as a sign standing in a given quantitati' 
+relation to other signs. 
+
+To investigate these relations is simply performir 
+a species of calculation, with words as our cipher 
+Language gives us the ciphers ready formed, and h: 
+already partially determined, by use, how they shou 
+! stand in the order of generality. All we have to d 
+
+II then, is to calculate the precise relations, we m£ 
+
+require to know as existing between any two or mo: 
+terms, that language supplies, and thus to make the 
+/ti perfectly clear to our comprehension. In this w£ 
+
+our knowledge, so far as it reaches, is rendered precis 
+definite^ and explicit. The fixed principles accordir 
+to which we are necessarily led to classify our kno> 
+
+
+
+11 
+
+ledge in the order of generality, and carry on all com- 
+municatioH between mind and mind through the means 
+of ideas thus arranged;* are what we mean by the laws 
+of thought. 
+
+15. 
+
+The purport of Logic, then, is to investigate these 
+fixed laws of thought; to show us the principles hy 
+which our understanding is governed ; and to guard 
+us in this way against all possible fallacies in rea^ 
+soning. 
+
+The above psychological explanations give us a clear deter- 
+mination of the real province of Logic properly so called. 
+They show us — 
+
+1. That Logic has to do only with the ybrmo/ laws of thinking j 
+and takes no cognisance of the truth or falsehood of the ideas 
+themselves. 
+
+2. That Logic only investigates the laws of thoughts as em- 
+bodied and represented in language; for it is only by means of 
+language that the understanding, properly so called, can operate 
+at all Hence the philosophic truthfulness of the double meaning 
+attached to the Greek term Xoyos. 
+
+3. That Logic is a science and not an art ; investigating a 
+system of fixed laws ; and thus influencing the mind as a disci^ 
+pline, rather than teaching it a craft 
+
+4. That Logic is the most abstract of the Sciences ; as having 
+nothing to do with the matter, but only with the forms of our 
+thoughts. 
+
+16. 
+
+DIVISION OF THE SUBJECT. 
+
+Our exposition of the subject will fall under four 
+heads. ** 
+
+I. On Concepts and Terms, 
+ir. On Propositions. 
+
+III. On Reasoning. 
+
+IV. On Fallacies. 
+
+
+
+12 
+
+
+
+I. ON CONCEPTS AND TERMS. 
+
+17. 
+
+It has been already shown that the laws of thought 
+all flow from the very nature of the processes of ab- 
+straction and generalisation. When an abstract or a 
+generalised idea has been formed in the mind, we call 
+it a Concept; and when expressed by an outward sign, 
+we call it a Term, Our next duty, then, will be to 
+explain what Logic has to teach us in reference to 
+concepts ; since much will henceforth depend upon a 
+proper understanding of them. 
+
+This branch of Logic has been usually termed, the doctrine 
+of simple apprehension. This expression, we consider, is open 
+to objection. We apprehend things in various ways — by 
+perception, by the imagination, by the reason, etc., whereas in 
+Logic we have only to do with the apprehension of generalised 
+and abstract ideas in the understanding. The word concept 
+exactly answers to this latter signification ; — it is a single idea 
+in which a number of particulars are held together. The ex- 
+pression, moreover, was often used by the old English writers, 
+only written conceit instead of concept; and it has more recently 
+been brought anew into use by Sir W. Hamilton. 
+
+18. 
+THE ORIGIN AND NATURE OF CONCEPTS. 
+
+This has been partly explained already in describing 
+the processes of abstraction and generalisation. The 
+mind, we will suppose, has stored up a vast variety of 
+images, or ideas, formed from its actual perceptions. 
+Amongst these ideas, it finds a number, which possess 
+certain resemblances to each other. By confining our 
+attention to these points of resemblance, and neglecting 
+every thing else, we form one general idea, which in- 
+cludes in it all the given individuals. This general 
+idea is what we term a concept; which, it will be seen, 
+is merely an ideal whole formed in order the more 
+conveniently to classify our knowledge ; t. e. to gather 
+up the details of it under certain general heads. 
+
+
+
+13 
+
+The function of a concept, therefore, is to give us 
+not a full, but only a partial or inadequate knowledge 
+of the things to which it relates. It is indicated by 
+a mark. or sign, which designates indeed a certain 
+number of individuals, but does so only in so far as 
+they agree in some common point of resemblance. It 
+exists, therefore, as a unity, only in thought^ and not 
+at all in nature. 
+
+For Example, We gain by perception a great number of 
+experiences respecting Birds^ of all sizes, shapes, and colours. 
+In all these experiences we seize upon a certain common re- 
+semblance — and designate the general idea thus formed by the 
+term Bird, 
+
+Bird, therefore, as thought by us, is a concept, holding within 
+its meaning a certain number of individuals ; or, regarded ver- 
+bally, it is a mark, connoting certain other marks with it. 
+
+It is also a purely ideal creation, having nothing answering 
+to it in nature, as a whole; but is simply created by the mind 
+out of the different experiences, to which it has a common 
+reference. 
+
+Once more, it conveys only an inadequate knowledge of the 
+things themselves ; for it marks only the common property of 
+Birds, and neglects all the other details respecting them. 
+
+Its use is finally to classify our knowledge, and prevent the 
+necessity of infinite detail in the employment of terms, and in the 
+expression of our thoughts. 
+
+19. 
+
+CLASSIFICATION OF TERMS. 
+
+Terms are divided into two great classes, the one 
+called singular, the other universal, 
+
+A singular term is one which is applied only to one 
+thing ; that is, which only marks an individual : as, 
+Julius Caesar ; the Queen of England. Such a term 
+is really abstract in its character, since it does not 
+mark any one given experience, but denotes a ge- 
+neral idea of the individual object, formed out of all 
+the detailed experiences which we hare had respect- 
+ing it. 
+
+A universal term is one which can he ^^^Vis.^ \.^ 
+
+
+
+14 
+
+several things in the same sense: as, man; horse; 
+tree. 
+
+Various other classifications of abstract terms have been made 
+which are not of sufficient importance to the science of liOgic to 
+claim any special attention. 
+
+Thus, terms have been divided into 
+
+1 . Substantives = Nouns. 
+
+2. Attributives » Adjectives. 
+
+Again into 
+
+1. Concrete « viewed in connexion with the individual 
+object 
+
+2. Abstract = viewed apart from such connexion. 
+
+Again into 
+
+1 . Positive = denoting a reality. 
+
+2. Negative 8= denoting the a6«enre of reality. 
+
+Again into 
+
+1. Definite = marking oat the precise object 
+
+2. Indefinite = not marking out the precise object 
+
+Cum multis aliis. 
+
+20. 
+EXTENSION AND COMPREHENSION. 
+
+The process of Generalisation may proceed only to 
+a very small degree, and thus form a concept, having 
+a very few objects noted under it ; or it may proceed 
+to a very high degree, and include an immense number 
+of objects all united into one concept, by extremely 
+general resemblances. 
+
+Thus the term Englishman is less general than 
+European ; European less general than Man ; Man 
+less general than Animal ; Animal less general than 
+Organised Being ; and Organised Being less general 
+than Substance. 
+
+By the extension of a term, then, we mean the 
+precise degree of generality that is attached to it. 
+Thus an individual or singular .term has the least ex- 
+tension ; a universal word, like " substance,'' the 
+greatest extension. 
+
+The comprehension of a term signifies just the 
+reverse of the extension. In proportion as any term 
+
+
+
+15 
+
+becomes less general, it comprehends a greater number 
+of ideas under it, and is more complex in its significa- 
+tion. Thus the word European comprehends more 
+ideas in it than the word Man ; and Man more than 
+Animal. 
+
+While the extension of a term, accordingly, depends 
+upon the number of individuals it includes ; the com- 
+prehension depends upon the complexity of tlie ideas. 
+The term substance involves all possible individual 
+existences; i.e, has the greatest possible extension. 
+The individual term Caesar comprehends in it on the 
+other hand all the ideas which are involved in the 
+more general terms European^ Man, Animal, Or- 
+ganised Being, and Substance. The one marks the 
+universality oi un idea, — the other marks Ms complexity* 
+
+Hence the greater the extension of a concept the 
+less the comprehension ; and, vice versa, the greater 
+the comprehension the less the extension. 
+
+21. 
+PREDICABLES. 
+
+To predicate is to affirm one thing of another. In 
+making an aihrmation tlie thing predicated must neces- 
+sarily be more general* than that respecting which the 
+affirmation is made. Thus if I say, Animals are Men, 
+the proposition is untrue in its whole extent. If I 
+say. Human Beings are Men, the proposition is true, 
+but merely verbal. If I say. Men are Animals, then 
+there is a valid assertion made, which is universally 
+true. 
+
+In the first, the subject of the assertion is more 
+general than tlie predicate ; in the second they have 
+both the same degree of generality ; while in the third, 
+
+* Sometimes the predicate is, literally speaking, of the same 
+generaliiy as the subject, only consisting of more intelligible Ian- 
+gunge, But in these cases the affirmation only amounts to ^ 
+piere definition (^terma^ and does not convey any new truth. 
+
+
+
+16 
+
+the predicate is more general than the subject. All 
+predicates, then, are of necessity general (or universal) 
+terms; but some, of course, more general than others- 
+The doctrine of the predicables is an attempt to classify 
+them in reference to their generality ; that is, to arrange 
+in due order, under certain heads, every kind of truth 
+that can be properly predicated of any subject. 
+
+If I affirm of an individual thing that it belongs to 
+a certain class; as "This flower is arose," I designate 
+in so doing the species. If I affirm of a flower, that 
+it is a vegetable production, I now designate the 
+genus. If I say Man is rational, I designate neither 
+genus nor species distinctively, but the particular 
+quality which distinguishes him from all other beings. 
+This is termed the differentia. Once more, if I say 
+" Man is vertebrated," I designate again a universal 
+property in man — though not the distinguishing one. 
+This then is termed simply Proprium, Lastly, if I say, 
+" That man is red-haired," I designate a fact which is 
+a mere accident to the individual — (Accidens). 
+
+Thus, then, we may predicate of a thing : — 
+
+1. Its Genus. 2. Its Species. 3. Its Diflerentia. 
+4. Its Properties 5. Its Accidents. 
+
+Genus. The Genus is the most universal of the 
+predicables ; so universal that it always has one or 
+more species under it. It is not always, however, of 
+the same degree of generality ; hence the distinction of 
+summum genus, and genus suhalternum. The suni' 
+mum genus is that which has no more universal term 
+over it ; such as ^^ substance.^^ If a genus, on the con- 
+trary, has other genera over it, though of course several 
+species under it, then it is called Genus subalternum. 
+Thus the word " dog" has the term animal above it, 
+and many different species of dogs below it. It is 
+therefore a subaltern genus. 
+
+Species. Species denotes, primarily, a class having 
+only individuals under it. It is frequently used how-* 
+ever to denote species of a more general kind; hence 
+
+
+
+17 
+
+the distinction between species infimay and species 
+
+suhaltema. If a species denote the lowest possible 
+
+class, it is called species infima ; if it have classes as 
+
+well as individuals under it, it is termed species sub- 
+
+alterna. Hence summum genus and species injima 
+
+stand at the two extremes of generality ; while aU the 
+
+intermediate steps may either be termed a subaltern 
+
+species, or a subaltern genus, according as they are 
+
+regarded in relation to more general terms above them, 
+
+or less general ones beneath them. 
+
+Thus " dog" is a subaltern genus in reference to the yarious 
+species of dogs; but a subaltern species, in reference to the 
+different kinds of animals. 
+
+Differentia. The differentia is the one particular 
+property which marks a species^ and distinguishes it 
+from all others. Thus the property " rational " is the 
+distinguishing feature of man, in reference to all other 
+animals. 
+
+Proprium. By proprium we mean logically a pro- 
+perty which is universal and necessary to a whole 
+genus or species ; but which is possessed at the same 
+time by certain other genera or species as well. It 
+coincides with the differentia in being a universal at- 
+tribute, but differs from it, in not being peculiar. 
+
+Accidens. An accident is a property which may or 
+may not belong to an individual viewed in relation to 
+a species ; or to a species viewed in relation to a genus. 
+Some accidents are termed separable, others insepa- 
+rable ; — the former when they can be separated in 
+thought from the individual, the latter when such 
+separation is impossible : e.^., "M. Cousin is an inha- 
+bitant of Paris," denotes a separable accident, because 
+he might live elsewhere ; but " M. Cousin is a native 
+of Paris," is an inseparable accident, since the fact can 
+never possibly be otherwise. 
+
+The following table gives a synoptic view of the 
+Predicables. Taking Man as the subject, the words 
+
+B 
+
+
+
+18 
+
+
+
+in italics will give predicates of the kind denoted by 
+each one of the subdivisions. 
+
+Eyerj predicate expresses either 
+
+
+
+1. The whole essence 2. or, Part of its 3. or, Something joined 
+of the subject, Essence. to the Essence. 
+
+t. 6. the species, I 
+
+rational aninuU, 
+
+
+
+Genus, 
+animal 
+
+
+
+Differentia, 
+rational. 
+
+
+
+¦.\._. 
+
+
+
+Property. 
+
+
+
+Accident. 
+
+
+
+Universal hat 
+
+not peculiar, 
+
+vertebrated* 
+
+
+
+Peculiar but 
+
+not universal, 
+
+poeticaL 
+
+
+
+Universal and 
+
+peculiar, 
+
+risible. 
+
+
+
+Separable, 
+Inhabitant a/ Paris, 
+
+22. 
+CATEGORIES. 
+
+
+
+Inseparable, 
+Native of Paris, 
+
+
+
+As the Fredicables give us a classification of all 
+possible predicates to any given subject, so the Cate- 
+gories were intended to classify under a given number 
+of heads, all the subjects respecting which any thing 
+can be predicated. Aristotle's classification is as 
+follows : — 
+
+1. Substance. 
+
+2. Quantity. 
+
+3. Quality. 
+
+4. Relation. 
+
+5. Action. 
+
+6. Passion. 
+
+7. Place. 
+
+8. Time. 
+
+9. Posture. 
+10. Habit. 
+
+
+
+19 
+
+This classification is now^ generally allowed to be 
+both useless and incorrect. The attempt to classify all 
+our ideas is so purely a metaphysical problem, that it is 
+for the most part excluded from treatises on Formal 
+Logic, and assigned over to the proper science to 
+which it really belongs. 
+
+
+
+23. 
+DIVISION. 
+
+By division we mean the distribution of a logical 
+wuole into its several parts. This process is exactly 
+the opposite of Generalisation. In Generalisation we 
+lay aside the difierences, and form a mental unity out 
+of a number of individuals agreeing in some given 
+point. In division we start from a generalised idea, 
+and by adding on the differences before laid aside, 
+redistribute it into its more specific parts. Thus, by 
+adding the points of distinction, we may divide the 
+word ** metal " into gold, silver, iron, lead, etc. 
+
+The use of division is to assist us in the accurate 
+apprehension of any given term; which it does by 
+presenting the several things which are really included 
+under the one common name. To divide a subject 
+accurately, the following rules should be observed : — 
+
+1st. The division must be adequate; t. e., the parts 
+must be exactly equal to the whole, neither more nor 
+less. Thus, if in enumerating the parts of speech we 
+were to leave out the preposition, or insert the par- 
+ticiple, we should err in the first instance by defect, 
+in the second by redundancy. 
+
+2nd. The division must be distinct; i, e., the 
+parts must really be disjunct and opposed to each 
+other. When we fail in this respect, t. e, when we 
+depart from the principle of classification with which 
+we set out, and enumerate some two or more terms 
+which really include each other, we are guilty of what 
+
+B 2 
+
+
+
+20 
+
+is called a cross division. Thus to divide all the land 
+into continents, islands, and peninsulas, would be n 
+cross division ; inasmuch as first and third term may 
+include each other. 
+
+3rd. The division should be made into parts which 
+stand in the same order of generality in reference to 
+the whole. If this rule be not observed, some one of 
+the terms of a lower degree of generality will most 
+probably be included in one of the others. Or if this 
+is not the case, then the division will be inadequate. 
+The best division is that^ in which the subject is divided 
+into its proximate parts ; i. e., into parts only one de- 
+gree removed in the order of generality from the sub- 
+ject itself. 
+
+There- is nothing more important for giving clearness and 
+order to onr mental operations than to divide the subject on 
+i^'hich we are thinking with the utmost logical accuracy. The 
+above rules, if rigidly adhered to, would obviate many a diffi- 
+culty, and render simple what otherwise seems inextricably 
+confused. 
+
+It will add much to the facility with which a division is effected, 
+if we keep in mind the different sentea in which the term whole 
+is emi)loyed. 
+
+1. A logiccd whole, means a genus, while the parts of it are 
+the species. 
+
+2. A formal whole, is one which is made up of the parts of 
+definition. Rational animal, is a formal whole, of which the 
+parts are rationality and animal existence, 
+
+3. An essential whole, is viewed in reference to the component 
+parts. Thus man is a whole^ the body and the soul the parts. 
+
+4. An integral whole, is made up of separable parts, A plant 
+is a whole ; the root, stem, leaves, and blossom, the parts. 
+
+It is simply the first kind of whole that we are immediately 
+concerned with in a logical division, as that only depends upon 
+the laws of generalisation. 
+
+24. 
+
+DEFINITION. 
+
+-fe- 
+
+% Definition, in Logic, means the perfect explanation 
+
+of what is implied by a given Term. General terms 
+
+
+
+21 
+
+are frequently learned by us, the real process of 
+whose formation we know nothing about. Hence the 
+necessity of their being properly defined^ in order that 
+we may employ them correctly. To understand a 
+Terra accurately, we must know two points respecting 
+it : first, in what respect it agrees with other Terms ; 
+secondly, in what respect it differs from them. Now, 
+we show the agreement when we point out the genus 
+to which it belongs; and we show the disagreement 
+when we point out the differentia. Hence the rule for 
+the logical definition of a Term is — that we assign its 
+genus, and its differentia ; for in that way we express 
+the whole essence of the thing in question. 
+
+Care should be taken that a definition is ac^e^t^a/e, i, e, 
+neither too extensive, nor too narrow. If we define a 
+violin to be " a musical instrument with four strings," 
+the definition is too extensive; or, in other words, the 
+differentia is not correctly assigned. So, if we define 
+an animal to be ''an organised being with a vertebrated 
+spine," the definition is too narrow. 
+
+Species alone admit of real definition. The 
+summum genus, and the individual, can only be de- 
+cribed; for we cannot point out either their genus or 
+differentia. The same may be said of indefinite and 
+negative terms, of aggregates and concretes. 
+
+Metaphorical terms are more or less used by all writers and 
+speakers, and used frequently when they are hardly aware of 
+it. It is needless to say that such terms do not admit of exact 
+definition. They must rather be explained — stripped of their 
+figurative dress — put into a purely abstract form — and then 
+defined. * 
+
+
+
+B 3 
+
+
+
+22 
+
+n. ON FEOPOSITIONS. 
+25. 
+
+Hitherto we have treated only of individual terms 
+and concepts. We have shown how they are formed, 
+how classified, how they may he regarded in relation 
+to their extension and comprehension^ how divided, 
+and how defined. A single term does not express, 
+however, a complete thought; to do this we require a 
+proposition^ that is, according to the usual definition, 
+" A judgment clothed in words." 
+
+Every proposition, logically considered, consists of 
+three parts : the subject, the predicate, and the copula. 
+The subject is that of which something is afiirmed ; 
+the predicate is that which we declare respecting the 
+subject ; the copula (consisting of the substantive verb 
+" to be ") connects the two terms together. 
+
+Sub, Cop, Pred. 
+
+Man is mortal. 
+
+In Logic the proposition is always regarded as existing in one 
+particular form, namely, as consisting of two terms coupled 
+together by the verb **to be." It is needless to say that, gram- 
+maUcaUy speaking, the proposition assumes a variety of other 
+forms ; the copula being often concealed in the finite verb. 
+
+
+
+26. 
+
+SUBSTANCE OF PROPOSITIONS. 
+
+With regard to their substance, propositions are 
+either simple or compound, A simple proposition is 
+said to be categorical, because it makes one direct 
+assertion, without any condition or qualification. 
+
+All men are mortal. 
+
+Compound propositions occur in various forms. 
+Some are copulative, some disjunctive, some hypothe- 
+tical, and some adversative. Of these we shall speak 
+hereafter. • 
+
+
+
+23 
+
+Categorical propositions are sometimes divided into pure and 
+modaL A pure categorical proposition is one which asserts a 
+truth without any qudification whatever. A modal proposition 
+is one which asserts a truth in some particular form, or with 
+some particular qualification : as, 
+
+John is gone home — Pure, 
+
+John is probably gone home — ModaL 
+
+In modal propositions the assertion is called the dictum; the 
+qualification the modus. Every modal proposition may be con- 
+verted into a simple one, by turning the dictum into a subject 
+and the modus into a predicate, and then forming a new pro* 
+position of them ; thus : That John has gone home is probable; 
+
+
+
+PURE CATEGORICAL PROPOSITIONS. 
+
+27. 
+
+QUALITY, 
+
+Every categorical proposition possesses Quality. 
+By the quality of a proposition is meant its power of 
+expressing an afiSrmative or a negative judgment. 
+
+Gold is a metal — Affirmative, 
+Salt is not a metal — Negative, 
+
+The negation in propositions is expressed variously : 
+sometimes by the negative particle, as above; and 
+sometimes by no^ neither, not any, etc. : as, 
+
+No fools are admired. 
+
+If the negative particle affects only the predicate, 
+the proposition may be treated as affirmative : as, 
+
+Sub, Cop, Fred, 
+
+These men are no fools. 
+
+28. 
+
+QUANTITY. 
+
+Every proposition has quanHty, By the quantity 
+of a proposition is meant the power it has of affirming 
+something of the whole^ or of only some part of the 
+
+B 4 
+
+
+
+24 
+
+subject. A proposition which affirms something 
+respecting the whole extent of the subject is called 
+universal: as. 
+
+All men are mortal. 
+
+A proposition which affirms something respecting a 
+part only of the subject is called particular: as. 
+
+Some men are wise. 
+
+Thus the quantity of a proposition depends upon 
+whether the subject is taken in the whole of its exten- 
+sion or only a part of it. 
+
+A. The following subjects are considered as taken 
+universally, that is, (in technical language,) as being 
+distributed. 
+
+1 . Singular terms : as, John is happy. 
+
+2. Terms with some adjective prefixed (whether 
+affirmative or negative) which denotes universality : as 
+all, every, no, not any, etc. : — as. 
+
+Ail men, or every man i ^^^ I mortal. 
+
+No man, or not any man is to be despised. 
+
+3. Indefinite terms, so used as to imph/ universality : 
+
+as, Bees are wise insects. 
+
+B. The following subjects are considered as taken in 
+a particular sense ; t. e., as being undistributed, 
+
+1. Terms with an adjective prefixed tliat denotes 
+particularity : — 
+
+Some men are wise. 
+
+2. Indefinite terms so used as to imply a particular 
+rather than a universal signification : — 
+
+Cherries are ripe. 
+
+The way in which the quantity of indefinite terms is decided 
+18, by considering the matter of the proposition itself. When the 
+tmth expressed implies necessity or universality, an indefinite 
+term is taken in its whole extension} when a mere contingent 
+truth is expressed, an indefinite term is to be regarded as parti- 
+cular. It u universally true, for example, that Bees are wise 
+
+
+
+25 
+
+insects, but only contingently so that Cherries are ripe. Hence 
+** Bees " is regarded as a uniyersal term, ** Cherries " as a parti- 
+cular one. 
+
+
+
+29. 
+QUANTITY OF THE PREDICATE. 
+
+The quantity of a proposition, taken as a whole, 
+depends upon the subject being either universal or 
+particular, as the case may be ; but it is equally im- 
+portant for us to consider the quantity of the predicate, 
+since there are various important conclusions de- 
+pending upon it. 
+
+The general rule for the extension of the predicate 
+is: that in all affirmative propositions it must be 
+regarded as particular ; while in all negative propo- 
+sitions it is universal. 
+
+The reason of this will be evident, when we consider 
+that all we assert in an affirmative proposition is, that 
+the predicate includes the subject. Thus in the pro- 
+position. 
+
+All stones are minerals, 
+
+we only employ the word minerals in so far as it coin- 
+cides with the word stones : that is, only in a part of 
+its extension. 
+
+On the other hand, in a negative proposition, we 
+assert that no part of the subject is contained in any 
+part of the predicate. Thus when I say. 
+
+No stones are metals, 
+
+I exclude the notion "stones" from the entire extension 
+of the word " metals ; " and consequently use it in its 
+whole generality. 
+
+If the quantity of the predicate were properly expressed, i,e. 
+the exact extent in which tlie term is employed, in each case, 
+clearly noted, it woald add much to the simplification of all the 
+succeeding logical forms, whether in the conversion of proposi- 
+tions, or in the mechanism of the syllogism. As this idea, how- 
+
+
+
+26 
+
+ever, first proposed by Sir W. Hamilton, has not yet been gene- 
+rally adopted, we shall present the syllogism in the usual 
+manner, merely indicating where simplifications might be made 
+by means of the quantification of the predicate. 
+
+
+
+30. 
+
+
+
+We have now explained — 1. Of what parts every 
+proposition consists ; viz, of a subject, predicate, and 
+copula. 2. We have shown how propositions may be 
+classified, in reference to their substance. 3. In re- 
+gard to simple, categorical propositions, we have 
+pointed out what is meant by their quality, and their 
+quantity. 4. And we have shown, last of all, how to 
+determine the quantity of the predicate. 
+
+For convenience' saie, Logicians have agreed to re- 
+present propositions, in reference to their quality and 
+quantity, by the four vowels, A, E, I, 0. Thus, as 
+there are two kinds of quality, and two of quantity, the 
+four kinds of proposition resulting from their combi- 
+nation are as follows : 
+
+1. Universal affirmative = A. 
+
+2. Universal negative =E. 
+
+3. Particular affirmative=I. 
+
+4. Particular negative=0. 
+
+We have next to show, when any given proposition 
+is presented to us, what other propositions may be cor- 
+rectly and logically drawn from it. 
+
+Let us take as an example, the oft-repeated pro- 
+position, 
+
+All men are mortal : 
+
+What can we at once conclude from this? i, c, what 
+other propositions can we affirm as included in it ? 
+
+First, then, if we know that all men are mortal, we 
+can positively affirm the less general truth, " Some 
+men are mortal." This conclusion of a particular 
+truth from a universal^ is termed subaltemation. 
+
+
+
+27 
+
+Secondly, hj transposing the terms we can also 
+affirm that " Some mortals are men." This is termed 
+conversion. 
+
+Thirdly, by turning the affirmative into a negative, 
+we can again predicate that, "No men are not mortal." 
+This is termed opposition. We must next explain, 
+therefore, the laws of subalternation, of conversion, 
+and of opposition. 
+
+
+
+31. 
+
+SUBALTERNATION. 
+
+By subalternation we mean the conclusion of a par- 
+ticular truth from a universal. The correctness of the 
+conclusion depends upon the relation which a logical 
+whole bears to its parts. If the whole includes the 
+parts, then what is true of the whole must be true of 
+each part taken separately. The universal truth is 
+called the subalternans, and the particular one, deduced 
+from it, the subalterna. The two rules of subalter- 
+nation, then, are as follows: 
+
+1. From the truth of the subalternans follows, ne- 
+cessarily, the truth of the subalterna. 
+
+All men are mortal — Subalternans, 
+'.* Some men are mortal — Subalterna, 
+
+2, From the truth of the subalterna nothing can be 
+concluded respecting the truth of the subalternans. 
+From the proposition, " Some birds are rapacious," you 
+cannot conclude anything whatever respecting all birds. 
+
+
+
+32. 
+
+CONVERSION. 
+
+To convert a proposition means to transpose the 
+terms, and thus draw another proposition from it of 
+the same quality. 
+
+
+
+28 
+
+In some propositions this is very readily accom- 
+plished, a simple transposition of the terms being all 
+that is necessary to do so. 
+
+Thus from the proposition, No stones are metals^ it 
+follows at once that No metals are stones. So also it 
+follows from the proposition, Some birds are rapacious^ 
+that Some rapacious things are birds.. 
+
+But a simple transformation will not always hold 
+good. Thus we cannot conclude from the proposition, 
+All metals are minerals^ that All minerals are metals : 
+nor from the proposition, Some minerals are not stones^ 
+that, Some stones are not minerals. 
+
+From the above instances we see, that the two kinds 
+of propositions in which a simple transposition can take 
+place are, a universal negative, E, and a particular 
+affirmative, I. And the reason of this is plain ; — for as 
+in E both subject and predicate are distributed^ there 
+is no change made in the extension of either term by 
+a simple transposition of them. So also, as in I both 
+terms are undistributed, they are both taken exactly in 
+the same extension when converted. 
+
+On the contrary, if we take a universal affirmative, 
+A, such as All metals are minerals^ here the subject is 
+universal, and the predicate particular (§ 29). But if we 
+transpose the terms, immediately the predicate, which 
+wa^ particular, becomes universal; and the subject, 
+which was universal, becomes particular ; so that 
+any conclusion thus drawn, would violate the rules of 
+subalternation (§31). To convert a proposition A, 
+therefore, we must not only transp3se the terms, but 
+limit the quantity , and conclude another proposition 
+in I. Thus from the proposition. All metals are 
+minerals, you can simply conclude, by transposition, 
+that Some minerals are metals. This is called conversio 
+per accidens, or otherwise, conversion by limitation. 
+
+But then, what are we to do with O, which can be 
+converted in neither of these two ways ? The simplest 
+method is to attach the negative to the predicate; 
+
+
+
+29 
+
+then becomes I^ and can be simply converted. 
+Thus from, — 
+
+Sub. Cop. Pred, 
+
+Some minerals are not stones, 
+
+it follows that Some things that are not stones are mi" 
+nerals. This is termed conversion by negation. 
+
+As a proposition in E can be converted by limitatioti 
+as well as simply ; and a proposition in A can be con- 
+verted by negation as well as by limitation^ the whole 
+of the possible methods of conversion may be thus 
+summed up : — 
+
+E, I, are converted simply. 
+
+A, E, are converted by limitation. 
+
+A, O, are converted by negation. 
+
+If the exact qaantity of the predicate were expressed in each 
+case, then every proposition might be simply converted ; for then 
+each term being affirmed of every other in a precise sense, the 
+simple transposition would take place without violating any of 
+the rales of subaltemation. 
+
+
+
+33. 
+OPPOSITION. 
+
+By opposition we mean the difference in quality be- 
+tween propositions which have the same subject and 
+predicate. Take the two following opposites : — 
+
+All stones are minerals. 
+Some stones are not minerals. 
+
+Now here there is a positive contradiction, of such 
+a nature that if one of the propositions be true, the 
+other miLst be false. Hence, if you know the truth of 
+either of these propositions, you can at once conclude 
+on the falsity of the other; — an inference which directly 
+follows from the laws of subaltemation. 
+
+Again, if I affirm as true, No stones are metals, it 
+is equally certain that the proposition^ '^ Some stones 
+
+
+
+30 
+
+are metals^** is false ; and for the same reason as that 
+above stated. 
+
+In these two cases it will be seen there is a com- 
+plete opposition, not only in quality, but also in quart- 
+tUy, between the two propositions in question ; hence 
+they are calledc ontradictories. Contradictories, then, 
+are so related that one of them must be false, and the 
+other true. This may be exemplified in the following 
+couple : — 
+
+All men are good ; 
+Some men are not good ; 
+
+where we see by a moment's reflection that we have 
+one false proposition, and one true one. Logic has 
+nothing to do with determining which one is false, and 
+which true ; it merely decides their relation to each 
+other. 
+But again, take the following two propositions : — 
+
+All stones are minerals. 
+No stones are minerals. 
+
+Now of these two propositions you may immediately 
+conclude, as before, the falsity of one from the known 
+truth of the other. But it may also happen that both 
+of them are false, which will certainly be the case if 
+the predicate happens only partially to agree with the 
+subject, as in the following couple : — . 
+
+All men are good — (false). 
+No men are good — (false). 
+
+Opposition, then, between two universal affirmative 
+propositions, is called contrariety ; and the two pro- 
+positions are called contraries to each other. 
+
+Once more, take the two following propositions : — 
+
+Some stones are minerals. 
+Some stones are not minerals. 
+
+Now both of these propositions may be true, but they 
+cannot possibly both be false. It may easily be the 
+
+
+
+. 31 
+
+case, however, that the one is true, and the other false. 
+Opposition between two propositions, such as these, i.e. 
+between two particular affirmations, is called subcon' 
+trariety ; and the propositions themselves, are called 
+suhcontraries. 
+
+The laws of opposition, then, maj now be summed 
+up in few words. Opposition can take place in three 
+ways: — 
+
+1. Between two universal propositions. 
+
+2. Between two particular propositions. 
+
+3. Between two propositions, the one of which is 
+universal, and the other particular. 
+
+The first are called contraries. 
+
+The second are called subcontraries. 
+
+The third are called contradictories. 
+
+In the first, both may be false, but both cannot be 
+true ; and if one is true the other mtist be false. 
+
+In the second, both may be true, but both cannot 
+be false ; but if the one is false, the other must be 
+true. 
+
+In the third, one must be false, and. then the other 
+must be true. 
+
+With regard to the question, which of the propo- 
+sitions is true, and which false, in each instance ? this 
+of course depends upon the matter, whether it be 
+necessary, or impossible, or contingent. In necessary 
+matter the affirmative will always be true, and the 
+negative false ; in impossible matter the negative will 
+always be true, and the affirmative false ; while in 
+contingent matter the particular will always be true, 
+and the universal false. 
+
+Opposition between two singulars is reckoned as contradiction^ 
+not contrariety, because they absolutely exclude each other. 
+
+The following scheme conveys to the eye the whole 
+of the principles of opposition: — n. i. c. meaning 
+
+
+
+32 
+
+
+
+respectively, necessary, impossible, and contingen 
+matter ; and t. and f. meaning true, and false ; thei 
+n. t. will mean, in necessary matter, true ; i. f. ii 
+impossible matter, false, etc. 
+
+
+
+n. t. 
+i.f. 
+c. f. 
+
+
+
+Contraries.- 
+
+
+
+E 
+
+
+
+n. t 
+i. f. 
+c. t. 
+
+
+
+
+n. f. 
+i. t 
+c. I. 
+
+
+
+Subcontraries.- 
+
+
+
+n. f. 
+
+
+
+34. 
+
+
+
+
+COMPOUND PROPOSITIONS. 
+
+We have shown the most important points to be 
+noted respecting simple categorical propositions. It 
+only remains, under this division of the subject, to ex- 
+plain briefly the varieties of the compound proposition. 
+
+1. The copulative proposition is that in which the 
+parts are joined by the copulative particle "and," 
+as: — 
+
+England and France are in Europe. 
+
+Here, for the proposition to be true, aU the parts 
+must be true. 
+
+
+
+33 
+
+2. The disjunctive proposition is that in which the 
+parts are united by the disjunctive particle "or," 
+as: — 
+
+John or Marj is to blame. 
+
+Here, for the proposition to be true, only one of the 
+parts need be correct. 
+
+3. The adversative proposition is that in which the 
+parts are related by an adversative particle, such as 
+" though/' or " although : "— 
+
+Though Cicero was a Roman, he was also a 
+philosopher. 
+
+4. The hypothetical proposition is that in which 
+the parts are united by some conditional particle, such 
+as "if:"— 
+
+J£ animals think, they have souls. 
+
+While a term simply answers to a generalised idea, a proposi' 
+Hon answers to a complete thought, in which there is a perceived 
+relation between two ideas of a different degree of generality. 
+The copula simply expresses this relationship. Thus, if I say 
+** Coal is black," all that I mean, logically, is that the cluster of 
+other qualities forming the phenomenon coal, is always asso- 
+ciated with the one quality black. So, if I say ** Coal is a 
+mineral," all I mean, logically, is that the qualities peculiar to 
+coal are only found in connexion with the general qualities which 
+make up the concept ** mineral" Thus every logical proposition 
+is a species of equation having qualities for the terms employed ; 
+and all logical statements may be thus shown to admit of an 
+algebraical form. — Vide Boole*8 ** Investigation of the Laws 9/ 
+Thought** 
+
+
+
+34 
+
+
+
+m. ON REASONING 
+35. 
+
+In explaining the nature of subalternation, conver- 
+sion, and opposition, we showed how, from a given 
+proposition, a number of other propositions might be 
+correctly drawn. In these cases, however, the new 
+propositions did not contain any new truth ; they were 
+simply different ways of arranging the very same terms, 
+so as to present the contained truth in a variety of 
+different forms. 
+
+In reasoning, however, we deduce from two or more 
+given propositions, a new truth which is not directly 
+contained in either of them. 
+
+When reasoning is stated in a purely logical form, 
+it is termed a Syllogism. Our object, therefore, in 
+the present division of the subject, will be to explain 
+the nature of syllogisms, — their mechanism, and their 
+laws. 
+
+The following is a syllogism in regular form : — 
+
+All philosophers are studious, 
+Caius is a philosopher, 
+Caius is studious. 
+
+Let us see of what it consists. 
+
+Proximately it consists of three propositions. The 
+two first are called the premises, and the last is called 
+the conclusion. 
+
+If we look more closely into each of these propo- 
+sitions, we shall find that they are altogether made up 
+of three terms. The question which has to be dis- 
+cussed, and the conclusion we desire to draw, is the 
+fact contained in the last of the three propositions, 
+viz., Caius is studious. In this proposition, as in all 
+Sy the subject is necessarily less extensive than the 
+
+
+
+
+35 
+
+predicate. Hence, the predicate of the conclusion has 
+been named the major term, and the suhject of the 
+conclusion the minor term. This is invariahlj the case 
+in all regular syllogisms. ' 
+
+Now to compare the two terms, Caius and stttdious, 
+and prove their congruity, we select a third term, 
+which we know to be related to both ; so that by 
+showing the agreement of the major and minor with 
+this third or middle terra, we can determine their 
+agreement with each other. 
+
+The process is in form similar to that by which we 
+ascertain any two objects at a distance to be of the 
+same length. As we cannot compare one with the 
+other directly^ we compare them both with some com- 
+mon standard, and, by means of their relation to it, 
+conclude upon their relations to each other. 
+
+In making this comparison in the above syllogism, 
+we first take the major term studious, and compare it 
+with the middle term philosophers ; thus, — 
+
+All philosophers are studious : 
+
+This is called the major premiss, because it is that 
+which contains the major term. 
+
+Next we take the minor term, Caius, and compare 
+it also with the middle term ; thus, — 
+
+Caius is a philosopher : 
+
+This is called the minor premiss, as containing the 
+minor term. Then from the two — 
+
+All philosophers are studious, and 
+Caius is a philosopher, 
+
+we deduce, — 
+
+Caius is studious : 
+
+which is the conclusion. 
+
+
+
+2 
+
+
+
+86 
+
+
+
+36. 
+CONCLUSIVENESS OF SYLLOGISM. 
+
+Let us now see on what the conclusiveness of the 
+syllogism (t. e. the ms consequentitB) depends. The 
+whole theory is founded upon the relation of a logical 
+whole to its parts ; consequently it springs primarily 
+out of the very nature of the concept^ as a valid act of 
+generalisation. The relation of a logical whole to its 
+parts is such, that whatever can he afllrmed or denied 
+of a genuSy can also be affirmed or denied of all the 
+species or individuals included in it. 
+
+Now in every syllogism there is something affirmed 
+or denied of a genus in the major premiss. The 
+major premiss, accordingly, really involves the con- 
+clusion, only in too disguised a manner, frequently, 
+to be at first seen. The truth, e.g., that all philosophers 
+are studious, involves the truth that Caius is studious ; 
+only it has to be shown that Caius is really a philo- 
+sopher, to make that conclusion self- apparent. 
+
+The major premiss, then, states the general truths 
+upon the knowle^e of which the whole argument is 
+based;-— the minor premiss next draws the subject of 
+the conclusion into the scope of this general assertion, 
+by showing that it is a species under the very genus, 
+respecting which the first affirmation was made. This 
+being done, the conclusion follows^ that the species or 
+individual (Caius) must also agree with that same 
+term studwtes, with whieh the genus it has been 
+shown to belong to (viz. philosophers) also agrees. 
+This is the principle expressed by the celebrated axiom 
+of Aristotle generally called the " Dictum de omni et 
+nullo," which may be thus expressed : — " That what' 
+ever is prediceUed of a term in its full extension, 
+
+
+
+37 
+
+whether affirmatively or negatively^ may^ in like man- 
+ner he predicated of every thing contained under it, 
+
+37. 
+GENERAL LAWS OF THE SYLLOGISM. 
+
+We have explained what the nature of a Syllogism 
+is, and on what general axiom its validity is hased. 
+The principal things to he kept in mind are — First, 
+that in every syllogism there are three termSf the 
+major, the minor, and the middle term. Of these the 
+major has the greatest extension, the minor the least, 
+while the middle term has an extension hetween the 
+two. Hence the major and minor terms are some- 
+times called the extremes. Secondly, that in every 
+syllogism there are also three propositions ; the major 
+premiss, comparing the major and the middle term, 
+the minor premiss, comparing the minor and the middle 
+terms, and the conclusion, comparing the extremes. 
+The whole object of the syllogism is to compare these 
+extremes with each other by means of their mutual 
+relation to a third term. 
+
+In the syllogism which we have already adduced, 
+all the three propositions are universal affirmatives 
+(A A A). Such, however, need not be the case. All 
+four kinds of propositions, affirmative and negative, 
+universal and particular, may take their place in a 
+regular syllogism ; as in the following : — 
+
+E. — Xo stones are metals. 
+A. — All flints are stones, 
+VE. — No flints are metals. 
+
+And again : — 
+
+A. — All stones are minerals, 
+L — Some marbles are stones, 
+•.•I. — Some marbles are minerals. 
+
+Now there are certain rules which apply to all syl- 
+logisms, the violation of any one of which would pro- 
+
+C 3 
+
+
+
+38 
+
+duce an illegitimate and false conclusion. These rules 
+are easily reduced to six; three respecting quantity, 
+two respecting quality, and one respecting both. 
+
+Rule T. — The middle term must be once distributed, 
+i.e. taken in its whole extension. Were this not the 
+case there would be no fixed standard of comparison 
+between the extremes — since one of them might agree 
+with one part of the middle term, and the other with 
+another part : so that in fact there would be two middle 
+terms employed. Thus from the following premises no 
+conclusion could be drawn : — 
+
+Some philosophers are studious, 
+Caius is a philosopher : 
+
+for the philosophers that are studious, and the 
+philosophers to which Caius belongs might be two 
+difiTerent species, and have no relation to each other in 
+respect of studiousness. 
+
+Rule IL — Neither of the extremes must be taken 
+more universally in the conclusion than they are in 
+the premises ; for if they are, we draw a broader in- 
+ference than the premises warrant. Take the following 
+example i — 
+
+Many animals chew the cud, 
+Men do not chew the cud, 
+vMen are not animals. 
+
+Here "animals" is taken only in part of its ex- 
+tension, in the major premiss, and in the whole of its 
+extension in the conclusion (§ 29). We have, there- 
+fore, an illicit process of the major. If it were true 
+to say. All animals chew the cud, then the conclusion 
+would be justified. 
+
+Rule III. — If both premises be particular, no con- 
+clusion whatever can be drawn. For in this case 
+either the middle term will be undistributed, or there 
+will be an illicit process similar to that given under 
+the last rule. 
+
+
+
+39 
+
+Rule IV.— If both premises be affirmative^ the con- 
+clusion must be so too. Self-evident. 
+
+Rule V. — If both premises be negative, no con- 
+clusion whatever can be drawn. For in this case, the 
+middle term is shown to disagree with both the major 
+and the minor, so that it cannot serve as any standard 
+of comparison between them. 
+
+Rule VI. — The conclusion always follows the weaker 
+part. That is, if one of the premises be particular, 
+the conclusion must be particular : and if one of the 
+premises be negative, the conclusion must be negative 
+also. The first arises from the laws of sub-alternation, 
+which does not allow us to conclude any thing respect- 
+ing a whole genus from what is true of a species. 
+'I'he second arises from the fact, that agreement can- 
+not be inferred from disagreement. 
+
+38. 
+OF MOODS. 
+
+It has been already shown, that all the four kinds 
+of propositions, viz. A, E, I, O, may enter into a cor- 
+rect syllogism. It does not follow from this, that 
+an^ combination of them will suffice to form an 
+argument, valid in form. Many combinations, we 
+see at once, would violate several of the general rules 
+laid down in the last paragraph — such as A £ A; 
+A I E, 8cc. Now the combinations which a syllo- 
+gism can take in relation to the quantity and quality 
+of its three propositions, are called Moods ; and it is 
+important to determine both how many moods are 
+possible and how many are valid. 
+
+With regard to the possible number of moods, this 
+is a mere question of Arithmetic. There are four 
+kinds of propositions (A, E, I, O), and three proposi- 
+tions in each syllogism. Now any one of these four 
+kinds of propositions may be in the major premiss, and 
+any one of them also in the minor. This will give 4x4, 
+
+4 
+
+
+
+40 
+
+or 16^ different forms for the two premises. But each 
+of these 16 premises may have any one of the four 
+kinds of proposition for a conclusion — consequently, 
+the possible combinations of them in the syllogism 
+are in number 16 x 4, or 64. 
+
+Now of these 64 possible combinations, no less than 
+53 are excluded. For 28 will be found to violate the 
+3rd and the 6th of the general rules; 18 violate the 
+5th rule ; 6 violate the fourth ; and one is useless as 
+giving a particular conclusion, when a general one is 
+admissible. Eleven moods therefore remain as valid 
+for framing a legitimate syllogism. These are AAA; 
+AAI;AEE; AEO; All; AOO; EAE; 
+EAO; EIOj lAI; O A O. 
+
+39. 
+OF FIGURE. 
+
+It has been already shown, that the middle term 
+appears both in the major and minor premiss of a 
+syllogism. It is not necessary, however, that it should 
+always hold the same place there. 
+
+In most of the syllogisms, which we have already 
+cited, the middle term stands as the subject of the 
+major, and the predicate of the minor premiss. But it 
+may be also the subject of both, or the predicate of 
+both, or the predicate of the major, and the subject of 
+the minor. Now these four different positions, which 
+the middle term can take in the premises of a syllo- 
+gism give rise to what are called the ^figures. 
+
+In the 1st figure, the middle term is the subject of 
+the major and the predicate of the minor : 
+
+All stones are minerals, 
+Marble is stone, 
+*•* Marble is a mineraL 
+
+In the second figure, the middle term is the predi- 
+cate of both premises : 
+
+
+
+41 
+
+No good man delights in hurting the feelings of 
+
+others, 
+Libellers delight in hurting the feelings of others, 
+VNo good man is a libeller. 
+
+In the third figure, the middle term is the subject 
+of both premises : — 
+
+All true penitents will find meroy, 
+Some true penitents have been great sinners, 
+V Some, who will find mercy, have been great sinners. 
+
+In the fourth figure the middle term is the predicate 
+of the major and the subject of the minor : — 
+
+All stones are minerals. 
+No minerals are organised, 
+\*No stones are organised. 
+
+40. 
+
+' OF MOOD AND FIGURE COMBINED. 
+
+We have before seen, that there are 1 1 moods which 
+do not violate any of the general laws of the syllogism. 
+Of these 1 1 moods there are 6 which will hold good 
+in each figure. Taking, then, mood and figure to- 
+gether, there are 24 conclusive forms of the syllogism. 
+Several of these, however, are useless, as giving us a 
+pai*ticular conclusion, where a universal one is equally 
+legitimate, so that the one is really involved in the 
+other. Leaving out, therefore, the useless moods, wo 
+find that there are 4 which can staitd in the first 
+figure, viz. AAA;EAE;AII; and E I ; 
+that there are 4 which can stand in the second figure, 
+viz. E A E ; A E E ; E I ; and A : that 
+there are 6 which can stand in the third figure, viz. 
+AAI; lAI; All; E AO; OAO;andEIO: 
+and that there are 5 which can stand in the fourth 
+figure, viz. A. A I; A E E; I A I; E A 0: and 
+£ I 0. — Nineteen available moods in all. 
+
+
+
+42 
+
+To aid the memory of the student these moods have 
+been combined into the following 5 hexameter lines. 
+Fig. 1, Barbara^ celarent, Darii, ferioque prions- 
+Fig. 2. Cesare, camestres^ festino^ haroko secundse. 
+p. q fTertia, Darapti., disamis, datisi, felapton, 
+
+®' * \ BokardOfferison habet ; quarta insuper addit, 
+Fig. 4. Bramantipy camenes, dimaris, fesapo^ fre- 
+
+sison. 
+In these lines the three vowels in each of the words 
+printed in italics give the moods of each figure. 
+Adopting, therefore, this phraseology, we can speak of 
+a syllogism being drawn in Barbara, in Camestres, 
+&c., the very mention of which words determines at 
+once the mood and tlie figure, when the five hexameters 
+have once been committed to memory. 
+
+41. 
+
+SPECIAL RULES OF THE FIGURES. 
+
+As each of the four figures places an argument in a 
+particular form, determined by the position of the 
+middle term in the premises, so each is subject to 
+certain special rules, in addition to the six general 
+rules before explained. 
+
+SPECIAL RULES OP THE PmST PIGURE. 
+
+1. The major must be universal, 
+
+2. The minor must be affirmative. 
+
+For if the minor is negative, the major must be 
+affirmative (Rule 5), and the conclusion negative (Rule 
+6). Then the conclusion being negative, the major 
+term would of necessity be taken universally in the 
+conclmion (§ 29): whereas it could only be taken 
+particularly in the major premiss, as being the predi- 
+cate of an affirmative proposition ; so that Rule 6 would 
+be violated. Also the major must be universal, or else 
+the middle term (being particular in the minor) would 
+not be once distributed, and Rule 1 would be violated. 
+
+
+
+43 
+
+
+
+SPECIAL RULES OF THE SECOND FIGURE. 
+
+1. The major must be universal, 
+
+2. The conclusion must be negative. 
+
+For in the second figure the middle term is the pre- 
+dicate of both premises. Hence one of them must be 
+negative (or the middle term would not be taken once 
+universally), and consequently the conclusion must be 
+negative. Also the major must be universal, otherv^ise 
+the major term^ being taken universally in the conclu- 
+sion (as being the predicate of a negative proposition), 
+would only be taken particularly in the premises. 
+(Violation of Rule 6.) 
+
+SPECIAL RULES OP THE THIRD FIGURE. 
+
+1. The minor must be affirmative, 
+
+2. The conclusion must be particular. 
+
+In the third figure the middle term is the subject of 
+both premises. Now if the minor were negative the 
+major would have to be affirmative, and consequently 
+tlie major term would be particular ; whereas the con- 
+clusion being negative it would be there taken univer- 
+sally. (Violation of Rule 6.) 
+
+The conclusion must also be particular because one 
+of the extremes at least must be particular where they 
+are both the predicates of the two premises. Were 
+til is not the case, both premises would be negative, and 
+no conclusion whatever could be drawn. 
+
+SPECIAL RULES OF THE FOURTH FIGURE. 
+
+The special rules of the fourth figure are merely 
+hypothetical ; namely, 1. If the major is affirmative 
+the minor must be universal. 2. If the minor is af- 
+firmative the conclusion must be particular. 3. If 
+either premiss be negative, the major must be universal. 
+
+As the fourth figure is an awkward, and in fact use- 
+less, form of syllogistic reasoning, we need not dwell 
+upon these special rules any farther than merely men- 
+
+
+
+44 
+
+tioning them. The student hy a little thought can 
+easily verify them for himself. 
+
+The first, second, and third figures, have all certain 
+advantages, according to the kind of argumentation we 
+are desirous of carrying on. 
+
+The first figure is in form by far the most perfect. 
+All syllogistic reasoning, be it observed, proceeds upon 
+the subordination of a part to a whole ; ue, on the 
+dictum^ that what is true of the genus is true of all the 
+species under it. The syllogism therefore should be so 
+framed, as to show this subordination through the in- 
+tervention of the middle term, in the clearest possible 
+way. Tliis is accomplished only in the first figure, 
+where everything proceeds regularly according to the 
+dictum de omni et nullo : — 
+
+All men are mortal, 
+John is a man, 
+John is mortal. 
+
+The second figure, having always a negative con- 
+clusion, is well adapted for disproving something that 
+has been affirmed by an opponent : — 
+
+None who despise charity are truly virtuous. 
+Bigots despise charity, 
+Bigots are not truly virtuous. 
+
+The third figure is a convenient form in which to 
+establish a particular objection to some sweeping affir- 
+mation : — 
+
+Every animal has feeling, 
+Some animals are men, 
+Some men have feeling. 
+
+The fourth figure should never be employed at all. 
+
+42. 
+
+REDUCTION. 
+
+The first figure being much more perfect in form 
+than the rest, Logicians have invented methods, by 
+
+
+
+45 
+
+which all the moods of the other three figures may be 
+reduced to this. The process by which this is effected 
+is called Reduction. 
+
+The whole art of reduction depends on the laws of 
+conversion. (§ 32.) 
+
+Sometimes we need only to convert simply one of 
+the premises, and the syllogism at once takes the form 
+of the first figure. 
+
+Thus let the syllogism be Cesar e: — 
+
+No mineral is organised, 
+All plants are organised, 
+\*No plants are minerals. 
+
+Convert the major simply, and we have: — 
+
+No organised being is a mineral, 
+All plants are organised beings, 
+vNo plants are minerals ; 
+
+which is a syllogism in Celarent of the first figure. 
+
+Sometimes again the premises must be transposed 
+as well as converted. 
+
+Thus let the syllogism be Camestres: — 
+
+Every plant is organised, 
+No mineral is organised, 
+*.*No mineral is a plant. 
+
+Here by converting the minor and then transposing 
+the premises, we have : — 
+
+No organised being is a mineral, 
+Every plant is organised, 
+VNo plant is a mineral ; 
+
+which is a syllogism in Celarent of the first figure : 
+and we only need to convert the conclusion to get the 
+very same truth as was expressed in the conclusion of 
+the first syllogism. 
+
+When reduction takes place simply by means of con- 
+version and transposition, it is called Ostensive, 
+
+There is another mode of Reduction, which is called 
+reductio ad impossibile* 
+
+
+
+46 
+
+The process is as follows. If the conclusion be false, 
+then the contradictory of it will be true. Take the 
+contradictory and put it in the place of the minor pre- 
+miss. In this way we shall have a conclusion which is 
+the contradictory of the original minor. But that 
+original minor was true by hypothesis ; therefore the 
+contradictory of it is false. If the conclusion, then, be 
+false, one of the premises must be so ; and this can be 
+none other than the new minor : i.e. the contradictory 
+of the original conclusion. Hence the original con- 
+clusion is true. 
+
+This is the mode of reasoning commonly known as 
+a reductio ad absurdum. 
+
+Let us take an instance in Baroko : — 
+
+All plants are organised. 
+Some productions of nature are not organised, 
+*.' Some productions of nature are not plants. 
+
+Now if the conclusion be false, its contradictory is 
+true, viz.. All productions of nature are plants. Assume 
+the truth of this and put it in the place of the minor 
+premiss. Then we have a syllogism in Barbara : — 
+
+All plants are organised. 
+All productions of nature are plants, 
+V All productions of nature are organised. 
+
+Now this conclusion contradicts the original minora 
+which is true by hypothesis : it must consequently be 
+false. A falsity, therefore, must lie in one of the pre- 
+mises, and that the minor (for the original major is 
+true by hypothesis). But the new minor is the con- 
+tradictory of the original conclusion : so that if it be 
+false, the original conclusion must be true (§ 33). 
+
+The four Mnemonic lines above quoted are so formed 
+as to show not only what moods are conclusive in each 
+figure, but how the moods of the second, third, and 
+fourth figure may be reduced to the first. * 
+
+The four initial consonants B, C, D, F, show to which 
+
+
+
+47 
+
+mood of the first figure each of the others may be 
+reduced. Each one, namely, may be reduced to that 
+mood of the first figure which begins with the same 
+letter. 
+
+Moreover the other consonants show how that re- 
+duction is to be effected. 
+
+Thus, s. means that the proposition immediately pre- 
+ceding it must be simply converted ; p. that it must be 
+converted per accidens ; and m. that the propositions 
+between which it stands are to be transposed. Lastly, 
+k. shows that we must employ the reductio ad impos- 
+sibile, and that the proposition immediately preceding 
+it must be left out, and the contradictory of the con- 
+clusion assumed in its place. 
+
+Thus in Dimaris, the initial D shows that it can be 
+converted to Darii, of the first figure ; m. shows that 
+the major and minor premises are to be transposed ; and 
+s. shows that the conclusion is to be simply converted. 
+
+
+
+Note. 
+
+In the preceding sections we have explained the common 
+doctrine respecting the four figures, and the method of reducing 
+all the moods of the last three figures to corresponding moods in 
+the first. It can hardly fail to strike any one, on first looking 
+over this system of logical forms, that it is remarkably cumbrous 
+in its structure, and on that account by no means likely to be a 
+perfect representation of our mental operations. As all logical 
+reasoning depends on showing the subordination of the pans to 
+a logical whole, by means of a middle term, we should naturally 
+look for some common symbol of reasoning, in which this process 
+is made apparent by the very form of the syllogism. Such a 
+symbol, as we before showed, exists in the syllogisms of the first 
+figure ; so that we ought to regard this as the true type of every 
+deductive argument. 
+
+The real cause why such an extensive apparatus of moods and 
+figures has been invented is to be found primarily in the Inde- 
+finiteness, which attaches to the quantity of the predicate^ in each 
+of the premises. Just as the process of conversion is rendered 
+uniform and simple by a duly expressed quantification of the pre- 
+dicate (Sec 32), 80 also wiU the whole apparatus of mood and 
+figure be obviated by the same simple operation. 
+
+All the special laws of the four figures only hold ^oodvoL ^^\!l> 
+
+
+
+48 
+
+seqaence of the indefiniteness of the predicates. Quantify the 
+predicates, and these laws are shown at once to be false. 
+The special laws of the first figure are : — 
+
+1. That the major be universal. 
+
+2. That the minor be affirmative. 
+
+But in the following two syllogisms both these laws are set at 
+nought. 
+
+Some men are certain foolish people, 
+
+All rational beings are all men, 
+
+SSome rational beings are certain foolish people. 
+
+Again ; 
+
+All metals are certain minerals, 
+
+No stones are metals, 
+
+No stones are certain minerals. 
+
+In the first of these syllogisms the major is particular ; and 
+in the second the minor is negative : yet both are conclusive, 
+and both in the first figure. 
+
+In like manner the special rules of all the other figures may 
+be shown unnecessary. In fact, if the syllogisms of the second, 
+third, and fourth figures be properly arranged according to sub- 
+ordination of parts to a whole, it will be found that they will all 
+naturally fall into the form of the first figure. 
+
+Take the following syllogism (Cesare of 2nd fig.) : — 
+
+No metals are stones. 
+All amethysts are stones, 
+*/ No amethysts are metals. 
+
+Here there is no subordination of parts to a whole clearly 
+shown^ but only one implied; namely this : No stones are metals; 
+but all amethysts are stones ; */ no amethysts are metals. The 
+first syllogism is therefore only an awkward and imperfect way 
+of stating the last Put the terms in the proper order of logical 
+subordination, and a regular syllogism of the 1st fig. immediately 
+becomes apparent. 
+
+This new analysis of the process of reasoning has been for 
+many years adopted by Sir W. Hamilton ; and may be found 
+pretty fully expounded in Mr. T. S. Baynes' Essay on the new 
+Analytic of Logical Forms. 
+
+The one universal canon of logical reasoning which renders 
+the special rules of the Figures nugatory, and includes all the 
+general ones in a single propositioiif is thus stated : — 
+
+** What worse relation of subject and predicate subsists be- 
+tween either of two terms and a common third term, with which 
+both are related — and one at least positively so — that relation 
+subsists between the terms themselves." 
+
+. Vide Baynea* Essay ^ p. 53. 
+
+
+
+49 
+
+
+
+NON-CATEGORICAL SYLLOGISM& 
+
+
+
+43. 
+IRREGULAR SYLLOGISMS. 
+
+We have now explained pretty fully the nature of the 
+categorical syllogism. We must next advert to those 
+which are not couched in the purely categorical form. 
+Non-categorical syllogisms may be divided into two 
+classes: 1. Irregular, and 2. Hypothetical. 
+
+Irregular syllogisms are those which present either a 
+deficiency or a redundancy in their mode of statement. 
+
+1. In common language we more generally than not 
+employ an elliptical mode of reasoning, — leaving some 
+one or other of the premises to be supplied by the mind 
+of the hearer. For example, nothing would be more 
+natural than to make such a statement as this; — '^ John 
+is successful^ because he is prudent.'' The force of this 
+reasoning, of course, depends on the generally acknow- 
+ledged sentiment, that prudence is the road to success. 
+More commonly than not, indeed, we may suppress the 
+major premiss in an ordinary argument, because the 
+mind at once supplies it, as a generally received prin- 
+ciple. A defective argument of this nature is called 
+an Enthymeme. 
+
+2. A redundant syllogism is one in which there is 
+some subordinate statement supplied to maintain one 
+or other of the premises. Take the following : — 
+
+Every thing known by direct intuition is true; [since 
+upon direct intuition all knowledge, and all 
+reasoning, is primarily based.] 
+
+But our Mental Identity is known by direct Intui- 
+tion, 
+
+•.• Our Mental Identity is true. 
+
+This is called an Epicherema ; or an Epicherematic 
+Syllogism. The reasoning in an Epicherema may 
+
+D 
+
+
+
+50 
+
+always be reduced to two or more simple syllogisms. 
+Thus, in the above case, it could be so stated — 
+That upon which all knowledge and reasoning is 
+
+primarily based is true. 
+But all knowledge and reasoning is based upon 
+
+direct Intuition, 
+V Every direct Intuition is true. 
+Again : Everything known by direct intuition is true. 
+Our Mental Identity is known by direct Intuition, 
+•,• Our Mental Identity is a truth. 
+Here, it will be seen, the conclusion of the first syl- 
+logism is made a premiss of the next. A string of 
+syllogisms of this kind, all aiming at one final conclu- 
+sion, forms a Sorites : only, to render the reasoninoc 
+closer, the intermediate conclusions are suppressed till 
+we come to the end. 
+
+The English are a brave people, 
+A brave people are free, 
+A free people are happy, 
+•/ The English people are happy. 
+
+44.' 
+
+HYPOTHETICAL SYLLOGISMS. 
+
+Hypothetical syllogisms are of two kinds : — h Con- 
+ditional, and 2. Disjunctive. 
+
+1. A conditional syllogism is one which has a con- 
+ditional proposition for its major, or for its minor, or 
+for both. If both the premises are conditional, the 
+conclusion must be so too ; if, however, the major only 
+is conditional, it is termed conditional ex parte. 
+
+antecedent 
+
+« ^ < 
+
+As, — If Napoleon was the Scourge of Europe, 
+consequent. 
+
+
+
+he deserved to be banished. 
+
+But he wds the scourge of Europe, 
+•.• He deserved to be banished. 
+
+
+
+51 
+
+In conditional syllogisms there are two modes of 
+procedure, 
+
+1. From the position of the antecedent to the posi- 
+tion of the consequent. This is called the modus 
+ponens, or constructive mode, because you affirm in the 
+consequent the truth of what is stated conditionally in 
+the antecedent, and thus get an affirmative conclusion. 
+The syllogism above stated is an instance of this. But, 
+
+2. We may proceed from the remotion of the con- 
+sequent to the remotion of the antecedent. This is 
+called the modus tollens, or destructive mode. 
+
+antecedent. 
+
+
+
+Thus — If no bigot is a wise man, 
+
+consequent. 
+
+
+
+No bigot is worthy our notice. 
+But no bigot is a wise man, 
+•.• No bigot is worthy our notice. 
+Here from the negation of the consequent we con- 
+clude the negation of the antecedent, *and thus get a 
+correct negative conclusion. 
+
+The illicit modes of reasoning are, to proceed from 
+the position of the consequent to the position of the 
+antecedent ; or from the remotion of the antecedent to 
+the remotion of the consequent. 
+
+1st false procedure. 
+antecedent: consequent 
+
+If great philosophers.be virtuous, they will be admired. 
+But great philosophers are admired, 
+V They are virtuous men* 
+
+2nd false procedure. 
+antecedent. 
+
+
+
+t » 
+
+If Catiline betrayed his fellow conspirators, 
+
+consequent 
+
+
+
+he was a wicked man. 
+
+j> 2 
+
+
+
+52 
+
+But he did not betray his fellow conspirators^ 
+*•* He was not a wicked man. 
+
+45. 
+
+2. A disjunctive syllogism is one which has for its 
+major premiss a disjunctive proposition affirmative in 
+quality. 
+
+Here^ as in the conditional, there are two legitimate 
+ways of proceeding — 
+
+1. From the position of one of the parts to the re- 
+motion of all the rest. Or, 
+
+2. From the remotion of all the rest of the parts, to 
+the position of some one of them. — Thus, taking the 
+disjunctive proposition — 
+
+Caius lives either in Rome, or Naples, or Florence, 
+we may affirm one part ; viz. 
+
+that he lives in Rome ; — 
+
+and from this affirmation we negative all the rest — 
+
+•.• He lives neither in Naples nor Florence. 
+
+Or we may deny all the parts but one^ 
+
+He lives neither in Naples nor Florence ; 
+
+and conclude that — 
+
+He Mves in Rome. 
+
+There is yet another form of the disjunctive syllo- 
+gism, viz., that in which from the remotion of each of 
+the parts, the remotion of the whole is concluded. 
+Thus Cicero argues epicherematically respecting pain — 
+
+If pain is to be feared^ it must be so either because 
+it is long in duration, or intense in degree, — 
+
+But it is not so when long in duration (for then it 
+cannot be severe), nor when intense in de^^ree (for then 
+it cannot last long) ; 
+
+%* Fain ia not to be feared at alL 
+
+
+
+63 
+
+46. 
+DILEMMA. 
+
+The dilemma is a syllogism that partakes partly of 
+a conditional, and partly of a disjunctive character. 
+
+It is an argument such that when all the suppo* 
+sitions of a case are stated, any one of them puts the 
+opponent to inconvenience. 
+
+The most usual, and the most legitimate form of it, 
+however, is — when there are only two suppositions^ 
+either of which, being granted, overthrows the position 
+maintained by the opposing party. Hence the origin 
+of the expression, *' to fix a person on the horns of a 
+dilemma." 
+
+Thus we may state Cicero's argument respecting the 
+power of a wise man to endure pain in the following 
+way: — 
+
+If pain is either short' in duration, or moderate in 
+intensity, a wise man can bear it. 
+
+But it is always either short in duration, or moderate 
+in intensity ; 
+
+Therefore a wise man can always bear it. 
+
+The validity of the dilemma, as an argument, rests 
+fundamentally upon a correct enumeration of parts in 
+the statement of the conditions. 
+
+Thus if I were to argue — 
+
+If a man be a Christian he worships the true God ; 
+
+If he be a heathen he worships an idol : 
+
+But he must be either a Christian or a Heathen ; 
+
+Therefore every man must worship either the true 
+God or an idol : 
+there would evidently be an error in the enumeration 
+of conditions. Some men might not be either Chris- 
+tians or Heathen : they might be Mohammedans or 
+Atheists. 
+
+In the same way as we have seen respecting condi- 
+tional syllogisms, so the dilemma may be either con- 
+
+D 3 
+
+
+
+54 
+
+structive, or destructive. It may be either simple, 
+having a categorical conclusion, like the first of those 
+above quoted ; or complex, having a disjunctive con- 
+clusion, like the secbnd. 
+
+JVbte. 
+
+The Classification of non-Categorical Syllogisms may be 
+presented in the following scheme. — Non-Categorical Syllogisms 
+are: ' 
+
+L Irrsgulab. 
+
+a Enthymeme. 
+h Epicherema. 
+a + i Sorites. 
+
+n. Hypothetical. 
+
+a ConditipnaL 
+b Disjanctive, 
+a + 6 Dilemma. 
+
+
+
+66 
+
+
+
+IV. OM FALLACIES. 
+
+47. 
+
+In discussing the nature and mechanism of the syl- 
+logism, we have shown what kind of arguments are 
+valid and what kind inconclusive as to their form. 
+Sometimes^ however, we meet with arguments which 
+inform are perfectly correct, but yet lead to a wrong 
+conclusion. It is these that we have now briefly to 
+discuss, under the head of Fallacies, 
+
+Most of the writers on Logic divide the different 
+kinds of fallacious reasoning into two classes, viz. 
+Fallacies in dietionCy and Fallacies extra dictionem. 
+The first class, as the name indicates, includes all 
+those cases where the fallacy lies in the expression ; 
+the second class includes all those, where the fallacy 
+lies in the subject- matter, 
+
+48. 
+FALLACIES IN THE EXPRESSION. 
+
+Under fallacies in expression we designate all those 
+cases of incorrect reasoning, which arise from the am- 
+biguity of particular words or expressions. We may 
+divide them, for convenience' sake, into five different 
+classes, which we shall briefly explain in order. 
+
+The first two species of this class of fallacies (which 
+may easily be explained together) are the " Homo- 
+nymia," and the *' Amphibolia." The former arises 
+from one of the words which compose the middle term 
+being in tV^e^^ equivocal, t. e, capable of more than one 
+signification ; the latter from \Vi^ txi\^<^^ \&xxa.\i^vcw«^'5w 
+
+
+
+66 
+
+phrase, rendered doubtful by its position or gram- 
+matical construction. 
+
+The instances in which particular terms assume an 
+equivocal aspect are very numerous. Sometimes (e.g.) 
+words having accidentally the same /orm are totally 
+different in meaning ; other terms, again, are not un- 
+frequently chosen to express technically some precise 
+and restricted idea, when in popular use they are em- 
+ployed in a more loose and general sense, the one being 
+termed the first, the other the second intention. Si- 
+milar indefiniteness arises from the use of analogical 
+and elliptical words, all of which, when employed as 
+middle terms in a syllogism, give rise to the logical 
+error which we express by Homonymia. A single and 
+glaring instance (since principles are best seen in ex- 
+treme cases) may suffice to exemplify this fallacy. 
+Employing the equivocal use of the word "Christians," 
+the following syllogism might be formed from it : — 
+
+All Christians are good men, 
+All Englishmen are Christians, 
+*/ All Englishmen are good men. 
+
+The different forms of Amphibolia are not less nu- 
+merous. Ambiguity (e.^.) arising from the two dif- 
+ferent cases in which a word might be understood in 
+the construction of a sentence is not unfrequently 
+found in modern, and far more frequently in the an- 
+cient languages of Greece and Rome. The relative 
+clause again may often be referred to two different 
+antecedents, and indeed any kind of subordinate clause, 
+is very often applicable to different parts of the whole 
+passage in which it stands. Fallacies arising from 
+such causes as these may be easily solved by showing 
+that in every case the syllogism has really two middle 
+terms, and that there is, therefore, no standard of com- 
+parison by which the agreement of the major and the 
+minor may be tried. 
+
+The two next Sophisms "in dictione" are those 
+
+
+
+57 
+
+called the fallacies of Composition and Division. These 
+sophisms, which are the most important of their class, 
+arise from employing the middle term once distribu- 
+tively and once collectively, and thus destroying the 
+standard of comparison. In the former case, (t. e. 
+in the fallacy of Composition,) something is established 
+of the separate individuals in a class, and then in- 
+ferred of that class taken collectively. This may be 
+familiarly illustrated by the well-known fable of the 
+father, who to impress upon his sons the importance of 
+union and harmony aniongst themselves, showed them 
+that each separate stick of a bundle might be easily 
+broken, while the whole together were irresistibly firm. 
+The fallacy of Composition would have led them to the 
+conclusion, that if all the rods were fragile taken se- 
+parately, they would be equally so when bound toge- 
+ther. The fallacy of Division is the reverse of this ; 
+and, to take the same illustration, it would have led to 
+the conclusion, that if the bundle above mentioned 
+were incapable of being broken when taken collec- 
+tively, the separate rods would present the same re- 
+sistance to our physical efforts. This latter sophism 
+frequently arises from the ambiguous use of the word 
+"all," which may be taken both distributively and 
+collectively, as in the following syllogism. 
+
+All the angles of a triangle are equal to two right 
+angles. 
+
+A, B, C, is the angle of a triangle, 
+
+•.• A, B, C, is equal to two right angles. 
+
+These cases may easily be solved by enquiring in 
+the outset, in what precise sense the word * • all " is to 
+be employed. 
+
+The logical fallacy in these two sophisms is spe- 
+cifically the same as in the last two, arising, that is, 
+from the ambiguity of the middle term. The middle 
+term, it will be seen, is taken distributively in the 
+major and collectively in the minor when we err by 
+Composition ; while the case is precisely reversed when 
+
+
+
+58 
+
+we err by Division. In both cases therefore two 
+middle terms are involved, which vary essentially in 
+their meaning. 
+
+The 5th and last kind of Sophism in this division 
+is that termed — *^ fallacia figurse dictionis.'' 
+
+The most common form in which this fallacy pre- 
+sents itself is in the case of paronymoui words, in 
+which two terms of the same root, and closely con- 
+nected with each other etymologically, are employed, 
+as though on that account identical in meaning, when 
+through conventional use their actual meaning has 
+become considerably modified. The following syl- 
+logism is an example of this error : 
+
+None but immortal beings will live for ever, 
+But all men are mortal, 
+vNo men will live for ever. 
+
+Here through conventional usa^e the word tm- 
+mortal is applied to the soul, and mortal to the 
+body; so that the words not being really opposed, 
+cannot be substituted for each other as in the above 
+syllogism. Other instances of the '^fallacia figurie 
+dictionis,** occur from the use of a word first in its 
+etymological and then in its popular sense ; or from 
+employing a grammatical termination so as to render 
+the real meaning of the sentence ambiguous. To these 
+some logicians add sophisms which arise from em- 
+ploying figurative language^ and reasoning upon it as 
+if it were real ; but these may, perhaps, he better 
+classified as instances of false parallels, which we shall 
+mention under the next division. 
+
+Viewing this general division as a whole, it is evi- 
+dent that all the cases might be reduced to the head 
+of ambiguity f since it is in an ambiguity of one form 
+or other, that the error in every instance consists. 
+Or to render the generalization rather more definite, 
+and distinctive, we might form them into two classes, 
+one in which the ambiguity anaes ?tom l\i^ vaord^ and 
+
+
+
+59 
+
+the other from the phrase, and thus by an extension 
+of the first two species^ include under them the re- 
+maining three. 
+
+49. 
+
+FALLACIES IN THE MATTER. 
+
+We proceed next to the fallacies ^^ extra dicHonem,^ 
+or fallacies in the thought itself, a class far more fre- 
+quently to be met with, and by no means so easy in 
+the majority of instances to be detected. 
+
+These will fall, according to Aristotle's arrange- 
+ment, under seven heads, which we shall take up 
+successively, in order at once to explain their nature^ 
+and the various forms under which they are found. 
+
+L The first of these is the ^^fallacia accidentis." 
+In forming a class out of individuals, we always have 
+some particular point or points of resemblance, by 
+virtue of which we unite them. These individuals, 
+however, may still have many points of dissimilarity 
+which do not affect the classification, and which are 
+usually called accidents* Now we often afiirm of a 
+class of things generally something that is only true of 
+it accidentally, and, reasoning upon this affirmation, 
+arrive very soon at a false conclusion. Thus it is 
+generally true that Lions are fierce animals ; but we 
+cannot conclude from this that Lions, which have been 
+under a particular course of training, are so. This is 
+an accident, which modifies the general conditions of 
+the case. It is by a fallacy of this kind that all the 
+errors and weaknesses of a party are often attributed 
+to an individual simply because he happens to belong 
+to it. In all such instances we have the old fallacy of a 
+two-fold middle term ; and need only point out the 
+ambiguity which arises from using it in one instance 
+particularly, and then universally (thus destroying the 
+uniformity of the standard by which the extremes are 
+to be tested), in order to solve the case. 
+2. The next fallacy is tliat ot t^^^ot^xi'^ '''' ^ ^^^ 
+
+
+
+60 
+
+secundum quid ad dictum simpliciter,'* which is in 
+fact only the reverse of the fallacia accidentis, and 
+is resolved on precisely the same principle. The 
+error here lies in reasoning, not as hefore, from the 
+absolute to the conditional^ but from the conditional to 
+the absolute; or in other words, in inferring that to be 
+truly predicated of a subject when viewed dhsoliUely 
+which is true of it only upon the supposition of some 
+modifying conditions. 
+
+Thus, were I to argue that, because arsenic is not 
+unfrequently used in medicine to preserve health, it is 
+not destructive of human life, I should be inferring a 
+general conclusion of arsenic taken in its whole essence 
+from a particular case in which the essential qualities 
+of the poison are modified by other accidental additions. 
+Here, as before, the error lies in there being really 
+four terms to the syllogism. Thus if I were to argue, 
+that because the natives of Europe are white men, a 
+Hottentot born in Europe must be white also, I should 
+be taking the middle term, '* native of Europe,*' in two 
+different senses, one meaning the natural inhabitants 
+of this quarter of the globe, the other including any 
+one who might accidentally be born in it. 
+
+3. We come next to a very important sophism, 
+termed " ignoratio elenchi." The error in this is of a 
+nature entirely different from any other we have before^ 
+noticed. The syllogism may be in itself correct, the 
+conclusion following properly from sound premises, 
+while yet that conclusion is not applicable to the real 
+point in question. 
+
+An elenchus is properly a syllogism the conclusion 
+of which is the contradictory to the conclusion of 
+another which it is our intention to refute ; and it is 
+evident that if the point established be not contra- 
+dictory to the one we are opposing, they may be both 
+true, or both false, without materially interfering with 
+each other. 
+Sometimes an argument ia stated vaawt^^slVj^ and 
+
+
+
+61 
+
+then triumphantly refuted; which is popularly called— i 
+setting up a man of straw, and then knocking him 
+down. Sometimes the very point in question is m»- 
+iaken and then disproved — a case exceedingly common 
+in almost every kind of moral argumentation. Ano- 
+ther instance oi'ignoratio elenchi, is when an argument 
+is drawn from a case supposed parallel, hut not really 
+80 ; as when Berkeley proves the possibility of there 
+being an invisible agency at work in the creation, from 
+the existence of animal spirits, which he takes for 
+granted to be actual though invisible realities. Errors 
+arising from the use of figurative terms as though 
+they were literally true, may be ranged likewise under 
+this head. 
+
+The last kind of this species of fallacy is that of 
+imputing consequences and then arguing from them to 
+the detriment of our opponent. In every case of 
+ignoratio elenchi we must show what the real question 
+is, and point out, when we have placed the conclusion 
+of the elenchus by its side, that the one does not 
+logically contradict the other. 
+
+4. The fourth species of fallacy is one which presents 
+itself under a grest variety of forms, and is, perhaps, 
+more frequently than any other employed for purposes 
+of false and deceptive reasoning, namely, the petitio 
+principii, or begging the question. The essence of 
+this fallacy lies in taking for granted the very thing to 
+be proved, or assuming some point which equally 
+requires to be established by additional evi<lence. In 
+every argument it is required that there should be a 
+middle term, and that this should be something with 
+which the extremes may be advantageously compared, 
+in order that we may estimate by it, as a known 
+standard, their comparative agreement or disagree- 
+ment. Hence the middle term must be something 
+better known than the extremes^ otherwise it can be 
+of no utility as a test. 
+
+When, therefore, we take a \ive9A\xui <A YtQSi1^^V\^v 
+
+
+
+62 
+
+IS quite as little known, and requires quite ^s much 
+demonstration as the very point in question, we are 
+guilty of one form of the petitio principii, A simUar 
+fault is committed when the middle term, though 
+differently expressed, is really identical with one of 
+the terms of the question ; and this is peculiarly 
+liable to take place in a language which, like our 
+own, is compounded of the radical parts of two or 
+three others, so that we can readily express the same 
+idea by employing totally different phrases. We may 
+include, indeed, under the petitio principii all instances 
+in which either of the premises in an argument are 
+insufficiently supported, and consequently unduly as- 
+sumed. The sophistry involved in such reasoning is 
+often by no means easy to detect, especially when it 
+occurs in the enthymematic form, and the suppressed 
+premiss is the very point in which the fallacy lurks. 
+A remarkable modification of this fallacy is that termed 
+reasoning in a circle, i. e., when two propositions are 
+made mutually to prove each other ; each being one 
+of the premises from which the other is deduced. This 
+error is often committed by Christian apologists who 
+prove the truth of the Bible from the doctrines it con- 
+tains ; and then, prove the truth of the doctrines from 
+their being in the Bible. 
+
+5. The fifth species of fallacy is that termed the 
+non causa pro cau?ll, which, like the last, presents itself 
+under several modifications. In some instances a 
+cause is assumed which has no title to be called a vera 
+causa at all, i. e., which has no real observed or de- 
+monstrated existence. Such is the case when men 
+amuse themselves with framing hypotheses upon slen- 
+der grounds, and then reduce to them as general 
+principles or laws, observed facts in the operations of 
+nature. 
+
+Another form of this fallacy is that termed non talis 
+
+causa pro tali, or assigning a cause which is insufficient 
+
+to account for the effect. T3udw \\i\^ loAtid may be 
+
+
+
+63 
+
+classed the objections made against Christianity, from 
+the feuds and animosities which have often accompanied 
+it, since it is totally unfitted to account for them with- 
+out the supposition of the other and more real causes 
+existing in human nature. A further case under this 
+same head is that termed, post hoc ergo propter 
+hoc, or supposing two things to be mutually cause and 
+effect, because they are respectively antecedent and 
+consequent in time to each other. The two former 
+modes of this fallacy are evidently cases of petitio 
+principii, and may be shewn to be inconclusive, from 
+tlie gratuitous nature of the premises ; the last is a 
+species of the fallacia accidentis, and may be solved 
+on the principle there pointed out. 
+
+6* The sixth .fallacy (fallacia consequentis) is the 
+converse of the last. There the antecedent was false, 
+here the consequent is so. For example, we may 
+build an argument upon the converse of a propo- 
+sition which is not logically converted, or violate in 
+a similar manner the laws of opposition and illation, 
+and thus arrive at a conclusion far from being warranted 
+by the premises. The way in which this fallacy is to 
+be solved is, by pointing out the proper rules of con- 
+version, etc., which are violated, and showing thus that 
+the conclusion is not necessitated. Thus, were a 
+Russian to argue that his country is far happier to live 
+in than our own, because there are fewer taxes to be 
+piaid to the government, we might show that a country 
+without taxes is not opposed to an unhappy, or a 
+country with taxes to a happy one. 
+
+7. The seventh and last sophism which we have to 
+consider, is that termed fallacia plurium interroga- 
+tionum, in which a complex question is proposed in 
+such a manner as to elicit, if possible, a simple or 
+categorical answer. If the sophist succeed in this, on 
+whatever side the answer may be returned, he can 
+employ it equally to silence his opponent. This faXloA^ ^ 
+whether containing two or more awXi^^^V^ ot V«^ <s^ 
+
+
+
+
+64 
+
+more predicates, maj be exposed, hj pointing oat the 
+separate parts of which the question consists, and then 
+giving a disjunctive answer. 
+
+Thus, were a sceptic to ask whether all such forms 
+of religion as Heathenism, Christianity, I^Iohamme- 
+danism, etc, are not mere delusions of a superstitious 
+mind, we could not answer him cat^oricallj, but 
+should have to separate the subject of the question 
+into its component parts, and then answer each of 
+iktm singly. 
+
+In viewing this second division of fallacies as a class, 
+one of two kinds of errors, we observe, occurs in every 
+instance ; either the premises themselves are faulty, or 
+the coHciusiomy though deduced from correct premises, 
+is vicious or irrelevant to the question. The great 
+points, therefore, upon which we should keep our eye 
+fbc^d, (as thoc$e in which sophisms are most liable to 
+lie concealed,) are, first, to see that the middle term is 
+unambiguous^ guarding thus against the fiillacies in 
+dictione ; secondly, to see that the premises are really 
+legitimate data ; and lastly, to be assured that thd 
+conclusion is c<Mrrect and relevant to the subject in 
+dispute. 
+
+5a 
+
+CO^^CLUSION. 
+
+We have now given a brief sketch of the principal 
+points usually included in the Science of Fonniil Logic. 
+In doing so we have shown the nature of Ahsiract 
+Idtas — their varieties and charwrteristics. Next we 
+hftve di8c«saedlileiV0|pasalKm,and p<nnted out all the 
+dftfemtt diange» which it may nndergow And, lastly, 
+v« Iat9 axhibtlad the laws of correct reasoning as 
+
+kuMdi^poa te natiure of abstraction and geaeraUsatiooL 
+
+It ia M^pogtMit thfl^ ei» stndent should bear in mind 
+
+OTM%^ whai « proposed by this invesiigaliott. Some 
+
+
+
+66 
+
+processes employed for the investigation of truth, and 
+expounds everi/ method by which we can arrive at a 
+conclusion. Whatever grounds might be assigned for 
+giving such an extension to the term Logic taken 
+alone, yet assuredly there can be no reason for putting 
+such an interpretation upon the term Formal Logic. 
+Formal Logic (of which alone we have proposed to 
+treat) has a perfectly distinct field of its own : it em- 
+braces simply the laws of generalisation, the modes in 
+which we express our judgments, and the principles 
+of accurate deduction. 
+
+It should always be kept in mind that there are 
+two applications of the power of thinking, essentially 
+different from each other. We may employ our 
+reason either in investigating new truths; or we may 
+employ it in criticising what is already virtually 
+known, in arranging it into due order, and in drawing 
+particular inferences from the data actually before us. 
+
+Now as to the apprehension of new Truths, there 
+are many ways in which we arrive at them. We may 
+do so through the medium of the senses, — that is by 
+means of personal experience ; or we may do so by 
+means of the testimony of others; or we may do so by 
+induction from facts presented to us either through 
+experience or through testimony. All these different 
+methods of investigation form distinct objects of study. 
+We may lay down the canons of Kxperience ; or 
+arrange in order the laws of Testimony ; or pursue 
+the philosophy of Induction, each as a subject by it- 
+self. These questions, however, have nothing directly 
+to do with Formal Logic ; thei/ are all different 
+methods of productive thought: whereas Logic is 
+simply critical and analytic. 
+
+It has been not unfrequently taken up as an ob- 
+jection against the utility of the syllogism, that it 
+does not teach you to arrive at new truths, but simply 
+draws out into a definite conclusion what is already 
+contained in the premises. It m\»\i\» «>.^ ^^\k^ ^- 
+
+
+
+66 
+
+jected to Grammar that it does not teach us new- 
+languages or help us to speak our own. Grammar 
+teaches us the general laws of language, and Logic 
+teaches us the general laws of thought. The one as 
+well as the other is a mental discipline that tends not 
+to new discoveries, but to clear the mind in the use 
+of the knowledge it has already in its possession. 
+
+And this is an end assuredly which it is of the 
+utmost importance to aim at. The mere possession of 
+a vast multiplicity of ideas — of facts — of experiences 
+is by itself of comparatively little use. To make 
+them of use we need that degree of mental discipline 
+which enables us to govern facts, to harmonise them, 
+to combine them into a body of connected truth. 
+
+We do not promise, accordingly, from tlie study of 
+Logic to unfold any new fields of positive knowledge; 
+we do not pretend either to give any direct organum 
+for the investigation of new truths; but we do promise 
+to afford some amount, at least, of that mental disci- 
+pline which shall give precision to the intellect, a dis- 
+criminating power to the judgment, and a facility for 
+arranging and systematising our ideas. Those who 
+think this of equally great importance with the accu- 
+mulation of the mere crude material of truth, will not 
+regret the time and the labour that is spent upon what 
+is intended merely as a Mental Discipline. 
+
+
+
+EXERCISES. 
+
+
+
+SECTIONS 1—15. 
+
+1. Explain tlie exact meaning of the following words, 
+illustrating each by examples : — 
+
+Sensation, Perception, Attention, Memory, Imagination. 
+
+2. What distinct mental operations depend upon the 
+use of Language, and why r Explain the nature of 
+Generalisation, and Abstraction. 
+
+3. What is meant by the Understanding? and what 
+by the Laws of Thought ? 
+
+' 4. What is the purport of Logic ; and what the use ? 
+
+SECTIONS 16—20. 
+
+5. What is meant by a Concept; what is its origin, 
+and what its nature ? 
+
+6. Classify "Terms," giving examples of each kind, 
+and showing in what their difference consists. 
+
+7. What is meant by the Extension, and what by the 
+Comprehension of a Term ? 
+
+8. Arrange the following terms; 1st. in the order of 
+their Extension, and 2ndly, in the order of their Compre- 
+hension : 
+
+Rapacious animal — Lion — Vertebrate animal — Black 
+Lion — A nimal — Quadruped — Sensible ob je<it — §>\ifof5Xasssye; 
+— Native of Africa, 
+
+£ 2 
+
+
+
+I 
+
+
+
+68 
+
+
+
+SECTION 21. 
+
+9. What is meant by the Predicables ? Explain what 
+is meant by G^nus — Species — Differentia — Proprium, and 
+Accidens ; with examples of each. 
+
+10. What is meant by a Summum Genus, and to what is 
+it opposed ? Give examples of both. 
+
+11. What is meant by Species infima, and to what is it 
+opposed ? Give examples of both. 
+
+12. Give the different varieties of the proprium^ and the 
+accidens^ with examples of each. 
+
+SECTION 22. 
+
+13. What is meant by the Categories ? What is Aris- 
+totle's classification ? and what is its worth ? 
+
+SECTION 23. 
+
+14. TVliat is the use of Division? What Rules should 
+be observed ? What faults avoided ? 
+
+15. Explain the different senses in which the term 
+*^whole*^ is employed. 
+
+16. When is a division inadequate? when indistinct ? 
+when a cross division? and when not arranged according 
+10 proximate parts? 
+
+SECTION 24. 
+
+17. Of what parts does a perfect logical division con- 
+sist? Why do a Summum Genus, and a Species infima 
+not admit of definition ? 
+
+18. Define logically the following terms : A propo- 
+sition — An Army — ^Astronomy. 
+
+SECTIONS 25, 26. 
+
+19. Explain the partfl of which a logical proposition 
+eonaJsts. 
+
+20, How are propositions divided aa \o Swbxtaiicel 
+
+
+
+69 
+
+SECTIONS 27—30. 
+
+21. What is meant bj the Quality, and what by the 
+Quantity of a proposition ? 
+
+22. By what special means are the quality and the 
+quantity of propositions expressed? 
+
+23. How is the Quantity of the Predicate determined ? 
+Show the reason of the case. 
+
+24. Denote the following propositions, as to their quantity 
+and quality, by the proper vowel symbols : 
+
+All negroes are black. 
+
+Some birds cannot fly. 
+
+Many men are unwise. 
+
+No rools are esteemed. 
+
+Not many intemperate men live long. 
+
+Ants are wise insects. 
+
+Currants are ripe in July. 
+
+Wherever A is there is fi. 
+
+SECTIONS 31, 82. 
+
+25. What is meant by Subalteraation ; and what rules 
+are to be observed for its accurate performance P 
+
+26. What is meant by the Conversion of a Proposition ^ 
+and what are the different modes of Conversion ? 
+
+27. In what different ways may each of the propo- 
+sitions denoted by A, E, I, O, be converted ? 
+
+28. Convert the 8 propositions in Question 24 according 
+to the proper rules. 
+
+SECTION 33. 
+
+29. How many kinds of Opposition are there ? Ex- 
+plain them. 
+
+30. State the Laws of opposition. 
+
+31. State the Opposites of the following propositions 
+and show in each case what kind of opposition it is : 
+
+Some quadrupeds are not rapacious. 
+All men are mortal. 
+Some wise men are not wealthy. 
+Homer wrote the Iliad. 
+No government is perfects 
+
+£ 3 
+
+
+
+70 
+
+
+
+SECTION 34. 
+
+32. State and explain the different kinds of Compound' 
+Propositions. 
+
+SECTIONS 35, 36. 
+
+33. What is a Syllogism ; and of what Elements does 
+it consist ? 
+
+34. On what Laws does the conclusiveness of the 
+Syllogism depend? Explain the ** Dictum" of Aristotle. 
+
+35. Express the following passages in the form of 
+Syllogisms ; and point out in eacn case what is the major, 
+the minor, and the middle term : 
+
+Many things allowed amongst men are hateful in the 
+sight of God, because eyery thing sinful is hateful in his 
+sight. 
+
+Many Christians have practised persecution, and there- 
+fore could not have been good men. 
+
+The ancients believed in magic, and must therefore have 
+been frequently led astray. 
+
+SECTION 37. 
+
+36. State the General Laws of the Syllogism; and 
+show the reason of them. 
+
+37. Which of the six rules do the following Syllogisms- 
+violate, and why? ' 
+
+Willows prefer a moist soil. 
+
+Alders are not willows, 
+
+' . * Alders do not prefer a moist soil. 
+
+Some literary men have been exiled, 
+Some kings are literary men, 
+* . * Some kings have been exiled. 
+
+Men are not quadrupeds, 
+Horses are not men, 
+'. ' Horses are not quadrupeds. 
+
+
+
+71 
+
+Many men are wise, 
+Europeans are men, 
+•,• Europeans are wise. 
+
+Many senators have been philosophers, 
+Many philosophers have gone mad, 
+*.* Some senators have gone mad. 
+
+The innocent should be protected. 
+This person should be protected, 
+' . • This person is innocent. 
+
+Every rational agent is accountable. 
+Brutes are not rational agents, 
+' . ' Brutes are not accountable. 
+
+
+
+38. Which of the following Syllogisms would conclude 
+correctly, and which incorrectly, and why ? 
+
+E AE— E A A— A 1 1— I A A— O A 0~E 10— I E I 
+—All— A 0. 
+
+SECTIONS 38—40. 
+
+39. What is meant by Mood? How many modal com- 
+binations are possible, and how many legitimate f 
+
+40. What is meant by Figure ? How many figures are 
+there, and how many available moods in each figure ? 
+
+41. Give the Mnemonic word answering to each of the 
+following Syllogisms : 
+
+No animal is a stone. 
+Every man is an animal, 
+' . ' No man is a stone. 
+
+Every man is an animal. 
+
+Some living things are not animals, 
+
+*.' Some living things are not men. 
+
+Every animal has feeling. 
+Every animal has life, 
+• . • Some living things \i«ve te^Vvci^- 
+
+i& 4 
+
+
+
+72 
+
+Every man is an animal, 
+No animal is a stone, 
+* . * No stone is a man. 
+
+No animal is a stone, 
+
+Some bodies are animals, 
+
+' . * Some bodies are not stones. 
+
+Things which are equal to the same are equal to each 
+other, 
+A and B are equal to the same, viz. to G, 
+' . * A and B are equal to each other. 
+
+
+
+SECTIONS 41, 42. 
+
+42. Give the special rules of the 1st, 2nd, and 3rd 
+figures respectively, and prove them. 
+
+43. In what respect is the 1 st figure superior to the 
+other three ? 
+
+44. Show in what mood and figure each of the following 
+syllogisms is drawn ; and that each conforms to the special 
+rules X)f the figure : 
+
+No vicious habit ought to be indulged. 
+Some vicious habits promote a temporary interest, 
+* . * Some things which promote a temporary interest ought 
+not to be indultred. 
+
+
+
+o 
+
+
+
+All true penitents will find mercy. 
+
+Some true penitents have been great sinners, 
+
+•. Some great sinners will find mercy. 
+
+
+
+Libellers delight in hurting the feelings of others, 
+
+No good man will delif;ht in hurting the feelings of others, 
+
+' . * No good man is a libeller. 
+
+
+
+Many philosophers have contradicted their principles by 
+
+their practice, 
+A 11 who contradict their principles by their practice are 
+d/shonestf 
+Some dishonest persons have been "yViilLo^^^T^. 
+
+
+
+73 
+
+45. What is Reduction and how many different kinds of 
+it are there ? 
+
+46. Show how the mnemonic lines Barbara, Celarent, 
+&c. ^uide us in reducing syllogisms of the 2nd, 3rd, and 
+4th figures to the 1st. 
+
+47. Reduce the syllogisms in Quest. 43 to some mood 
+of the 1st figure. 
+
+48. Give an account of the method by which Sir W. 
+Hamilton proposes to simplify the doctrine of mood and 
+figure. 
+
+SECTION 43. 
+
+49. What is an Enthymeme? and what an Epichere- 
+ma ? Give examples of each. 
+
+50. In the foUowinnr examples of reasoning supply the 
+suppressed premiss; and form them into regular syllo- 
+gisms : 
+
+It is already day, because the sun shines. 
+
+We shall hear thunder, because there was a flash of light- 
+ning. 
+
+France u misgoverned, and therefore is unhappy. 
+
+The Epicureans cannot be considered true philosophers, 
+because they did not consider virtue to be essentially 
+good. 
+
+Ireland is distressed ; therefore it is misgoverned. 
+
+The star twinkles ; and is therefore a fixed star. 
+
+
+
+51. Expand the following Epicherema into two or more 
+separate syllogisms : 
+
+Every thing the knowledge of which we obtain by in- 
+tuition is true, because upon such intuitions all reasoning 
+and all knowledge are primarily based. But our mental 
+identity is a fact which we know by intuition, since the 
+belief of it is immediate, irresistible, universal ; therefore 
+the fact of our mental identity is grounded on Truth. 
+
+52. Place the following passages in the order of a regular 
+Sorites : 
+
+Onesimus was a resident at Golosse ; because he was the 
+servant of Philemon, who was a hearer of AxQ.Viv^Y^v^^ 
+minister ofColosse, 
+
+
+
+74 
+
+This doctrine is true, because it is maintained by A. B. 
+who is a divine of the Church of Ens;land — a church whose 
+doctrines are in accordance with the Scriptures. 
+
+53, Show that the reasoning in the 13th prop, of the 1st 
+Book of Euclid maj be put in the form of a Sorites. 
+
+SECTIONS 44, 45. 
+
+64. What is a conditional and what a disjunctive syl- 
+locrism? Show the two legitimate modes of illation in 
+each. 
+
+55. In the following conditional syllogisms show which 
+are and which are not legitimately drawn and why : 
+
+If Judas was not rightly made an apostle, he deserved to 
+be rejected ; but he was rightly made an apostle : therefore 
+he did not deserve to be rejected. 
+
+If riches be the supreme good, they ought to be the chief 
+object of human desire ; but they ought not to be the chief 
+object of human desire : therefore they are not the supreme 
+good. 
+
+If great poets be virtuous, they will be highly admired ; 
+but they are highly admired, therefore they are virtuous 
+men, 
+
+56. Put the following arguments into the form of a dis- 
+junctive syllogism, and prove that you have drawn them 
+correctly : 
+
+If the earth be neither eternal, nor made by chance, it 
+must be the work of an intelligent being ; and there are 
+numerous grounds on which the first two suppositions may 
+be shown to be absurd. 
+
+Rebellion is sometimes justifiable, because we sometimes 
+have the alternative presented to us of obeying princes 
+contrary to conscience or of rising against them. 
+
+SECTION 46. 
+
+57. Explain the nature of the dilemma, and show on 
+what fundamental principle its validity rests. 
+
+58. State the following examples in the form of a 
+dUemma : , 
+
+The story told by the Roman soVdiexa «^o\x\i V5Dkft %\«83aTi^ 
+
+
+
+75 
+
+of our Lord*s body from the tomb bj the disciples is absurd ; 
+because if they were asleep how could they know that it 
+was so ; and if they were awake why did they not prevent 
+it? 
+
+Either you did not know the way when you undertook to 
+be my ffuide, or you did. On neither supposition will I pay 
+you. For if you knew the way you have made me too lat« 
+purposely; and if you did not know the way you were 
+dishonest in undertaking to guide me. 
+
+Clergymen who have no cure of souls are without 
+excuse ; for if they are capable of the office they ought to 
+fulfil it ; and if they are incapable of it they should never 
+have undertaken it. 
+
+SECTIONS 47—49. 
+
+59. Give a classification of Fallacies, and explain on 
+what principle the classification proceeds. 
+
+60. Solve the following Fallacies^ and show to which 
+class of Sophisms they belong : 
+
+Hector slew Fatroclus, 
+
+Achilles slew Hector, 
+
+' . * Achilles slew Fatroclus. 
+
+Meat and drink are the necessaries of life. 
+
+This man spends all his money on meat and drink, 
+
+* . * He spends all his money on the necessaries of life. 
+
+He who calls you an animal speaks truly, 
+He who calls you a goose calls you an animal, 
+* . ' He who calls you a goose speaks truly. 
+
+What I am you are not, 
+
+I am a man, 
+
+' . * You are not a man. 
+
+No evil should be allowed that good may come, 
+
+All punishment is an evil, 
+
+^ . * No punishment should be allowed that good may come. 
+
+The Bible commands us to honour rulers. 
+
+The Czar of Russia is a ruler, 
+
+'. • The Bible commaods us to Yionowi OaftC»x«a oS^^Mai^^, 
+
+
+
+76 
+
+I 
+
+The Gospel promises salvaUon to Christuuis, 
+
+Some wicked men are Christians, 
+
+* . * The Gospel promises salvation to some wicked men. 
+
+Murder should be punished bj death. 
+
+The soldier is a murderer, 
+
+'.* The soldier should be punished bj death. 
+
+The plays of Shakespeare cannot be read in a day, 
+Macbeth is a play of Shakspeare, 
+*.' It cannot be read in a day. 
+
+Five is one number, 
+
+Three and two are five, 
+
+'.* Three and two are one number. 
+
+All the Reformers were zealous Protestants, 
+
+Marcus Aurelius was a Reformer, 
+
+*.* Therefore he was a zealous Protestant. 
+
+Leaving off animal food has improved his health greatly ; 
+because he has never experienced a headache since. 
+
+The child of Themistocles governed his mother, 
+
+The mother governed Themistocles, 
+
+Themistocles governed Athens, 
+
+Athens governed Greece, 
+
+Greece governed the world, 
+
+* . - The child of Thembtocles governed the world. 
+
+' Nature abhors a vacuum, therefore the water rises in 
+the pump. 
+
+The nature of heavy things is to tend to the centre of 
+the universe, and of light things to go off from it. 
+
+Now experience shows that heavy things tend towards 
+the centre of the earth, and that light things go off from 
+it. 
+
+*.* Therefore the centre of the earth and the centre of 
+the universe are the same. 
+
+All Christian doctrine is contained in Scripture, 
+But infant baptism is not mentioned in Scripture, 
+'. * Ltfant baptism is not a OVun&tl\asi dQK:^arav<^ 
+
+
+
+77 
+
+We know that there is a God because it is so stated in 
+the Bible ; and we know that the Bible is true because it 
+is of divine origin. 
+
+A. B. must be a fanatic because he is a Mormonite. 
+
+The French are a light-hearted people, 
+
+A. B. is a Frenchman, 
+
+• . • Therefore he is light-hearted. 
+
+
+
+THE ENO> 
+
+
+
+LOKDON : 
+
+Printed by Spcttiswoodh & Co. 
+New-street Sq>iaie. 
+
+
+
+THE ESSENTIALS 
+
+
+
+OF 
+
+
+
+ENGLISH GRAMMAR and ANALYSIS. 
+
+By J. D. MORELL, M.A. 
+
+ONB OF HER MAJKSTY'S INSPECTORS OF SCHOOLS. 
+
+Second Edition, price ScL 
+
+
+
+Taken from the above. 
+
+
+
+ESSENTIALS 
+
+OF 
+
+ENGLISH GRAMMAR. 
+
+
+
+In Two Parts, 32mo. Part I. 2d. ; Part II. 3d. 
+
+
+
+Tliie is an English Grammar in a small 
+conlpaBs, the object of which is to give 
+the general principle of language as ap- 
+plied to the study of English, without 
+those minute details winch perplex the 
+scholar instead of rendering him any 
+real service. The first part explains the 
+Classification of Wor Is, in which some 
+new and improved principles have been 
+adopted. The second gives the system 
+of inflections, as seen in the English 
+
+
+
+language especially. The third part is a 
+Syntax based entirely upon the nature 
+and analysis of the sentence. Three 
+progressive modes of Parsing are given, 
+according to the stages of progress made 
+by the pupil. The first part, comprising 
+the ClasaUlcation of Wordt^ price 2d., 
+and the second paH, compnsinfjf the 
+Inflections of Word*, price 3d., prmted 
+in a smaller size, may M haid separately, 
+as above. 
+
+
+
+THE 
+
+ANALYSIS OF SENTENCES 
+
+EXPLAINED AND SYSTEMATISED : 
+
+WITH AN EXPOSITION OF THE FUNDAMENTAL LAWS OF SYNTAX. 
+
+By J. D. MORELL, M.A. 
+
+ONB OF HER MAJESTY'S INSPECTORS OP SCHOOLS. 
+
+Seventh Edition, revised, and furnished with Illastrative Exercises, 
+
+price 2s. 
+
+
+
+The object of this little work is to ox- 
+tend the study of Eng ish Orammar, so 
+as to include a complete exiKtsition of the 
+structure of the sentence from its sim- 
+plest to its most comi)lex form. Similar 
+methods of gaining an enlarged mental 
+exercise from grammatical studies have 
+for some time been practised on the Con- 
+tinent; in the present instance, the plan 
+
+
+
+is adapted, for the flrKt txme, to the use 
+of the English scholar. The " Analysis 
+of Sentences" has already met with 
+much approbation in this country, is 
+coming more and more into extensive 
+use, and has been adopted by the Com- 
+mittee of Council on Kducation as one of 
+the 1)est books for the examination of 
+candidates for certificates of merit. 
+
+
+
+Loudon : LONGMAN, BROWN, GREEN, U>^G^N>^^, ^.^O^^^BTt^. 
+
+
+
+ELEMENTS OF I'SYCHOIOGY: 
+
+
+
+BjJ. D.MOBELL, MA. 
+
+Price 7i. 8d. 
+
+of 'actual flip«rlcii«. HilvIiw 
+
+»»..* w ^..^^ ^-^^^^.^^ ..,..^.. _ , — — ^^iiFswuvd tli« vay, i have dLvlded 
+
+MlliBrtofoUowed.uiilUiFendtDwlilrli Ibi Kli(Je poiltlrB luveitlnllon ' '- 
+
+it ji Kaidlly I«uUde. Id tlie Bnl c)ia|>- Uin« v°n> ! I. Tlul nlaCng b. 
+
+iv 1 taxine^ni a Inr abnrrHUmi human inulUiNii« i >- ttia relating 
+
+.^Wip^iiutlba«»n«Uonarm«i- loUia IMlliiRti andS. ThalTelaltnHta 
+
+UdMEoiwIth OHadouBorDaum, UiewUl. )nUM|iiwntToli»iiel1i»e 
+
+
+
+I WBTTantad riini^ anuyied 
+
+¦ Into tha Maim at llie Inl 
+-_ ,„. la |iunl]r imlntadrnt the . _ 
+
+anaenliUt* and tnuwandaDtaL Itai- muitrliyihetmhal'Durawntenilia 
+
+tJiniuionaUuttie pmvec Idea oTUie ^T^e anilyris orthe Itellnca and thi 
+
+foul, to a^ilaln iu oriJElD, and look n'UJ are reiorved fur a Second FiirL. 
+
+
+
+, „ , dliw 
+
+, (rwD the oiH Into tha Maim atUie InlallKliul jnncara, and 
+
+Tha tUnl chapUr la |iunl]r iwliitad nit the maUidda by which w* 
+
+
+
+The TAird Edilioa, in ftp. 8ro, price 58. clotb, 
+PYCROFT'S 
+
+COUESE OF ENGLISH BEADING, 
+
+
+
+fturcdolti. 
+
+afnl companion lo any lover of Ut«TatuTe. and more pfirtlcniarl/ to 
+. It UtJie beet dT all acboolyrliea." UkHn.BBiAii'«Mjoi£IMi. 
+
+
+
+Hon to Btody Hlilory p 
+
+
+
+Piinlliig, ifciiliitoTS. J 
+How to Htudy the Snrlptur 
+
+
+
+Tba'Cetli ( 
+LoodoB ; LO.VGMAM, BBOWN, GRtBll, U>t;G»l.'S%,*i^S«S.^=^'''- 
+
+
+
+NEW AND IMPROVED EDITIONS OF APPROVED 
+EDUCATIONAL WORKS. 
+
+By T. Tate, T.R.A.S., late of Kneller Training College. 
+
+
+
+ALGEBEA MADE EAST, 
+
+CHIEFLY INTENDED FOR THE USE OF SCHOOLS. 
+
+By THOMAS TATE, F.E.A.S. 
+
+LAT£ OF KNELLER TRAINING COLLEGE. 
+
+12ino. 28. 
+
+
+
+Jlso by T. Tate, F.R.A.S., I^ew Editions, 
+
+The PHILOSOPHY of EDUCATION; or, Principles and Practice of 
+Teaching^. The fSecond Edition, revised and considerably enlarged. 
+
+Fcp.'svo. 68. 6d. 
+EXERCISES on MECHANICS and NATURAL PHILOSOPHY. 12mo. 
+
+28.— KEY, 38. 6d. 
+The ELEMENTS of MECHANISM 12mo. Ss. fid. 
+
+MECHANICAL PHILOSOPHY 8vo. lOs. Cd. 
+
+On the STRENGTH of MATERIALS 8vo. 58. 6d. 
+
+FIRST PRINCIPLES of ARITH M ETIC 12mo. Is. 6d. 
+
+SYSTEM of MENTAL ARITHMETIC ...8vo. Is. 
+
+NEW COINAGE in relation to School Arithmetics 12mo. 8d. 
+
+GEOMETRY, MENSURATION, LEVELLING, &c 12mo. 38. 6d. 
+
+FIRST THREE BOOKS of EUCLID 12rao. Is. 6d. ; ISmo. Is. 
+
+DIFFERENTIAL and I NTEGRAL CALCULUS 12mo. 4s. 6d. 
+
+MATHEMATICS for WORKING MEN, Part 1 8vo. Is. 
+
+DRAWING for LITTLE BOYS and GIRLS 4to. Is. 6d. 
+
+DRAWING for SCHOOLS 4to. 5s. 6d. 
+
+The LITTLE PHILOSOPHER; or. the Science of Familiar Things. 
+
+Vol. I. 3s. 6d. ; or in 3 Parts, Is. each. 
+
+COURSE of NATURAL and EXPERIMENTAL PHILOSOPHY, 2 vols. 
+78. ; or in 7 Parts, Is. each, as follows :— 
+
+MECHANICS and the STEAM-ENGINE 18rao. Is. 
+
+ASTRONOMY and the USE of the GLOBES 18mo. Is. 
+
+LIGHT and HEAT 18mo. Is. 
+
+HYDROSTATICS, HYDRAULICS, PNEUMATICS u. 
+
+ELECTRICITY for BEGINNERS 18mo. Is. 
+
+MAGNETISM, ELECTRODYNAMICS, &c 18mo. Is. 
+
+EXPERIMENTAL CHEMISTRY 18mo. Is. ; 12rao. Is. 6d. 
+
+
+
+London : LONGMAN, BROWN, GREEN, \-O^O^k^?»,«i^Q^^^:^?k 
+
+— — ^ ¦ — Nr^ 
+
+
+
+39, Paternoster Row, LONDOX: March 1857. 
+
+
+
+(§mn^ ^^pttM JTists 
+
+
+
+Off 
+
+
+
+SCHOOL-BOOKS 
+
+VUSLISHED BT 
+
+Messrs. LONGMAN, BEOWN, and CO. 
+
+
+
+AI6XBBA. 
+
+Colenso's Slements, Part I. ISmo. CKey, Ss.^ As. 6d. 
+
+^ n Part n. 12ino. (Kegr, 6s.) . .^ .68. 
+
+„ •• complete, for Teachers and 49tudent6,4vo 128. 6d. 
+
+,, JLlgetea fat National «nd ElementAnr fiohotfls, ISmo.CKej, 9b. «d.) Is. 6d. 
+
+„ Examples and Eqnatkm Papera, tlEaao 2s. 6d. 
+
+Lund's Short and Easy Coarse of AQgdbra, lop. 8vo. (K^. te.) 2b. 6d. 
+
+Reynolds^ Elementary Algebra for Beginners, 18mo. (Key, 3d.) Is. 
+
+Scott's Arithmetic and Aflgebra for flhe use of Sandhurst College, '8vo 16s. 
+
+TsteTs Algcfhra made Easy, iBfteaded chiefly fin"tfae tne of Schools, 12mo. ..28. 
+
+Thomson's Elementary Treatise, 12mo. (Key, 48.^.) 5s. 
+
+Wood's Elements, for TTniversity Students, by Lund,«8vo IBs. 6d. 
+
+Limd'-s Companion to DiMo, 8ve 68. 6d. 
+
+Toong's Slementaty Treatise, ISmo. (Key, \fy 6pA!Qer,>6s.) 6s. 
+
+ASTTHMETIG. 
+
+Colenso's Arithmetic for Schools, 12mo. (Key, by Maynard, 68.) is. 6A. 
+
+„ Text-Book of Elementary Azitdocmetic, Iteko. (with Answers, 8s.8d.) 1«. 9d. 
+£^ Colesso's EUmentary Arithmetifi xnay be had in Five Paris, as follows >- 
+
+1. Text- Book 6d. I 3. E]ianipIeB,Pt. II. Comfiomnd Ariihmetfk m».id. 
+
+2. Ezaniples,Pt.I.S«mp{eilrtMm«fte4c(. I i.YxKm^\m^\ll.Fra^ion»JQfcifndUfiuodteimaUid. 
+
+6. Answers to the Examples, with 'Solutions <tf fhe mese Aifllcmlt Qnestiona It. 
+
+CioAby's Walkingame's Tutor's Assistoiit, % Mi^irard, ISmo. (Key, Ss. 6d.) Ss. 
+
+Galbraith and Haughton's Manual of Arithmetic, 12mo. 28. ; doth iSa. 6d. 
+
+Hiley's Arithmetical Companion, 18mo. (Key, Is. 6d.) ^. 
+
+Hughes's Manual of Arithmetic; fcp.€vQ. (with JLegr^. 88. €d.) ls.6d. 
+
+Joyce'/i System of Pradical Arithmetic, b)' M^jstard, 12mo. (Key,:8B.) 4ts. 
+
+Lardner's Treatise on Arithmetic, fcp. 8vo 88. 6d. 
+
+M'Leod's Course of Arithmetical Questions, 2 parts, Umo.. each Is. 
+
+M Manual for Elementary lustniotioEuilSme , ]«. 
+
+M Extended Multiplioation andPence Tablet^ pwdoien jte. 
+
+HoAineux's Arithmetic, 2 parts, 12ma each (JCeys, Sixpence eaeh) ^ fs. Sd. 
+
+Scott's Arithmetic and Algebia for the use of Sandhurst College, 8vo 16s. 
+
+„ Decimal Arithmetic for the use of Schools, 12mo v. ^.— . . . As. 
+
+Tate'B Treatise on the First Principles of Arithmetic, 12m&i. . .-..-^ — .? "Kjk.^ft.. 
+
+^ Mentdl Arithmetic for Teachers. %vo * *— . *• > — ''^** 
+
+Tttbt On the "New Coinage in relation to our ^diocA. ^A>3EaaiS*3«»>'fi«8ft»-. '• 
+
+LondBu: LONGMAN, BBOWN, GHEX.!!;, VOlSfiCM^fcrs^'^ *»^ 
+
+
+
+2 Stminl ^ists of Scl^ool-^oohs. 
+
+ASTBOKOKT, HEIEO£lOI0eT ana NATTCFATIOIT 
+
+Anen'iPopuluABtruQomi', translated br Smyth and licanl.TD]. 1. 8vci. 
+
+
+
+jBuia'iFroMeiniilnABtronoiny Suneyln^, and Niiigitloo, Umo. (ta. 
+
+„ HindlwokfartheStargot'tbeFlntsndSacondAli^tnde.Sra. .. Sa.ti. 
+TalVi AMiaiuHnjaiidlliallMortbaaiobWilW'Beftlnun.ISmo. U. 
+
+
+
+„ i5Bn*r!ilAtla3 frfodern and AniaeDt Geography, royal Ko Mi. 
+
+a Atlas »rilD<]EniGHi|;rBphy,roifal 9(0. It). 
+
+H JuiiorUDdemAtlaa.rorBlSi'a. <a.Cd. 
+
+H>U'aFLr<tcrEl9nuintaiyAtlaii>tiar»l(^ind3l]>[a,DUlaDK4tD. U U. 
+
+„ sfap-PrnJocUoiu, 1». Hull's OntUrsMBB" I* 
+
+Hn^WI'i Qeosral Atlas Jbr Elementary School!, ISdo, [coloured, 1I.M.) ,. ll. 
+
+„ Allu of Phyitcal. I>DlltLcal.snd'Caminerclidaa>)tniih7, laja ertklOi. M. 
+H Si;hii»lAtlMarFliy9lcslaedBrs|Ay,l£nio. Ii.Sd. 
+
+„ iIanil-AtLaxofOsi»rii<G«igraphr,i9(ull-ro]o11redMnpi.l9ma... tM.M. 
+„ ClosE-Atiss II rPA^ifeiit acagraphy, 30 __ . . 
+
+„ FbjricalAUHOCGnatBiltilnu" 
+
+sioQB&rar. 
+
+Angn'i LlfH or MBtlnpilabfd SdenUlla Uto, Sr 
+
+
+
+CALCTTLtrs and LO&AHITHHS. 
+
+Cumicfaul'i rMatiBcoBlheCalnilnBOf 
+
+Tarloy's Tables of Sii-BriroLotrarithmt . 
+
+Tata's PiinclpleiofthBllUlaniitiil and lilUsnlCiilculiu,I!mi>. ,. 
+
+
+
+6(hillliie»D(Tn»rimemidChcnii.try,ltino.U.M.| Wmo. U, 
+
+Jsoi/sScboolChomiBtrj-jfrp.ffvo, -,., .,....,...,., 7B, 
+
+
+
+(Sjemral psts of ^rj^ool-^oohs. 3 
+
+
+
+%^^.^h^k^^^^^^^*^^^^<%*%^*^*^^^k^^%^^^»^^*^^^fc^^ 
+
+
+
+GHBOKOLOOT. 
+
+Blair's Chronological and Historical Tables, edited by Sir H. Ellis 81s. 6d. 
+
+Brewer's Poetical Chronology of Inventions, Discoveries, Battles, &c., 12mo. Ss. 6d. 
+
+„ Elementary Atlas of History and Geography, royal 8vo 128. 6d. 
+
+Hort's Introduction to Chronology and Ancient History, 18mo is. 
+
+Howlett's Tables of Chronology and Regal Genealogies, ito 5s. 8d. 
+
+„ Metrical Chronology, post 8vo 7s. 
+
+Jaquemet's Compendium, edited by the Rev. J. Alcorn, M. A., post 8vo 7s. 6d. 
+
+Nioolas's Chronology of History, fcp. 8vo Ss. 6d. 
+
+School Clironology, or the Great Dates of History, squai'e 12mo Is. 
+
+Slater's School Chronology, or Sentontiee Chronologlcse, 12mo 8s. 6d. 
+
+„ ColouredChronological Chart toaccompanytheabove(onroller,0s.6d.) 6s. 
+Valpy's Poetical Chronology of Ancient and English History, 12mo 28. 6d, 
+
+CIVIL LAW and FOLHIGAL ECONOMY. 
+
+Humphreys's Manual of Civil Law, for Schools and Candidates, fcp. 8vo 88. 6d. 
+
+„ „ PoliticalSclence, for Schools & Candidates, fcp. 8vo. 8b. 6d. 
+Marcet's Conversations on Political Economy, fcp. 8vo 7s. Gd. 
+
+
+
+CLASSICAL DICnONABIES and MYTHOLOGY. 
+
+Barker's Lempridre's Classical Dictionary, edited by Dr. Cauvin, 8vo 12s. 
+
+Hort's New Pantheon, or Introduction to Mythology, 18mo is, 6d. 
+
+Lempri6re's Classical Dictionary, 8vo 9s. 
+
+Kich's Illustrated Companion to the Latin Dictionary and Greek Lexicon, 
+with upwards of 2,000 Wood Engravings, post 8vo 21s, 
+
+GONCHOLOGY. 
+
+Catlow's Popular Conchology, or the Shell Cabinet arranged, poet 8vo lis. 
+
+COPY-BOOKS. 
+
+M'Leod's Graduated Series of Kine Copy-Books, each 8d. 
+
+DBAWDTG-BOOES, &c. 
+
+Malan's Aphorisms on Drawing, post 8vo Ss. Cd. 
+
+Tate's Drawing for Schools, with numerous Illustrations and Exercises, ito. 5s. Cd. 
+„ Drawing-Book for Little Boys and Girls, with 180 Exercises, ito Is. 6d. 
+
+ENGLISH COMPOSITION and ELOCUTION. 
+
+Brewer's Guide to English Composition, fcp. 8vo 5s. 6d. 
+
+Graham's English, or the Art of Composition, fcp. 8vo 68. 
+
+Hlley's English Composition, Past I. or Junior <Sf«riet, 18mo. (Key, 2s. 6d.) Is. 6d. 
+
+,. Practical English Composition, Past II. 18mo Ss. 
+
+MoreU's Handbook of Logic, for Schools and Teachers, fcp. 8vo 28. 
+
+Parker's Progressive Exercises in English Composition, 12mo Is. 6d. 
+
+Roget's Thesaurus of English Words and Phrases oUssifled, crown 8vo . . . . lOs. 6d. 
+
+London: LONGMAN, BROWN, GREEN» LO^OliK.'^^, wA ^^^J^^Ss::^'^. 
+
+
+
+EDUCATION in GENERAL. 
+
+Domestic Economy, Hoosekeei^ng, Cookery, &c. (in QUkft SeHm), ISeao^^ liu 
+
+Pilbms's Contributions to the Cause of Education, 8vo IM, 
+
+Stow's Training System, &c.,. for Trainers and Governesses, poet 8vo. 6b. 
+
+Sydenham's^Notes of Lessons, 12mo.. ^ S^ 
+
+Tate's Pliilosophy of Edaoation, or Principles &a^ ef Teaching iep, 8vo 6Bi. 6d. 
+
+ENGLISH PICnONARIES. 
+
+Haunder's Treasury of Knowledge fuid Litnrary of Reference, fbp. 8vo 10s. 
+
+Smart's Walker's Pronouncing Dictionary Remodelled, 8vo 12s. 
+
+M *t If M Epitomised, I6mo Ga. 
+
+Sullivan's Dictionary of Derivations, 12mo 2s. 
+
+„ „ „ the English Language, 12mo Ss. 6d. 
+
+ENGLISH ETTMOLOGY. 
+
+Black's Student's Manual (OreOc), 18mo. 2b. 6d. ; Sequel {taHn\ 18mo 5s. 6d. 
+
+Ross's Etymological Manual of the English Language, 18mo 6d. 
+
+ENGLISH GBAMUABS and EXEBCISE-BOOES. 
+
+Downe's (Viscount) Elementary English Grammar, ISrao I». 
+
+Hiley*s English Grammar and Style, 12mo Ss. 6dL 
+
+„ Abridgment of English Grammar, 18mo ls.tdb 
+
+M Cliikl's First English Grammar, 18mo Is. 
+
+„ Exercises adf^pted to the Engfish Grammar, 12mo« (Key, SB.X 28. 6d. 
+
+Hunter's Text-Book of English- Grammar, 12mo. 2e. 6d. 
+
+M'Leod's Explanatory English Grammar, for Beginners, ISmo Is. 
+
+Marcet's Game of English Grammar, with Conversations, post Svo Ss. 
+
+„ Mary's Grammar, interspersed with Stories, ISmo Ss. 6d. 
+
+„ Willy's Grammar, interspersed with Stories, 18mo 2s. 61. 
+
+Morell's Analysis of Sentences explamed and illustrated, 12mo 28. 
+
+M Essentials of English Grammar and Analysis, fcp. Svo. 8d. 
+
+M Essentials of English Qrammar, ISmo. Part I. 2d. \ Part II. .¦ 9d. 
+
+Smart's Course of English Grammar, Rhetoric, Logic, &c. 5 vols. 12mo 238. 6d. 
+
+Stepping-Stone to English Grammar, in Question and Answer, ISmo Is. 
+
+Sullivan's Attempt to Simpli^ English Granmiar, ISmo Is. 
+
+ENGLISH PASSING. 
+
+Hunter's Exercises in English Parsing, 12mo r.. .«.- 6d. 
+
+Lowres's System of English Parsing and Derivation, ISmo Is. 
+
+ENGLISH POETBY. 
+
+Connon's Selections from Milton's ParcMlise £o«^, 12mo Ss. <d. 
+
+Cook's First Poetry-Book for Elementary Schools, ISmo 9d. 
+
+„ Selection of School Poetry, with short Notes, 12mG; 28. 
+
+Graham's Studies from the English Poets, or Poetical Reading^Bo(^, 12mo. 7s. 
+
+Hagbes'a Select Specimens of English Poetry, 12mo Ss. 6d. 
+
+iir!2:aod'5 Second Poetical ReadLng-Bo<)k,l%mo l8.8d. 
+
+'PUliBer'B Afodem Poetical Speaker. cMetiy for li»aieA* «6br»\&,'Qxiu>. %ik«. 
+
+
+
+'^»odon: LONGMAN, BRO^N, GUEEN, I.01S0NUiS;^, wi^^QSKKC^. 
+
+
+
+ENGLISH BEADDTG-BOOES. 
+
+Hughes's Graduated Beadlng^Lesson-Books, fcp. 8vo. S SXBZ18» each Ss. 6d. 
+
+„ Select Specimens of English Prose, 12mo 4e. Od. 
+
+Jones's Litorgical Class-Book, from the best authorities, 12mo Is. 6d. 
+
+M'Leod's First Book to teach Reading and Writing. 18mo 6d. 
+
+., „ Beading>Book,18mo.Sd.; or as Reading-Lessons, in SO Sheets Ss. 
+
+Mami's Lessons in General Knowledge, fcp. 8vo Ss. 6d. 
+
+Haunder's Universal Class-Book for Every Day in the Year, 12mo 6s. 
+
+Pycroft's Course of English Reading, fcp. 8vo 58. 
+
+Sewell's School Speaker and Holiday Task-Book, 12mo 6e. 
+
+Simple Truths from Scripture, in Easy Lessons, 18mo Cd. 
+
+Smart's Historioo-Shakspearian Readings, 12mo 6s. 
+
+Sullivan's Literary Class-Book, or Readings in Literature, 12mo 28. Cd. 
+
+EKGUSH SPELLING-BOOKS. 
+
+Carpenter's Scholar's Spelling Assistant, 12mo. Is. fid. 
+
+„ „ „ „ edited by M'Leod, 12mo Is. 6d. 
+
+Homsey's Pronouncing Expositor, or New Spelling-Book, 12mo 28. 
+
+Mayor's English Spelling-Book, Genuine Edition, 12mo Is. 6d. 
+
+Sullivan's Eng^h Spelling-Book Superseded, 18mo. Is. id. 
+
+ENGLISH SYNONTMES, fte. 
+
+Graham's English Synonymes, classified and explained, fcp. 8vo. 78. 
+
+Boget's Thesaurus of English Words and Phrases, crown 8vo 168. Gd. 
+
+EUCLID. 
+
+Colenso's Elements of Euclid, from Slmson's Text, 18mo. (with Key, 66. 6d.) 4s. 6d. 
+
+„ Geometrical Problems (without Key, Is.), with Key, 18mo 8e. Cd. 
+
+Galbraith and Haughton's Manual of Euclid, Books I. and II. 12mo Is. 
+
+Tate's First Three Books of Euclid's Elements, 12mo. Is. 6d. ; 18mo Is. 
+
+FOBTIFIGATION AND THE MILITABT ABT. 
+
+Hodge's Catechism of Fortification, for Students and Candidates. 12mo 28. 6d. 
+
+Macdougall's Theory of War, post 8vo. with Plans of Battles 10s. Cd. 
+
+FRENCH GBAHICABS and EXEBCISE-BOOKS. 
+
+Albitks' How to Speaic French, 12mo 48. 6d. 
+
+Cambier's Sandhurst College French Grammar, 12mo 5«. 
+
+Contauseau's Compendious Grammar of the French Language, 12mo 48. 
+
+„ Guide to French Translation, 12mo Ss.Cd. 
+
+Harael's New Universal French Grammar, 12mo 48. 
+
+„ Grammatical Exercises on the French Language, 12mo. (Key, Ss.) 48. 
+
+„ French Grammar and Exercises, by Lambert, 12mo. (Key, 48.) &tf. Cd. 
+
+Sadler's French Pronunciation & Conversation, in Question & Answer, ISmo. Is. 
+
+Tarver'B Eton French Grammar, 12mo. 8a* \ 
+
+n f* ** Exerdses, Familiar* Conver«aUoTi«JL,\^sfto.^CKAi*^*^^*-^*^ ^ 
+M French Phraseology explidned and comvax«&,\2sxvo ^** 
+
+London: LONGMAN, BROWN, GR^^N, U>iaO^Kl^^> %tA'»OJWS.'^ 
+
+
+
+A l 
+
+
+
+FBENCH DICnONABIES. 
+
+Ck)ntan8eau'B New Practical French and English Dicticmary, poet 8vo Ite. 6d. 
+
+Kngent'8PocketDictionaryofFrench&EnKl.Langnage8,18mo.40.6d.; 12mo. 78. 6d. 
+Tardy'8 French Pronouncing Dictionary, 12mo 7», 
+
+FBENCH, ITALIAN, and OEBHAN BEABHTO-BOOKS. 
+
+Camhier's Sandhurst College French Reading-Book or Becueil, limo. St. 
+
+Charente's French Grammar, Exercises, and Reading-Book 
+
+Ck)ntanseau'8Pro8ateursetPo6te8Fran9!us,or SelectionsfromFrenchWritan 7b. 6d. 
+Eztraits Choisis from Modem French Writers, by the Author otAmpHtrbert 
+Lacaita's Italian Reading-Book, or Selections from best Italian Writ«rB,12mo. Sa. 
+
+Metcalfe's History of German Literature 
+
+Muller's' German Reading-Book 
+
+Rowan's Morceauz choisis des Auteurs Modemes, h I'usage de la Jeunesse 68. 
+Tarver's Eton French Reading-Book,— Prose, Verse, and Phrasecdogy, 12mow 78. 6d. 
+
+,, Choix en Prose, 12mo. Ss. 6d. ; Choix en Vers, 12mo Ss. 8d. 
+
+^nntzer'8 First German Reading-Book, for B«gimierB,fcp.8vo. St. 
+
+GBEEK CLASSICAL ATJTHOBS, fte. 
+
+Axibtotlb's Politie$t with English Notes, &c., edited by Eaton, 8to lOi. 6d. 
+
+EtJSiPiDSS, the 5 Plays, with English Notes by Mqjor, post 8to Sit. 
+
+HxBODOTUS, with English Notes, &c., edited by Stocker, 2 vols, post 8vo. . .188. 
+
+HoHES's lUad, with English Notes, &c., edited by Yalpy, 8to lOi. 6d. 
+
+Linwood's Anthologia Oxonientia (Greek, Latin, and English), 8vo .lit. 
+
+4, Treatise on the Greek Metre$t 8vo lti.6d. 
+
+Sophocles, with English Notes, &c.,editedbyBra8seandothers,2yol8.p.8To. Sis. 
+
+„ edited, with short Latin Notes, by Linwood, 8vo lOi. 
+
+TheatreoftheGreeks, edited by Donaldson, 8vo Hit, 
+
+Walford's Handbook of the Greek Drama, fcp.Svo 68. 
+
+XBiroPHOir's AnabcuUt with English Notes, &c., edited by White^ 12mo. . . 78. 6d. 
+
+„ Memorabilia, with English Notes, &c., edited by Hickie, p. Sva 88. 6d. 
+
+GBEEK QHAirMAKS, EXEBCISE-BOOES, &c. 
+
+Collis's Praxis Graeca, LEtymology, 28.6d. ; II. Syntax^ Gs. ; ULAccentuaUon Sa. 
+
+„ „ lambica : Exercises in Greek Tragic Senarii 
+
+Howard's Introductory Greek Exercises, 12mo. (Key, 28. 6d.) 58. 6d. 
+
+Kennedy's Greek Grammar (Grsecse Grammaticse Institutio Prima), 12mo. . 48. 6d. 
+
+„ Palsestra Stili Ghrseci, or Greek Prose Materials, 12mo. 
+
+„ „ Musarum, or Greek Verse Materials, 12mo fo. 6d. 
+
+Moody's New Eton Greek Grammar, in English, l&no 48. 
+
+Pycroft's Greek Grammar Practice, 12mo Ss. 6d. 
+
+Yalinr's Elements of Greek Grammar, with Notes, 8to 68. 6d. 
+
+„ Greek Primitives and Leading Words, 12mo 68, 
+
+Yalpy's Greek Delectus, improved by White, 12mo. (Key, 2s. 6d.) 48. 
+
+„ Second Greek Delectus, or New Analecta Minora, 8vo Os. Bd. 
+
+Walford's Card of the Greek Accidence, 8vo. Is. ; of the Greek Prosody, Svo. Is. 
+
+„ „ „ „ A.Qcex)Xfi,hth Edition , 6d. 
+
+Yonge's Exercises in Greek Prose Composition, 12mo. (Key, Is.) Ss. Cd. 
+
+OBEEK LEZICOirS, fto. {»ee ''Latin and Greek"). 
+iMdon t LOyOMAK, BROWN, GREEN, LONGMANS, and RO»BRTS, 
+
+
+
+GEOGBAPEYy GAZETTEEB8, ftc. 
+
+Adams's Geographical Word-Expositor, Second Edition^ 12mo 28. Gd. 
+
+Arrowsmith's Geographical Dictionary of the Holy Scriptures, Sro 15s. 
+
+Bowman's Questions on Hall's First or Elementary Atlas 28. 
+
+Butler's Ancient Geography,post 8vo.4s. ; Butler's ModemGeogn^hyiPOst 8vo. 4b. 
+
+„ Modem and Ancient Geography complete, post 8vo 7b. 6d. 
+
+Cabinet Gazetteer, by the Author of the Cabinet Lawyer ^ teg. 8vo. 10s. 6d. 
+
+Challener's Catechism of English Descriptive Geography, ISmo Is. 9d. 
+
+Cunningham's Abridgment of Butler'g Oeoffrc^hv, fcp. Svo 2s. 
+
+Dowling's Introduction to Qoldemith'a Oeoffraphp, 18mo 9d. 
+
+„ Questions on Goldsmith's Qeographyt 18mo. (Key, 9d.} 9d. 
+
+Falmouth's Conversations on Geography, or Child's First Introduction, fcp. 7s. 6d. 
+
+Goldsmith's Grammar of Greneral Geography, fcp. Svo. (Key. 18mo. Is.) Ss. 6d. 
+
+Hartley's Geography fbr Youth, 12mo. (Outlines, 18mo. 9d.) 4s. 6d. 
+
+Hiley's First Geography for the Elementary Classes, ISmo 9d. 
+
+„ Progressive Geography, in Lessons and Exercises, 12mo 2s. 
+
+Hughes's (E.) Geography fbr Elementary Schools, ISmo Is. 
+
+„ Outlines of Physical Geography, 12mo Ss, 6d. 
+
+n Examination-Questions on Physicdl GeogrojpAyt fcp. Svo. .... 6d. 
+
+„ Outlines of Scripture Geography and History 48. 6d. 
+
+Hughes's (W.) Manual of (Geography, Physical, Industrial, and Pcditical . . 78. 6d. 
+
+„ „ British Geography, fcp. Svo 28. 
+
+„ „ Mathematical Geography, fq;>. Svo. 48.6d. 
+
+„ General Geography, in G2ej0r'« iScAooZ Series, ISmo Is. 
+
+„ British Geography, in Qleig's School Series, ISmo Is. 
+
+„ Child's First Geography, in Qleig's School Series, ISmo. 9d. 
+
+Johnston' s New General Gazetteer of the World, Svo S68. 
+
+KeithOntheGlobe8,lqrTaylor,LeMesurier,andMiddleton,12mo.(Eey,28.6d.) 6s. Od. 
+
+M'Leod's Geography of Palestine or the Holy Land, 12mo la. 6d. 
+
+„ TravelsofSt. Paul, 12mo 
+
+„ Geography of Old Testament CaaairiesiexceptinffPalestine^ 12mo. 
+
+Mangnall's Compendium of Geography, for Schools, 12mo 78. 6d. 
+
+Maunder's Treasury of Geography, completed by W. Hughes, fq;>. Svo 10s. 
+
+Stepping-stone to Geography, in Question and Answer, ISmo Is. 
+
+Sterne's School Geography, Physical and Political, 12mo S8.Gd. 
+
+Sullivan's Geography Generalised, 12mo 28. 
+
+„ Introduction to Geography and History, ISmo Is. 
+
+Wheeler's Geography of Herodotus developed,explained.and iUa0trated,Svo.lSs. 
+
+GEOMETBY. 
+
+Lund's Geometry as an Art, with Easy Exercises, fcp. Svo Ss. 
+
+„ „ a Science, with Easy Exercises, fcp. Svo Is. 6d. 
+
+Narrlen's Elements of Geometry, for Sandhurst College, Svo 108. 6d. 
+
+Tate's Principles of Geometry, Mensuration, Trigonometry, &c., 12mo Ss. 6d. 
+
+GRADTJSES. 
+
+Brasse's Greek Gradus, or Prosodial Lexictm, Svo. 158. 
+
+Maltby's New and Complete Greek Gradus, Svo ^'^<> 
+
+Yonge's New Latin GraduB ad Paniassum, poet 8^o.(:<nVCIci'BiM3m^^'^^^^ .,'^- 
+
+
+
+\ 
+
+
+
+/ 
+
+
+
+Diotionaiy of Latin Epithets, poftt dvo. 
+/ London: LONOMAN, BROWN, GRIKN, lX>^GiVlKS:«»» ^^^^^^'^^ 
+
+
+
+8 (^mttd psfs of S-c|^00l-§00fes* 
+
+
+
+mSTOBIGAL and MISGELLAKEOirS SCHOOL-BOOSIS. 
+
+Anthony's Footsteps to Modern History, fcp. 8vo 5s. GJ. 
+
+Balfour's Sketches of English Literature Ts. 
+
+Brewer's Elementary Atlas of History and Geography, royal 8vo. 128. Gd. 
+
+Browne's Ancient Greece, 18mo. Is.; Browne's Ancient Rome, ISmo Is. 
+
+Burton's History of Scotland, firom 1689 to 1748, 2 vols. 8vo 2Cs. 
+
+Child's Fii St History of Rome, fcp. 8vo 2s. Gd. 
+
+Ck>mer's Historical Questions, or Sequel to ManffnaH^i» 12mo 5s. 
+
+Farr's School and Family History of England, 12mo 58. Gd. 
+
+First History of Greece, by Author ofthe ChUd'»Fir$tni»torjfcf Borne fispJSyo. 8s. Gd. 
+Gleig's England, or First Book of History, ISmo. (cloth, 2s. 6d.) 2s. 
+
+t, British Ck>lonies, or Second Book of Ifistory,18mo. Is. 
+
+•, „ India, or Third Book of History, 18mo Is. 
+
+„ Sacred History, or Fourth Book of History, 18mo. (doth, 28. 6d.) . . 28. 
+
+mstorical Questions, Part I. On the above Four Histories, 18mo Is. 
+
+Gleig's France, 18mo Is. 
+
+Gnmey's Historical Sketches, SSnxmdSleries, St. Louis and Henri iy.,fcp.8vo. 6s. 
+
+Keightley's Outlines of History, fcp. 8vo Ss. Gd. 
+
+Mackintosh's England, 2 vols. 8vo Sis. 
+
+Hangnail's HLstorical and Miscellaneous Questions, 12mo 4s. Gd. 
+
+Mann's Lessons in General Knowledge, or Elementary Reading-Book, fcp. 8vo. Ss. Gd. 
+
+Marcet's Conversations on the History of England, ISmo 5s. 
+
+Maunder's Historical Treasury, fcp. 8vo 10s. 
+
+Menzios' Analysis ofthe Constitution and History of England, 18mo Is. 
+
+Merivale's Romans under the Empire, Yols.LtoIII.8vo.428.; Vols. IV.&V. 82s. 
+
+„ Fall ofthe Roman Empire, 12mo 7s. Gd. 
+
+Mure's Language and Literature of Ancient Greece, 3 vols. 8vo. 868. ; Vol. IV. 15s. 
+Schmitz's Greece, mainly based on Thirlic<iW$, 12mo. with 187 Woodcuts. . . Ts. Cd. 
+
+Scott's Scotland, 2 vols. fcp. 8vo 7s. 
+
+Stafford's Compendium of Universal History, 12mo 3s. 6d. 
+
+Stephen's Lectures on the History of France, 2 vols. 8vo 24s. 
+
+Stepping>Stone to English History, in Question and Answer, 18mo Is. 
+
+„ „ French History, in Question and Answer, 18mo Is. 
+
+„ „ Roman History, in Question and Answer, 18mo Is. 
+
+Sterne's Questions on Generalities, IstA 2d Series, 12mo. each (Keys, ea. 48.) 28. 
+
+Thirlwall's History of Greece, 8 vols. 8vo. £3 ; or in 8 vols. fcp. 8vo 288. 
+
+Turner's Anglo-Saxons, 8 vols. 8vo SGs. 
+
+„ England during the Middle Ages, 4 vols. 8vo 508. 
+
+Tytler's Elements of General History, 8vo 14s. 
+
+Valpy's Latin Epitome of Sacred History, 18mo 2s. 
+
+JVYESILE WOBES. 
+
+Journal kept during a Summer Tour Abroad, fcp. 8vo 5s. 
+
+Marcet's Rich and Poor, 18mo Is. 
+
+„ Seasons, or Stories for very Young Children, 4 vols. 18mo. eadi. ... 2s. 
+
+„ Willy's Holidays, or Conversations on Government, 18mo 2s. 
+
+M M ;6ftorie8 for Young Children, ISmo 2s. 
+
+" M Traveis on the Railroad, ISmo ^.^. 
+
+
+
+*»<fo/i / LONGMAN, BROWN, GREEN, lX)^G^Mft^» w^«^ ^O^Y.^T&. 
+
+
+
+(§meral ^iste of Sfx^d-'^jjoks. 
+
+
+
+LAND-S UK V KIINS aad MEBTSIKEAIIOK. 
+
+Lund's Elements of Qeometry and MensuTatfon, ftp. 8vo 
+
+Nesbif 8 Treatise on Practical Land-Sonreyii^, witti 250 Examples, Svo. 128. 
+
+tt ft ,1 Mensnratiofn, 12mo. ^Key, Ss.) 6s. 
+
+Scotf s MenstButlon and Trigonometry, for Sandhurst CoUege, 8vx> 9s. 6d. 
+
+Tate's Principles of Mensuration, Land-Surveying, LeyeQingr ftc.. 12mo Ss. 6d. 
+
+lATOr GEAMMASS, EXSRCISE-BOOEft, te 
+
+Barrett's Little Arthur's Latin Primer, 12mo. , Is. 
+
+t, Latin Exercises for the Lowest Form, 12mo 3s. 6d. 
+
+Bradley's New Latin Prose ExerciJaes, 12mo. (Key, 5s.} Si. 6d. 
+
+Collis's Praxis Latina, Ft. I. for£^n7Mrs. 2s. 6d.; Pfe. II. fas Advanced Pit»a» Ss. 
+
+EQley's Elements of Latin Grammar, 12mo Ss. 
+
+„ Progressive Exercises on Latin Accidence, 12mix 28. 
+
+Howard's Introductory Latin Exercises, 12mo 2s. 6d. 
+
+„ Latin Exercises Extended, 12mo. (Key, 2s. 6d.) Ss. 6d. 
+
+Kennedy's Elementary Grammar of the Latin Language, 12mo Ss. 6d. 
+
+„ Latin Yocabxilary, on Etymological Principles, 12mo Ss. 
+
+„ Child's Latin Primer, or First Lessons, 12mo 2s. 
+
+„ Tirocinium, or First Latin Beading-Book, 12mo 2s. 
+
+„ Paloistra Latina, or Second Latin Beading-Bool;; 12mo 58. 
+
+,. M Still Latini, or Latin Prose Materials, I2mo (A. 
+
+„ Examples of Latin Style for Oral Use, I2mo 
+
+„ Palaestra Camenarum, or Latin Verse Materials, 12mo 
+
+Moody's l^ew Eton Latin Grammar, in English, 1^0. (Accidence* Is.) .... 28. fid. 
+
+Pycroft's Latin Grammar Practice, 12ma. 2s. M. 
+
+Rapier's Second Latin Terse-Book, by Arnold, 12mo. (Key» 2s. 6A^ Ss. 6d. 
+
+Valpy's Elements of Latin Grammar, with short English Notes, 12mo. .... '28. Gd. 
+
+,. Elegantise Latins, 12mo. (Key, 28. 6d.} ^6d. 
+
+„ Latin Delectus, improved by White, 12mo. (Key, 38. fid.) 28.6d. 
+
+„ Manual of Latin Etymology, £cp.4to 7s. 
+
+„ Sacrse Blstorise Epitome, with English Notes, 13mOr 28. 
+
+Walford's LatinElegiacs,2 Series,12mo.each 28.fid. -, KejtaFint Striet^Asno^ 58, 
+
+„ Shilling Latin Grammar, 12mo. la. 
+
+„ Grammar of Latin Poetry, 12mo. , la. 
+
+„ Hints on Latin Writing, royal 8vo , lB.6d. 
+
+„ Exercises ill Latin Prose, adapted to the above JSr»«<8»12mo.. 28. fid. 
+
+„ Card of Latin Accidence, 8vo Is. 
+
+„ „ „ Prosody, Is. ; Walford's Card of Latin Syntax Is. 
+
+White's New Latin Grammar, complete, 12mo 28. fid. 
+
+„ Latin Accidence, 12mo. Is.; White's Eton Latin Grammar, 12mo. Is. 9d. 
+
+„ Second or Lai^er Latin Grammar, 12mo Is. fid. 
+
+Wilkins's Notes for Latin Lyrics, for the use of Schools, 12mo 48. fid. 
+
+Yonge's Exercises for Latin Verses and Lyrics out of ** Own Sense," 12mo. . 48. fid. 
+
+„ „ in Latin Prose Composition, 12mo. (Key, Is.) 5B.fid. 
+
+Zumpt's Latin Grammar, translated and adapted by Dt. L. SdbasSfisi...^^^ "^A^- N 
+
+„ School Grammar of the La!ttaljtti^jua«6,^i^\iia«BSB^'^^ ..^^^-. 
+
+London : LONGMAN, BROWN, QR.%1^^, TJ^lflQiVUw^'^ **^ 
+
+
+
+10 (gjemral fists 0f S^cl^ooU^ookB. 
+
+
+
+LATIN and GBEEE LEXIOOKS, DICTIOKABIES, fte. 
+
+Bloomfleld's Oreek^English Lexicon to the New Testament, fcp. 8vo lOs. 6d. 
+
+Englishman's Greek Concordance of the New Testament, royal 8ro. 42s. 
+
+JUch's Ulttstrated Companion totheLatin Dictionary and Greek Lexicon, p.8ro. Sis. 
+Riddle's Latin-En^ish and English-Latin Dictionary, 8vo. Sis. ; andsq.lSmo.lSs. 
+
+Diamond Latin-English Dictionary, royal SSmo 48. 
+
+Copious and Critical Latin-English Lexicon, 4to Sis. 6d. 
+
+Latin-English Dictionary, 8vo. ISs. ; square ISmo 7s. 
+
+English-Latin Dictionary, 8vo. 7s. ; square ISmo Ss. 6d. 
+
+and White's New Latin-English Dictionary, royal Svo 
+
+and Arnold's English-Latin Lexicon, Svo S5s. 
+
+„ English-Latin Dictionary, by Ebden, square i)ost8vo. 10s. 6d. 
+
+Robinson's Greek-English Lexicon to the New Testament, 8vo 18s. 
+
+Rost and Palm's Edition of Passow's Greek Lexicon, translated by 
+
+Frftdersdorfi; and edited by Riddle and White 
+
+Tonge's Dictionary of Latin Epithets, post 8vo Ss. 6d. 
+
+M New English-Greek Lexicon, 4to Sis. 
+
+„ Latin Gradus, i>ost Svo. 9s. ; or with Appendix ofEpUheU 12s. 
+
+LATIN CLASSICAL ATTTEOSS. 
+
+Cjbsab's Comme7itaTie»t with English Notes, Jkc. by Anthon, ISmo 4s. 6d. 
+
+It M Anthon's Edition, as above, improved by Hawkins, ISmo. 48. 6d. 
+CiCBso'8 Seleet OratiotUt with English Notes, by Anthon, ISmo 6s. 
+
+„ Cato Major and Lalius, with English Notes, &c. by White, ISmo. Ss. 6d. 
+Cosinsi.nTS Nbpos, English Notes, &c. by Bradley, improved by White, ISmo. Ss. 6d. 
+EuTBoynTS, with English Notes, &c. by Bradley, improved by White, ISmo. Ss 6d. 
+HobjlCB, with English Notes by the Rev. J. E. Yoi^, Past I. Odes and Epodes 
+
+„. English Notes and Strictures, by Girdlestone and Osborne, ISmo. . 78. 6d. 
+
+„ with short English Notes, by Yalpy, 18mo 6s. 
+
+LiVY, the First Five Books, with English Notes, &c by Hickie, post Svo. . . 8s. 6d. 
+Ovii)'sir0toiNorpAoa««,Eugl.Notes,&c.byBradley,improvedbyWhite,lSmo. 4s. 6d. 
+OvTS and TiBTTLLirs, the Eton Selection, with EngUsh Notes by Valpy, ISmo. 4s. 6d. 
+Vksdvub, with English Notes, &c. by Bradley, improved by White, 12mo. Ss. 6d. 
+
+SiiiLirsT, with English Notes, Commentary, &c. by Anthon, ISmo 5s. 
+
+Taoitus, Qermania and Agrieola, with English Notes, &c. by White, ISmo. 4s. 6d. 
+TBBBircB, from Beinhardt's Text, with English Notes, &c. by Hickie, ISmo. 9s. 6d. 
+ViBGiL, Wagner's Text, with Notes and 6000 References, by Pycroft, ISmo. 7s. 6d. 
+
+„ with short English Notes by Valpy, ISmo 78. 6d. 
+
+UUSICBOOKS, tQ, 
+
+Conversations on Harmony, with Music interspersed, Svo. ISs. 
+
+Formby's Young Singer's Book of Songs, 4to Ss. 6d. 
+
+„ Collection of Forty Amusing Rounds and Catches Is. 
+
+„ Sacred Songs, 4to Ss. 6d. 
+
+„ Sixty Amusing Songs for Little Singers, 4to 28. 6d. 
+
+Stepping-Stone to Music, in Question and Answer, 18mo Is. 
+
+Tnrle and Taylor's Singing^Book, or the Art of Singing at Sight, 16mo 6s. 
+
+London: LONGMAN, BROWiJ, GREEN, LONGMANS, and ROBERTS. 
+
+
+
+"^ 
+
+
+
+0^0^0^^^r^^^^^^^^*^*^*^^ 
+
+
+
+MATHEMATICS. 
+
+Cape's C!our8e of Mathematics, for Addiscombe CoUefte, 2 vols. Svo SSs. 
+
+Salmon's Treatise on Conio Sections, Svo 12s. 
+
+Tate's Mathematics for Working.Men, Part L Arithmeito and Alff^ira, Svo. 28. 
+
+Waddinghom's Oeometrical Treatise on Conic Sections, Svo 6s. 
+
+Wrigleyts Collection of Mathematical Examples and Problems, Svo 8s. 6d. 
+
+MENSUEATIOK (tee <' Land.Siirveying''). 
+
+K ATT7BAL HISTOBT. 
+
+Lee's Elements of Natural History, or First Principles of Zoology, fcp. Svo. 7s. 6d. 
+
+Marcet's Lessons on Animals, Vegetables, and Minerals, ISmo 2s. 
+
+Maunder's Treasury of Natural History, fcp. Svo. lOs. 
+
+Stepping-stone to Natural History, in Questi(m and Answer (doth, 2s. 6d.) . 2s. 
+Van Der Hoeven's Handbook of Zoology, translated by Clark, Vol. I. Svo. .SOs. 
+
+PTJBLIG SFEAEINO. 
+
+Bowton's Debater, or New Theory of Public Speaking, fcp. Svo 68. 
+
+BELIGIOirS and MOEAL WORKS. 
+
+Bloomfield's larger Greek Testament, with copious English Notes, S v. Svo. 4Ss. 
+
+„ College and School Greek Testament, English Notes, fcp. Svo.. . 7s. 6d. 
+
+„ „ „ Lexicon to the Greek Testament, fcp. Svo. . . 10s. 6d. 
+
+Conybeare & Howson's Life & Epistles of St. Paul, 2 vols, square crown Svo. Sis. 6d. 
+
+Cotton's Short Prayers for Boys, iSmo Is. 6d. 
+
+Englishman's Greek Concordance of the New Testament, royal Svo 428. 
+
+„ Hebrew Concordance of the Old Testament, 2 vols, royal Svo.78s. 6d. 
+
+Gleig's Sacred History, ISmo. idoth^ 28. 6d.) 28. 
+
+Home's Introduction to the Study and Knowledge of the Scriptures, i y. Svo. 78s. 6d. 
+
+„ Compendium of Ditto, 12mo 9b. 
+
+Humphreys's Manual of Moral Philoeophy,fop. Svo. 28. 6d. 
+
+Jones's Liturgical Class-Book, 12mo Is. 6d. 
+
+Kalisch's Commentary on Bxodu$, Svo. 158. ; and (Abridged) 128. 
+
+Paley's Evidences of Christianity and Horn Paulina, by Potts, Svo. lOs. 6d. 
+
+Beadings for Every Day in Lent, from Jeremy Taylor, fcp. Svo 5s. 
+
+„ a Month preparatory to Confirmation, fcp. Svo 48. 
+
+Bobinson's Greek and English Lexicon to the Greek Testament, Svo. ISs. 
+
+Sewell's Catechism of Early English CHiurch History, fcp. Svo 2s. 
+
+Stepping-stone to Bible Knowledge, in Question and Answer, ISmo. Is. 
+
+Taylor's Gallery or Collective Bible Lessons, 12mo Ss. 6d. 
+
+„ Word-Pictures from the Bible, 12mo is. 6d. 
+
+Tomline's Introduction to the Study of the Bible, fcp. Svo 5s. Od. 
+
+Tumcr'sSacredHistory ofthe World, S vols, post Svo. 81s. 6d. 
+
+Yalpy's Latin Epitome of Sacred History, ISmo. 2s. 
+
+Wheeler's Popular Harmony of the Bible, fcp. Svo "^^^ 
+
+
+
+/ 
+
+
+
+London! LONGMAN, BROWN, QRER^, UO^O^Wsl^, «Ba.^'^^'^^^'^ 
+
+
+
+12 (Btmxul ^iste of Sc|^00l-§00k^» 
+
+
+
+
+
+
+SCIEKCE in GENERAL, NATUBAL PHIL0S0PH7, &c. 
+
+Book of Domestic Economy, in Gleig's School Series, 18mo Ig. 
+
+Braade's Lectures on <>rganicCniend8try,fcp.8vo.Woodcats Ts.GcL 
+
+BrewHter's Treatise on Optics, fcp. 8vo Ss. 6d. 
+
+Downing's Xlements of Practical HydranHcs, 8vo Ss. 
+
+Faraday's Lectures on the Non-metallic Elements, fcp. 8vo Ss. fid. 
+
+Galbraith and Haugfaton's Manual of Hydrostatics, 12mo • . . . Ss. 
+
+t, „ M MechamcB, 12inQ. ^.«^ ^. Sa. 
+
+1, «t *, Optics, 12mo 2s. 
+
+„ a. Scientific Manuals, each 2s. ; or eleth ^ . . -fls. fid. 
+
+Her8chersPreliminaryDiscourseontheStudyofNaturalPlulo8ophy,fqp.8vo. Ss. 6d. 
+
+Hunt* 8 Researches on Light, 8vo. Woodcuts lOs. 6d. 
+
+Lardner and Walker's Electricity, Magnetism, & Meteorology, 2 v. fcp. 8vo. 7b. 
+
+liardner's Cabinet Cydopeedia, 138 vols £ist 198. 
+
+„ Treatise on Heat, fcp. 8vo. Tignette, &c. . . .^ Ss. 6d. 
+
+Main and Brown's Marine Steam-Engine, 8vo 12s. Gd. 
+
+„ „ Questions and Examination-Papers on ditto, 8vo 4s. €d. 
+
+Mann's Book of Health, in Gleig's School SerieSt 18mo Is. 
+
+Marcet's Conversations on Natural Philosophy 10s. 6d. 
+
+„ „ Land and Water, §vo. Ss.'fid. 
+
+„ „ Tagetahle Physiology «b. 
+
+Maunder'8 SQieatlfic.and Literaoy Treasury, fcp. 8to. 10s. 
+
+Hoselesr'B nhurtratiainB of PnMft&cal MeohanioB, fcp. 8vo Ss. 
+
+Fereira's Lectures on Polarised Light, edited by Powell, ficp. Svo. 78. 
+
+Peschel'B Elements of Physics, translated by £. West, -8 vote. Ifop. 8fO». .... 218. 
+
+Phillips's Guide to Q0ology,4ei IKMos. iep. 8vq. Plates £s. 
+
+4. Sreati8e<m Geology. 2 TdlB. fcp. 8iro.V3gnettaB,Jte. 7s. 
+
+Powell's History of Natural Philosophy, fop. 8vo. Vignette Ss. 6d. 
+
+Steiving-^teme to Anfaaal and Vegetable PhyaiQlogy, Iten. Is. 
+
+Tate's Course of Natural and Experimental PhOosophy, £ vols. ISma 7s. 
+
+M Electricity, simplified Ibr Begisnen, Ifimo . la. 
+
+M Elements of Mechanism, 12mo 88.6d. 
+
+•M Hydrostatics, HydrauUc8,a]id Pmeuxaattea, for Begiimera,!l8ttke Os. 
+
+„ Xessons on Medianios and Natural Philoeoqpfay, ISmo. (I«y, 8b. 8d.). . ft. 
+
+M Lightand Heat fianiliarly explained for Beginners, 18mo. Is. 
+
+M Little Philo6opber,<orScienee of Familiar Things, ToLLSBmo. .... Ss. 6d. 
+
+.„ Magnetism, Voltaic Electricity, and Elactro-iDynamieB, ISbbo. Is. 
+
+„ Mechanics and Steam-Engine simplified for Be^nners, 18mo Is. 
+
+„ Principles of Medianicsd PhiloBophy apidied, 9m Ms.tSd. 
+
+TBIGONOMETBT. 
+
+Colenso's Plane Trigonometry, Part L withZo9ariMfm,12mo. CKey, 88.6d.}. . 9a. 6d. 
+
+„ „ ,a Part n. with Problems, 12mo. (Key, 5s.) ts. Bd. 
+
+Galbraith and Haughton's Manual of Trigonometry, 12mo 28. 
+
+Jeans's Plane and Spherical Trigonometry, Part 1. 12mo. 4s. ; Part n 48. 
+
+Scott's Plane Trigonometry and Mensuration, for-Sandhurvt College, Bro.. . 9b. 6d. 
+
+Jaadoo! LONGMAN, BROWN, €til&£)(. UmQ^iai«^-nEidL«.£nEfit?C«. 
+
+
+
+f^rrsj) BT ffPomswooDB aitd co., wx^-ffrasat «q:cKsa, -uyxxMn. 

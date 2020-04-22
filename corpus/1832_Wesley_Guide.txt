@@ -1,0 +1,6304 @@
+A GUIDE TO SYLLOGISM, 
+
+OB, 
+
+A MANUAL OF LOGIC. 
+
+
+
+^Pi/<?Y 
+
+
+
+LONDON: 
+
+Printed by C.Richards,l(iOf St. Martinis -lane, Charing-crou, 
+
+
+
+A GUIDE TO SYLLOGISM, 
+
+
+
+OR, 
+
+
+
+A MANUAL OF LOGIC ; 
+
+COMPREHENDING - 
+
+AN ACCOUNT OF THE MANNER OF DISPUTATION NOW 
+PRACTISED IN THE SCHOOLS AT CAMBRIDGE ; 
+
+WITH SPECIMENS OF THE DIFFERENT ACTS. 
+
+ADAPTED TO THE USE OP 
+
+THE HIGHER FORMS IN GRAMMAR SCHOOLS, AND OF 
+JUNIOR STUDENTS AT THE UNIVERSITY. 
+
+
+
+BY 
+
+
+
+THE REV. CHARLES WESLEY, B.D. 
+
+Late of ChrisVs College, Cambridge. 
+
+
+
+" A Syllogism is a form of reasoning which serves to compress much 
+matter into a little compass, and helps to investigate truth with 
+certain^."— £isAop Watson, 
+
+
+
+LONDON : 
+HENRY G. "BOHN, 4, YORK STREET, COVENT-GARDEN ; 
+
+DEIGHTON & SONS, CAMBRIDGE ; J. PARKER, OXFORD. V 
+
+M.DCCC.XXXII. 
+
+
+
+^/ 
+
+
+
+
+\N 
+
+
+
+THE JTRIW YORK 
+
+PUftLIC LIBRARY 
+
+962178A 
+
+AflrraR, uwox and 
+
+TO^fiN FOLNDATiONS 
+1 1938 L 
+
+
+
+I- 
+
+
+
+SUBSCRIBERS. 
+
+
+
+AN ILLUSTRIOUS PERSONAGE, Twenty Copies, 
+
+A. 
+Dr. Allydyse 
+
+J. Anderton, Esq. New Bridge-street 
+J. A. Arnold, Esq. Lutterworth, Leicestershire 
+R. Ashton, Esq. Brompton, tim copies 
+Rev. J. Athawes, A.M. Trin. Coll. Cambridge 
+J. Auterac, Esq. EensingtoD, two copies 
+
+B. 
+
+S. B., Fulham 
+
+Rev. Dr. Barnes, Canon of Christ Church, Oxon. two 
+
+copies 
+L. Bathurst, Esq. Vale Place, Fulham 
+Rev. Robert Baxter, A.M. Rector of Kingsthorpe and 
+
+St. Peter^s, Northampton, and Elder Brother of 
+
+St. Catherine's, two copies 
+Sir William Beechey 
+Rev. St. Vincent Beechey, A. M. 
+Capt. Beechey 
+
+J. Benson, Esq. Blackfriars, ttvo copies 
+Rev. J, Beresford, A.M. Rector of Kibworth, two copies 
+Mrs. S. Beresford, t%Do copies 
+A. Bemays, Esq. Professor of German Literature, 
+
+King's College, London 
+
+
+
+Tl SUBSCRIBERS. 
+
+P. Bignell, Esq. Banbury, Oxfordshire 
+
+Rev. R. Biscoe, A.M. Student of Christ Church, Oxon. 
+
+Rev. J. Britton, A.M. Ware, Herts 
+
+W. Brookes, Esq. two copies 
+
+H.W. Burgess, Esq. two copies 
+
+C. 
+
+His Grace the Archbishop of Canterbury, ten copies 
+Earl Cowper, ten copies 
+The very Rev. the Dean of Chester, six copies 
+T. S. Capel, Esq. two copies 
+S. Cartwright, Esq. tivo copies 
+Re V. R. C attermole, B . D . 
+Rev. Dr. Chisholm, Hammersmith, turn copies 
+W. W. Clarke^ Esq. B. A. Wadham College, Oxon. 
+Rev. F. T. Corrance, Rector of Great Glen, Leicester- 
+shire 
+Miss Courtoy 
+Miss E. Courtoy 
+Miss Craven 
+
+D. 
+Rev. T. Dale, A.M. two copies 
+B. Dobson, Esq. Bolton-le-Moor 
+Rev. W. M'Douall, A.M. Prebendary of Peterboroug- 
+J. Ley Douglass, Esq. Leicestershire 
+Sir George Duckett, Bart. /owr copies 
+
+E. 
+
+Rev. T. S. Evans, A.M. Kensington 
+
+F. 
+
+J. Fairbank, Esq. 
+
+Rev. R. Firmin, A. M. Fingeringhoe, Colchester 
+
+
+
+SUBSCRIBERS. TU 
+
+W. n. Fleming, Esq. Buc^s 
+
+Miss Fleming 
+
+Mj^ L. Fleming 
+
+J. Fletcher, Esq. 
+
+J. Freeman, Esq. Spring Gardens, six copies 
+
+H. H. Frere, Esq. 
+
+Miss Fryer, Hanmiersmith^ ten copies 
+
+G. 
+
+Earl Gower, two copies 
+
+Rev. Dr. Geldart, Regius Professor of Civil Law, Cam- 
+bridge, twenty copies 
+
+W. Gilbert, Esq. 
+
+J. Gilbert, Esq. 
+
+RcF. Dr. Graham, Master of Christ Coll. Cambridge, 
+ttvo copies 
+
+Mrs. Green, North-End, Fulham 
+
+R. Green, Esq. Brook Green 
+
+F. Green, Esq. Stoke Newington Academy, tivo copies 
+
+E. E. Green, Esq. Eeppel-street 
+
+H. 
+Hon. Lady Halford 
+Rey. Peter Hansell, A.M. Fulham 
+Rev. T. Harding, A.M. 
+J. T. V. Hardy, Esq. 
+B.Hawes, Esq. 
+
+B. Hick, Esq. Bolton-le-Moor, three copies 
+W. H. Hodding, Esq. two copies 
+
+C. Hoppe, Esq. two copies 
+
+Rev. Thomas Hartwell Home, B.D. St. John's College, 
+
+Cambridge 
+Hon. Mrs. Howard, /(mr copies 
+
+
+
+nil SUBSCRIBERS. 
+
+Re7. J. H. Ho\vlett, A.M. Kensingtoa 
+
+Rey. T. Hughes, A.M. Prebendary of Fetexborougb 
+
+H. Hunt, Esq. Islington 
+
+Rev. R. Hussey, A.M. Student of Christ Chureh, Oxon. 
+
+H. Hutton, £sq. B. A. Wadham College^ Oxon. 
+
+I. 
+
+John Innes, Esq. Admiralty, ,/{«e copin 
+Mis.lnneSy Jive copies 
+
+J. 
+Rev. J. Jackson, A.M. Addtson-road, Kensingtcm 
+— . Jackson, Esq. 
+Hugh Jackson, Esq. 
+T. Jackson, Esq. Yorkshire, two copies 
+Rev. R. H. Jackson, B. A. Sheffield House, Kensington 
+C. Jackson, Esq. Barrow, Lincolnshire 
+
+F. Jago, Esq. Hammersmith 
+
+Rev. J. James, AJKf .{Prebendary of Peterborough, ttoo 
+
+copies 
+J. Jolly, Esq. 
+
+Rev. T. Jones, A.M. Enfield 
+W. Jones, Esq. North-End, Fulham, two copies 
+
+K. 
+Rev. H. Kebbel, A.M. 
+
+G. Eollmann, Esq. St. James's, two copies 
+Rev. Dr. Euper, two copies 
+
+L. 
+
+The Right Hon. and Right Rev. the Lord Bishop of 
+
+London, ten copies 
+Lr. Lang, Sheffield House, Kensington. 
+
+
+
+SUBSCRIBERS. IX 
+
+Rev. J.F. Latewaid,A.M. Rector of Peiivale, two copies 
+
+Rev. J. Ley, A.M. Stadent of Christ Churcli, Oxon. 
+
+W. Loat, Esq. and Family, three copies 
+
+S. Loat, Esq. 
+
+Mrs. Ludlam, North-End, Fulham, two cofnes 
+
+M. 
+
+G. A. Martin, Esq. Adelphi, ten copies 
+
+D. Martin, Esq. Poet's-comer 
+
+A Mathematician 
+
+G. Maule, Esq. Solicitor to the Treasur} 
+
+G. Maule, Esq. Junior, Christ Church, Oxon. 
+
+Rev. J. Mayor, A.M. Rector of South Collingham 
+
+G. Mills, Esq. North-End, Fulham, ten copies 
+
+N. 
+Rev. J. Nelson, A.M. Minister of St John's, Fulham, 
+four copies 
+
+0. 
+Rey. Sir H.Oakeley, Bart. Ealing 
+Rev. James Ord, A.M. Leicester, tivo copies 
+James Ondge, "Esq. four copies 
+Rev. G. Oshome, A.M. 
+
+P. 
+John Horsley Palmer, Esq. Governor of the Bank , 
+
+two copies 
+Mrs. Horsley Palmer, two copies 
+W. Parkin, Esq. Kensington, two copies 
+John Penn, Esq. four copies 
+Rev. J. R. Pitman, A.M. Kensington, two copies 
+T. H. Plumer, Esq. 
+
+
+
+X SUBSCRIBERS. 
+
+F. Pollock, Esq. M.P. two copies 
+
+T. C. Porter, Esq. two copies 
+
+Mrs. Porter 
+
+Miss Porter 
+
+Miss M. Porter 
+
+Miss A. Porter 
+
+The Venerable Archdeacon Pott, ten copies 
+
+Rev. J. S. Pratt, A.M. Prebendary of Peterborough, 
+
+tivo copies 
+Mrs. Pratt 
+
+Rev. C. Pratt, A.M. Rector of Packington 
+Rev. J. Pratt, A.M. Rector of Paston 
+Miss Preston, Kensington, (wo copies 
+
+R. 
+
+The Right Reverend the Lord Bishop of Rochester, 
+
+two copies 
+Lady Ravensworth, ten copies 
+J. Railton, Esq. Eagle House, Brook Green, three 
+
+copies 
+C. C. Raper, Esq. Chelsea 
+
+— Richardson, Esq. Covent Garden 
+
+— Rothwell, Esq. Bolton-le-Moor 
+Rev. Dr. Roy, Fulham 
+
+Rev. Robert Roy, A.M. 
+
+Rev. Dr. Russell, Head Master of Charter-House 
+School, two copies 
+
+S. 
+Rev. A. P. Saunders, A.M. Student of Chr. Ch. Oxon. 
+S. Schwenck, Esq. ttvo copies 
+F. T. Sergeant, Esq. A.M. 
+
+
+
+SUBSCRIBERS. XI 
+
+Miss Shakespear, ttoo copies 
+
+Rey. A. Short, A.M. Student of Christ Church, Oxon. 
+
+two copies 
+W. Silver, Esq. B. A. 
+Mrs. Skelton 
+Humphrey Skelton, Esq: 
+Rev. Dr. Strong, Archdeacon of Northampton, ttM 
+
+copies 
+Sir Rohert Sydney 
+
+T. 
+
+Rev. J. Teeson, A.M. 
+
+Rev. Dr. Toumay, Prebendary of Peterborough, two 
+copies 
+
+U. 
+Thomas TJsman, Esq. B.A. Grove House, Tottenham 
+
+V. 
+
+— Valance, Esq. Blackfriars 
+
+L. T. Ventouillac, Esq. Professor of French Literature, 
+
+King's College, London 
+Rev. D. Veysie, Censor of Christ Church, Oxon. ttoo 
+
+copies 
+
+W. 
+John Wain, Esq. Vale-place, Fulham 
+J. Walker, Esq. Bridewell Precinct, two copies 
+
+— Ward, Esq. Ditto, two copies- 
+
+G. Wartnaby, Esq. Harborough, Leicestershire, two 
+
+copies 
+Mr. G. Wartnaby, Jun. Kensington, two copies 
+Rev. T. Wartnaby, A.M. Rector of Knossington, Lei- 
+cestershire 
+
+
+
+Xii SUBSCRIBERS. 
+
+
+
+J. Wartnaby, Esq. Junior, Eltham, Kent 
+
+Harry Wartnaby, Esq. 
+
+— Watts, Esq. 
+
+J. J. Wilkinson, Esq. 
+
+Rev. J.Williams, A.M. Censor of Christchurch, Oxon. 
+two copies 
+
+Rev. R. Williamson, A.M. Head Master of West- 
+minster School 
+
+W. T. Wingrave, Esq. Bloooasbury 
+
+Rev. W. Wood, B.D. Vicar of Fulham, ten copies 
+
+J. Wood, Esq. Temple Bar 
+
+R. Wood, Esq. Fellow of St. John's College, Oxon. 
+
+Rev. J. Wood, A.M. Coulsdon 
+
+Miss Wood, Stockwell 
+
+Miss A. Wood, Ditto 
+
+Rev. Dr. Woodcock, Canon of Christchurch, Oxon. 
+two copies 
+
+
+
+INTRODUCTION. 
+
+
+
+The object of the compiler^ in arranging these pages, 
+ia to lead the student, by the shortest path, to an acquain- 
+tance with the more interesting and practical parts of 
+Logic. It appears to him, that there are many persons 
+who would decline the perusal of a treatise on Apprehen- 
+sion, the Divisions of Nouns, and the different sorts of 
+Predicables, who might be interested in examining the 
+nature of Propositions, and the principle on which an 
+Inference is conclusively drawn. 
+
+He is confirmed in this opinion, by having often ob- 
+served, that youths of an ingenious and intellectual turn, 
+disinclined as they might be to undertake the perusal of 
+a bulky volume upon Logic, are generally gratified when 
+an argument is set before them, in the brief and lucid foim 
+of a Syllogism. 
+
+
+
+XIV 
+
+To the improvement of such youths he is induced to 
+hope that the following pages ai*e judiciously adapted. 
+Nor let it be urged that the study is too difficult: if a lad 
+is thought competent to understand Cicero^ and to enter 
+on the study of the higher classics^ he may surely be 
+taught the method of airanging his conceptions in con- 
+foimity with logical precepts. It may safely be affirmed^ 
+that the more he is accustomed to the wholesome disci- 
+pline of so marshalling his thoughts^ the less likely will 
+he be to fall into the errors of a hasty and defective judg- 
+ment. He will see more readily what bears upon the 
+question^ and^ in hb attempts at argument^ be less liable 
+to encumber himself with unnecessary or irrelevant as- 
+sumptions. The instrument he is furnished with^ though 
+it cannot impait strength^ will yet^ in effect^ augment the 
+natural powers^ as the poet represents the sharpness of 
+the hatchet increasing the vigour of the woodman. 
+
+Zq pa re rkxvy 
+"Sri'iov kKTCLfivyfTiVf 6<l>kXKu d*&vdpbc kp(oriv. 
+
+The work will be completed in fewer strokes, with less 
+labour, and greater accuracy. 
+
+
+
+XV 
+
+The short sections which constitute the bulk of this 
+manual comprise all that is necessary to a knowledge of 
+Syllogism^ or^ indeed, of any form of argument recognized 
+by Logic. Such students as may desire a further insight 
+into the subject, will find, incorporated with the index at 
+the end, what, in most books on Logic, is placed at the 
+commencement. 
+
+Many technical terms that are in frequent use, though 
+not employed in the following treatise, will be found, with 
+their explanations, in the index. 
+
+It has been the aim of the compiler to render each sec- 
+tion as short as perspicuity would allow, that the instruc- 
+tor might be furnished with suitable portions for exercis- 
+ing the memory of junior pupils. 
+
+A few examples for practice have been added, and re- 
+ferences to the rules and sections are subjoined, for the 
+further assistance of the learner. 
+
+
+
+xvi 
+
+The Appendix contains a summaiy account of the 
+manner of syllogizing in the schools at Cambridge ; and 
+it is hoped that younger disputants^ who are about to ap- 
+pear there> may derive some advantage from the following 
+pages. 
+
+To the Regii Professors in Divinity, Law, and Physic, 
+and to the Rev. Dr. Grftham, Master of Christ's College, 
+Cambridge, the compiler has to offer his most grateful 
+thanks for the numerous obligations under which they 
+have laid him. 
+
+He has the honour also to confess himself indebted to 
+the learned and accomplished author*^ of the *' Elements 
+of Logic," not only for the advantage of his published 
+writings, but for many acts of private courtesy. 
+
+
+
+The preseot Archbishop of Dublin. 
+
+
+
+A GUIDE TO SYLLOGISM, 
+
+jrc, jrc* 
+
+
+
+OF REASONING AND SYLLOGISM. 
+
+1. An act of reasoning is performed by compar- 
+ing two ideas together by means of a thirds that 
+must agree with one of them. If this third idea 
+agrees with the other two, those two, of course, 
+a^ree with one another; if it agrees with only one, 
+they, of course, disagree with one another.^ 
+
+2. A syllogism (from (nXKoyliofuUf to reason) 
+is an argument stated at full length, and in regular 
+logical form. 
+
+3. By an argument's being stated at full length, 
+is meant, that the apph'cation of the third idea to 
+
+
+
+* £. 6. In reasoning on the character of Caesar, if I wished 
+to ascertain whether the idea of * a good man ' agreed with 
+him, I might take, for a third idea, that of * Tyrant.' On 
+finding this agree with * Caesar,' and disagree with * good 
+man,' I should say that the ideas of 'Caesar* and 'good man' 
+disagreed with one another ; or, in other words, that ' Cae- 
+sar was not a good man.' The third idea, thus employed 
+to assist us in forming a judgment, is called a middle term. 
+
+B 
+
+
+
+
+
+
+2 OF REASONINa AND SYLLOGISM. 
+
+the two others is expressed in terms^ and that how- 
+ever ohvious the application may he^ in the case of 
+one of thejn> it is never^ on that account, taken for 
+granted. 
+
+4. By an argument's being stated in regular logi- 
+cal form, is meant, its being so arranged, that the 
+conclusiveness of it is manifest from the mere force 
+of the expression, i, e. without considering the 
+meaning of the terms. Thus, 
+
+Eveiy Y is X, 
+Every Z is Y, therefore 
+Every Z is X. 
+If you grant the two former assertions, (or premises,) 
+you cannot deny the conclusion. 
+
+5. Syllogisms are divided into Categorical, ( from 
+Karriyopib), I affirm,) and Hjrpothetical, (from vv6- 
+^etriQ, a supposition.) Categorical syllogisms are 
+divided into Pure and Modal ; hypothetical syllo- 
+gisms into Conditional and Disjunctive. Syllogisms 
+take their names from the different kinds of propo- 
+sitions employed in forming them. 
+
+OF PROPOSITIONfiF. 
+
+6. A proposition is a sentence that affirms or 
+denies. It consists of three parts, viz. the subject, 
+
+
+
+*> to 
+
+«- *. c 
+
+
+
+OF PROPOSITIONS. 3 
+
+or thing spoken of; the predicate, or that which is 
+said of it ; and the copula, which must he the suh- 
+stantive verh^ with or without a negative particle^ as 
+the suhject and predicate happen to agree or dis- 
+agree. 
+
+7. The subject and predicate are called Terms or 
+Extremes^''^ because, according to logical order, the 
+subject is placed first, the predicate last, and the 
+copula in the middle. 
+
+Sutj. Cop. Pred. 
+
+Ex. — i Vice I I is I I detestable. I 
+
+Svibj. Cop. Pred. 
+
+
+
+I Virtue I I is not I I unrewarded. • 
+8. The substantive verb alone is recognized by 
+logic ; all other verbs are resolvable into the sub- 
+stantive verb with a participle or adjective. 
+Ex. — ^The summer approaches. 
+
+Suifj. Cop. Pred. 
+
+
+
+I The summer I I is I • approaching. I 
+He does not know it. 
+
+Suijj. Cop. Pred. 
+
+
+
+I He I I is not I I aware of it. I 
+9. As the copula is used merely to express the 
+agreement or disagi*eement of the terms, it is> or 
+
+• In speaking of a syllogism, the term " extremes " is 
+often understood to imply the extremes of the conclusion, 
+
+b2 
+
+
+
+4 OF PROPOSITIONS. 
+
+may be> always put in the present tense. ShoukL 
+the tense of the substantive verb modify the sense of 
+the proposition, this circumstance must be viewed 
+as part of one of the terms.''^ 
+
+Ex. — ^Troy is existent. 
+
+Troy was existent, i.^. — 
+
+Su^. Cop, Fred. 
+
+I Troy I I is I I a place that was formerly existent. I 
+10. An adjective or participle, though it cannot 
+be the subject, may yet be the predicate of a pro- 
+position ; but even then a substantive appears to 
+be understood ; as, '* Life is short," " Art is long." 
+In these two propositions, the word " thing " may 
+be supplied to each predicate. — See Syncatego- 
+R£M ATic Word, in the Index, 
+
+
+
+* The variety of expression allowable in language will 
+often occasion a proposition to appear in a fonn very dif- 
+ferent from that recognized by logic. To that form, how- 
+ever, all propositions are reducible; and the pupil should 
+be accustomed to bring into it with readiness, propositions 
+of a dissimilar construction. £. O. 
+
+*' Of his kingdom there shall be no end." 
+<' An end of his kingdAn is that which shall not be." 
+*' In loftiness of thought Homer surpasses Virgil." 
+'^ Homer is a poet who surpasses Virgil in loftiness of 
+thought." 
+*' It is the duty of youth to reverence age.'' 
+'* To reverence age is the duty of youtii**' 
+
+
+
+DIVISION OF PROPOSITIONS. 5 
+
+11. Propositions are either Categorical^ (and sub- 
+divided into Pure* andModal^) or Hypothetical (and 
+subdivided into Conditional and Disjunctive.) This 
+division is according to substance. They are either 
+Affirmative or Negative. This division is accord- 
+ing to qttality (u e. the quality of the expression,) 
+They are Universal or Particular. This division 
+is according to quantity, ^ 
+
+* A pure proposition is sometimes called *' propositio de 
+inesse," because it simplj states that the predicate is, or is 
+not, (metaphysically,) in the subject. 
+
+f Another division of propositions is into Singular and 
+Indefinite. A singular proposition is one of which the sub- 
+ject is an individual, (either a proper name, a singular pro- 
+noun, or a common noun with a singular sign.) £. G. ''Cae- 
+sar overcame Pompey," " I am the person," "This fable is 
+instructive." But as these propositions predicate of the 
+whole of the subject, they fall under the rules that govern 
+universals. It is to be observed, that if the subject of a 
+proposition consist of a number of nouns coUedively under- 
+stood, so that they are viewed as one single thing or body, 
+the proposition is singular* £. 6. " All the books in Pto- 
+lemy's library amounted to 200,000 volumes," i. e. all to- 
+together. "Two and two make four." " Caesar, Pompey, 
+and Crassus, constituted the first Triumvirate." When the 
+word together can be added to the subject of the proposition, 
+or when the word each cannot be introduced, that proposi- 
+tion is singular. 
+
+An indefinite proposition is one that has no sign of uni- 
+versality or particularity affixed to it, but leaves us to 
+
+
+
+6 DIVISION OF PROPOSITIONS. 
+
+12. A categorical proposition declares a thing 
+[icariyyopcl] absolutely, as '' I love," or " I am lov- 
+ing." " Man is not infallible." These are pure ca- 
+tegoricals, asserting simply the agreement and dis- 
+agreement of subject and predicate. " The wisest 
+man may possibly be mistaken." '* A prejudiced 
+historian will probably misrepresent the truth." 
+These are mo(fa/ categoricals, asserting the manner 
+of the agreement and disagreement between subject 
+and predicate.* 
+
+13. A hypothetical proposition consists of two 
+or more categoricals, united by a conjunction called 
+the Copula. It asserts, not absolutely but, under 
+an hypothesis or condition : such propositions are 
+denoted by the conjunctions used in stating them. 
+E. G. *' If man is fallible, he is imperfect^" This 
+
+judge, from the nature of the connexion between the terms 
+or Extremes, (No.7,) whether it should be reckoned as uni- 
+versal or particular. See No. 19. 
+
+* The modality of a proposition is usually considered to 
+affect the copula. Logical writers have selected, as most 
+worthy of remark, four modes of connexion between subject 
+and predicate : — viz. necessary, possible, impossible, and 
+contingent E. G. *' Man is necessarily an animal." " A 
+globe may possibly consist of water." "It is impossible a 
+man should be a stone." "John may, or may not, be 
+learned." 
+
+
+
+DIVISION OF PROPOSITIONS. 7 
+
+is called a conditional proposition^ denoted by the 
+conjunction "if." "It is either day or night." 
+This is a disjunctive hypothetical^ and is denoted 
+by the disjunctive conjunction "either." 
+
+14. An affirmative proposition is one of which the 
+copula (No. 6.) is affirmative, ^negative propo- 
+sition is one of whidi the copula is negative. There 
+is an example of each in No. 7. 
+
+15. A universal proposition is one of which the 
+predicate is affirmed or denied of the whole of the 
+sdbject. Its usual signs are *'all/* "every," "none," 
+^c.;*^ or a universal proposition may have for its 
+subject a proper name, or a common name with a 
+singular sign. — See note to No. 11. E. G. " All 
+tyrants are miserable," "No miser is rich," " Eng- 
+land is an island." — A particular proposition is one 
+of which the pi-edicate is affirmed or denied of only 
+part of the subject. Its usual signs are " some," 
+
+¦ ¦¦I - I ^m 1 M ^- I I I ¦ . I.I -^— ¦¦¦¦¦^ ¦¦ I ^. — .¦¦¦—¦ — ..—¦¦¦11^ II ¦» 
+
+* To the signs of UDiversality might be added " who- 
+ever," " each," " neither," ** always," " every where," &c. 
+To tiiose of particularity, "a few," "not every,'* "some- 
+times," " somewhere," &c. There are some particular signs 
+which make a near approach to a universal affirmative, as 
+" many," " very many," "almost all,*' "by far the greater 
+part," &c. Some, on the other hand, come very near to a 
+universal negative, as " few," "very few," "scarcely any," 
+&c. 
+
+
+
+8 DISTRIBUTION OF TERMS^ ETC. 
+
+" many,'' ^^few," " several," " most," and '' all " or 
+" every,** if the copula be negative. E.G. " Some 
+islands are fertile." " Many worthy men have to 
+complain of ill fortune." ''Most men are fond of 
+novelty." ''All tyrants (or some t3rrants) are not 
+assas»nated." "None but" means "some, and 
+those only," or " one person, thing, or object, and 
+that only:" it is, theref<»:e, the sign of a particular, 
+or a singular, proposition. 
+
+DISTRIBUTION OF TERMS, SYMBOLS OF QUANTITY 
+
+AND QUALITY, ETC. 
+
+16. In all universal propositions, the subject is 
+distributed; an expression which signifies that a 
+term is used in its fullest extent ; tha^ it stands for 
+all its Significates, or the several things which it sig- 
+nifi^ : so that there is not an individual to which 
+the common term is applicable, that it does not em- 
+brace. As, in the example, " All tyrants are mi- 
+serable,** the common term includes Dionysius, 
+Phraates, Nero, and every individual who is a ty- 
+rant. In all particular propositions, the subject is 
+undistributed ; it stands for only part of its signifi- 
+cates, and the common term then embraces only a 
+part of the individuals to which it is applicable : — 
+
+
+
+DISTRIBUTION OF TERMS^ ETC. 9 
+
+as, in the example^ ''Some islands are fertile/' the 
+common term " island/' though applicahle to Ice- 
+land and all harren islands^ does not emhrace them. 
+
+17. There are four kinds of pure categorical pro- 
+positions^ distinguished by the symbols^ A, E, I, O. 
+
+Universal affirmative^ A. 
+Universal negative^ E. 
+Particular affirmative^ I. 
+Particular negative^ O. 
+
+18. The connexion between the extremes of a 
+proposition is Necessary, Impossible, or Contingent. 
+
+19. To determine whether an indefinite propo- 
+sition should be viewed as particular or universal, 
+we must look to the connexion between the ex- 
+tremes ; i. e. .we must consider of the subject and 
+predicate, whether they necessarily agree, or ne- 
+cessarily disagree, or may, or may not agree. The 
+nature of the connexion between the extremes is 
+called the matter of the proposition. In necessary 
+and in impossible matter, an indefinite is understood 
+as a universal ; as, " Birds have wings ;'* i, e. all. 
+" Birds are not quadrupeds ;" i. e. none. In con- 
+tingent matter, i. e. where the terms sometimes 
+agree and sometimes not, an indefinite is under- 
+stood as a particular; as, '\ Food is necessary to 
+
+
+
+10 DISTRIBUTION OF TERMS^ ETC. 
+
+life ;"* t. e, some kind of food, "Birds sing ;" i. e, 
+some birds sing. "Birds are not carnivorous ;" i, e, 
+some birds are not^ or^ all are not. 
+
+20. The rules for distribution are these : — 
+1 St. All universal propositions, and no particular, 
+distribute the subject 
+
+2nd. All negative, and no affirmative, the predi- 
+cate, f 
+
+* The learner should observe that the term in question is 
+** a thing necessatyto life,'* and not conclude, from the 
+word '* necessary," that the connexion between the terms 
+*< food " and *' necessary to life" is a necessary connexion. 
+It is contingent ; because it happens that there are kinds of 
+food which are not necessary to life ; as ft happens that 
+there are birds which do not sing, and birds which are car- 
+nivorous. Whereas it cannot happen that any creature 
+without wings, or that any quadruped, should be a bird. 
+It is necessary that a creature should have wings to con- 
+stitute it a bird, and impossible for a quadruped to be 
+one. 
+
+f Thus the distribution or non-distribution of the subject 
+of every proposition depends on its quantity; the distribu- 
+tion or non-distribution of the predicate, on its quality : 
+and note further, that if, in an affirmative proposition, the 
+whole of the predicate should agree with the subject, the cir- 
+eumstance is acHdefUal, and not implied in the form of ex- 
+pression. In the propositions, " All men are rational ani- 
+mals,'' and "All men are animals," the form of expression 
+is the same; but in the one instance, it so happens, that 
+tfae whole of tfae predicate agrees with the subject, which is 
+
+
+
+OF THE OPPOSITION OF PROPOSITIONS. 11 
+
+21. Two propositions are said to be opposed, 
+when, having the same subject and predicate, they 
+yet differ in quantity, or quality, or both. (See 
+Nos. 11, 14, 16.) The use of the rules of opposi- 
+tion is, that they immediately point out what we 
+may infer with regard to the tnith or falsity of any 
+other proposition which has the same subject and 
+predicate as the proposition before us, but differs 
+from it either in quantity, or quality, or both. 
+
+22. There are four different kinds of opposition : 
+— 1st. between the two universals A and E, differ- 
+ing in quality only, and called Contraries. 2nd, 
+between the two particulars I and O, differing also in 
+quality only, and called Suhcontraries. 3rd, be- 
+tween A and I, or E and O, differing respectively 
+in quantity only, and called Subalterns. 4th, be- 
+tween A and O, or E and I, differing respectively 
+both in quantity and quality, and called Contradic- 
+tories.^ 
+
+not the case in the other. *' All rational animals are men/' 
+but ''all animals are not men.'' In a just definition, the 
+terms are always exactly equivalent, and therefore, conver- 
+tUde. 
+
+* Four things are requisite to form a just contradiction ; 
+— viz. that we speak of the same thing 1st in the same 
+sense ; 2nd, as to the same part ; 3rd, compared with the 
+
+
+
+^ 
+
+
+
+•^ 
+
+
+
+N 
+
+
+
+12 OF THE OPPOSITION OF PROPOSITIONS. 
+
+23. The signs " no ** and " none " imply both 
+universality and negation ; they are contradictory, 
+therefore, to the particular sign with an affirmative 
+copula. We cannot contradict '' some are," by 
+" all are not." E. G. " Some monarchs are ty- 
+rants," ^'All monarchs are not tyrants" — which are 
+subcontrary propositions, perfectly compatible, and 
+both particular. 
+
+24. Of subaltern propositions, the universal is 
+called subaltemans, the particular, subaltemate, 
+
+25. In necessary matter, all affirmatives are 
+true, (as, " All islands are surrounded by water," 
+" Some islands are surrounded by water,") 
+and negatives false, (as, ''No islands are sur- 
+rounded by water," " Some islands ai*e not sur- 
+rounded by water.") In impossible matter, all ne- 
+gatives are tnte, (as, " No triangles are squares," 
+
+same thing; 4th, existing at the same time. By omitting 
+one of these conditions, is and is not may be compatible. 
+£. G. The carcass of a man is and is not a man; for it is 
+a dead man, t^ is not a living one. 2nd. Zoilus is and is 
+not black ; for his face is black, and his hair is not black, 
+but red. 3rd. Socrates h€U and has not a full head of hair ; 
+for he has, if compared with Scipio, he ?ias not, if compared 
+with Xenophon. 4th. Nestor is and is not old ; for he is, 
+if you speak of his third age, he is not, if you speak of his 
+first. 
+
+
+
+OF THE OPPOSITION OF PROPOSITIONS. 13 
+
+''Some triangles are not squares/') and affirmatives 
+faUe, (as, "All triangles are squares,** " Some tri- 
+angles are squares/*) In contingent matter, all 
+waiver sals are false, (as, ''All islands are fertile,*' 
+"No islands are fertile,*') and 'particulars true, (as, 
+" Some islands are fertile,'* " Some islands are not 
+fertae/*) 
+
+26. In contingent matter, contraries are hotk 
+false, but never hotk true ; subcontraries both true, 
+but never both false; contradictories, always one 
+true and the other false. 
+
+
+
+14 OF THE OPPOSITION OF PROPOSITIONS. 
+
+
+
+27. 
+
+
+
+g :3 
+
+
+
+fits 
+
+
+
+S ^ 
+
+
+
+0^ 
+09 
+
+:3 
+
+
+
+S 2 a5 
+
+3 i3 is 
+
+
+
+U 
+
+
+
+'/ifpuvnb 
+m dfuo Suuafftp 
+
+
+
+¦^fc 
+
+
+
+^ 
+
+
+
+^3 
+
+
+
+
+
+
+%\ /jt 
+
+
+
+9 
+
+
+
+
+lit /!/tM> Suuajfftp 
+
+
+
+0^ 
+
+is 
+
+• 
+09 
+09 
+
+
+
+0) 
+09 
+
+:3 
+
+
+
+03 
+
+09 
+
+o 
+
+
+
+09 
+
+
+
+•X3 
+
+
+
+
+
+
+I -i I 
+
+
+
+!25 HH d 
+
+
+
+• The truth or falsity of propositions is here seen to de- 
+pend on the matter. See No. 19. Propositions may he 
+
+
+
+CONVERSION OF PROPOSITIONS. 15 
+
+28. In subalterns, the truth of the particular, or 
+subaltemate, follows from the truth of the 
+universal, or subalternans ; and the falsity 
+of the universal from the falsity of the particular.* 
+The opposition between conti-adictories is so perfect, 
+(since they differ both in quantity and quality, see 
+No. 22.) that if any proposition is true, we may be 
+sure its contradictory is false ; if false, its contradic 
+tory true, &c. 
+
+CONVERSION OF PROPOSITIONS. 
+
+29. A proposition is said to be converted, when 
+the subject and predicate are made to exchange 
+places, as, "No triangles ai*e squares," "No squares 
+are triangles." The use of conversion is to give a 
+ready insight into what may be inferred from an- 
+other proposition, that differs from the one before 
+us, by the terms being transposed. This change in 
+the position of the teims may be combined with 
+that of the quantity, or quality, or both, or neither, 
+
+framed in A, E, I, O, on the following subjects, and adapted 
+to the scheme by way of exemplification. 
+
+N. That islands should be surrounded by water. 
+
+I. That triangles should be squares. 
+
+C. That islands are fei'tile. 
+* If aU islands are surrounded by water, it is plain that 
+some must be so. If that any one triangle is a square be 
+false, it mutt be false to say that all are so. 
+
+
+
+16 GONTERSION OF PROPomTlOlVS. 
+
+as the %ase may be. By conversion^ a facility is 
+likewise afforded in effecting the reduction of syllo- 
+gisms, a process that will presently be explained. 
+
+30. The above is an instance of simple convei/"- 
+sion ; the subject and predicate being merely trans^ 
+posed ; but as this can be done only when the 
+terms of a proposition are of exactly the same ex^ 
+tent, two other methods are in use, which enable 
+us to convert, consistently with truth, eveiy propo^ 
+sition whatever: — viz. 1st. the limitation of the pre- 
+dicate of the Exposita, (or proposition given,) from 
+universal to pai'ticnlar, which is called conversion 
+per Accidens, or by Limitation ; and 2ndly, the add- 
+ing not to the predicate of theexposita, and then 
+denying its agreement with the subject, which is 
+called conversion by Negation or Oontra-position. 
+But in the case of O, (the particular n^ative,) con- 
+version by negation is effected by joining the nega- 
+tive pai*ticle of the copula to the predicate of the 
+exposita, and then transposing the terms, as if the 
+proposition had been I. 
+
+31. No conversion is employed for any logical 
+purpose, unless it be illative; L e, when the truth 
+of the converse is implied by the truth of the ex- 
+posita. (No. 30.) 
+
+32. Conversion is then only illative, when no 
+
+
+
+CONVERSION OF PROPOSITIONS. 17 
+
+term is distributed in the converse, which was not 
+distributed in the exposita ; else, you would em- 
+ploy a term universally in the converse, which, in 
+the exposita, was used only partially. (For " dis- 
+tiihuted" see No. 16.) 
+
+33. The following examples will shew how every 
+proposition (A, E, I, O,) may be illatively con- 
+verted, by some one of the three methods above 
+mentioned : — viz. 1st, simply; 2nd, per accidens, 
+or by limitation ; 3rd, by negation or contraposi- 
+tion. E, I, simply ; for E distributes both terms, 
+(No. 16, 20.) and I, neither (No. 16, 20.) ; they 
+are, therefore, of exactly the same extent (No. 30.), 
+and simply convertible. 
+
+(E) No triangles ai-e squares ; therefore 
+No squares are ti-iangles. 
+
+(I) Some islands are fertile places ; therefore 
+Some fertile places are islands. 
+
+E, A, per accidens, or by limitation; E, because 
+the predicate being distributed as well as the sub- 
+ject, and admitting, therefore, of the sign of uni- 
+versality, (as is shewn by simple conversion,) it 
+must, as a universal, include the particular. 
+
+(E) No triangles are squares; therefore — 
+Some squares are not triangles. 
+
+
+
+18 CONVERSION OF PROPOSITIONS. 
+
+(which follows from the truth of the simple con-r 
+verse.) A is converted 'per accidens, or by limi- 
+tation ; because^ since it does not distribute the pre- 
+dicate (No. 20.), that predicate will not admit of a 
+universal sign^ and therefore requires a particular 
+one. 
+
+(A) All birds are animals ; therefore 
+Some animals are birds. 
+You could not say, " All animals are birds." 
+
+A, O, by negation; A, because the subject 
+agrees universally with the predicate ; so that what 
+disagrees with the predicate cannot agi*ee with the 
+subject.* 
+
+(A) All birds are animals ; therefore 
+What are not animals are not birds. 
+O, because^ since you consider it as I, neither term 
+is distributed^ and the process is that of simple 
+conversion. 
+
+Cop. 
+
+(O) Some islands lare not! fertile places; (first 
+state this as I, by joining the negative to the pre- 
+
+* It is the same thing to affirm some attribute of the sub- 
+ject, and to deny the absence of it; thus (A) ** All birds are 
+animals/' is equipollent to (E) "No birds are not-animals,*' 
+which is of course simply convertible ; ** What are not 
+animals, are not birds." 
+
+
+
+CONVERSION OF PROPOSITIONS. 19 
+
+Fred. 
+
+
+
+dlcate^thus, "Some islands are I not-fertile-places,") 
+thei'efore — 
+
+Some places-not-fertile are islands. 
+
+You could not infer from the exposita, ("Some 
+islands are not fertile places/') that " Some fertile 
+places are not islands." Such a converse, indeed, 
+would accidentally be true, but it would not follow 
+from the form of expression. This will be seen by 
+substituting other terms. E. G. 
+
+Some men 1 are not I poets ; you cannot infer 
+" Some poets are not men," but you may infer — 
+Some who are not poets are men. 
+
+34. To assist the memory in applying the two 
+former methods of conversion, (viz. simple, and per 
+acddens,) Aldrich, who does not notice conversion 
+
+by negation, gives the following mnemonic line ; 
+
+f£cl simpliciter^ convertitur EvA per Acci. 
+For the last, we may say, 
+
+A sed, et O pariter, convertas usque Negando. 
+
+Or, 
+
+fAxO per Contra ; sic fit conversio tota. 
+OF SYLLOGISMS. 
+
+35. The validity of a syllogism depends on this 
+axiom of Aristotle, " Whatever is predicated of z, 
+
+c2 
+
+
+
+20 OF SYLLOGISMS. 
+
+term distributed^ (No. 16.) whether affirmatively 
+or negatively, may be predicated in like manner of 
+every thing contained under it." In the example 
+at No. 4, X is predicated of Y distributed, and Z 
+is contained under Y, (i, e. is its subject;) X is, 
+therefore, truly predicated of Z. 
+
+36. There are two canons of pure categorical 
+syllogisms ; 1 st. Two terms that agree with one and 
+the same third, agree vnth each other; 2nd, Two 
+terms, of which one agrees and another disagrees 
+with one and the same third, disagree with one an- 
+other. On the former of these canons rests the va- 
+lidity of affirmative conclusions ; on the latter, of 
+negative, 
+
+37. There are six rules for ascertaining whether 
+the canons have been strictly observed or not. 
+
+Rule 1st. Every syllogism has three, and only 
+three, terms ; .viz. the middle term, and the two 
+terms of the conclusion, or question.* The sub- 
+ject of the conclusion is called the minor term;f 
+its predicate, the major term; and the middle 
+
+* These are commonly called Extremes, 
+
+f Because generally of less eiitent than the msyor and 
+middle terms. 
+
+
+
+OF SYLLOGISMS. 21 
+
+term is that with which each of them is separately 
+compared^ in order to judge of their agreement or 
+disagi'eement with each other.* 
+
+Rule 2nd. Every syllogism has three, and only 
+three, propositions; viz. the major premiss, in 
+which the major term is compared with the middle; 
+the minor premiss, in which the minor term is com- 
+pared with the middle; and the conclusion/ in 
+which the minor term is compared with the major. 
+
+Rule drd. The middle term must not he amhi^ 
+guous;\ which is the case whenever it is equivocal, 
+or undistributed. An equivocal term is used in 
+different senses in the two premises ; E.G. 
+" Sage is a plant ; 
+
+A philosopher is sage ; therefore 
+A philosopher is a plant." 
+
+If a term he undistrihuted^ as it then stands for 
+a part only of its significates^ it may happen that 
+one of the extremes may have heen compared with 
+one part of it, and the other with another part : E.G. 
+
+
+
+* If there were two middle terms, the extremes not being 
+both compared with the same, could not be conclusively 
+compared with each other. 
+
+f If the middle term is ambiguous, there are, in reality, 
+two middle terms in sense, though but one in sound. 
+
+
+
+22 OF jSYLLOGISM^. 
+
+" Apples are fruit ; 
+
+Cherries are fruit ; therefore 
+Cherries are apples." 
+
+The middle term, therefore, must he distributed 
+once, at least, in the premises ; i. e, by being the 
+subject of a universal, or predicate of a negative. 
+
+Rule 4th. No term must be distributed in the 
+conclusion, which was not distributed in one of 
+the premises ; because you would then employ the 
+whole of a term in the conclusion, when you had 
+employed only a part of it in the premiss ; and 
+thus, in reality, introduce a fourth term. The vio- 
+lation of this fourth rule is called an illicit process 
+of the major or minor term ; E. G. 
+
+*'' All apples are fruit ; 
+
+Cherries are not apples ; therefore 
+
+They are not fruit" Illicit process of the major. 
+
+"All beasts of prey are carnivorous; 
+
+fAll beasts of prey are animals ; therefore 
+
+All animals are carnivorous." Illicit process of the 
+
+minor. 
+
+
+
+* This is A, and no a^rmatives distribute the predicate. 
+The conclusion is £, and all negatives do distribute the 
+predicate. (No. 20.) 
+
+f This also is A, and does not distribute the predicate. 
+
+
+
+OF SYLLOGISMS. 23 
+
+Ride 5th. From negative premises you can infer 
+nothing; for in them the middle term is pro- 
+nounced to disagree with both extremes, not to 
+agree with both, or to agree with one and disagree 
+with the other : therefore they cannot be compared 
+together; E.G. 
+
+" A fish is not a quadruped ;" 
+
+" A bird is not a quadruped/'* proves nothing. 
+
+Rule 6th. If one premiss he negative, the con- 
+elusion must be negative ; for in that premiss the 
+middle term is pronounced to disagree with one of 
+the extremes, and in the other premiss, (which 
+must be affirmative by the preceding rule,) to agree 
+with the other extreme; therefore, the extremes 
+disagreeing with each other, the conclusion is nega- 
+tive. To prove a negative conclusion, one of the 
+premises must be negative, f 
+
+
+
+*' animals." The conclusion again is A, and does distribute 
+ihe subject y "animals.'' 
+
+• In order to shew the disagreement between the terms 
+** fish " and " bird," you must choose a middle term that 
+agrees with one of them. E. G. " A feathered creature is 
+not a fish ; a bird is a feathered creature ; therefore," &c. 
+Or, <' No animal that inhabits the water is a bird ; a fish is 
+an animal that inhabitB the water ; therefore," &c. 
+
+f To prove that the sun is not a planet, you must not 
+
+
+
+24 OF SYLLOGISMS. 
+
+38. From these rules it is evident, first, that* 
+nothing can he proved from two particular pre- 
+mises ; and secondly,f that if one of the premises 
+he particular, the conclusion must he particular. % 
+
+
+
+take for a middle term '^ sphere/' which agrees with both, 
+but a middle term that disagrees either with *^sun" or 
+** planet." E. G. " Every planet describes an orbit j the 
+sun does not describe an orbit ; therefore it is not a planet." 
+Or, '^ The sun is a fixed star ; a planet is not a fixed star ;. 
+therefore it is not the sun." 
+
+• You will then have either the middle term undistri- 
+buted, or an illicit process. E. G. ^' Some animals are sa- 
+gacious ; some beasts are sagacious ; therefore, some beasts 
+are animals." Undistributed middle. This conclusion is 
+true, but does not follow from the premises. The argument 
+is of the same construction as the following absurdity: 
+^^ Some animals are black ; some hats are black ; therefore, 
+some hats are animals." Again, *' Some animals are saga- 
+cious; some beasts are not sagacious; therefore, some 
+beasts are not animals." Here is an illicit process of the 
+major. *^ Some carnivorous creatures are tame ; some beasts 
+are not tame ; therefore, no beasts are carnivorous crea- 
+tures." This exhibits an illicit process of both the major 
+and minor term. 
+
+f E. G. " All who fight bravely deserve reward ; some 
+soldiers fight bravely ; therefore, some soldiers deserve re- 
+ward," If you were to infer, " All soldiers deserve, &c." 
+there would be an illicit process of the minor. 
+
+X The following mnemonic lines, from Aldrich, may as- 
+sist the student in applying these rules and remarks ; 
+
+
+
+OF SYLLOGISMS. 25 
+
+39. From universal premises you cannot always 
+infer a universal conclusion ; E. G. " All gold is 
+precious; all gold is a mineral; therefore some 
+mineral is precious." But when you can infer a 
+universal, you are always at liberty to infer a par- 
+ticular. 
+
+OF MOODS. 
+
+40. The mood of a syllogism is the designation 
+of it according to the quantity (No. 11.) and qua- 
+lity (No. II.) of each of its three propositions, 
+which are denoted by the vowels A, E, I, O, (No. 
+17.). There are only eleven moods admissible, as 
+conforming to the rules laid down at No. 37. See 
+No, 44, below, 
+
+OF FIGURES. 
+
+41. The figure of a syllogism indicates the situ- 
+
+L 
+
+Distribuas medium (Rule 3.), nee quartus terminus adsit; 
+(Rule 1 & 2.) 
+
+Utraque nee praemissa negans (Rule 5.)) nee particUlaris ; 
+(No. 38.) 
+Sectetur partem Conclusio deteriorem; (Rule 6,& No. 38.) 
+£t non distribuat, nisi cum praemissa, negetve. (Rule 4 & 6.) 
+Logicians have attached to universal propositions an 
+imaginary superiority over particulars, and to affirmatives 
+a similar superiority over negatives. Hence the expression 
+" pars deterior," meaning a particular or a negative propo- 
+sition. 
+
+
+
+26 OF SYLLOGISMS. 
+
+ation of the middle term with regard to the ex- 
+tremes of the conclusion, or major and minor term. 
+(No. 37, Rule 1, and Note.) There are four fi- 
+gures.* In the first, the middle term is made the 
+subject of the major premiss, and the predicate of 
+the minor : in the second, the middle term is the 
+predicate of both premises: in the third, the sub- 
+ject of hoth : in the fourth, it is the predicate of 
+the major premiss, and the subject of the minor, 
+
+42. The major premiss of a syllogism is usually 
+pl£u;ed first, although, of course, the validity of the 
+argument is not affected by the order of the two 
+premises* 
+
+43. Each of the moods alluded to in No. 40, as 
+admissible, will not be so in every figure ; since, 
+from the different position of the middle term, it 
+may violate some of the foregoing rules in one 
+figure, though not in another, f 
+
+
+
+* The first figure is the most natural and clear, and is at 
+once open to the application of Aristotle's dictum. (No.35.) 
+The last is, in all respects, the very reverse of the first. 
+
+f I, A, I, for instance, is allowable in the third figure ; 
+because, in that figure, the middle term is made the subject 
+of both the major and minor premiss. (No. 41.) It is, there- 
+fore, regularly distributed in the minor proposition A, (No. 
+20,) and as neither term is distributed in the conclusion h 
+
+
+
+OF SYLLOGISMS. 27 
+
+44. Although but eleven moods were stated to 
+be admissible at No. 40, yet, since some of them 
+occur in more than one figure, (as E, I, O, which 
+
+(No. 16, 20,) there can be no illicit process. (No. 37.) But 
+I, A, I, is iaadmissible in the first figure, because that figure 
+demands that the middle term be made the subject of 
+the major proposition I, and the predicate of the minor 
+A. But I distributes neither term, and A, only the subject. 
+(No. 20.) The middle term, therefore, being the subject of 
+a particular, and the predicate of an affirmative, would be 
+undistributed, contrary to rule, and no valid conclusion 
+could follow. E. G. 
+
+I. Some arrogant men are learned ; 
+
+A. All arrogant men are disagreeable ; therefore 
+
+I. Some learned men are disagreeable. 
+
+The above is in the third figure, and valid. In the first 
+figure, the .same mood would be inadmissible, for the rea- 
+sons above stated. E. G. 
+
+I. Some learned men are Englishmen ; 
+
+A. The sages of Greece were learned men j therefore 
+
+I. Some of them were Englishmen. 
+
+So A, E, E, would, in the first figure, have an illicit pro- 
+cess of the major ; thus 
+
+A; Every fool is a sensualist; 
+
+E. No true philosopher is a fool; therefore 
+
+E. No true philosopher is a sensualist 
+
+The major term, ''sensualist/' is not distributed in the 
+major proposition, but is, in the conclusion. The same 
+mood, in the second figure, is valid, because the major term 
+" sensualist" is regularly distributed in the major proposi- 
+tion; £. G. 
+
+
+
+28 OF SYLLOGISMS. 
+
+is found in all the four^*^) eax^h separate occurrence 
+is reckoned as a new mood. From this recun*ence 
+of the same symbols in different figures^ there are 
+reckoned nineteen moods. 
+
+
+
+A. Every sensualist is a fool ; 
+
+£« No true philosopher is a fool ; therefore 
+
+£. No true philosopher is a sensualist 
+
+Again, A, A, A, is allowable in the first figure; 
+
+A. All wicked men are miserable ; 
+
+A. All tyrants are wicked men ; therefore 
+
+A. All tyrants are miserable. 
+
+But, in the third figure, it would have an illicit process 
+of the minor ; 
+
+A. All wicked men are miserable ; 
+
+A. All wicked men are tyrants ; therefore 
+
+A. All tyrants are miserable. 
+
+The minor term, ** tyrants," is not distributed in the mi- 
+nor premiss ; but is, in the conclusion. 
+
+•A A A. Barbara. A O O. Fakoro. 
+
+A A I. Daraptt Bramanttp. E A E. Cesare, Celarcnt. 
+A E E. CamestreSjCamenes. E A O. Felapton, F«sapo. 
+AEO. EIO. Fmo, Festino, Feriso 
+
+All. Darii, Dattsi. Fresison. 
+
+I A I. Dtsamts, Dimarts. O A O. Dokamo. 
+
+A, E, O, is valid in the second figure, but useless, be- 
+cause it has a particular conclusion when you might draw a 
+universal one in Camestres. E. G. (A.) Every X is Y. (E.) 
+No Z is Y. (O.) Some Z is not X. You might say. No Z 
+is X. (A.) " Every man is a sinner. (E.) No glorified spi- 
+rit is a sinner. (O.) Some glorified^ spirit is not a man 
+
+
+
+» 
+
+
+
+OF SYLLOGISMS. 29 
+
+45. The vowels in. th^ four following mnemonic 
+lines are the symbols which denote the quantity 
+and quality of the propositions. The consonants 
+serve to keep in mind the figure of the syllogism. 
+
+Fig. 1. Barbara, C^larent, Darii, Ferioqvie prions; 
+Fig. 2. Cesare, Camestr^s, Festino, Fakoro, se- 
+
+cundae ; 
+Fig. 3. Tertia, Darapti, Disamis, Datisi, F^lapton, 
+
+Uokamo, Feriso, habet; quarta insuperaddit 
+Fig. 4. Bramantip, Cam^n^s, Dtmon's, Fesapo, 
+
+Fresison, 
+
+46. It will assist the experiment of syllogisms in 
+the different moods> if the letters X, Y, Z, are 
+used as representatives of the different terms. Let 
+X be the major, Y the middle, Z the minor. 
+
+
+
+UtFig. 
+Y, X, 
+
+
+SCHEME. 
+Snd Fig. 3rd Ho. 
+
+X, Y, Y, X, 
+
+
+*th Fig. 
+
+X,Y, 
+
+
+Z, Y, 
+
+
+Z, Y, 
+
+
+Y, Z, 
+
+
+Y, Z, 
+
+
+Z, X, 
+
+
+Z, X, 
+
+
+Z, X. 
+
+
+Z, X. 
+
+
+
+You nUgkt say, " No glorified spirit," &c. The same may 
+be remarked of A, A, I, and £, A, O, in the first figure, and 
+of £, A, O, in the second, as well as of A, £, O, in the 
+fourth. See No. 39. These five moods, being useless, are 
+without names. 
+
+
+
+30 OF SYLLOGISMS. 
+
+By applying the moods Barbara, Celarent, tfc, 
+to the terms thus designated by the letters X, Y, 7t, 
+you may construct a short syllogism in every fi- 
+gure, and perceive how its validity is derived from 
+an accordance with the six rules laid down above. 
+No. 37.* 
+
+
+
+* Thus Barbara, in which all the propositions are uni- 
+versal and affirmative, as the three A's denote. 
+
+Bar- "Every Y isX; 
+
+-ba- Every Z is Yj 
+
+-ra. Every Z is X." 
+Celarent, in which the major is universal and negative, 
+the minor universal and affirmative, and the conclusion 
+universal and negative. 
+
+Ce- "NoYisX; 
+
+-la- Every Z is Y ; 
+
+-rent. No Z is X." 
+Dartt, in which the major is universal and affirmative, 
+the minor particular and affirmative, and the conclusion 
+the same. 
+
+Da- « Every Y is X; 
+
+-ri- Some Z Is Y ; 
+
+-i. Some Z is X." 
+Ferto, in which the msyor is universal and negative, the 
+minor particular and affirmative, and the conclusion par- 
+ticular and negative. 
+
+Fe- "NoYisX; 
+
+-rt- Some Z is Y 5 
+
+-o. Some Z is not X. 
+Apply the other moods Cesare Camestres, &c. in the same 
+way to the second figure ; Daraptt, &c. to the third ; Bra 
+
+
+
+OF SYLLOGISMS. 31 
+
+47.* Every proposition may be proved in the 
+first figure^ and all the moods in the three other 
+figures reduced to it. See No. 53 et seq. below. 
+
+48. Four syllogisms^ exemplifjdng one mood in 
+each figure^ are subjoined. 
+
+manttp, &c. to the fourth; carefully remembering the 
+force of the symbols A, E, I, O, (No. 17.) The position of 
+the Letters X, Y, Z, in the scheme, secures the learner 
+against any mistake in placing the terms of each figure. 
+
+* It will be seen th9,t A, or the universal affirmative, can 
+be proved only in the first figure ; as the second proves 
+only negatives, (E, E, O, O,) the third only particulars, 
+(I, I, I, O, O, O,) and the fourth only particulars or negar 
+tives. (I, E, I, O, O.) The first figure requires the major 
+premiss to be universal, and the minor affirmative ; the 
+former, in order to distribute the middle term, and the lat- 
+ter, to avoid the fault of negative premises, (No. 37. Rule 5.) 
+or to produce an affirmative conclusion. (No. 37. Rule 6.) 
+The second figure proves only negatives, because the middle 
+term, being the predicate in both premises, would not be 
+distributed, unless one premiss were negative, (No. 20. Rule 
+2.) and therefore the conclusion must be negative. (No. 37. 
+Rule 6.) The third prove» only particulars, because the 
+middle term being always the subject in the minor propo- 
+sition, and that minor proposition being always affirmative, 
+the minor term, as the predicate of an affirmative, cannot 
+be distributed in its premiss, and therefore cannot be dis- 
+tributed in the conclusion. 
+
+
+
+32 OF SYLLOGISMS. 
+
+Barbara. Itg. 1. 
+
+TERMS. 
+
+Major (X) One who deserves punishment. 
+Minor (Z) Every blasphemoos writer. 
+Middle (Y) Every one who injures the public 
+morals. 
+Bar- Every Y is X ; All who injure the public 
+
+morals deserve punishment ; 
+-ba- Every Z is Y ; All blasjj^hemous writers in- 
+jure tlie public morals ^ therefore 
+-ra. Every Z is X; All blasphemous writers de- 
+serve punishment.* 
+
+
+
+* The regular expression of the copula, is and is noty maj 
+always be preserved, if we disregard the clumsiness of the 
+language ; thus, the syllogism above may be stated as fol- 
+lows : 
+
+Bar- All who injure the public morals are persons deserv- 
+ing of punishment; 
+-ba- All blasphemous writers are persons who injure the 
+
+public morals ; therefore 
+-ra. All blasphemous writers are persons deserving of pun- 
+ishment. 
+Pupils should be able to state a proposition readily in this 
+strict fornl. 
+
+
+
+OF SYLLOGISMS. 33 
+
+49. Camestres. Fig, 2. 
+
+TERMS. 
+
+Major (X) What is ti*uly satisfactory. 
+
+Minor (Z) Guilty pleasures. 
+
+Middle ( Y) What is unattended with remorse. 
+
+Cam- Every X is Y; Whatever is truly satisfac> 
+tory is unattended with remorse ; 
+
+-es- No Z is Y; No guilty pleasures are unat- 
+tended with remorse ; therefore 
+
+-tres. No Z is X. No guilty pleasures are truly 
+satisfactory. 
+
+50. Darapti. Fig. 3. * 
+
+TERMS. 
+
+Major (X) What is entitled to respect. . 
+Minor (Z) What is often ridiculed. 
+Middle (Y) True piety. 
+
+Da- Every Y is X ; True piety is entitled to re- 
+spect ; 
+
+-rap- Every Y is Z ; True piety is often ridi- 
+culed; therefore 
+
+-ti. Some Z is X. Something often ridiculed 
+is entitled to respect. 
+
+D 
+
+
+
+34 REDUCTION OF SYLLOGISMS. 
+
+51. C«mcnes. Fig, 4. 
+
+TERMS. 
+
+Major (X) A useful study. 
+Minor (Z) What is injurious to the morals. 
+Middle (Y) What is worthy of encouragement. 
+Cam- Every X is Y; All useful studies are worthy 
+
+of encouragement ; 
+-en- No Y is Z ; Nothing worthy of encourage- 
+ment is injurious to the morals ; therefore 
+-es. No Z is X. What is injurious to the mo- 
+rals is not a useful study.* 
+
+52. The four moods of the first figure are called 
+feci; all the rest, imperfect When a syllogism 
+in one of the imperfect moods is re-stated, and 
+brought into the first figure, it is said to be reduced, 
+
+OSTENSIVE REDUCTION. 
+
+53. In reducing a syllogism,, it is allowable to 
+convert the premises illatively, (No. 31,) or to 
+transpose them. This liberty renders it always 
+possible to deduce, in the first figure, either the very 
+same conclusion as the original one, or another, 
+from which the original one is deducible by illative 
+conversion. 
+
+* The method of statement in this figure is so clumsy 
+fnd inverted, that it is seldom or never used. The propo- 
+
+
+
+REDUCTION OF SYLLOGISMS. 3d 
+
+54. The initial lettei*s of the imperfect moods 
+correspond with those of the four perfect ones, B, 
+C, D, F, and indicate into which of them the im- 
+perfect mood is capable of being reduced. Thus 
+Bramantip is to be reduced into Barbara, Cesare 
+and Camesires into Celarent, Festino into Ferio, 
+Sfc. 
+
+66. The letter m, occurring in the name of an 
+imperfect mood, indicates that, in reducing it, the 
+premises are to be transposed ; s, that the proposi- 
+tion denoted by the vowel immediately preceding, 
+is to be converted simply (No. 33.); p, that it is to 
+be converted per accidens or limitation (No. 30.); 
+(except in the case of Bramantip, where p denotes 
+that the conversion of A per accidens has already 
+taken place ;*) k, that it is to be converted by ne- 
+gation. (No. 30. )f 
+
+sitioDS are easily reduced into the more natural arrange- 
+ment of the first figrure. See No. 54. 
+
+* E. G. Bram> All blasphemous writers injure the pub- 
+lic morals ; 
+-an- All who injure the public morals deserve 
+
+punishment; therefore 
+-tip. Some who deserve punishment are blas- 
+phemous writers. 
+
+The conclusion is the converse per accidens of the con* 
+
+elusion of the Syllogism in Barbara, No. 48. 
+
+f The Reductio ad impossibUe I have not thought it ne- 
+
+d2 
+
+
+
+36 REDUCTION OF SYLLOGISMS. 
+
+56, A few examples of reduction may suffice : 
+Camestres is reduced to Celarent, as the initial let- 
+ter directs, by simply converting the minor, (as 
+is denoted by the s in es,) and then transposing 
+the premises, (as is indicated by the m in Cam,) 
+The conclusion of the reduced syllogism is the 
+simple converse of the conclusion of the original 
+one. 
+
+Camestres. See No,49, 
+
+Reduced to Celarent. 
+
+Ce- What is unattended with remorse is not a 
+
+guilty pleasure ; 
+-la- Whatever is truly satisfactory is unattended 
+
+with remorse ; therefore 
+-rent. Whatever is truly satisfactory is not a guilty 
+pleasure. 
+
+57. Fakoro is reduced to Ferio by converting 
+the major by negation, (No. 30.) and considering 
+
+cessary to explain. Its object is, to show that an absurdity 
+would follow from supposing the original conclusion to be 
+false. When this mode of reduction is adopted, Fakoro 
+and Dokamo are called Baroko and Bokardo, K being then 
+the sign of the Reductio ad impossibile. But conversion 
+by negation is by far the easier and more expeditious 
+process. 
+
+
+
+REDUCTION OF SYLLOGISMS. 37 
+
+the minor premiss affirmative ; i, e. attaching the 
+
+negative to the predicate instead of the copula. 
+
+(No. 30.) 
+
+Fakoro. 
+Redticed to Ferio. 
+
+Fak- Every sincere Christian is charitahle ; 
+
+-o- Some professors of religion are not charit- 
+able; therefore 
+
+-ro. Some professors of religion are not sincere 
+Christians. 
+
+Fe- He who is not-charitable is not a sincere 
+Christian. 
+
+Predicate. 
+
+
+
+-ri- Some professors of religion are I not-charit- 
+able ; I therefore 
+
+-o. Some professors of religion are not sincere 
+Christians.''^ 
+
+* Faluiro may be considered as Festinoy and stated ac- 
+cordingly, by placing an equipollent negative Proposition 
+for the major, (No. 33, Note,) and viewing the minor as an 
+
+aflSlrmative, 
+
+Suiject. Predicate. 
+
+Fes- I No sincere Christian I is i not-charitable ; I 
+
+Predicate 
+
+-ti- Some professors of religion are i not-charitable ; i 
+
+therefore 
+-no. Some professors of religion are not sincere Christians. 
+
+
+
+38 REDUCTION OF SYLLOGISMS. 
+
+The minor premiss is here considered affirma- 
+dve^ because you take ^^not-charitable" as the middle 
+term, and cannot separate the negative from it, 
+without introducing a fourth term, contrary to No. 
+37, Rule 1. 
+
+58. Darapti is reduced to Darii by converting 
+per accidens (No. 30.) the minor premiss. This 
+is denoted by the p in rap. (No. 55.) 
+
+Festino is reduced to Ferio by simply converting the tnar 
+jor ; '^ He who is not charitable is not a sincere Christian," 
+&c. 
+
+So *Dokamo may be considered as DUamiSf and stated 
+accordingly, by joining the negative to the predicate in> 
+stead of the copula, in the major and conclusion; i,€. view- 
+ing O as I j 
+
+Predicate. 
+Dis- Some desires are I not-blameable ; I 
+-am« All desires are liable to excess ; therefore 
+
+Pre^tieate. 
+-is. Some things liable to excess are I not-blameable. I 
+Disamis is reduced to Darii by simply converting the 
+major, and then transposing the premises. 
+Da- All desires are liable, &c. 
+-ri- Some things not blameable, &c. ; therefore 
+-i. Some things not blameable, &c. as at No. 59. 
+
+
+
+REDUCTION OF SYLLOGISMS. 39 
+
+Darapti. See No. 60. 
+Reduced to Darii. 
+Da- True piety is entitled to respect ; 
+-ri- Something often ridiculed is true piety; 
+
+therefore 
+-i. Something often ridiculed is entitled to re- 
+spect. 
+
+69, Dokamo is reduced to Darii by converting 
+the major by negation, and then transposing the 
+premises. 
+
+Dokamo. 
+Reduced to Darii. 
+Dok- Some desires are not blameable ; 
+-am- All desires are liable to excess ; therefore 
+-o. Some things liable to excess are not blame- 
+able. 
+Da- All desires are liable to excess ; 
+-ri- Some things not blameable are desires; there- 
+fore 
+-i. Some things not blameable are liable to ex- 
+cess. 
+This conclusion is the converse by negation of 
+the original one, (i. e, O converted into I,) and 
+therefore, simply convertible into it. (No. 33.) 
+
+
+
+40 OF MODAL SYLLOGISMS. 
+
+60. Those syllogisms are called Modal^ that con- 
+sist of modal propositions. (No. 12.) Modal pro- 
+positions may be considered as pure categoricals, 
+and stated accordingly. For this purpose, you 
+should attach the mode to one of the terms ; as^ 
+" The wisest man may possibly be mistaken.** 
+
+Sul^. Cop. Pred. 
+
+I " The wisest man I I is i I one who may possibly 
+
+
+
+be mistaken." I *' It is probable that Livy was 
+prejudiced ; i, e, 
+
+Suij. Cop. Pred. 
+
+I ''Livy 1 I was I » probably prejudiced." I 
+
+61. When the mode expresses only the neces- 
+sary, impossible, or contingent connexion of the 
+teims, you may attach it to the subject, as '' Man 
+is necessarily mortal ;" i, e, **All men are mortal." 
+** It is impossible for a bad man to be happy;" i,e, 
+"No bad man can be happy." 
+
+62. It is often, however, most convenient to af- 
+firm simply the agreement or disagreement of the 
+mode with the dictum, or assertion itself; as " 1 
+am possibly mistaken," 
+
+Sukj. Cop. Pred. 
+
+I " That I am mistaken I rTTl 1 possible." 1 
+
+
+
+OF HYPOTHETICAL SYLLOGISMS. 41 
+
+In these cases, the subject implies that an entire 
+act of judgment has previously taken place. 
+
+OF HYPOTHETICAL SYLLOGISMS. 
+
+63. A syllogism is called Hypothetical, when 
+it contains one, two, or three hypothetical pro- 
+positions ; E. G. " If he is wise, he is happy ; 
+he is wise ; therefore he is happy."- Or, " He who 
+is wise, is happy; if he is a philosopher, he is wise 5 
+therefore, if he is a philosopher, he is happy.*' Or, 
+" If he is wise, he is happy; if he is a philosopher, 
+he is wise ; therefore, if he is a philosopher, he is 
+happy." See No. 13. The h3rpothetical syllogisms 
+most in use are divided into Conditional and Dis- 
+junctive. E. G. 
+
+CONDITIONAL. 
+
+If man is fallible, he is imperfect ; 
+But he is fallible ; therefore 
+He is imperfect. 
+
+DISJUNCTIVE. 
+
+It is either day or night; 
+But it is day ; therefore 
+It is not night. 
+64. In a hypothetical' syllogism, the reasoning 
+
+
+
+42 OF CONDITIONAL SYLLOGISMS. 
+
+turns on the hypothesis^ and the conclusion is al- 
+ways categorical.* 
+
+The hypothetical premiss is called the major, 
+and the categorical one, the minor. 
+
+OF CONDITIONAL SYLLOGISMS. 
+
+65. It is to be observed of a conditional propo- 
+sition, that it contains two, and only two, categorical 
+propositions, whereofone results from the other; that 
+from which the other results is called the Antecedent;* 
+that which results from it, the Consequent (Canse^ 
+quensj The connexion between the two (ex- 
+pressed by " if") is called the Consequence {can- 
+sequentia,) 
+
+Consequentia. Antecedent. Cimtequent. 
+
+I"lfl I man is fallible, I 1 he is imperfect." 1 
+
+66. The truth or falsity of a conditional propo- 
+sition depends entirely on the conseqtience, or con- 
+
+
+
+* When a hypothetical conclusion is drawn from a hypo- 
+thetical premiss, the reasoning is, in effect, categorical. E.G. 
+
+Predicate. 
+
+Every conqueror is i either a hero or a villain ; f 
+
+Caesar was a conqueror ; therefore 
+
+Predicate. 
+
+He was I either a hero or a villain. I 
+
+* The antecedent is sometimes placed qfter the conse- 
+quent. We might say, " Man is imperfect, if he is fallible.'' 
+
+
+
+OF CONDITIONAL SYLLOGISMS. 43 
+
+nexian between antecedent and consequent. Both 
+antecedent and consequent may be false, yet if 
+there be such a connexion between them, that the 
+falsity^ of the antecedent depends on the falsity of 
+the consequent, the whole proposition is valid. 
+E.G. 
+
+Antecedent. 
+
+
+
+If I logic is useless,! 
+
+Consequent. 
+
+I it deserves to be neglected. I 
+On the other hand, both antecedent and consequent 
+may be true ; yet if there be no connexion between 
+them, so that the latter does not depend for its 
+truth on the former, the whole proposition h false ; 
+i, e, the consequent does not follow from the ante- 
+cedent. 
+
+Antecedent. 
+
+
+
+If I Virgil was a poet, I 
+
+Cormeqttent. 
+
+
+
+I he wrote the -^neid. I 
+It is true both that Virgil was a poet, and that he 
+
+* If you deny the consequent, '' Logic deserves to be ne- 
+glected," the falsity of the antecedent, '* Logic is useless," 
+must follow. This will appear from a categorical statement 
+of the proposition. (A) " Whatever is useless is deserving 
+of neglect." Convert this by negation. (E) " Whatever 
+is not deserving of neglect is not useless. (No. 30.) Logic 
+is not deserving of neglect; therefore it is not useless.'' 
+
+
+
+44 OF CONDITIONAL SYLLOGISMS. 
+
+wi*ote the JCneid^ but it does not follow that becatise 
+he was a poet, he there/are wrote the jiEneid. 
+
+67. There are two rules for drawing a conclu- 
+sion fi*om a conditional proposition. Rule 1 . T%e 
+antecedent being granted, the consequent may he 
+inferred ; E. G. 
+
+*' If A is B, C is D ; Maj or. " If rain has fallen^ the 
+
+ground is wet ; 
+But A is B; Minor. But rain has fallen; 
+
+therefore therefore 
+
+C is D." Conclusion. The ground is wet." 
+
+These syllogisms, in which the antecedent is 
+granted, are called Constructive, 
+
+Rule 2. The consequent being denied, the ante- 
+cedent may be denied. 
+" If A is B, C is D ; " If rain has fallen, the 
+
+ground is wet ; 
+But CisnotD; therefore But the ground is not 
+
+wet; therefore 
+A is not B." Rain has not fallen." 
+
+These syllogisms, in which the consequent is denied, 
+are called Destructive. 
+
+68. By denying the antecedent, or affirming the 
+consequent, nothing can be inferred, because the 
+same consequent may follow from other anteee- 
+
+
+
+OF DISJUNCTIVE SYLLOGISMS. 45 
+
+dents. '^Rain may not have fallen^ and yet the 
+ground may be wet ; or fthe ground may be wet, 
+and yet no rain have fallen ; because dew or an 
+inundation would produce the same effect^ 
+
+OF DISJUNCTIVE SYLLOGISMS. 
+
+69. To what has been said of a disjunctive pro- 
+
+* Here the antecedent is denied. 
+
+f Here the consequent is affirmed. 
+
+X Conversion by negation (No. 30) is applicable to (condi- 
+tional propositions ; t. e. the contradictory of the consequent 
+may be taken for the antecedent, and the contradictory of 
+the antecedent for the consequent. 
+" If rain has fallen, the ground is wet 
+
+But rain has fallen ; therefore }- Constructive. 
+
+The ground is wet.'* 
+
+
+
+1 
+
+
+
+« 
+
+
+
+If the ground is not wet, rain has not fallen ; ) 
+
+
+
+But rain has fallen ; therefore f Destructive. 
+
+The ground.is wet." ) 
+
+By this conversion of the major premiss of a constructive 
+syllogism, (the minor, of course, remaining unchanged,) you 
+will reduce a constructive syllogism into a destructive, be- 
+cause you deny the consequent.You will reduce a destructive 
+syllogism into a constructive, because you affirm the ante- 
+cedent E. 6. 
+
+'* If rain has fallen, the gound is wet ; ) 
+But the ground is not wet; therefore/- Destructive. 
+Rain has not fallen." J 
+
+" If the ground is not wet, rain has not fallen ;) 
+
+But t'.ie ground is not wet; therefore > Constructive 
+
+Rain has not fallen.*' J 
+
+
+
+i 
+
+
+
+46 OF DISJUNCTIVE SYLLOGISMS. 
+
+sition (No. 13) must be added, that it consists of 
+two or more categoricals so stated, as to imply that 
+smne one of them, at least, is true, and generally 
+that but one can be true ; as, " It is either day or 
+night." 
+
+70. By denying one of the categoricals of a dis- 
+junctive proposition, if there be but two, you may 
+infer the truth of the remaining one ; as, ** It is 
+either day or night : but it is not day ; therefore 
+it is night." By denying one of them, if there be 
+several, you may infer the truth of some one of the 
+remaining oYies ; as, " It is either Spring, Summer, 
+Autumn, or Winter ; but it is not Spring ; there- 
+fore it is either Summer, Autumn, or Winter.' 
+By denying all but one, you will infer the truth of 
+that one ; as, " It is neither Spring, Summer, nor 
+Autumn ; therefore it is winter." 
+
+71. When it is implied that only one of the ca- 
+tegoricals can be true, by affirming one, you, of 
+course, deny the rest. As, *' It is either Spring, 
+Summer, &c. ; but it is Spring ; therefore it is nei- 
+ther Summer, Autumn, nor Winter."* 
+
+* If both categoricals should be true, it is plain that the 
+affirmation of one cannot imply the denial of the other; as, 
+''Amphibious creatures live either on land or in the water." 
+
+
+
+Iter/' 
+
+\ 
+
+
+
+N 
+s. 
+
+N 
+
+
+
+THE DILEMMA. 47 
+
+72. The dilemma'^ is a redundant conditional syl- 
+logism, with two or more antecedents in the major 
+premiss, and a disjunctive minor. 
+
+73. Dilemmas are either Constructiye or Destruc- 
+tive. Of the constructive dilemma there are two 
+sorts. Simple and Complex. There is but one sort 
+of the true destructive dilemma. 
+
+74. The simple consti-uctive dilemma has but 
+one coTisequent to each antecedent. The antece- 
+dents being disjunctively granted, in the minor, the 
+
+^common consequent is inferred. See No. 67. Rule 
+
+Mqjor. 
+
+1. 1 "If A is B, C is D; and if E is F, C is D. » 
+
+Minor. Cktnchtsion. 
+
+
+
+t€ 
+
+
+
+I But either A is B, or E is F ; I I therefore C is D." I 
+If a Christian be living, he is the Lord's servant; 
+and if he be dead, he is the Lord's servant ; but he 
+
+
+
+* As, in this kind of argument, there are generally, in 
+the migor premiss, two antecedents, which, in the minor, 
+become two assumptions, it is termed a dilemma, from Uq 
+tmccy twoy and Xiififia, an assumption. It is called by the 
+lexicographers, "Syllogismus ab utrslque parte feriens ad- 
+versarium,'' and ** Argumentum comutum/' because most 
+homed animals have two horns, and there are, in a dilemma, 
+itvo instrumetits of attack, furnished in the two assumptions. 
+So Cowlev, " Both the horns of fate's dilemma wound." 
+
+
+
+48 THE DILEMMA. 
+
+must be always either living or dead ; therefore he 
+is always the Lord's servant." (See Ramans, xiv. 
+8.)* 
+
+75. The complex constructive dilemma has a 
+difierent consequent to each antecedent. The an- 
+tecedents are disjunctively granted^ in the minor^ 
+and the different consequents disjunctively inferred. 
+
+E.G. l"IfAisB,CisD,andifEisF,GisH;l 
+
+Minor. Can- 
+
+I but either A is B, or E is F ; I I therefore either 
+
+cltuion. 
+
+C is D, or G is H." I " If the Evangelists speak 
+truth, Christianity is of God, and if they do not 
+speak truth, the existence of Christianity is per- 
+fectly unaccountable ; but the Evangelists either 
+do or do not speak truth ; therefore Christianity is 
+either of God, or its existence is perfectly unac- 
+countable." 
+
+76f The farue destructive dilemma has, like the 
+
+* The conditionals of the major premiss may be united 
+by the adverb ** whether,** so as to form one proposition; 
+£. G. '' Whether a Christian lives or dies, he is the Lord's 
+servant.'* 
+
+f There is a form of argument incorrectly styled a de- 
+structive dilemma, in which the consequents are wholly 
+
+
+
+THE DILEMMA. 49 
+
+complex constructive, a different consequent to each 
+antecedent, in the major. The consequents are 
+disjunctively denied, in the minor, and the ante- 
+cedents disjunctively denied, in the conclusion. 
+E.G. "If A isB, C is D, andif E is F, GisH; 
+but either C is not D, or G is not H ; therefore 
+either A is not B, or E is not F." — " If a witness 
+be an honest one, he will not bear false testimony 
+
+instead of disjunctively, denied in the minor. This is, 
+however, a mere combination of simple conditional syllo • 
+gisms, two or more being expressed together. It may con- 
+sist either — 1st, of one antecedent with several consequents; 
+or, 2ndl7, of several antecedents with one consequent ; or, 
+Srdly, of several antecedents with several consequents. 
+1st, If A is B, C is D ; if A is B, E is F; if A is B, G is H j 
+but C is not D, £ is not F, G is not H ; therefore A is not 
+B. 2ndly, If A is B, C is D ; if E is F, C is D ; if G is H, 
+C is D ; but C is not D ; therefore A is not B, £ is not F, 
+G is not H. 3rdly, If A is B, C is D; if £ is F, G is H; 
+if I is K, L is M; but C is not D, G is not H, L is not M; 
+therefore A is not B, E is not F, I is not K. Should you, 
+in the first case, deny the consequents disjunctively instead 
+of categorically, you will not thereby make the argument a 
+dilemma ; for if aU the consequents be not true, the one 
+antecedent must fall to the ground. E. G. " If A is B, C 
+is D; if A is B, £ is F j if A is B, G is H; but either C is 
+not D, E is not F, or G is not H ; therefore A is not B. 
+But in the correct destructive dilemma there is always a 
+disjunctive conclusion, 
+
+E 
+
+
+
+50 THE DILEMMA. 
+
+designedly ; and if he be a competent one^ he will 
+not do so undesignedly : but a witness who speaks 
+false^ does so either designedly or undesignedly ; 
+therefore he is either not honest or not competent." 
+
+77. The dilemma may always be reduced into 
+simple conditional syllogisms^ by adding a catego- 
+rical minor to each antecedent and consequent of 
+the major premiss of the dilemma. * On such a 
+statement^ it will be seen that an opponent could 
+not deny both the minors^ and that he must, there- 
+fore, admit one of the conclusions. 
+
+78. In a constructive dilemma, some one of the 
+antecedents is assumed to be true ; and, in a de- 
+structive, some one of the consequents assumed to 
+be false ; but which, is left undetermined. 
+
+
+
+51 
+
+
+
+REDUCTION OF HYPOTHETICAL SYLLOGISMS. 
+
+79. To reduce a hypothetical syllogism into a 
+categorical form, you must view every conditional 
+proposition as a universal affirmative, taking the 
+antecedent for the suhject, and the consequent for 
+the predicate. 
+
+
+
+I 
+
+
+
+Q 
+
+bo 
+.3 
+
+o 
+
+
+
+
+
+
+bo 
+
+.a 
+
+o 
+
+
+
+I 
+
+
+
+bp bo 
+
+1 ^ 
+
+.2 .9 
+
+1 3 
+
+
+
+
+
+
+I 
+
+
+
+^ g g P 
+
+
+
+
+
+
+
+
+
+o 
+
+o 
+
+
+
+bo 
+
+o 
+
+
+
+i 
+
+
+
+Q 
+
+bo 
+.S 
+
+•?* 
+
+o 
+
+a 
+
+•s 
+
+s 
+
+CO 
+
+••-I 
+0) 
+
+I s 
+
+Q) O 
+CO Cw 
+
+I 
+
+QQ 
+
+a> 
+I 
+
+
+
+pq 
+
+.r 
+
+.A 
+
+
+
+o 
+
+a 
+I 
+
+.9 
+
+a 
+
+s 
+
+
+
+CO 
+
+
+
+rfi 
+
+
+
+1 
+
+
+
+CO «S 
+
+- a 
+
+pq" PQ 
+
+•2 -^ o 
+
+<j <1 ft 
+
+
+
+__ •?* CO ^ 
+
+a W Q 
+
+
+
+Q i 
+
+
+
+^ 
+
+4i* 
+
+e 
+
+
+
+M W 
+
+
+
+¦410 
+
+O 
+
+09 
+
+
+
+52 ENTHYMEMES. 
+
+Camestresma,y,oi coxase, be reduced to Celarent. 
+But even desti*uctive conditionals may be stated in 
+Barbara, if you view them as constructive ; which 
+is done by converting by negation the major pre- 
+miss. {See No. 68, Note,) This process of re- 
+duction, however, is explained merely to show the 
+applicability of Aristotle's dictum to every form of 
+argument ; since the rules for hjrpothetical syllo- 
+gisms are a sufficient test of their validity. 
+
+ENTHYMEMES. 
+
+80. The Enthymeme is a syllogism, with one of 
+the premises omitted. This premiss is easily sup- 
+plied by comparing the middle term with that term 
+of the conclusion which is expressed only once. 
+E.G. 
+
+" Isaiah was a prophet ; thei'efore 
+He was inspired.'' 
+
+The middle term, of course, is that which does 
+not enter into the conclusion, viz. "Prophet." 
+— " Isaiah," or the minor term, is expressed twice, 
+" Inspired," the major term, only once. Compare, 
+therefore, the middle term with the major, thus sup- 
+plying the major premiss ; E. G. 
+
+
+
+OF THE SORITES. 53 
+
+" Every prophet is inspired ; 
+Isaiah was a prophet ; therefore 
+He was inspired." 
+If the minor premiss had heen suppressed, the 
+minor term '^ Isaiah" could have occurred only 
+oncen £. G. 
+
+" Every prophet is inspired ; therefore 
+Isaiah was inspired." 
+You must, in that case, have taken the minor 
+term '* Isaiah" for comparison with the middle, 
+thus supplying the minor premiss.*^ 
+
+81. By taking the two propositions of an enthy- 
+meme for an antecedent and consequent, you may 
+form it into a conditional syllogism ; E. G. " If 
+Isaiah was a prophet, he was inspired." 
+
+OF THE SORITES. 
+
+82. A Sorites* is a hrief form of connecting 
+several syllogisms in the first figure. In a sorites, 
+the predicate of the first proposition is made the 
+
+* This is the ordinary way of speaking and writing, and 
+in this concise form we continually reason in our minds, 
+iv dvfiff. Hence the term Enthymeme. 
+
+f From ffiapdc, & pile ; because the propositions are piled, 
+as it were, one on another. 
+
+
+
+54 OF THE SORITES. 
+
+subject of the next^ and so on^ to any lengthy till 
+finally the predicate of the last of the premises is 
+predicated, in the conclusion, of the subject of the 
+first. 
+
+A is B; Religion improves the morals; 
+
+B is C ; What improves the morals is 
+
+beneficial to the community; 
+
+C is D ; therefore What is beneficial to the com- 
+
+munity deserres encourage- 
+ment; therefore 
+
+A is D; Religion deserves encourage- 
+
+ment. 
+
+83. In a sorites, there ai*e as many middle terms 
+as there are intermediate propositions between the 
+first and last ; the subject of each intermediate pro- 
+position being a middle term. A sorites may, there- 
+fore, be drawn out into as many separate syllogisms 
+as there are intermediate propositions. 
+
+84. In drawing out a sorites into distinct* syl- 
+logisms, you must take for your major premiss the 
+first intermediate proposition of the sorites, and 
+
+* By distinct and separate syllogisms, I mean those tw 
+form, with major, minor, and conclusion, into which the 
+sorites may be expanded. 
+
+
+
+OF THE SORITES^ 66 
+
+for your minor premiss, thejirst proposition of it; 
+then draw your conclusion. The major proposi- 
+tion of your next syllogism must he the second in- 
+termediate proposition of the sorites^ and your 
+minor proposition must he the conclusion of your 
+preceding syllogism; thence draw your second 
+conclusion. Proceed thus till you have formed as 
+many distinct syllogisms as the soiites contains 
+intermediate propositions^ and have arrived at the 
+same conclusion. The sorites gives you only the 
+^rst minor premiss^ viz. in its first proposition. 
+All the other minor premises consist of the con- 
+clusions of your separate syllogisms. All your 
+major premises consist of the intermediate propo- 
+sitions of the sorites. E. G. 
+
+
+
+I ntermediate Prnporitiom. 
+
+
+
+AisB, iBisC, CisD, DisEJ therefore 
+A is E.** Here is a soiites with three intermediate 
+propositions^ to he drawn out into three distinct 
+syllogisms. 
+
+Syll 1. Syll. 3. Syll. 3. 
+
+BisC; CisD; D is E; 
+
+A is B ; therefore A is C ; therefore A is D ; therefore 
+
+AisC. AisD. A is £. 
+
+
+
+66 OF THE SORITES. 
+
+85. In a sorites, ^ejirst proposition alone (ex- 
+cept, of coarse, the conclusion) may he particular ; 
+because the first proposition is made the minor of 
+the distinct syllogism (No. 84) and may be parti- 
+cular, according to rule, (either Darti, or Ferio.) 
+The intermediate propositions being all majors of 
+the distinct syllogisms, must be universals. (Bar- 
+bara, C^larent, Darii, Fmo.) 
+
+86. The last premiss of the sorites (viz. the last 
+intermediate proposition) is the only one that can 
+be negative;**'^ because the last premiss alone never 
+gives occasion to employ the conclusion of the dis- 
+tinct syllogism as the minor of a subsequent one. 
+Should any other premiss of the sorites but 
+the last be negative, it would lead to a negative 
+conclusion, (No. 37, Rule 6,) and that conclusion, 
+being made the ibinor of the following syllogism, 
+would violate the first figure, which does not admit 
+of a negative minor premiss. (Barbara, Celarent, 
+Darii, Ferio.) 
+
+87. A hypothetical sorites consists of a series 
+of hypothetical syllogisms. In the constructive hy- 
+
+
+
+* Should a sorites appear to have a negative premiss before 
+the last, the succeeding premiss will shew that the negative 
+is, in reality, a part of one of the terms. 
+
+
+
+OF THE SORITES. 67 
+
+pothedcal sorites^ you proceed from the establish- 
+ment of the first antecedent to the establishment 
+of the last consequent. E. G. 
+If A is B, C is D ; If it is the duty of a parent to 
+
+take care of his children^ he 
+should keep them, as much 
+as possible^ from vice ; 
+If C is D, E is F ; If he should keep them from 
+
+vice, he ought to teach them 
+what is virtuous ; 
+If E is F, G. is H ; If he ought to teach them what 
+
+is virtuous, he is bound to 
+
+instruct them in religious 
+
+knowledge ; 
+
+Put A is B ; But it is the duty of a parent 
+
+therefore to take care of his children ; 
+
+therefore 
+G is H. He is bound to instruct them 
+
+in religious knowledge. 
+
+In a destructive sorites, you go back from the de- 
+nial of the last consequent, to the denial of the first 
+antecedent; " G is not H ; therefore A is not B." 
+" If Romish councils speak the truth, popery 
+should be credited ; 
+
+
+
+^^^^^g^^p^^^^^i^^"*^"*p ' »¦ w-trs ^¦ 
+
+
+
+" V ' ^WB' 
+
+
+
+58 OF INDDCTION. 
+
+If popery should be credited, protestantism is 
+fallacious ; 
+
+If protestantism is fallacious, the Scriptures 
+are not the rule of faith ; 
+
+But the Scriptures are the rule of faith ; there- 
+fore 
+
+Romish councils do not speak the truth." 
+
+OF INDUCTION. 
+
+88. Induction**^ is a kind of argument, which in- 
+fers, respecting a whole class, what has been ascer- 
+tained respecting one or more subdivisions of that 
+class; or the drawing a general conclusion from as 
+many particular instances as can be brought in to 
+bear on the point in question ; as if, on perceiving 
+that the ox, sheep, deer, goat, and antelope, all ru- 
+minate, you should infer that all horned animals 
+ruminate. Inductive arguments, which are usually 
+stated as enthymemes,f (No. 80.) are, of course, 
+easily filled up, so as to become regular syllogisms. 
+
+* The term " Induction " is sometimes employed to de- 
+signate the process of investigating and collecting facts ; 
+which is not a process of argument, hvXo. preparation for it. 
+
+f The example given by Dr. Aldrich is inconveniently 
+stated for reduction into a syllogistic form, a circumstance 
+
+
+
+59 
+
+EPJCHIREMA. 
+
+89. One of the premises of a syllogism is occa- 
+sionally confirmed by an incidental proposition, 
+called a Prosyllogism. This proposition, with the 
+premiss it is attached to, form an enthymeme. (No. 
+80.) The incidental proposition is the expressed 
+premiss of the enthymeme, and the premiss it is at- 
+tached to is the conclusion. E. G. 
+" All sin is dangerous; 
+Covetousness is sin ; (for it is a transgression 
+
+of the Law ;) therefore 
+It is dangerous." 
+
+which, perhaps, occasioned his error, (pointed out by Dr. 
+Whately,) in directing the student to supply the minor, in- 
+stead of the major, premiss of the enthymeme ; " Hie et ille 
+et iste magnes trahit ferrum ; ergo omnis." The real sub- 
+ject here is, "ferrum trahere,** the real predicate, "proprium 
+hujus et illius et istius magnetis." The term expressed but 
+once will be the major, "proprium omnis," which must 
+therefore be compared with the middle, (No. 80.) viz. "pro- 
+
+prium hujus, et illius, et istius magnetis." 
+
+Middle Term. 
+
+I " What belongs to this, that, and the other magnet, I is 
+
+Mtyor Term. 
+
+I what belongs to all ; I 
+
+Minor Term. Middle 
+
+
+
+I The power of attracting iron I is I what belongs to 
+
+Term. 
+this, that, and the other magnet ', I therefore 
+Minor Term. Major Term. 
+
+
+
+I The power of attracting iron ! is I what belongs to all." I 
+
+
+
+60 EQUIVALENTS, ETC. 
+
+The minor premiss is an enthymeme ; " Cove- 
+tonsness is a transgression of the law ; therefore it 
+is sin." A syllogism with such a premiss is called 
+an Epichirema. (kiriy^eipiia, I undertake to prove.) 
+
+EQUIVALENTS. 
+
+90. Equivalent terms are allowable for brevity's 
+sake, as the pronoun for the noun ; equivalent pro- 
+positions are also allowable, as the illative converse 
+for the exposita; (No. 30 et seq,) and such equi- 
+valents as may be supplied by ranking species 
+under genus, &c. 
+
+IRREGULAR SYLLOGISMS. 
+
+91. The premises of a valid syllogism may ap- 
+pear negative, contrary to Rule 5, No. 37. One of 
+the premises should then be stated as an affirmative. 
+(See Note to No. 33, " It is the same," &c.) 
+
+'' No one is wise who is not virtuous ; 
+No gamester is virtuous ; therefore 
+No gamester is wise." 
+The real middle term in this syllogism is, " not- 
+virtuous," and it is in Celarent, 
+
+" He who is not-virtuous is not wise ; 
+A gamester is not-virtuous ; therefore 
+He is not wise." 
+
+
+
+IRREGULAR SYLLOGISMS. 61 
+
+92. From the variety of expression admissible 
+in language^ the logical order of subject and predi- 
+cate is often inverted ; and this will occasion the 
+appearance of too many terms in the syllogism. 
+All that is requisite^ in such cases, is to restc»'e the 
+subject and predicate to their proper order. E.G. 
+"No irrational agent could produce a work 
+which manifests design ; 
+The universe is a work which manifests design ; 
+
+therefore 
+No irrational agent could have produced the 
+universe." 
+Strictly considered, this syllogism has five 
+terms, viz. 1. An irrational agent. 2. A being, 
+aUe to produce a work which manifests design. 
+3. The universe. 4. A work which manifests de- 
+]sigi>. d. A h&ng, aUe to produce the universe. 
+
+^ Middle Term. Copula 
+
+I A~ work which manifests design 1 I could not 
+
+andMqjor Term. 
+
+be produced by an irrational agent ; I 
+
+Minor Term. Middle 
+
+
+
+
+
+
+I The universe I is 1 a work which manifests 
+
+Term. 
+
+design ; I therefore 
+
+Minor T. Copula and Mtigor Term. 
+
+i It I I could not be produced by an irra- 
+
+
+
+tional agent." i 
+
+
+
+62 IRREGULAR SYLLOGISMS. 
+
+93. The above iiTegularity is sometimes accom- 
+panied with a transposition of the premises^ as in 
+the following syllogism^ which appears to be in the 
+second figure^ and faulty^ from an affirmative con- 
+clusion. {Note to- No. 47.) 
+
+" Every true patriot is disinterested ; 
+Few men are disinterested ; therefore 
+Few men are true patriots." 
+It is^ in reality^ Barbara, with a transposition 
+of the premises^ and of the terms of the major 
+proposition; for you do not predicate of "few men," 
+that they are "disinterested," but of '.' disinterested 
+men/' that they are " few." 
+
+" Disinterested men are few ; 
+True patriots are disinterested men ; therefore 
+True patriots are few." 
+
+94. By the use of conversion and equipollent 
+propositions, such irregularities as the following 
+are easily reduced to form. 
+
+" None but candid men are good reasoners; 
+Few infidels are candid ; therefore 
+Few infidels are good reasoners." 
+The major premiss here is equipollent to " They 
+who are not candid men are not good reasoners," 
+which is the converse by negation of " All good 
+reasoners are candid men." (No. 30.) State your 
+
+
+
+IRREGULAR SYLLOGISMS. 63 
+
+major proposition in A accordingly. The minor 
+premiss and the conclusion are equipollent to 
+"" Most infidels are not candid ;" therefore " Most 
+infidels are not good reasoners." This will he a 
+regular syllogism in Camestres or Fakoro ;* or it • 
+may he stated at once in Celarent, or Ferio. 
+"They who are not candid (or uncandid) 
+
+Copula 
+
+1 ai*e not I good reasoners; 
+
+Copula 
+
+Most infidels I are 1 notcandid ; (or uncandid;) 
+therefore 
+
+Copula 
+
+Most infidels I are not ' good reasoners."f 
+
+* I have said Camestres or Fakoro, and Celarent or 
+Ferio, because '' most" cannot designate absolute univer- 
+sality, though the present case may be thought to amount 
+to a moral one. (See Note to No. 15, and Uniyersality, 
+in the Index.) 
+
+f For the attainment of skill in syllogizing, as in every 
+other intellectual process, true it is, that ''sapere^est et 
+principium et fons.'' Without good sense and some com- 
+mand of expression, it will often be very difficult for a stu- 
+dent to state, inform, many arguments that are sufficiently 
+conclusive. On the other hand, some proficiency in logic, 
+as an art, is essential to the ready performance of this 
+exercise, however simple it may appear. Though good 
+sense and command of expression are indispensable, they 
+are not, of themselves, sufficient. A study, then, which 
+both tries the faculties of the mind, and calls into play the 
+resources of phraseology, is surely to be considered as 
+worthy of a place in the scheme of a liberal education. 
+
+
+
+64 
+
+
+
+EXERCISES. 
+
+Add the proper Symbols to the following Pro- 
+positions. 
+
+1. All grief is mitigated by time. (No. 15.) 
+
+2. Some troubles happen to all. (No. 15.) 
+
+3. No deceit is justifiable. (No. 15.) 
+
+4. Reverence is due to God. (No. 19.) 
+
+5. Some virtuous men have been unfortunate. 
+
+6. A dissipated character is not estimable. 
+(No. 19.) 
+
+7. Many ingenious men have not acquired a 
+reputation. (No. 15.) 
+
+8. The rose soon fades. (No. 19.) 
+
+9. Alexander was the son of Philip. (No. 11, 
+note,) 
+
+10. Herodotus is not to be implicitly believed. 
+
+11. Few men are acquainted with themselves. 
+(No. 15, note,) 
+
+12. Sin is necessarily destructive of h^piness. 
+(No. 12, note.) 
+
+13. Eveiy animal is either rational or irrational. 
+(No. 13.) 
+
+14. There is no one free from faults. (No. 15.) 
+
+15. Rome was the mistress of the world. 
+
+
+
+EXERCISES. 66 
+
+16. "Tbouarttheman." 
+
+17. Reading improves the mind. (No. 19.) 
+
+18. The Chinese are an idolatrous people. (No. 
+11, note.) 
+
+19. Romulus and Remus were twins. 
+
+20. If a man be a diligent student^ he will be- 
+come learned. (No. 13.) 
+
+21. Every mistake that a man makes is not a 
+sign of folly. (No. 15.) 
+
+22. All men have not great abilities. 
+
+23. None but classical scholars can fully appre- 
+ciate the beauties of ancient literature. (No. 15.) 
+
+24. " None is lost but the son of perdition.'* 
+
+State the Contraries and Contradictories of the 
+following Propositions. {No. 21*) 
+
+25. No men are immortal. 
+
+26. No conscientious person is deserving of 
+ridicule. 
+
+27. All falsehood is dangerous. 
+
+28. Every real Christian is charitable. 
+^9. Dishonesty deserves to be punished. 
+
+30. Nothing past can be recalled. 
+
+31. All who know what is right are bound to 
+practise it. 
+
+6 
+
+
+
+66 EXERCISES. 
+
+> 
+
+32. Not one of the enemy escaped. 
+
+How, in respect of quantity, is the contradictoiy 
+of each of the ahove propositions related to the 
+contrary ? 
+
+State the St^beontraries <md Contradictories of 
+the following Propositions. 
+
+33. Some evils are inseparahle from a state of 
+mortality. 
+
+34. Many apparent misfortunes are real blessings. 
+
+35. Several writers of merit have not been 
+popular. 
+
+36. All do not admire the same things.— ^or. 
+
+37. Some men are eager for novelty. 
+
+38. Many critics are not candid judges. 
+
+39. Few can distinguish between what is really 
+good and evil. — Juv. 
+
+40. All the hexameters of Virgil are not com- 
+pleted. 
+
+
+
+41. No miser is contented. 
+
+What isthesymbol of this proposition ? (No. 17.) 
+Is its pimple converse ti*ue ? (No. 33, or 34.) 
+
+42. Some misfortunes are unavoidable. 
+
+Add the symbol. What is the contradictory ? 
+Is it true or false ? (Nos. 26, 27, 28.) What is the 
+
+
+
+EXERCISES ON SYLLOGISM^ ETC. 67 
+
+simple converse of the contradictory P Is it triie 
+or false ? What is the contradictory of the simple 
+converse ? How may this he changed into the 
+exposita ? (No. 30.) 
+
+43. No good man is a liar. 
+
+Add the symhol. What is the simple converse ? 
+Is it true P (No. 33.) What is the suhaltemate 
+of the simple converse ? (NoSi 24, 27.) How 
+might the exposita he changed into this P (No. 33.) 
+
+44. All earthly things are perishahle. 
+
+Add the symhol. What is the suhaltemate P 
+Is it true P (No. 28.) What is the simple con- 
+verse of the suhaltemate P Is it trae P How 
+might the exposita he changed into it P No. 30.) 
+
+EXERCISES ON SYLLOGISM, ETC. 
+
+45. Swearing is forhidden hy our Saviour; 
+swearing is practised in our Courts of Justice; 
+therefore something practised in our Courts of 
+Justice is forhidden hy our Saviour. 
+
+Is this fallacious P See the Church Ai'ticles ; 
+also (Nos. 19 and 37, Rule 3.) 
+
+46. Hypocrisy is injurious to the interests of 
+reUgion ; ill-directed zeal is often taken for hypo- 
+ciisy; therefore it is injurious to the interests of 
+reUgion. 
+
+
+
+68 EXERCISBS ON SYLLOGISM, ETC. 
+
+Is the conclusion true ? Does it follow ? Why ? 
+(No. 37, Rule 1.) 
+
+47. Co^etou^ess is idolatry^ to worship graven: 
+images is idolatiy ; therefore it is covetoasneasj* 
+(No. 37, Rule 3.) 
+
+48. No bribery is defensible; bribery is not 
+idleness; therefore idleness is not defensible. 
+(No. 37, Rule 5.) 
+
+Is the conclusion true ? Does it follow ? Why f 
+
+49. Mathematical study improves the reasoning 
+powers ; the study of logic is not mathematical 
+study ; therefore it does not improve the reasoning 
+powers. (No, 37, Rule 4.) 
+
+50. Whatever is sinful is productive of son'ow ; 
+fraud and revenge are sinful, and poverty deprives 
+us of many comforts; therefore fraud, revenge, 
+and poverty are all productive of sorrow. (No. 37, 
+Rule 2.) 
+
+51. Some sins are not malicious ; calumny is a 
+sin ; therefore it is malicious. (No. 37, Rule 6, and3.) 
+
+52. All luxury is sinful; all luxury is agreeable 
+to tlie bodily sense; therefore whatever is agi'eeable 
+to the bodily sense is sinful. (No. 37, Rule 4.) 
+
+53. No religious man is factious; St. Paul was 
+a religious man ; therefore he was not factious. 
+
+What mood and figure ? (Nos. 41, 45.) 
+
+
+
+EXERCISES ON SYLLOOrSM^ ETC* 69 
+
+54. Sdme vicious pastimes are permitted by 
+law; every vicious pastime is disgraceful to a 
+Christian; therefore something disgraceful to a 
+Christian is permitted by law. 
+
+What mood and figure ? How reducible ? 
+Could you say, "Every thing disgraceful to a 
+Christian is petmitted by law ?" Why ? (No. 37. 
+Rule 4.) 
+
+65» No mien are fi-ee from sin ; every one ftee 
+from sin is the servant of God; therefore some 
+servants' of Grod ^Ure not men. 
+
+What mood and figure, and how reducible ? 
+
+66, Whoever winneth souls is wise; all tfho 
+preach the Gospd faithfully win souls ; therefore 
+some who preach the Gospel faithfully stre wise. 
+
+Has this mo6d any name P What conclusion 
+might you draw ? (No. 44, note,) 
+
+57. No wicked people enjoy peace of mind ; all 
+who have gained riches dishonestly ai'e wicked 
+people; therefore soMe wh6 hlive gdned riches dis- 
+honestiy do not enjoy peace of mind. 
+
+Is this valid p What is the name of liie mood P 
+State the suhaltemdns of the conclusion. (No. 44, 
+nate, and No. 24.) 
+
+
+
+70 EXERCISES ON SYLLOGISM^ ETC. 
+
+58. If Roman history is credible, the Carthagi- 
+nians were a treacherous people ; Roman history 
+IS credible ; therefore the Carthaginians were a 
+treacherous people. (No. 67.) 
+
+59. St. Matthew s Gospel is allowed to have been 
+first written either in Greek or Hebrew ; Eh*asmus 
+thought it was not first written in Hebrew; therefore 
+he thought it was first written in Greek. (No. 71.) 
+
+60. All pai-ts of Scripture are written for our 
+learning; some dreadful narratives are parts of 
+Scripture ; therefore some dreadful narratives are 
+written for our learning. 
+
+What mood and figure ? 
+
+61. Every candid man acknowledges merit in a 
+rival; every learned man does not acknowledge 
+merit in a rival ; th^efore every learned man is 
+not candid. 
+
+What ai*e the quantity and quality of the minor 
+pi*emiss and the conclusion ? (No. 15.) What 
+mood and figure ? Reduce the syllogism. 
+
+62. All earthly projects are liable to disappoint- 
+ment; nothing liable to disappointment should 
+engage our chief concern; therefore something 
+that should engage our chief concern is not an 
+eailhly project. 
+
+
+
+EXERCISES ON SYLLOGISM^ ETC. 71 
+
+Might you substitute the subalternans of the 
+conclusion P In what mood and figure would the 
+syllogism then be ? 
+
+63. Immoral companions should be avoided; 
+some immoral companions are intelligent; there- 
+fore some intelligent persons should be avoided. 
+(No. 19.) 
+
+State the mood^ figure^ and mode of reduction. 
+
+64. If the world were good, laws would be use- 
+less ; but laws are not useless ; therefore the world 
+is not good. (No. 67, Rule 2.) 
+
+.66. If the world were good, laws would be use- 
+less; but the world is not good; therefore laws 
+are not useless. 
+
+Is this conclusive ? Why ? (No. 68.) 
+
+66. Make a disjunctive syllogism from 2 SamtLel, 
+xxiv, 13. 
+
+67. What sort of proposition is it in Luke xvi, 
+30 ? Can you make of it a valid syllogism ? 
+Which is the Conseqiientia P (No. 66.) 
+
+68. If I am blest with opulence, I have reason 
+to be thankful ; but I am not blest with opulence; 
+therefore I have no reason to be thankful. (No.68.) 
+
+69. If I am blest with opulence, I have reason 
+
+
+
+72 EXERCISES ON SYLLOGISM^ ETC. 
+
+to be thankful ; but I have reason to be thankful ; 
+therefore I am blest with opulence. 
+
+70. Every vicious amusement is unbecoming a 
+wise man ; no philosophical pursuits are unbecom- 
+ing a wise man ; therefore some philosophical 
+pursuits are not vicious amusements. 
+
+In what figure is this syllogism ? The mood ? 
+
+71. If a proposition be a particular affirmative^ 
+shew to what sorts of propositions it cannot belong. 
+Prove this by a syllogism. (No. 71.) 
+
+72. The Helvetii, if they went through the 
+country of the Sequani^ were sure to meet with 
+various difficulties ; and if they went through the 
+Roman province^ they were exposed to the danger 
+of opposition from Caesar; but they were obliged 
+to go one way or the other ; therefore they were 
+either sm-e of meeting with various difficulties, or 
+exposed to the danger of opposition from Csesar^-^ 
+De Bello Gallico, lib. i. 6. 
+
+What sort of argument is this P (No. 75.) Re- 
+duce it into simple syllogisms. (No. 77.) 
+
+73. This man has been proved treacheraus; 
+therefore he is not to be trusted. 
+
+What sort of argument? supply the premiss. 
+(No. 80.) 
+
+
+
+EXERCISES ON SYLLOGISM^ ETC. 73 
+
+74. If pain is violent, it should be borne with 
+patience, because it will be of short continuance ; 
+and if it be slight, it should be borae with patience, 
+because it is only a small evil ; but pain must be 
+either violent or slight ; therefore it should be borne 
+with patience. 
+
+What sort of argument ? (No. 74.) What do 
+you call the two incidental propositions in the 
+major premiss ? (No. 89.) 
+
+75. No woman of great mind would submit to 
+the indignity of being led in triumph ; therefore 
+Cleopati'a would not. 
+
+What sort of argument ? Supply the premiss. 
+
+76. Our heavenly Father is merciful ; therefore 
+we should be merciful.* 
+
+77. Alexander was buried ; he who is buried 
+becomes dust ; what becomes dust is earth ; earth 
+is probably made loam ; what is probably made 
+loam might probably stop a beer-barrel ; therefore 
+Alexander might probably stop a beer-barrel. 
+See Hamlet, ActY, Scene 1. 
+
+* In supplying the deficient premiss, the strict form of 
+syllogism will be better preserved, if we state the above 
+propositions thus : •* To be merciful is a quality of our 
+heavenly Father; therefore it should be ours." (No. 80.) 
+
+
+
+74 EXERCISES ON SYLLOGISM, ETC. 
+
+What sort pf argument ? Into how many dis- 
+tinct syllogisms may it be expanded, and why ? 
+State it in this form. (Nos. 82, 83, and 84.) 
+
+78. None but pious men are fit for the priest- 
+hood; some ignorant men are pious; therefore 
+some ignorant men are fit for the priesthood. 
+
+Is this valid ? Why ? (No. 15, and Na 37, 
+Rule 3.) 
+
+79. None but the ti*uly penitent are pardoned ; 
+the malefactor mentioned by St. Luke (ch.xxiii.) 
+was truly penitent; therefore he was pardoned. 
+
+Is this conclusion true ? Does it foUow from the 
+premises P What major proposition does the con- 
+clusion require P 
+
+80. If man is responsible for his actions, he 
+ought to live circumspectly ; if he ought to live 
+circumspectly, he should consider what is his duty; 
+if he should consider what is his duty, it concerns 
+him to seek the will of God ; if it concerns him to 
+seek the will of God, he ought to study the holy 
+Scriptures ; but man is responsible for his actions ; 
+therefore it is incumbent on him to study the holy 
+Scriptures. 
+
+What sort of argument P to which division does 
+
+
+
+EXERCISES OT4 SYLLOGISM, ETC* 75 
+
+it belong, and why ? (No. 87.) How could it be 
+changed, so as to fall under the other division ? 
+Would the proposition, in that case, be true ? 
+
+81. All great poets are men of genius; Cicero 
+was a man of genius; therefore he was a gi*eat 
+poet. (No. 37, Rule 3.) 
+
+82. Opulence is seen, in such a multitude of 
+instances, to harden the heart and to engross the 
+soul, that we might conclude, even without the 
+authority of Scripture, that the rich enter with dif- 
+ficulty into the kingdom of Heaven. 
+
+What sort of argument ? (No. 88.) 
+
+83. Whatever tends to withdraw the mind from 
+pursuits of a low nature deserves to be promoted ; 
+classical learning does this, since it gives us a taste 
+for intellectual enjoyments ; therefore it deserves 
+to be promoted. 
+
+What name is given to such a syllogism as this ? 
+Which is the prosyllogism ? Which premiss is of 
+itself an enthymeme ? (No. 89.) 
+
+84. A negi'o is a fellow-creature ; therefore he 
+who injures a negro injures a fellow-creature.* 
+
+
+
+* This kind of argument, though not foimal, is so ob- 
+viously valid, that it were a waste of time to expand it into 
+
+
+
+i 
+
+
+
+76 EXERCISES ON SYLLOGISM^ ETC. 
+
+85. No virtaous man is malevolent; all de- 
+tractors are malevolent $ therefore some detractors 
+are not virtuous. 
+
+86. He is brave who conquers his passions : he 
+who resists temptation conquers his passions; there-^ 
+fore he who resists temptation is brave. 
+
+87. All the ships that sailed to Troy, contained, 
+probably, 100,000 men; the ship of Nireus was 
+one of these ; (II. B. 671.) therefore it probably 
+contained 100,000 men. (No. 37, Rule 3. See 
+Fallacije, in the Index.) 
+
+88. Somebody must obtain the high prize in 
+every lottery ; each individual who holds a ticket 
+is somebody ; therefore each individual who holds 
+a ticket must obtain the high prize. (No. 37, Rule 
+3.) 
+
+syllogisms. It will be found to rest upon the general prin- 
+ciple, that whatever stands in any relation to an individual 
+or species, bears tte same relation to a part of any class or 
+predicable which comprehends that individual or species. 
+E. G. " What stands in any relation to the species * Negro,* 
+bears the same relation to the predicable, 'Fellow-creature,' 
+which comprehends the species * Negro;* he who injures a 
+* Negro,* stands in a relation to the species * Negro,' there- 
+fore he who injures a * Negro,' bears the same relation to 
+the predicable, * Fellow-creature,' which comprehends the 
+species * Negro.* " 
+
+
+
+EXERCISES ON SYLLOGISM, ETC. 77 
+
+89. Sticks ai'e easily broken ; fagots are sticks ; 
+therefore fagots ai*e easily broken. (No. 37, Rule 3. ) 
+See Fallaci^e, in the Index. 
+
+90. Books are a source both of instruction and 
+pleasure ; the Iliad and Odyssey are books ; there- 
+fore they are a source both of instruction an 
+pleasure. (No. 19, No- 37, Rule 3.) 
+
+
+
+* 
+
+
+
+78 
+
+
+
+INDEX AND VOCABULARY. 
+
+
+
+Absolute Nouriy or Temiy See Term. 
+
+Abstract Noun, or Term, See Term. 
+
+Abstraction, the process by which we draw off, in 
+thought, from a notion, any circumstances we do 
+not purpose to consider. By this process generaliza- 
+tion is performed. 
+
+Accident, a predicable cmttingently joined to the es- 
+sence of the species, and wliich may, therefore, be 
+absent or present, the essence of the species remain- 
+ing the same ; as, *^ A man walking ^^ *A man horn 
+at Parish The former is called a separable acci- 
+dent, because it may be separated from the indi- 
+yidual ; the latter is plainly inseparable. Accident 
+is predicated in Owtle, See Species. 
+
+Accidental Definition, See Definition. 
+
+Analogous Words or Terms, See Words. 
+
+Antecedent, No. ^, 
+
+Apprehension, Simple, one of the three operations of 
+the mind concerned in argument. The notion of 
+any object in the mind. It is either Incomplex or 
+Complex, See Operations. 
+
+Apprehension, Simple Incomplex, the notion of one 
+object, as, "A pen," or of several objects confusedly 
+and without any relation, as, " Pens.*' 
+
+
+
+INDEX AND VOCABULARY. 79 
+
+Apprehension, Simple Complex^ the notion of two or 
+more objects between which there is some relation, 
+as, " A pen in the hand." 
+
+Argument, an act of reasoning expressed in language; 
+popularly speaking, the means by which some point 
+is proved. 
+
+Canons of Syllogisms^ No. 36. 
+
+Categorematic Word, or OATEGOREM,from Karrjyopkaty 
+I predicate, a word that may be employed by itself 
+as a term. Such words are aliso called Simple terms. 
+
+Categories of Aristotle, or Ten Predicaments. Ge- 
+neral heads, to one or more of which every term may 
+be referred, viz. oMay itSffov, froJoVy irpdrrTi, TouTvy 
+irAvxicy, 'irov, wdtty KtltrOaty ix^iv. Substance, quan- 
+tity, quality, relation, action, passion, (or suffering,) 
+place, time, i^tuation, possesion, (or covering.) 
+
+Cause, Divisions of, Ist. Efficient, (d qu&y) either 
+Principal, as the shoemaker y 5y «;Aom the shoe is 
+made ; or Instrumental, as the aW, knifCy 6cc. with 
+winch the shoe is made. 2Iid. Material, (ex qud,) 
+either Proximate, as the leather of which the shoe is 
+made ; ox Remote, as the sHn of which the leather is 
+made. 3rd, Formal, (per qtuim,) either Proximate, 
+as the shape or fashion of the ishoe; (because the ma- 
+terial so shaped becomes a shoe ;) or Remote, as the 
+natural form of the leather (viz. that which is essen- 
+tial to its being leather) is the more remote form of 
+the shoe. •'4th. Final; (propter quam;) denoting 
+the end for which a thing is made or done ; either 
+Proximate, as the proximate end for whioh a shoe is 
+made, is ^e protection ef the foot; or Remote, as its 
+more remote end is the comfort and health of the 
+body. 
+
+
+
+80 INDEX AND VOCABULARY. 
+
+Common Temiy See Term. 
+
+Compatible Termsy see Term. 
+
+Complex Term, the same as Proposition. 
+
+Conclusion of a Syllogism, No 37, Rule 2nd. 
+
+Concrete Noun, See Term. 
+
+Conditional Propositions, Rules for drawing a con- 
+clusion from, No. &7, 
+
+Conditional Syllogisms, No. 65, et seq. 
+
+Constructive Conditional Syllogisms, No. 67. 
+
+Contingent Matter, Nos. 18 and. 19. 
+
+Contradiction, in Logic, when any proposition is op- 
+posed by another, di£fering from it both in quantity 
+and quality, No. 32. 
+
+Contradictory Opposition of Terms, See Term. 
+
+Contradictory Propositions, Nos. 22, 23, and 27. 
+
+Contrary Propositions, Nos. 22, 27. 
+
+Contrary Terms, see Terms. 
+
+Converse, Nos. 29, 31, 32. 
+
+Conversion of Propositions, No. 29. 
+
+Conversion Simple, No. 30. 
+
+Conversion per Accidens, or by Limitation, No. 30. 
+
+Conversion by Negation^ or Contraposition, No. 30. 
+
+Copula, No. 6. 
+
+Decomplex, or doubly complex. Word or Term. The 
+same as Syllogism, No. 2. 
+
+Definition, such an explanation of a term, as separates 
+it, like a boundary, from every thing else. Defini- 
+tion is divided into, 1st. Nominal, which explains 
+only the meaning of the Term, by an equivalent ex- 
+pression that may happen to be better known, as 
+"Decalogue," " ten commandments ;" or 2nd. Real, 
+which explains the nature of the Thing, These di- 
+visions are again divided into Essential and Acci- 
+
+
+
+INDEX AND VOCABULARY. 81 
+
+dental ; and essential definition is further divided 
+into physical and logical, (or vnetaphysical) 
+
+Definition, Essential, one which assigns the consti- 
+tuent parts of the essence or nature ; either the real 
+parts of the essence, which are actually separable, as 
+if, in defining '* Plant," you should enumerate the 
+leaves, stalks, roots, &c. which is ^. physical defini- 
+tion ; or the ideal parts, which are separable only 
+in the mind, as when a plant is defined to be ** an 
+organized being, 'destitute of sensation," which is a 
+logical or metaphysical definition. N. B. A logical 
+definition must always consist of the geniis and 
+differentia. 
+
+Definition, Accidental, commonly called a Descrip- 
+tion; that definition of a thing which is given by 
+assigning to it the circumstances belonging to its 
+essence; viz. Properties and Accidents; (causes, 
+effects, &c.) E. G. " Barometer," " A machine for 
+measuring the weight of the atmosphere." *' Bal- 
+loon," *' A silken ball, filled with gas, which causes 
+it to rise into the air." " Lion," " The fiercest and 
+most noble of quadrupeds," &c. 
+
+Definition, three principal RvXes for, 1st. A defini- 
+tion must be adequate, i. e. neither too narrow nor 
+too extensive. If it be too narrow, you explain a 
+part instead of a whole; if too extensive, a whole 
+instead of a part, 2nd. It must be of itself clearer 
+(i.e. consist of ideas less complex) than the thing 
+defined. 3rd. It must be couched in just a suffi- 
+cient number of proper words. Proper is here 
+used in opposition to metaphorical, which class of 
+words is excluded on account of their vague and 
+indefinite nature. h 
+
+
+
+82 INDEX AND VOCABULARY. 
+
+Description, see Definition accidental. 
+
+Destructive Conditional Syllogisms, No. 67. 
+
+Dictum of Aristotle, De omni et rnUlo, No. 35. 
+
+Difference, Differentia, a Predicable expressing the 
+distinguishing part of the essence of a species, 
+" Rational" is the Difference of " Man." It is predi- 
+cated in Qualequid, see Species. 
+
+Difference, Generic, the difference of a subaltern 
+genus, and which may be predicated of all the 
+subordinate species comprehended in that genus. 
+"Having sensation" is the generic difference of 
+"Animal." 
+
+Difference, Specific, the difference of an in/ima 
+Species, and which may be predicated of all the 
+individuals contained under it "Rationality" is 
+the specific difference of " Man." 
+
+Dilemma, Nos. 72, 73. 
+
+Dilemma, Simple Constructive, No. 74. 
+
+Dilemma, Complex Constructive, No. 75. 
+
+Dilemma, Destructive, No. 7Q, and note. 
+
+Discourse, the same as Reasoning. 
+
+Disjunctive Syllogisms, Nos. 69, 70, 71. 
+
+Distributed, j5fi?am7i^ o/, No.. 16. 
+
+Distribution, Rules concerning. No. 20. 
+
+Division, in Logic, is a metaphorical expression, and 
+means the distinct enumeration of several things 
+signified by one common name. You reverse the 
+process of generalization, and add on, instead of 
+drawing off, the differences by which things are dis- 
+tinguished. Thus, " Tree" is logically divided into 
+" Oak," « Elm," " Poplar." There is this difference 
+between logical and physical division. (See Indi- 
+
+
+
+INi)£X AND VOCABULARY 83 
+
+viDUAL.) In the fonner^ycminay piedioate the divided 
+whole of every dividing member. Thus, "Weapon" 
+May be predicated of "«word," " Pike," " Gnn.** 
+This cannot happen in the case of physical <division. 
+** Gun" cannot be predicated of *' the Lock," " the 
+Stock," or " the Barrel." 
+
+DiYisioiff^IlulesrJbr'Ugioalj sae. three. 1st, Each of the 
+parts, or any, short of all, must contain less (i.e. 
+have aiianower signification) than the thing divided. 
+"Weapon" could not be a division of the term 
+" Srword." 2nd. All the parts together must be exactly 
+equal to - the thing divided. In dividing the term 
+"Weapon," into" Sword," "Pike," " Gun,"acc. we 
+must not omit any thing of which "Weapon,'* can 
+be predicated, nor introduce any -thing of which it 
+cannot. 3rd. The parts or members must he opposed ; 
+i. e. must not be contained in one another. "• Book" 
+must not be divided into " Quarto," " French," = for 
+a French book may be a quarto, and a quarto, 
+French. N. B. You must always keep in mind the 
+Principle of Division, with Mrhich you set out; E.G. 
+whether you begin to divide books according to their 
+size, language, matter, (Sec. 
+
+Enthymeme, Nos. 80, 81. 
+
+Epichirema, No. 89. 
+
+Equivalents, No. 90. 
+
+Essence, the nature of any being, whether actually 
+existing or not ; " Snow" has an essence in summer ; 
+in winter, it has existence also. 
+
+ExposiTA, what. No. 30. 
+
+Extremes, No. 7, and note, and No. 37, note. 
+
+Fallacy, an argument, or apparent argument, profcss- 
+
+H 2 
+
+
+
+84 INDEX AND VOCABULARY. 
+
+ing to decide the matter at issue, while it really does 
+not. 
+
+Fallacia -3EQUIVOCATIONIS, arising from the use of 
+an equiyocal word ; E. G. " The dog is an animal ; 
+Sirius is the dog ; therefore Sinus is an animal." 
+See No. 37, Rule 3rd. 
+
+Fallacia Amphibolic, or doubtful Construction; E. G. 
+" Quod tangitur a Socrate illud sentit ; columna 
+tangitur a Socrate ; ergo columna sentit" In the 
+major proposition, " sentit" means " he, i, e, Socrates, 
+feels." In the conclusion, the same word means 
+" feels Socrates." See No. 37, Rule 1st. 
+
+Fallacia Compositionis, when what is proposed in a 
+divided sense is afterwards taken collectively; E. G. 
+" Two and three are even and odd; five is two and 
+three ; therefore five is even and odd." See No. 37, 
+Rule 3rd. 
+
+Fallacia Division is, when what is proposed in a 
+collective, is afterwards taken in a divided sense ; 
+E. G. "The planets are seven ; Mercury and Venus 
+are planets; therefore Mercury and Venus are 
+seven." See No. 37, Rule 3rd. • 
+
+Fallacia FiGURf Dictionis, when, from any simili- 
+tude between two words, what is granted of one is, 
+by a forced application, predicated of another ; as, 
+" Projectors are not fit to be trusted, therefore he 
+who has formed a project is not fit to be trusted " 
+— See Dr. Whately*s Logic, ch. iii. § 8. 
+
+Fallacia Accidentis, when what is accidental is con- 
+founded with what is essential ; E. G. " What you 
+bought you have eaten ; raw meat is what you 
+bought; therefore raw meat is what you hare 
+
+
+
+INDEX AND VOCABULARY. 85 
+
+eaten." In the major proposition, "What you 
+bought" means as regards its Essence; in the minor, 
+6is regards its Accidents. See No. 37, Rule 3rd. 
+
+Fallacia a Dicto secundum Quid ad Dictum Sim- 
+PLiciTER, when a Term is at one time used in a 
+limited, at another, in an unlimited sense, as, " The 
+Ethiopian is white as to his teeth ; therefore he is 
+white:' See No. 37, Rule 1st. 
+
+Fallacia Ignorationis Elenchi, an argument that 
+indicates ignorance of the point in dispute ; an irre- 
+levant conclusion ; as if any one, to shew the inu- 
+tility of the art of Logic, should prove that men 
+unacquainted with it have reasoned well. 
+
+Fallacia a non Causa pro Causa, which is divided 
+into Fallacia ^ non verApro verA^ and Fallacia A non 
+tali pro tali. E.G. " A comet has appeared, there- 
+fore there will be war." — ^** What intoxicates should 
+be prohibited, and wine intoxicates." The abuse 
+of it does. In replying, you should deny the false 
+cause, or assign the true one. 
+
+Fallacia Consequentis, when that is inferred which 
+does not logically follow; as, ''He is an animal; 
+therefore he is a man." 
+
+Fallacia Petition IS Principii, {begging the Questiony) 
+when that is assumed for giunted, which ought to 
+have been proved ; as when a thing is proved by 
+itself, (called Petitio statim,) " He is a man, there- 
+fore he is a man ;" or bg it Sgwmym, as, " A sabre 
+is sharp, therefore a cymetar is ;" or by any thing 
+equally unknown^ as, "Paradise was in Armenia, 
+therefore Gihon is an Asiatic river ;" or by any thing 
+more unknown, as, " This square is twice the size of 
+this triangle, because equal to this circle ;" or by 
+
+
+
+86 INDEX AND VOCABUtARY. 
+
+discoursing in a circle, i. e. when the disputant tries 
+to prove reciprocally conclusion from premises, and 
+premises from conclusion ; as, *' Fire is hot, therefore 
+it bums ;'' and afterwards, '* Fire bums, therefore 
+it is hot." 
+
+Fallacia Plurium Interrogationum, when two or 
+more questions, requiring each a separate answer, 
+are proposed as one ; so that if one answer be given, it 
+must be inapplicable to one of the particulars asked ; 
+as, ^ Was Pisistratus the usurper and scourge of 
+Athens ?" The answer " No" would be false of the 
+former particular, and "Yes" would be false of 
+the latter. This fallacy is overthrown by giving to 
+each particular a separate reply. 
+
+False, strictly, denotes the quality of a proposition 
+which states a thing not as it is. 
+
+Figures^ Nos. 41 and^; 
+
+Generalization, the abstracting or drawing off, in 
+thought, the points of dissimilitude between several 
+objects which resemble each other in some part of 
+their nature, and the assigning to them one common 
+name expressii^ of the particulars in which they 
+all agree. Thus, " Pigeon," « Wren," " Eagle," 
+^ Cassowary," differ in shape, plumage, size. Sec. but 
+agree in being all feathered creatttres. They come, 
+therefore, under the general head of " Fowl," or 
+" Bird." 
+
+GENERIC Difference, See Difference. 
+
+Generic Property, See PnopsiiTY. 
+
+G£N<DS,aPredicableyexpressing the eammon or maAeidal 
+port of the species of which it is affinned. " Atiimal" 
+is the genus of " Man." It is said to be predicated 
+in Qnid, See Speciss. 
+
+
+
+INDEX AND VOCABULARY. 87 
+
+Genus, Proximum, one that is the next remoYe from 
+a species. ''Animal" is the proximum genus 
+of " Man." " Liying thing" is the more remote 
+genus. 
+
+Genus, Subaltern, one that is a species, if viewed with 
+reference to a higher or more coipprehensive genus; 
+thus " Bird," the genus of nightingale, is. a species 
+of animal. 
+
+Genus, Summum, that which is not a species of any 
+higher genus. 
+
+HypoTHETiCAL Propositions, See Propositions. 
+
+Hypothetical Syllogisms, No. 63, 64, 76, 87. 
+
+Idea, the picture or representation of an ohject in the 
+mind ; the result of apprehension. 
+
+Illative, Meaning of, No, 31. 
+
+Illicit Process, No. 37, Rule 4. 
+
+Impossible Matter, Nos. 18 and 19. 
+
+Indefinite Proposition, See Proposition. 
+
+Individual, that which is incapable of logical division, 
+(see Division,) and can he only physically divided 
+into its /Mzrto. E.G. "Man," being a species, can 
+be logically divided into individuals, as '' Homer," 
+" Virgil," " Milton ;" but these, being individuals, 
+can be divided only physically, viz. into their com- 
+ponent parts. 
+
+Induction, No. 88. 
+
+Infer, to draw a conclusion from granted premises. 
+
+Infima Species, See Species. 
+
+Infinitant Particle, " Not." 
+
+Judgment, a decision on the agreement or disagree^ 
+ment of two objects. It is either affirmative or ne- 
+gative. See Operations. 
+
+
+
+88 INDEX AND VOCABULARY. 
+
+Logic, the science which analyzes the process of the 
+mind in reasoning; the art which lays down rules 
+to secure the mind from erroneous inferences. 
+(From Xoyoc, reason.) 
+
+Major Premiss, No. 37, Rule 2 ; No. 64. 
+
+Major Term, No. 37, Rule 1. 
+
+Matter of a Proposition^ what. No. 19. 
+
+Middle Term, No. 37, Rule 1. No. 1, Note. 
+
+Minor Premiss, No. 37, Rule 2. No. 64. 
+
+Minor Term, No. 37, Rule 1^ 
+
+Modal Syllogisms, Nos. 60, 61, 62. 
+
+Moods, No. 40, No» 48. 
+
+Necessary Matter, Nos. 18 and 19. 
+
+Negative Term, See Term. 
+
+Operations of the mind, concerned in argument are 
+three; viz. Simple Apprehension, Judgment, Dis- 
+course, (or Reasoning.) 
+
+Opposite Term, see Term. 
+
+Opposition of Propositions, Nos. 21, 22, 27. 
+
+Opposition of Terms, See Terms. 
+
+Pars deterior, what, No. 38, Note. 
+
+Positive Term, See Term. 
+
+Predicable, See Term Common. Every Predicable 
+expresses either the whole essence of its subject, viz. 
+the species ; otpart of its essence, viz. the genus or 
+the difference ; or something joined to its essence, 
+viz. a property or an accident. 
+
+Predicate, No. 6. 
+
+Premiss, a proposition employed to establish some 
+conclusion. No. 4. 
+
+Privative Term, See Term. 
+
+Problem, the same as Question. 
+
+
+
+INDEX AND VOCABULARY. 89 
+
+Property, a Predicable expressing something neces- 
+sarily joined 'to tlie essence- of the whole species ; 
+whatever may be considered as the accompaniment 
+or result of the differentia, " Risibility" is the pro- 
+perty of " Man." Property is predicated in Quale, 
+See Species. 
+
+Property, threefold division of, — 1st, Universal and 
+peculiar ; as, the faculty of laughter or of speech^ to 
+man. 2nd, Universal, but not peculiar; as, the 
+being a biped^ to man. Every mrni is a biped, but 
+fowls are bipeds too. 3rd, Peculiar, but not uni- 
+versal, as, the being a philosopher, to mun. Man 
+alone can be a philosopher, but every man is not one. 
+This third division, however, is more truly an ac- 
+cident. 
+
+Property, Generic, the property of a subaltern genus, 
+and which may be predicated of all the subordinate 
+species comprehended in that genus. " Voluntary 
+motion" is the generic property of " Animal." 
+
+Property, Specific, the property of an infima species, 
+and which may be predicated of all the individuals 
+contained under it. " Risibility" is the specific 
+property of ** Man." 
+
+Propositi© de inesse, what. No. 11, Note, 
+
+Proposition, an act of judgment expressed in lan- 
+guage. See No. 6. 
+
+Fropositio's, Affirmative, Nos. 11 and 14. 
+
+Proposition, Categorical, (pure and modal,) Nos. 11 
+and 12. 
+
+Proposition, Hypothetical, (conditional and disjunct 
+tive,) Nos. 11 and 13. 
+
+Proposition, Indefinite, No. 11, Note. No. 19. 
+
+
+
+90 INDEX AND VOCABULARY. 
+
+Proposition, Negative^ Nos. 11 and 14. 
+Proposition, Particular, Nos. i;i and 15. 
+Proposition, Singular , No. 11, Note. 
+Proposition, Contrary, Nos. 22 and 27. 
+Proposition, Subcontrary, Nos. 22 andi27. 
+Proposition, Contradictory , Nos. 22, 23, and 27. 
+Proposition, Subaltern, Nos. 22 and 27. 
+Proposition, Universal, Nos. 11 and 15. 
+Prostllogism, No. 89. 
+Prove, to adduce premises. which establish the truth of 
+
+some conclusion. 
+Quality of a Proposition, Np. 11. 
+Quantity of a Proposition, No. 11. 
+Question, the Proposition, to be proved ; called, after 
+
+proof, the conclusion or inference. 
+Reasoning, the act of proceeding from one judgment 
+
+to another, founded on, or tl^e result of it. 
+Reduction^ Ostensive, Nos. 52, 53, 56. 
+Reduction of Hypothetical SyHttgismfi, No. 79. 
+Relative Noun or Term, See Term. 
+
+SiGNIFICATE, No. 16. 
+
+Sorites, Nos. 82, 83, 84, 85, 86. 
+
+Sorites, Hypothetical, No. 87. 
+
+Species, a Predicable expressing the whole essence of 
+several things ; as, " Man," A species of animal. It 
+is said to be predicated in Quid, i. e. to answer to the 
+question WhatP as, " What is ^at ?" Ansu^.^'A 
+man.'' N.B. By adding the difference to th^ 
+genus, you make up the species. 
+
+Species infima, one that cannot be considered as the 
+genus of any thing, and eon tains under it only indi- 
+viduals. ^ Man," is an infima speqies, contaii^ng 
+under it, Caesar, Aristotle, Thomas, &c. 
+
+
+
+INDEX AfiD VOCABULARY. 91 
+
+Species subaltern, the same as subaltern genus ; i.e. 
+one that is a genus, if viewed with reference to the 
+species into which it .is divisible. "Bird" is a 
+subaltern species^ being a species of animaly and the 
+genus of nightingale. 
+
+Specific Difference, See Difference. 
+
+Specific Property, See Property. 
+
+Subaltern Propositions, See Propositions. 
+
+SUBALTERNANS, No. 24. 
+
+Subalternate, No. 24v 
+
+Subcontrary Propositions, See Propositions. 
+
+Subject, No. 6. 
+
+Substance of a Proposition^ No. 11. 
+
+Syllogism, No. 2, No. 35. 
+
+SvLhooisMSyDivision^of, viz.Categorical,into Pure and 
+Modal; Hypothetical, into Conditional and Dis- 
+junctive. No. 6. 
+
+Syllogisms, Irregular, Nos. 91, 92, 93, and 94, 
+
+Syllogisms, Rules for ascertaining the validity of. 
+No. 37. 
+
+Symbols of Quantity and Quality, No. 17, No. 45. 
+
+Syncategorematic Word, or SYNCATE60REM,((n;yica- 
+TriyopEO), I predicate together with^) a word theut can 
+form only part of a term. Such are the particles of 
+a language, and substantives in an oblique case. 
+Adjectives and participles axe generally accounted 
+Syncategorems. 
+
+Term, an act of apprehension expressed in language. 
+Also, the subject or predicate of a Proposition, No. 7. 
+
+Term, Absolute, one that is considered by itself, and 
+conveys no idea of relation to any thing of which it 
+is a part, or to any other part distinguished from it. 
+
+
+
+92 INDEX AND VOCABULARY. 
+
+Term, Abstract, denotes the quality of a being, without 
+regard to the subject in which it is ; as, '* Justice,'' 
+" Height," " Wisdom*" Abstract terms are nouns 
+substantive. 
+
+Term, Common, such as stands for several individuals, 
+which are called its Significates ; as "Man," "City." 
+Such terms, and such only, can be affirmatively pre- 
+dicated of several others, and they axe therefore 
+called Predicables. 
+
+Terms, Cmnpatible or Consistent, express two views 
+which can be taken of the same object, at the same 
+time, as, •* White and Hard." 
+
+Term, Complex. The same as Proposition. 
+
+Term, Concrete, denotes the quality of a being, and 
+either expresses, or must be referred to, some subject 
+in whichitis;as,«Fool," "Foolish," "High," "Wise." 
+Concrete Terms are usually, but not always^ nouns 
+adjective. 
+
+Terms, Contradictory Opposition of^ when they differ 
+only in respectively wanting and having the par- 
+ticle "not," or its equivalent. One or other of 
+such terms is applicable to every object. 
+
+Terms, Contrary, come both under some one class, 
+but are the most different of all that belong to 
+that class ; as, " Wise" and " Foolish," both coming 
+under the class of mental qualities. There are some 
+objects to which neither of such terms is applicable ; 
+a Stone, for instance, is neither wise nor foolish. 
+
+Term, Definite, (finitum,) one which marks out an 
+object or class of beings ; as, " Caesar," " Corporeal." 
+Positive Terms are called definite. 
+
+
+
+INDEX AND VOCABULARY. 93 
+
+Term, Indefinite, (infinitum,) one which does not 
+mark out, hut only exclude an object, as,"Not-C8Bsar," 
+'' Incorporeal." Priwative and negative Terms are 
+called indefinite. 
+
+Term, Negative, denotes that the positive view could 
+7iot be tsiken of the object ; it affirms the absence of 
+a thing from some subject in which it could not be 
+present ; as, " A dumb statue ;" (you could not say, 
+''A speaking one.") "A lifeless corpse;" (you could 
+not say, " A living one.") N. B. The same term 
+may be negative, positive, or privative, as it is viewed 
+with relation to contrary ideas. Thus " Immortal" 
+is privative or negative, viewed with relation to 
+Death, and positive, viewed with relation to Life. 
+
+Terms, Opposite, express two views which cannot 
+be taken of one single object at the same time ; 
+as, " White and Black." 
+
+Term, Positive, denotes a certain view of an object, as 
+being actually taken of it; as, " Speech," " Aman 
+speaking." 
+
+Term, Privative, denotes that the positive view might 
+conceivably be taken of the object, but is not; 
+" Dumbness," " A man silent ;" (you might say, **A 
+man speaking.") "Anunburied corpse;" (you might 
+say, * A buried one.") 
+
+Term, Relative, that which expresses an object viewed 
+in relation to the whole, or to another part of a more 
+complex object of thought, as" Half" and "Whole," 
+" Master" and " Servant" Such nouns are called 
+Correlative to each other ; nor can one of them be 
+mentioned, without a notion of the other being raised 
+in the mind. 
+
+
+
+d4 INDEX AND VOCABULARY. 
+
+Term, Simple. The same as Categorematic Word. 
+
+Term, Singular ^ such as stands for one individual, as 
+" Socrates," " London," " This man," " That city.'' 
+Such tenns cannot be predicated affirmatively of 
+any thing but themselves. 
+
+Undistributed Middle, No. 37, Rule 3. 
+
+Universality of a Proposition, A Proposition is me- 
+taphysically or matJiematically universal, when the 
+predicate belongs, without any exception, to every 
+particular contained under the universal subject ; 
+as, " All circles have a centre and circumference." 
+It is physically universal, when it always agrees, 
+unless in the case of some unnatural exceptions ; 
+as, ^ All men are rational." It is morally universal, 
+when it agrees in most instances, but not necessarily, 
+or in the course of nature ; as, '* All the Cretans are 
+liars." 
+
+Words, any combination of, making one complex 
+
+apprehension, is, inlogic, a simple word; as, '* I The- 
+1 _2_ 3 
+
+hope-of-reward I 1 is 1 I the-solace-bf-labour. I " Every 
+
+Proposition consists of three simple Words, viz. 
+
+subject, copula, and predicate. 
+
+Words, VarioiLS divisions of the manner of employing ; 
+whence a word is called Univocal, Equivocal^ Ana- 
+logous^ of the first Intentiony or of the second Inten- 
+tion. 
+
+Words, Univocal, such as are confined to one mean- 
+ing, and signify but one sort of idea; E.G. " Book," 
+" Lance," " Tomb." 
+
+Words, Equivocal, such as signify two or more ideas ; 
+E. G. " Light," " Moor," " Pen," "Post." 
+
+
+
+/ 
+
+
+
+INDEX AND VOCABULARY. 95 
+
+Words, Analogous^ such as signify iv/o or more things 
+that hare no resemblance in themselves, hut stand in 
+a similar relation each to its respectiye object ; E.G. 
+" Hand," " Foot," " Sweet." As the human hand 
+points to any object to which we would direct the 
+attention, so does the hand of a clock point to the 
+hour. As the /oof of an animal is the lowest part of 
+it, so is the foot of a mountain with relation to the 
+mountain, (Sec. 
+Words, of the first Intention, such as are used in their 
+vague and common acceptation ; thus '' Needle" 
+signifies, in popular language, the little steel instru- 
+ment used in sewing. 
+Words, of the second Intention, those to which a more 
+precise and limited meaning is given, proper to some 
+particular art, science, or system ; thus " Needle" 
+means, in the language of navigation, the little steel 
+bar in the mariner's compass. 
+
+
+
+APPENDIX. 
+
+
+
+ON ACADEMICAL DISPUTATION. 
+
+The Respondent^ in a Disputation, being always 
+supposed to maintain a true proposition, the argu- 
+ment of the Opponent, whose province it is to sup- 
+port the contradictory, must be presumed to be 
+founded on some fallacy. 
+
+If the respondent, upon trying his opponent s 
+objection in the form of a categorical syllogism, 
+should find that it offends against any one of the 
+six rules in No. 37, by pointing out such a viola- 
+tion, he overthrows the opponent s argument. 
+
+Should the objection be hypothetical, the res- 
+pondent must examine the connexion between an- 
+tecedent and consequent, (No.66,) and whether the 
+
+I 
+
+
+
+98 APPENDIX. 
+
+two rules at No. 67 have been observed. The detec- 
+tion also of any violation of the rules for drawing 
+a conclusion from disjunctive propositions (Nos. 
+70, 71,) will destroy a fallacy so supported. 
+
+Fallacies that consist in a violation of the express 
+rules of logic are more palpable than those which 
+depend on the ambiguity of the middle term ; by 
+an ingenious application of which to the terms of 
+the question, (No. 37, Rule 1,) fallacies are very 
+generally introduced. 
+
+Most frequently, therefore, the first business of 
+the respondent is to examine the middle term of 
+his opponent's argument ; and ascertain whether, 
+in his comparison of it with the terms of his con- 
+clusion, he has used it in exactly the same sense in 
+both instances. The first and second intention of 
+words, their being employed sometimes in a literal, 
+and sometimes in a metaphorical, sense, with other 
+considerations arising from the various meanings 
+attached to the same, or similar, terms, afford a 
+wide scope for the exercise of fallacy, and call for 
+acuteness, both natural and acquired, to detect it, 
+if skilfully concealed. 
+
+The opponent has the choice of many points of 
+
+
+
+ON ACADEMICAL DISPUTATION. 99 
+
+attack ; for if he prove that the proposition advanced 
+by the respondent appears at all inconsistent with 
+any part of the system he is defending, or at va- 
+riance with any received principle of truth, &c. or 
+expressed in terms of too extensive a latitude, — by 
+driving the respondent to explain such a difficulty, 
+he has fairly executed his task. 
+
+The Cambridge argument now practised by the 
+opponent at a public disputation in the schools, 
+generally consists of three constructive conditional 
+syllogisms (No. 67.) The consequent (No. 66) in 
+the first syllogism, is always, " Cadit quaestio." If 
+the respondent should deny the consequence, (or 
+conclusion,) then the consequent of the second syl- 
+logism«will be, " Valet consequentia ;" on the con- 
+trary, if he should deny the minor, (No. 64,) the 
+consequent of the second syllogism will be, "Valet 
+minor." If the respondent should deny the conse- 
+quence of the second syllogism, the consequent of 
+the third will be, " Valent consequentia et argu- 
+mentum;" if he should deny the minor of the 
+second, the consequent of the third will be, "Valent 
+minor et argumentum." 
+
+Whichever proposition the respondent has de- 
+
+
+
+9^^\n'$iK 
+
+
+
+100 APPENDIX. 
+
+nied, (whether it be the minor or consequence^) the 
+opponent^ in his next syllogism^ affirms to be valid ; 
+taking for the consequent of his major proposition^ 
+" Valet minor," or " Valet consequentia," as the 
+case may be. 
+
+Should the argument consist of only two syllo- 
+gisms, the former will have for its consequent 
+" Cadit quaestio," and the latter, either " Valent 
+consequentia et argumentum," or " Valent minor 
+et argumentum," according to the previous denial 
+of the respondent Should it consist of more than 
+three, all, except the last, will have their consequent 
+in the same manner as the second ; either '' Valet 
+consequentia," or " Valet minor." The consequent 
+of the concluding syllogism is always, ''Valent 
+consequentia et argumentum," or, '' Valent minor 
+et argumentum." It is not, however, advisable to 
+use more than thi*ee syllogisms in constructing an 
+argument for a disputation. 
+
+It is the duty of the respondent, at the close of 
+each syllogism, either to concede or deny the minor 
+proposition, as circumstances may require. If it 
+be evidently true, he must, of course, concede it, 
+but deny the consequence ; viz. that its ti'uth inva- 
+
+
+
+ON ACADEMICAL DISPDTATION. 101 
+
+lidates the question he is maintaining ; '' Concedo 
+minorem^ et nego consequentiam." If the minor 
+he false, or douhtful, he denies it, ("Nego mi- 
+norem,") and the opponent, on the other hand, 
+must endeavour to establish it by some unques- 
+tionable medium of proof. 
+
+The following examples, exhibiting arguments 
+of three, four, and twp syllogisms, and shewing the 
+mode of proceeding, as the minor or consequence 
+may be denied in dijQTerent places, will facilitate the 
+application of the above remarks. The Form of 
+the argument being at present the point for consi- 
+deration, unmeaning symbols have been substituted 
+for terms. 
+
+An Argument of three syllogisms, with the minor 
+
+of the first denied, 
+
+Opponens. 
+
+MAJOR PROPOS. 
+
+A ntecedent. Consequent. 
+
+1. Si I A sit B, i I cadit qusestio ; i 
+
+MINOR PROPOS.. 
+
+Sed A est B ; 
+
+CONSEQUBNTIA. 
+
+Ergo cadit qusBstio. 
+
+Respondbns. 
+Nego minorem. 
+
+
+
+102 APPENDIX. 
+
+Pergit Dormnus Opponens ad syllogismum secundum, 
+
+2. Si C sit D, valet minor ; 
+Sed C est D ; 
+
+Ergo valet minor. 
+
+Respondens. 
+Concedo minorem, et nego consequentiam. 
+
+Pergit Opponens ad syllogismum tertium. 
+
+3. Si £ sit F,valent consequentia et argumentum; 
+Sed E est F ; 
+
+Ergo vaJent consequentia et argumentum. 
+
+An Argument of three syllogisms, with the minor 
+
+of the second denied, 
+
+Opponens. 
+
+1. Si A sit B, cadit qusestio ; 
+Sed A est B ; 
+
+Ergo cadit qusBStio. 
+
+Respondens. 
+Concedo minorem, et nego consequentiam. 
+
+Opponens pergit ad syllogismum secundum. 
+
+2. Si C sit D, valet consequentia ; 
+Sed C est D; 
+
+Ergo valet consequentia. 
+
+Respondens. 
+Nego minorem. 
+
+
+
+ON ACADEMICAL DISPUTATION. 103 
+
+Opponens pergit ad syllogismum tertium, 
+
+3. Si £ sit F, valent minor et axgumentum ; 
+Sed E est F ; 
+Ergo valent minor et argumentum. 
+
+An •Argument of four syllogisms, with the minor 
+of the second denied* 
+
+Opponens. 
+
+1. Si A sit B, cadit qusestio; 
+Sed A est B; 
+
+Ergo cadit qusestio. 
+
+Respondens. 
+Concedo minorem, et nego consequentiam. 
+
+Pergit Opponens. 
+
+2. Si C sit D, valet consequentia ; 
+Sed C est D ; 
+
+Ergo valet consequentia. 
+
+Respondens. 
+Nego minorem. 
+
+Pergit Opponens. 
+
+3. Si E sitF, valet minor; 
+Sed E est F; 
+
+Ergo valet minor. 
+
+Respondens. 
+Concedo minorem, et nego consequentiam. 
+
+Pergit Opponens. 
+4 . Si G sit H, valent consequentia et argumentum ; 
+Sed G est H ; 
+Ergo valent consequentia et argumentum. 
+
+
+
+104 APPENDIX. 
+
+N. B. If the minor of the third syllogism had 
+been denied, the consequent and conclusion of this 
+last syllogism would have been, " Valent minor et 
+argumentum." 
+
+An Argument of two syllogisms, with the minor of 
+
+the first denied. 
+
+Opponens. 
+
+1 . Si A sit B, cadit qusestio ; 
+Sed A est B ; 
+
+Ergo cadit qu8Bstio. 
+
+Respondens. 
+Nego minorem. 
+
+Pergit Opponens. 
+
+2. Si C sit D, valent minor et argumentum ; 
+Sed C est D ; 
+
+Ergo valent minor et ai'gumentum. 
+
+Should the minor of a concluding syllogism be 
+false, the respondent does not say," Nego minorem,** 
+but proceeds at once to his reply. 
+
+The antecedent, as may be seen in the preceding 
+examples, is first enunciated in the subjunctive, or, 
+at least, conditionally ; then affirmed, in the minor 
+premiss^in the indicative mood, and the consequent 
+accordingly established. 
+
+It may happen, that the three conditional syllo- 
+gisms admit of being reduced to the form of a single 
+
+
+
+ON ACADEMICAL DISPUTATION. 106 
+
+categorical syllogism; to the major^ minor> and 
+conclusion of which they severally correspond. 
+But even in instances of this kind, it is not neces- 
+sary that the three conditional syllogisms should be 
+placed in the same order as the three propositions 
+of the categorical syllogism, if the opponent thinks 
+that, by a different arrangement, his sophism will 
+be the better concealed. 
+
+The three conditional syllogisms of an opponent's 
+argument, when they do not correspond with 
+the three propositions of a categorical syllogism, 
+would require, in order to be stated in form, to be 
+expanded into two or more categorical syllogisms. 
+
+In responding to an opponent, it is by no means 
+necessary to unfold in one's mind the objections he 
+has adduced into as many strict categorical syllo- 
+gisms as will lead to his conclusion ; for this would 
+often be a trifling and tedious process to the res- 
+pondent ; though it is highly desirable to possess 
+the skill that would enable him, if required, to go 
+through it. 
+
+Should the respondent, from the subtlety of his 
+opponent's sophism, or any other cause, experience 
+great difficulty in discovering the pith of the objec- 
+tion, the Moderator usually assists him, by re- 
+
+
+
+1 
+
+
+
+106 APPENDIX. 
+
+Stating the opponent's argument in a more lucid 
+and int^Uigible form ; and sometimes directing his 
+attention to the quai*ter in which the fallacy is 
+hidden. 
+
+It has been already stated to be the opponent's 
+province, should the respondent deny the minor of. 
+his syllogism, to confirm it by some medium of 
+proof. This, in the Divinity-School, is generally done 
+by an appeal to texts of Scripture ; which, it may be 
+observed, are commonly cited without being called 
+for by the respondent, as they often afibrd ground 
+for critical animadversion on the part of the pro- 
+fessor, and opportunity for a further trial of the 
+skill and knowledge of the disputants. 
+
+It is usual for the professor to call on the respon- 
+dent for an interpretation into Latin of the more 
+abstruse and diflScult texts of the New Testament, 
+that may happen to be quoted by the opponent 
+For citations from the Old Testament, the Vulgate 
+is employed.* 
+
+When the respondent has replied to the oppo- 
+nent's objection ,the moderator occasionally demands 
+
+* A copy of the Greek New Testament, and of the Vulgate 
+version of the Old, are placed on the desk of the respon- 
+dent's rostnim. 
+
+
+
+ON ACADEMICAL DISPUTATION. 107 
+
+of the latter his own solution of the sophism he has 
+constructed. 
+
+The following is the form of a divinity Act, with 
+a specimen of the style of argumentation, as prac- 
+tised in the University of Camhridge. The com- 
+piler, in conformity with the principles laid down 
+in the preceding part of this manual, has, at the 
+hottom of the page, unfolded each argument in a 
+categorical form. 
+
+The preliminaries of a divinity act, the formula 
+of the prayers, the hahit of the respondent, &c. are 
+detailed in the " Ceremonies of the University of 
+Cambridge," edited by H. Gunning, Esq. 
+
+Every one about to keep a divinity act first sub- 
+mits to the Regius Professor three or four ques- 
+tions, which should be on some important doctiine 
+of the Christian religion, or leading article of the 
+Protestant faith. The professor having selected 
+one of these questions, the respondent (that is to 
+be) makes it the subject of a Latin thesis : the de- 
+livery of which ought not to occupy more than 
+half-an-hom\* 
+
+* The Church Articles supply suitable subjects for dis- 
+putation. A good list of questions that have been already 
+discussed is to be found in the Preface to Bishop Watson's 
+Theological Tracts. 
+
+
+
+108 APPENDIX. 
+
+About ten days before the act is kept, the res- 
+pondent should wait on the professor, in order to 
+obtain of him the second question. This is always 
+chosen exclusively by the professor himself, who, 
+when the disputation is ended, delivers a thesis 
+(called a Determination) upon it. It is the pro- 
+vince of the respondent to answer the ailments 
+brought against both questions.''^ 
+
+
+
+* It is greatly to be regretted, that majiy clerg3rmen, after 
+entering on the public duties of their office, should often 
+neglect to cultivate the advantages conferred on them by a 
+University education. Not that it is desirable, or even de> 
+fensible, that a minister of the Gospel should employ much 
+of his time either in classical or philosophical researches ; 
+but some familiarity with theological Greek and Latin might 
+fairly be expected of every divine, however arduous the du- 
+ties of his parish may be. It is incredible how much time 
+may be snatched for improvement out of the busiest and 
+most laborious life. Erasmus wrote his '' Praise of Folly," 
+while travelling on horseback into Italy ; *' ne totum illud 
+tempus quo equo fuit insidendum, illiteratis fabulis terere- 
+
+
+
+tur." 
+
+
+
+' No one who has discontinued for many years a moderate 
+cultivation of Greek and Latin, can proceed to the higher 
+degrees at the University, without disagreeable anticipations 
+of embarrassment and disgrace^ in the attempt to hold a 
+public disputation. 
+
+The writings of Limborch may be very useful to a&y one 
+preparing for a divinity act. 
+
+
+
+ON ACADEMICAL DISPUTATION. 109 
+
+On the professor having ascended his rostrum, 
+he directs the respondent to begin : '' Agas, Do- 
+mine/' The respondent then says, " Oremus," and 
+pronounces the prayer "Actiones nostras," &c. 
+He afterwards proposes the questions thus : 
+
+" Quastiones sunt : (exempli gratia :) 
+
+1. ' Ohlatio Ckristi semel facta perfecta redemptio 
+est.^ 
+
+2. *• Fides justificans non potest k bonis operibm dis- 
+jungt. 
+
+As the question on which the respondent has 
+composed his thesis is always proposed first, he 
+then says, ^^ De priori," and proceeds to deliver 
+his thesis. 
+
+When the thesis is concluded, the first opponent 
+is directed by the professor to ascend the rostrum : 
+^' Ascendat opponentium primus." 
+
+The opponent then reads the two questions, as 
+the respondent had done before, and proceeds to 
+his arguments. 
+
+To give as clear an idea as possible of the manner 
+of opposing and responding, the discussion of the 
+first argument is here exhibited in the form of dia- 
+logue. 
+
+
+
+110 APPENDIX. 
+
+Opponens. 
+
+Contra priorem. 
+
+1. Si Divus Paulus Christum appellet, "Agnum 
+nostrum pascbalem," cadit qusestio ; 
+
+Sed DiTus Paulus Christum appellat, '^Agnum nos- 
+trum paschalem;" 
+
+Ergo cadit quaestio. 
+
+Provoco ad priorem Pauli Epist ad Corinth, cap. 5^. 
+com. 7«»o. 
+
+Respondens. 
+
+Concedo minorem, et nego consequentiam. 
+
+Opponens. 
+
+2. Si agnus paschalis non esset sacrificium piaculare, 
+valet consequentia ; 
+
+Sed agnus paschalis non erat sacrificium piaculare ; 
+Ergo valet consequentia. 
+
+Respondens. 
+Nego minorem. 
+
+Opponens. 
+
+Provoco ad Exodi cap. 12«n"™'Comm. 13^'o- et H*®- 
+unde apparet sacrificium paschale primitus institutum 
+fuisse in id tantum, ut, sanguine foribus asperso, ange- 
+lus vindex domos Israelitanim agnosceret, et illsesas 
+prseteriret ; et in sseculis subsecutis observatum fuisse 
+in id tantum, ut majorum suorum ex ^Egypto libe- 
+rationem Judsei commemorarent. 
+
+Si dominus respondens nunc concedat minorem, 
+necesse est consequentiam neget : et opponens per- 
+git ad syllogism um tertium. 
+
+
+
+ON ACADEMICAL DISPUTATION. Ill 
+
+3. Si igitur neque mors Cliristi sit saorificium pia- 
+culare, valent consequentia et argumentum ; 
+
+Sed igitur mors Christi non est sacrificium piacu- 
+lare ; 
+
+Ergo valent consequentia et argumentum. 
+
+Respondens. 
+
+Constat tum agni paschalis mactationem,tum Christi 
+mortem, fuisse revera sacrificia. Hoc unum comparatio 
+ab Apostolo instituta requirit. Esto, agni paschalis 
+mactationem nihil piaculare. habuisse ; Christi tamen 
+mors, quippe quae sacrificium sit, hactenus agni pas- 
+chalis mactationi respOndet ; licet vim majorem habeat, 
+quia sacrificium est piaculare. 
+
+Si vero dominus respondens non concedat mi- 
+norem in syllogismo secundo^ tunc moderatoris 
+erit judicium suum interponere. Si ille existimet 
+minorem valere,opponentem j ubebit ad syllogismum 
+tertium pergere. Contra ea, si pronuntiet minorem 
+non valere,tunc domino opponenti nihil restat^nisi ut 
+det manus, et ad argumentum aliud novum pergat. 
+
+In hoc argumento dubitari potest, agni Paschalis 
+mactatio sacrificium piaculare fuerit, necne. Certe 
+sanguis foribus aspersus vim mali avertendi habuit, 
+ideoque effectum quendam piacularem. Sed agni 
+mactatio, in saeculis posterioribus quotannis repe- 
+
+
+
+112 APPENDIX. 
+
+tita, nullam aliam vim habere videtur nisi comme- 
+momtivam.* 
+
+When the respondent has replied to the first 
+objection, the professor either signifies his appro- 
+bation of the answer, or suggests another more ap- 
+propriate and satisfactory. He then directs the 
+opponent to proceed to his next argument ; "Pro- 
+bes aliter." 
+
+Second Argument, 
+
+Opponens. 
+
+1. Si doctrina de redemptione humana hoc funda- 
+mento nitatur, scilicet, necesse fuisse ut Divinse justi- 
+tiaB pro hominum peccatis satisfieret, cadit qusestio. 
+
+* The conditional syllogisms of which this objection 
+consists, correspond with the three propositions of a regular 
+categorical syllogism, and it may be viewed as CeZarenf with 
+the premises transposed ; '' Christ was the paschal lamb ; 
+the paschal lamb was not a piacular sacrifice ; therefore 
+Christ was not a piacular sacrifice." 
+
+Ce- The paschal lamb was not a piacular sacrifice ; 
+
+-la- Christ was the paschal lamb ; therefore 
+
+-rent. Christ was not a piacular sacrifice. 
+In the major proposition, the middle term (the paschal 
+lamb) is used in its primary and literal sense ; in the minor 
+proposition, in its secondary and metaphorical sense. It is 
+not, therefore, fairly compared with the terms of the con- 
+clusion or question. This is, " Fallacia aequivocationis.*' 
+After all, the truth of the msgor proposition admits of 
+doubt. 
+
+
+
+ON ACADEMICAL DISPUTATION. 113 
+
+Sed doctrina de redemptione humana hoc funda- 
+mento nititar ; 
+Ergo cadit qusestio. 
+
+2. Si, ut hoc efficeretur, pcense peccatis humanis 
+dehits in Christum translate fuerint,— unum inter 
+omnes a peccati labe pumm, valet consequentia. 
+
+Sed, at hoc efficeretur, &c. 
+Ergo yalet consequential 
+
+Provoco ad Esais cap. 53t*wn. com. 6^. et ad priorem 
+Petri Epistolam, cap.S^o* com. 24^* 
+
+3. Si vero justitise proprium sit, po^nas non nisi de 
+nocentibus exigere, yalent consequentia et argumen- 
+tum. 
+
+Sed justitise proprium est, &c. 
+
+Ergo valent consequentia et argumentum.* 
+
+* The punishment of the innocent for the guilty, says 
+the opponent, being repugnant to the principles of justice, 
+could not have satisfied Divine justice for the sins of men. 
+The innocence and vicarious punishment of Christ being 
+supposed to be conceded, the objection^ stated in form, will 
+appear thus : 
+
+Ce- What is irreconcileable with justice, cannot sa- 
+tisfy Divine justice. 
+
+-la- To inflict the punishment of guilt on the innocent, 
+is irreconcileable with justice ; therefore 
+
+-rent. It could not satisfy Divine justice. 
+
+Under the moral government which Grod exercises here, 
+the innocent very frequently suffer for the guilty. If, then, 
+we allow the moral government and attributes of God, vicar 
+nous punishment and the Divine justice will no longer be 
+
+K 
+
+
+
+1 14 APPENDIX. 
+
+Responsum. 
+
+£ Sacris Scripturis hoc unum colligendum est de re- 
+dcmptionc humana; scilicet Cbiisti mortem hunc 
+cffectum habuisse, ut homines a peccati poena libe- 
+raret. Quod rationi satis consentaneum est. Vi- 
+demus enim reram naturam a Diyino Opifice et Reo- 
+tore ita constitutam, ut plurima nobis contingant bene- 
+ficiaaliorum ope, qui ssepe incommoda Yolentes subeunt, 
+in id tantum ut nos adjuvent. Nihil igitur objici potest 
+contra doctrinam de redemptione humana in Sacris 
+Scripturis traditam, quod non pari jure contra quoti- 
+dianum rcrum humanarum et DivintB providentis 
+ordinem adhibeatur. 
+
+
+
+Third Argument. 
+
+1. Si Divus Paulus doceat coenam Dominicam idem 
+esse Christianis quod epulae sacrificales turn Judseis 
+tum Ethnicis, cadit qusestio. 
+
+Sed Divus Paulus docet, &c. 
+Ergo cadit qusestio. 
+Provoco ad 1 Cor. x. 16 — ^21. 
+
+2. Si igitur coena Domini sit epulum ex oblatis, valet 
+consequentia. 
+
+Sed coena Domini est, &c. 
+Ergo valet consequentia. 
+
+considered incompatible. The minor premiss of the cate- 
+gorical syllogism will be denied, in this case, to he uni- 
+versally true. 
+
+
+
+ON ACADEMICAL DISPUTATION. 115 
+
+3. Si igitiu' oblatio Christi'sffipius repetatur, valent 
+consequentia et argumentum. 
+Sed oblatio Christi, &c. 
+Ergo valeut consequentia et argumentum.^ 
+
+* This argument may be stated categoricallyi thus, in 
+three syllogisms. 
+
+1. 
+
+Bar- What a sacrificial feast was to the Jews and Hea- 
+thens, is what the Lord's Supper is to Christians ; 
+
+-ba- A feast upon propitiatory offerings is what a sacrifi- 
+cial feast was to the Jews and Heathens ; there- 
+fore 
+
+-ra* A feast upon propitiatory ofiericgs is what the Lord's 
+Supper is to Christians. 
+
+2. 
+
+Bar- A Christian propitiatory offering is the oblation of 
+Christ ; 
+
+-ba- What takes place in the Lord's Supper is a Chris- 
+tian propitiatory offering ; therefore 
+
+-ra. What takes place in the Lord's Supper, is the obla- 
+tion of Christ 
+
+3. 
+
+Bar- What takes place in the Lord's Supper is frequently 
+
+repeated ; 
+-ba- The propitiatory oblation of Christ is what takes 
+
+place in the Lord's Supper ; therefore 
+-ra. It is frequently repeated. 
+
+. The middle term of the first syllogism is here taken in 
+different senses in the major and minor premiss. In the 
+major premiss, it means what a sacrificial feast was, with 
+regard to one particular^ (viz. communion with the Deity,) 
+
+k2 
+
+
+
+116 APPENDIX. 
+
+Responsdm. 
+
+Non docet Paulas coenam Dominicain prorsus idem 
+esse Chiistianis qnod Judseis atque Ethnicis Epulae 
+sacrificales. Affirmat quandam esse similitudinemi et 
+Mc tantum parte, quod insit utrique sacrificandain 
+communicatio cum numine. Nee compaiatio arctius 
+premenda est. Apostolus non affirmat Christianos, in 
+Euchanstia celebranda, et Ethnicos, in Epulis sacrifi- 
+calibus, in hoc similiter agere, quod oblatis vescantur ; 
+sed quod et Christiani vero cum Deo, et Ethnici cum 
+idolis suis, reUgiosam communicationem instituant. 
+
+Fourth Argument 
+
+This and the following argument are against 
+the second question, according to the rules for 
+keeping a first opponency. 
+
+Contra Secundam* 
+
+1. Si fides lustificationem antecedat, cadit qusestio. 
+Sed fides justificationem antecedit; 
+
+Ergo cadit qusestio. 
+
+2. Si opera qualiacunque ante justificationem per- 
+acta rationem peccati habeant, valet consequentia. 
+
+and thus, in that particular, it agprees with the major term ; 
+in the minor premiss, it is taken simply, and thus, in 
+another particular, (viz. its propitiatory character,) it agrees 
+with the minor term. It is not, therefore, &irly compared 
+with the terms of the conclusion. This may be referred to 
+''Fallacia k dicto secundum quid, ad dictum simpliciter." 
+
+
+
+ON ACADEMICAL DISPUTATION. 117 
+
+Sed opera qualiacunque, Sec, 
+Ergo valet consequentia. 
+
+3. Si igitur fides qua justificationem consequimur, 
+existere possitabonis operibus diguncta, valent conse- 
+quentia et argumentum. 
+
+Sed fides qua, 6cc. 
+
+Ergo valent consequentia et argumentum.^ 
+
+* The opponent don tends, that as justifying faith pre- 
+cedes justification, and all works before justification are 
+sinful, therefore justifying faith may eidst apart from good 
+works. The formal statement of this argument requires 
+four categorical syllogisms. 
+
+1. 
+
+Ce- Works that have in them the nature of sin are not 
+
+good works ; 
+-la- All works done before justification have in them 
+
+the nature of sin ; therefore 
+-rent. No works done before justification are good works. 
+
+2. 
+
+Bar- Whatever is preceded by justification is preceded 
+
+by what precedes justification ; 
+-ba- Good works are preceded by justification ; therefore 
+•ra. They are preceded by what precedes justification. 
+
+3. 
+
+Bar- What precedes justification precedes good works. 
+
+(EquipoUent to the conclusion of the UuU) 
+-ba- Faith precedes justification ; therefore 
+-ra. It precedes good works. 
+
+
+
+118 APPENDIX. 
+
+Responsum. 
+
+Cogitatione sola distingui possunt fides et opera 
+bona. Fides fons est, opera bona sunt fluenta ; fides 
+causa, opera bona effectus. Simul ac fides existat, 
+justificatio incipit, nuUaque mora interposita, subse- 
+quuntur opera bona. Ut sol igitur ante radios solares, 
+ita fides ante opera bona ; sed fide existente, opera 
+bona proveniant necesse est. Neque magis di^ungi 
+possunt a fide, quam lux a sole. 
+
+Fifth Argument, 
+
+1. Si operanti inerces tribuatur non ex gratia sed 
+ex debito, cadit qusBstio. 
+Sed operanti merces, &c. 
+Ergo cadit qusestio. 
+Provoco ad Rom. iv. 4. 
+
+4. 
+
+Bar- Whatever precedes good works is distinct from 
+
+them ; 
+-ba- Justifying faith precedes good works ; therefore 
+-ra. It is distinct from them. 
+
+Faith may be separated from good works only in thought. 
+Faith is the fountain-head ; good works, the streams that 
+ffow from it. Faith is the cause ; good works, the e^Eect. 
+As soon as there is faith, justification begins, and good 
+works immediately follow^ As, therefore, the sun must 
+hare existed before the sunbeams, so faith must be previous 
+to good works. But if there be faith, good works are of 
+necessity produced ; nor can they any more be separated 
+from faith, than light can be parted from the sun. 
+
+
+
+ON ACADEMICAL DISPUTATION. 119 
+
+2. Si vero justificatio, quam perfidem consequimur, 
+sit ex gratia, valet consequentia. 
+
+Sed justificatio, &c. 
+Ergo valet consequentia. 
+Provoco ad Rom. iv. 6. 
+
+3. Si igitur opera bona, cum ea, quajustificamur, 
+fide nihil commune habeant, valent consequentia et 
+argumentum. 
+
+Sed opera bona, Sec. 
+
+Ergo valent consequentia et argumentumu^ 
+
+
+
+* The reward of him who works, says the opponent, is 
+shewn in Scripture to be not of ^race, but of debt. But 
+our reward, viz. Justification by faith, is proved by Scrip- 
+ture to be of grace ; therefore it cannot be the reward of 
+him who works, nor is justifying faith connected with good 
+works. This argument, in order to be formally stated, re- 
+quires, like the last, four categorical syllogisms. 
+
+1. 
+
+Ce- ' That which is of debt is not of grace ; 
+
+-la- The reward of him who works is of debt ; therefore 
+
+-rent. It is not of grace. 
+
+2. 
+
+Ce- What is of grace, is not the reward of him who 
+
+works. 
+(Converse of the conclusion of the last syllogism, E,) 
+-la- Justification by faith is of grace ; therefore 
+-rent It is not the reward of him who works. 
+
+
+
+120 APPENDIX. 
+
+Responsum. 
+
+Fatendum est, justificationem nostram Divina ex 
+gratia sdmnmodo concessam esse ; non autem sequi- 
+
+3. 
+
+Ce- What is not the reward of him who works, has no 
+
+connexion with good works ; 
+
+Pnikate, 
+
+-la- Justification by faith is ) not-the-reward-of-him- 
+
+who-works ; I therefore 
+•rent. It has no connexion with good works. 
+
+4. 
+
+Ce- 7*he instnimental cause of justification has no 
+more connexion with good works, than justifica- 
+tion itself has; 
+
+la- Justifying faith is the instrumental cause of justi- 
+fication; therefore 
+
+-rent It has no more connexion with good works than 
+justification itself has. 
+
+The major proposition of the third syllogism is unduly 
+assumed. That which is not the reward of works may yet 
+have connexion with them in other rttpeds. Though jus- 
+tification is a favour, not a reward of works, yet works may 
+be required as a conditUm of justification; and in this re- 
+spect they may be inseparably connected. This circum- 
+stance does not diminish our debt of gratitude to Grod, to 
+whose grace, as the efficient cause, all spiritual blessings are 
+ascribable. 
+
+They who object to call good works, ''Conditions of 
+salvation," may term them, the necessary fruits of the faith 
+whereby we obtain salvation ; although salvation itself must 
+be accounted a gratuitous benefit of God. 
+
+
+
+ON ACADEMICAL DISPUTATION. 121 
+
+tur, licet bona opera pro causa justificationis non ha- 
+benda sint, nihil esse inter fidem et bona opera com- 
+mune. Fieri enim potest, quod Sacrae Scriptune revera 
+decent, ut opera bona sint conditiones salutis, quam 
+tamen Diyinse gratis, quasi causae efficienti,acceptam 
+referre debemus. 
+
+Si nolis opera bona conditiones salutis appellari, tunc 
+ea licet appelles, fructus necessaries fidei illius qua 
+salutem consequimur ; cum tamen salus ipsa sit Dei 
+beneficium gratuitum. 
+
+The opponent^ when his last argument has been 
+answered by the respondent, descends from the 
+rostrum upon the moderator thus dismissing him ; 
+" Satis disputasti." 
+
+
+
+ACTS IN THE CIVIL LAW. 
+
+Before keeping an Act in the Civil Law, the 
+student submits, to the Regius Professor in that 
+faculty, a few questions, that he may ^x on one of 
+them as a fit subject for a Lalan thesis.*^ 
+
+• 
+
+* A candidate for the degree of LL.B. must submit to 
+the Professor the question he means to write upon, at least 
+one term before the act is kept A candidate for the de- 
+gree of LL.D. must do the same at least two terms pre- 
+viously to his act. 
+
+
+
+122 APPENDIX. 
+
+A second question is also chosen by the professor 
+exclusively, who reads a Determination on it, when 
+the disputation is finished. 
+
+On the day of the exercise, the respondent 
+having occupied his rostrum, and the professor 
+being seated, the Father of the respondent's college 
+directs him to begin : " Domine respondens, 
+agas." 
+
+The following is a copy of the printed questions proposed 
+hy the Professor in his examination paper of the present 
+year. Other questions in MS. are also given to each stu- 
+dent, according to the nature of the subjects proposed for 
+discussion in the Schools. 
+
+1. Explain the nature and utility of syllogisms in general. 
+
+2. Explain the nature of the syllogisms used in the law 
+schools. 
+
+3. State an instance of a Dilemma in favour of your first 
+question from 
+
+4. Prove your first question to be true by Induction from 
+
+5. Form an argument in two hypothetical syllogisms, in 
+favour of your first question, from 
+
+6. - Form, in Latin, an argument in three hypothetical syl- 
+logisms, against your first question, from 
+
+7. Form, in Latin, an argument against your second 
+question, in three hypothetical syllogisms, from 
+
+Let the minor of the second syllogism be false. 
+
+8. Make a short statement, in English, of your first 
+question. 
+
+9. Make a short statement, in LiUiny of your second 
+question. 
+
+
+
+ON ACADEMICAL DISPUTATION. 123 
+
+The respondent then proposes the questions^ 
+placing that first on which his thesis is written. 
+
+Except when an opponency is kept for a Doctor's 
+degree, the Regius Professor is himself both oppo- 
+nent and moderator. He produces as many argu- 
+ments against each question as he thinks proper, 
+in the form of syllogism already explained. 
+
+It is the office of the respondent (as in the Divi- 
+nity School) to defend each question by an appro- 
+priate answer to the objections adduced by the op- 
+ponent. 
+
+If the answer of the respondent be satisfactory to 
+the professor, he signifies his approbation, and pro- 
+ceeds, in the capacity of opponent, to propose his 
+next argument. But if the answer of the respon- 
+dent be eiToneous or inconclusive, the professor 
+(departing for the time from the character of op- 
+ponent) points out to the respondent-the true solu- 
+tion of the difficulty : and this he does, not only 
+for the advantage of the respondent but, for the in- 
+struction of the auditors frequenting the law-school, 
+the majority of whom attend there expressly with 
+a view to prepare themselves for responding in a 
+disputation. 
+
+
+
+124 APPENDIX. 
+
+In the course of the act, the professor, at hh 
+discretion, tries the ahility of the respondent, by in- 
+terrogatories on such subjects 4s are connected with 
+the question. 
+
+The following is a specimen of the nature of the 
+questions discussed, and of the manner of arguing 
+against them. The student may easily collect, from 
+the references,* the nature and force of the argu- 
+
+QtuBstiones sunt: 
+
+1. Decemviri creditorihus in debitores jus viUsatque 
+necisnon dederunt. 
+
+2. Romani primos ChrisHanos non ideb perseeuti 
+sunty quia ccetus noctumos celebrahanL 
+
+Contra priorem, 
+
+1. Si in lege Decemvirali de debitore, poena caj^tis 
+uon nisi de ultimo supplicio est accipienda, cadit 
+quaestio. 
+
+Sed in lege Decemvirali, 6cc. 
+Ergo cadit quffistio. 
+
+2. Si dominis in servos jus erat vit® atque necis, 
+valet minor. 
+
+¦ 
+
+* A copy of the Corpus Juris Civilis, is placed on the 
+rostrum of the respondent, and another on that of the 
+opponent. 
+
+
+
+ON ACADEMICAL DISPUTATION. 125 
+
+Sed dominis in servos, Sec, 
+Ergo valet minor. 
+
+3. Si ffiris convicti jure Decemvirali in servitutem 
+redigebantor, valent consequentia et argumentum. 
+Sed seris convicti, Sec. 
+Ergo valent consequentia et argumentum. 
+
+The opponent then refers the respondent to the 
+following authorities in confirmation of his argu- 
+ment, and it is the duty of the respondent to make 
+
+his answer. 
+
+Ins. 1 . 8. 1 . 
+D. 1.5.5. 
+Matt. 18. 25. 
+Liv. Hist. 6. 14. 
+
+Contra alteram, 
+
+1. Si causa persecutionum quibus primi Christiani 
+vexabantur, aut ab ipsa Christi religione aut ex 
+quadam ratione civili petenda est, cadit qusestio. 
+
+Sed causa persecutionum, &c. 
+Ergo cadit qusestio. 
+
+2. Si Romani omnibus fere gentibus suam religio- 
+nem et suos ritus celebrare permitterent, valet conse- 
+quentia. 
+
+Sed Romani, &c. 
+Ergo valet consequentia. 
+
+3. Si igitur necesse est ut qusedam ratio civilis eos 
+excitaret ad Christianos vexandos, valet consequentia. 
+
+Sed necesse est ut, Sec, 
+Ergo valet consequentia. 
+
+
+
+126 APPENDIX. 
+
+4. Si ista ratio fuit metus ne quid detrimenti caperet 
+respublica, valent consequentia et argumentum. 
+
+Sed ista ratio fait, &c. 
+
+Ergo Talent consequentia et argumentum. 
+
+Tac. Annal. 1, 73. 
+
+zii. Tab. 
+
+Leg* Gab. 
+
+SCT Marc. 
+
+D. 47, 22, 1. 
+
+D. 47, 11,2. 
+
+In the progress of this argument, the opponent 
+might> if occasion required, refer to the sacred 
+Scripture, as well as to the authorities above men- 
+tioned. 
+
+The respondent's answer will be suggested partly 
+from his own interpretation of these authorities 
+cited by the opponent, and partly from his own 
+view of the question in general. 
+
+
+
+ACTS IN MEDICINE. 
+
+
+
+A medical thesis may be composed on any prac- 
+tical, physiological, or pathological question. It 
+must be of such a length as not to consume more 
+than half-an-hour in the delivery. 
+
+
+
+ON ACADEMICAL DISPUTATION. 127 
+
+For the degree of M. B. the question must be 
+submitted to the professor, for his approval, six 
+weeks before the act is kept; and, for the degree of 
+M. D., three months before. 
+
+The respondent has to defend two questions, of 
+which one is appointed exclusively by the professoi*; 
+as in the case of a Divinity Act. 
+
+The professor does not restrict the opponent from 
+extending the number of his arguments, if he 
+pleases ; but he must not produce fewer than five 
+in all ; i. e, three against the first question, and two 
+against the second. Each of these arguments may 
+consist of two, three, or four syllogisms. 
+
+There is but one opponent ; and if the act be 
+kept for a Doctor's degree, the opponent is most 
+frequently the professor himself. 
+
+The forms of keeping an act in Medicine, cor- 
+respond with those observed in keeping an act in 
+the civil law. 
+
+In a medical disputation, it does not always 
+happen that the respondent maintains the position 
+which the moderator holds to be true. The truth 
+may appear on the opponent s side, and the decision 
+be accordingly given in his favour. The following, 
+however, are specimens in which the position main- 
+tained is true, and the objections fallacious. 
+
+
+
+128 APPENDIX. 
+
+Qtusstiones sunt: 
+
+1. VeruBsectio primum et pracipuwn remedium est 
+Enteritidis, 
+
+2. Bills i sanguine venoso secemitur, 
+
+Opponens. 
+Contra priorem, 
+
+1. Si intestinoram inflammatio ab alvo diu astricta 
+et suppressa ssepe oriatur, cadit qusBStio. 
+
+Sed intestinoram Sec, sspe oritur ; 
+Ergo cadit qusestio. 
+
+Respondens. 
+
+Concedo intestinoram inflammationem cum aire diu 
+astricta ssepius conjunctam esse, et aliquando ex hac 
+origine exortam. 
+
+Opponens. 
+
+2. Si alvum solvere et purgare primum et prscipuum 
+sit higus mali remedium, valet consequentia. 
+
+Sed alvum solvere, &c. 
+Ergo valet consequentia. 
+
+Respondens. 
+
+Concedo quoque maximi esse moment! ut alvus as- 
+stricta solvatur. 
+
+Opponens. 
+
+3. Si igitur intestinoram inflanmiatio ab alvo 
+astricta orta, optime curetur medicamentispurgantibus, 
+valent consequentia et argumentum. 
+
+Sed intestinoram inflammatio, &c. 
+Ergo valent consequentia et argumentum. 
+
+
+
+ON ACADEMICAL DISPUTATION. 129 
+
+Respondens. 
+
+In hoc morbo res maximi momenti est ut depellatur 
+inflammatio, id quod optimd per vensBsectionem 
+efficitur. Animadvertendum quoque medicamenta 
+purgantia sspe yim suam non exerere, nisi post de- 
+tractionem sanguinis. 
+
+Opponens. 
+Contra alteram. 
+
+1. Si in omni alia glandula corporis, prsDterquam 
+hepate, secretio humoris fiat e sanguine arterioso, 
+cadit qusestio. 
+
+Sed in omni &c. 
+Ergo cadit qusestio. 
+
+Respondens. 
+Concede minorem et nego consequentiam. 
+
+Opponens. 
+
+2. Si in rebus obscuris investigandis confidere 
+necesse sit comparationi similitudinis vel analogise, 
+Yalet consequentia. 
+
+Sed in rebus obscuris &c. 
+Ergo valet consequentia. 
+
+Respondens. 
+Concede minorem &c. 
+
+Opponens. 
+
+3. Si igitur ab hac comparatione concludendum 
+sit, ut bilis d sanguine arterioso secematur, valent 
+consequentia et argumentum. 
+
+Sed ab hac comparatione &c. 
+
+Ergo valent consequentia et argumentum. 
+
+
+
+130 APPENDIX. 
+
+Respondens. 
+
+Argumento domini opponentis refragatui quidem 
+analogia, quum jecori, quod bilem seceniit, sanguis 
+veuosus suppeditetur, (ex Vena Portarum scilicet,) 
+simili modo quo caeteris glandulis sanguis arteriosus, 
+ex arteriis suis. 
+
+
+
+ACTS IN THE SCHOOL OF ARTS. 
+
+The Preliminaries of these Acts are, of necessity, 
+well known to all who are concerned in keeping 
+them. No one can oppose or respond in the School 
+of Alls, till he has resided seven Terms in the 
+University. A paiticular introduction to the 
+following questions would, therefore, be superflu- 
+ous. 
+
+Quastiones sunt: 
+
+1. RectS statuit Newtonus in noTid suA sectione lihri 
+primi. 
+
+2. RectS sese habent Principia Calculi turn Differen- 
+Halis turn Integralis, 
+
+3. Recti stfltuit Paleius de Virtute, 
+
+Contra primam. 
+
+1. Si cum spiralis reciproca in antecedentia revel- 
+vatur eadem velocitate angulari qua corpus in conse- 
+quentia movetur, orbita in fixe spatio descripta fiat 
+
+
+
+ON ACADEMICAL DISPUTATION. 131 
+
+linea recta in qua corpus motu uniformi ad centrum 
+accedit, cadit qusBstio. 
+
+Sed cum &c. **** fit &c. *** accedit ; 
+
+Ergo cadit qusDstio. 
+
+2. Si cum vis in spirali reciproca varietur ~, et 
+virium differentia in orbita quiescente et in orbita in 
+fixo spatio descripta varietur similiter ^, consequens 
+sit totam vim in orbita in fixo spatio descripta variari 
+—-, valet consequentia. 
+
+Sed cum vis, &c. * * * * consequens est &c. 
+Ergo valet consequentia. 
+
+3. Si vero cum vis varietur ^, corpus nequeat in 
+recta linea ad centrum descendere motu uniformi, 
+valent consequentia et argumentum. 
+
+Sed cum &c. * * * * nequit &c. 
+
+Ergo valent consequentia et argumentum. 
+
+Respgnsum. 
+
+Differentia virium centripetarum et centrifugarum 
+in orbita in fixo spatio descripta, eadem est ac in orbita 
+quiescente. Sed in spirali reciproca vires centripeta 
+et centrifuga squales sunt. Ergo in recta linea quae in 
+fixo spatio describitur sequales sunt ; ideoque corpus 
+nulla vi impulsum velocitate prima ad centruni 
+uniformiter accedit. 
+
+The first opponent produces two other similar 
+arguments against the first question. 
+
+Contra sectmdam. 
+
+1. Si inter limites x=a, x=b f --^ haX hJ. ^^ ca- 
+dit quaestio. 
+
+
+
+a« — b* 
+
+
+
+132 APPENDIX. 
+
+Sed inter liiuites &c. 
+Ergo cadit queestio. 
+
+2. Si inter eosdem limites / a?*"" dx fiat 
+
+valet consequentia. 
+Sed inter &c. 
+Ergo valet consequentia. 
+
+/^x « a« — ft* 1 — I 
+— fiat — — ,seu— J— , seu 
+
+0, valent consequentia et argumentum. 
+Sed cum &c. 
+Ergo valent consequentia et argumentum. 
+
+Responsum. 
+
+
+
+a" = 1 -f-A. I. a. n-\ — J-~-* n'-|-&c. 
+ft«=l-f.A./.ft.«+*^-^ 'n»+&c. 
+.*. a* — ft"= < A. La — A. /. ft > . n-f &c. 
+
+^•.— p = ^ AX a — A. /.ft J H J — 5 »+&c. 
+
+. • . — = A. *. fl— A. /. ft. 
+
+o 
+
+=:A. /. I 
+
+Ergo valor fractionis cum n=.o non evanescit, 
+
+
+
+n 
+a. 
+
+
+
+sed fit A. L t ideoque nulla discrepantia existit. 
+
+The first opponent produces one other similar 
+argument against this question. 
+
+
+
+ON ACADEMICAL DISPUTATIO* . 133 
+
+Contra tertiam. 
+
+1. Si Dei voluntas sit virtutis regula, cadit quffistio. 
+Sed Dei voluntas est, &c. 
+
+Ergo cadit qusestio. 
+
+2. Si Dei voluntas ideo nos astringat quia prsemia 
+paenaeque vitse futurae ex Dei arbitrio pendent, valet 
+consequentia. 
+
+Sed Dei voluntas &c. 
+Ergo valet consequentia. 
+
+3. Si igitur, posito quod angelorum malorum prin- 
+ceps summo rerum imperio potitus esset, voluntas 
+ejus nos pari jure astringeret, valent consequentia et 
+argumentum. 
+
+Sed, posito quod &c. 
+
+Ergo valent consequentia et argumentum. 
+
+Responsum. 
+
+Ut alia taceam, Deus homines felices vult ; ange- 
+lorum malorum princeps, miseros ; huic utresistamus, 
+illi ut obediamus, ratio et natura suadent. Priusquam 
+angelorum malorum princeps hominum felicitatem 
+velle possit, naturam suam se exuat necesse est. 
+
+Against the third question one argument only 
+is produced. 
+
+
+
+FINIS. 
+
+
+
+r 
+
+
+
+? - 
+
+
+
+HENRY G. BOHN, 
+
+MOW OP 
+
+No. 4, YORK STREET, COVENT GARDEN, 
+
+HAS JUST PUBLISHED 
+
+A CATALOGUE 
+
+OF 
+
+A VERY CHOICE COLLECTION OF BOOKS, 
+
+ENGLISH AND FOREIGN, 
+
+Partly selected during an extensive tour on the Conti- 
+nent, partly from fine private libraries in this country: 
+the whole oflfered at very moderate prices. The 
+Catalogue comprehends above 4,000 articles of the 
+first quality, in every department of literature^ 
+especially the fine arts, divinity, classics, and rare 
+books, a great portion of them in rich old morocco 
+bindings by De Rome, Desseuil, and Padeloup. 
+Among the black letter and Aldine editions are many 
+that have never before been heard of, and the Spanish 
+collection is the best in this country. The price of the 
+catalogue is 3s., but gentlemen sending their names, 
+and the country trade applying free of postage, may 
+obtain it gratis. It is particularly requested that the 
+address be observed. 

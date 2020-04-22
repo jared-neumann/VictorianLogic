@@ -1,0 +1,6200 @@
+-A 
+
+
+
+OUTLINES 
+
+
+
+OF 
+
+
+
+THEORETICAL LOGIC. 
+
+
+
+Candifliset 
+^rmttD St ^t Hinbnfitg l^xta. 
+
+For MACMILLAN & Co. 
+
+iMtti; BRIX AND DALD¥. 
+Actnl: J. H. AND JAMES PARKBR. 
+
+BDHON3TX)N AND DOUGLAS. 
+
+WILLIAM ROBERTSON, 
+
+: JAHEa UACLEHOSB. 
+
+
+
+J^^/s 
+
+
+
+/ 
+
+
+
+OUTLINES- 
+
+\ 
+
+\ 
+
+
+
+OF 
+
+
+
+THEORETICAL LOG 
+
+
+
+
+» -X / 
+
+
+
+FOUNDED ON THE NEW ANALYTIC OF 
+SIR WILLIAM HAMILTON. 
+
+
+
+^tstpeb for a ^vA^ntk b j^^ools snb ((olbjts* 
+
+
+
+
+BY 
+
+
+
+C. MANSFIELD INGLEBY, M.A. 
+
+
+
+or TRIVITY OOLLBOS, CAMBRIDOB. 
+
+TEACHBA or UBTAPHYBIOS AND LOOIO IV THE IVDUSTRIAL DBPARTUCKT or THE 
+
+BIBMINOBAM AND MIDLAITD IKBTITDTE. 
+
+
+
+MACMILLAN AND Co. 
+1856. 
+
+
+
+• / 
+
+
+
+PKEFACE. 
+
+The following pages are designed to form the 
+basis of class-instruction in the science of Theo-* 
+retical Logic. As many modem works of this kind 
+are in circulation, a few words may be expected in 
+explanation of the motives whichhave induced me to 
+give this treatise to the public. The discoveries of 
+Sir William Hamilton, upon which these outlines 
+are mainly founded, do not date further back than 
+1840, in which year they were first promulgated. Of 
+the treatises which have been published since that 
+date two only profess to embody those discoveries, 
+and those two are not fitted to form the text-book 
+of a lecture-room. All other treatises are deficient 
+in several of the staple subjects of the science, and 
+the majority intrench upon the domains of Lan- 
+guage, Rhetoric, and Philosophy. A good text- 
+book is therefore a desideratum. Accordingly, 
+when I commenced my lectures at the Institute, I 
+was thrown entirely on my own resources for the 
+exposition of several important branches of the 
+science; and it was not long before a request was 
+preferred to me by several of my claas to print for 
+
+
+
+VI PREFACE. 
+
+their benefit certain of the notes with which I had 
+famished them, and which consumed much time 
+in dictation. 
+
+The peculiar characteristics of the following 
+treatise are (1) the doctrine of extension and inten- 
+sion, (2) the quantification of the predicate, (3) the 
+solution of opposed propositions, (4) the reduction 
+of the thirty-six moods in each figure to nine es- 
+sential moods, (5) the evolution of all additional 
+moods caused by the introduction of the sign of 
+partial quantity on the one hand, and by the ultra- 
+total quantification of the middle term on the 
+other, and (6) the doctrine of induction. The 
+treatise is likewise characterised by the exclusion 
+therefirom of the doctrine of modals, and of enthy- 
+memes and sorites. 
+
+In the treatment of syllogisms I have employed 
+no scheme of pictorial notation, for the simple rea- 
+son that I am thoroughly convinced of the general 
+uselessness of any such, and therefore strongly de- 
+precate its use. I am acquainted with the schemes 
+of Euler, Ploucquet, Lambert, Hamilton, and 
+Boole, of which I take Lambert's to be the best ; 
+but I am far firom thinking it desirable to trouble 
+the student with it. 
+
+Li the course of the following pages I have not 
+scrupled to avail myself of the demonstrations of 
+
+
+
+PREFACE. vii 
+
+others; and where I have found such expressed 
+with a truth, clearness, and precision, which I 
+should despair of approaching, I have transplanted 
+into my own work as much as I found necessary, 
+in all cases (except in the statement of the canons 
+of syllogisms, which are taken from Sir William 
+Hamilton's Disquisitions) acknowledging the obli- 
+gation by annexing the name of the author. But 
+inasmuch as in all such cases I have not unfre- 
+quently amended the grammatical construction, I 
+have been unable to indicate the extracts by the 
+usual addition of " ". 
+
+I have already stated the immediate design of 
+my work ; independently of that, I have sufficient 
+fidth in my own labours to entertain the hope that 
+they may not be without influence upon logic as a 
+branch of liberal education in the Universities. 
+This hope will be fully realised, as far as Cam- 
+bridge is concerned, if I am in the most indirect 
+manner instrumental in giving logic a place in 
+the curriculum of her studies, and thus removing 
+from her a stigma as disgracefril as it is peculiar. 
+
+My claims to originality are small: they are 
+confined to the treatment of logical opposition and 
+the principle of the congruity of syllogisms. In 
+stating the thirty-six moods of the syllogism I 
+have not borrowed from any other writer, but have 
+
+
+
+draim them up from my own investigation. How- 
+ever, I believe they will be found to agree with 
+those of Sir William Hamilton. 
+
+
+
+BlBHINORAH, 
+
+July litt, \ 
+
+
+
+COBREOTIONS. 
+
+JiS^/olfoiffwij; Errata ocearred tknmgh (Ae negUgeneteMaiUdonOte 
+Avtkar't illnea; he tra$ti they an the imly ihmdert which 
+di^fyvTt Ikit lUtU vxTt. 
+
+P. 56. 4thlinafToiiithebottom,/iir'Brgumenfreadagreomeat. 
+P. 63. 13th line from the top, Uie word ' All'abouldbeonclosed 
+
+F. 64. Sth line from the top, the braakets eudoeiLg the word 
+'Any' should ba traosferred to the ' All' of the pre- 
+ceding line. 
+P. 73. Jth line fromthe bottom, the word 'Certain' on theright 
+
+hand should be enclosed in [ ] 
+P' 73- Stb line from the ton, the word ' Certain ' to be pi«aeded 
+bya[ 
+
+¦ fth line from the bottom, the word 'Certam'tobeenoloaed 
+
+in[] 
+
+N.B. It would ba better in pages ;« and 73 to eub- 
+
+rtituto (Certain) for [Certain] whererer the latter 
+
+occurs, inaamuob ss the [ ] have been appropriated to 
+
+ingniah the redundancy of the aign of quantity 
+
+the 6th and'yth lines from the bottom, the word 
+tnit«' (which ia used by Baynes) ia equivocal, 
+¦bould ba rapUoed by the wokI 'dBterminate,' 
+
+
+
+INTRODUCTION. 
+
+
+
+OF THE DEFINITION AND SPHERE OF 
+THEORETICAL LOGIC. 
+
+Theoretical Logic is the Science of the 
+Laws of Thought. 
+
+Thought is conversant with 1 Conception, 
+2 Judgment, 3 Reasoning, 4 Science. 
+
+The mind, in performing the act of conception, 
+forms a Concept of every object of thought. 
+
+Conception is the process, the concept is the 
+product. 
+
+A Concept is the cognition or idea of the gene- 
+ral attribute or attributes in which a plurality of 
+objects coincide (Hamilton). 
+
+This process of conception obviously involves 
+the perception of a number of objects, their com- 
+parison, the recognition of their points of similarity, 
+and their subjective union by this common attri- 
+bute (Baynes). 
+
+Accordingly a concept may either refer to an 
+individual or to a species (that is, a class compre- 
+hending several individuals) or to a genus (that is, 
+I. L. 1 
+
+
+
+2 INTRODUCTION. 
+
+a class comprehending several species) or to higher 
+clasps. 
+
+Judgment is the action of referring one concept 
+to another. The result of such action put into 
+words is a sentence expressing the relation between 
+two concepts.. The concepts in such a sentence 
+are' called the Terms, and the sentence itself is 
+called the Proposition. 
+
+A proposition is an expression thaf two notions 
+or concepts can or cannot be reconciled (Thomson). 
+
+Keasoning is concerned with the relation that 
+subsists between two propositions. The two being 
+compared, the result is the generation of a third 
+proposition. 
+
+In certain cases (which will be explained in 
+the right place) an inference expressed in words 
+is called a simple Illation ; in other cases, a Syl- 
+logism. 
+
+A system of such illations and syllogisms, con- 
+catenated according to the laws of logical progres- 
+sion, is called an Organon. 
+
+An organon may be either for the discovery of 
+truth or for imparting it to others. 
+
+What logic is not. 
+
+Logic is not concerned with the philosophy of 
+language, or in any way with the means of ex- 
+pressing what is thought. 
+
+Language expresses all that is thought. Logic 
+is the instrument of which language is the material, 
+and philosophy the result. As the prerequisite of 
+philosophy is -logic, so the prerequisite of logic is 
+
+
+
+INTRODUCTION* 3 
+
+language. Logic abhors an ellipsis. When an el- 
+lipsis is presented to logic, logic demands whether 
+the ellipsis is an ellipsis of thought, or of language 
+merely ; whether there is, in point of fact, an un- 
+certainty in thought which language has faithfully 
+expressed ; or whether the thoijght is simple, sure, 
+clear, and language has introduced the ellipsis as 
+an idiom merely. If the thought is uncertain, 
+logic applies itself to deal with the ellipsis, which 
+is the faithful exponent of that thought; but it 
+may oblige language to .eliminate the ellipsis for 
+the sake of clearness and precision. If however 
+the ellipsis is one of language merely, the thought 
+being explicit, logic will not deal with the ellipsis 
+at all, but will demand, as the prerequisite of its 
+action, that the ellipsis should be eliminated, and 
+the implicit thought should be rendered explicit in 
+language. In all cases logic deals with what is 
+thought, and with that only. 
+
+Logic does not concern itself with any existing 
+real objects, nor with the content or matter con- 
+tained in any term or proposition. 
+
+As language deals with the representation of 
+thoughts with a view to the communication of 
+them fix)m one thinker to another, philosophy re- 
+gards only the matter, the content of those thoughts, 
+and the evolution of practical truth. Now logic 
+being the instrument that enables philosophy to 
+deal with language, it is an intrusion for logic to 
+pretend to deal with the matter or content of 
+thoughts. Philosophy requires logic to fiimish the 
+
+1—2 
+
+
+
+4 INTRODUCTION. 
+
+formal organon for the inyestigation of practical 
+truth, i. e. the determination of facts. In all cases 
+then, logic deals with the form of what is thought, 
+with concepts, and their relation in judgment and 
+inference. 
+
+A term may refer to an aaually existing 
+thing, or to a class under which seyeral objects are 
+subsumed. 
+
+But logic has nothing to do with the concrete 
+object, that is, the object considered in itself, but 
+solely with the concept of which the term is the 
+sign. 
+
+So also a proposition may ,be true or false, or 
+it may express a contingent truth or an apodictic 
+truth (an universal and necessary truth). 
+
+But logic has nothing to do with these things, 
+it is concerned only with the form of the pro- 
+position. 
+
+. Accordingly the only fallacies of reasoning that 
+logic can take cognizance of, are departures from 
+the formal laws of the syllogism ; all other fallacies 
+bjplong to physics or to metaphysics. . 
+
+So also logic has nothing to do with the ad- 
+visability of suppressing a premiss, or otherwise- 
+accommodating an argument to the habits of 
+thought of men in general. Such matters belong 
+exclusively to rhetoric. 
+
+From the above remarks, it is plain that neither 
+the doctrine of Modals, nor any exposition of 
+Enthymemes or Sorites, ought to find place in a 
+treatise on logic. 
+
+
+
+PART I. 
+
+
+
+OF TERMS. 
+
+
+
+Had man no power of classifying in intellect 
+the confiised multitude of objects presented to the 
+senses, he must remain for ever destitute of any- 
+thing worthy of the name of knowledge. With no 
+clear recognition, even of the individual, since 
+comparison and discrimination would be impossi* 
+ble, he must for ever abide amidst the obscurity 
+and vagueness in which knowledge commences — 
+helpless amidst a multiplicity of objects which 
+he could not comprehend — ^bewildered by a con- 
+fusion which there would be no possibility of re- 
+calling to order. The earliest effort of the mind is 
+accordingly directed to extricate itself from this 
+confasion, and this determines the exercise of the 
+comparative faculty, and the formation of concepts 
+(Batnes). 
+
+Amidst the multitude of confiised objects pre- 
+sented to the mind in perception (apprehension), 
+
+
+
+6 OP TERMS. 
+
+some are found to affect us similarly in certain 
+respects. These objects the mind considers; by 
+comparison it recognises their resembling qualities ; 
+by attention these qualities are exclusively con- 
+sidered, since the concentration of the mind on 
+them involves of necessity its abstraction from those 
+in which they are severally dissimilar. Since the 
+resembling attributes which these various objects 
+possess in common cannot, when separately con- 
+sidered, be discriminated, the objects themselves 
+are, in this restricted point of view, necessarily con- 
+sidered as one. In other words, the understanding 
+grasps into unity a multitude of objects (severally 
+distinct) by a common feature of identity. On this 
+unity thus formed it sets the seal of a name, that 
+it may be enabled ever afterwards at once to discri- 
+minate the various objects of its knowledge, and 
+commodiously to refer each to its. own class, and 
+thus be saved the endless labour of enumerating 
+all the particulars by which objects are individu- 
+ally discriminated. A notion is thus a purely 
+ideal or subjective whole which the mind, from the 
+limitation of its power, is necessitated to form in 
+order to classify in thought, and discriminate in 
+language, the various objects of its knowledge 
+(Batnes). 
+
+This being the case it is obvious that a concept 
+can afford only a partial knowledge, and has only 
+a relative existence. .It can only afford a partial 
+knowledge, since it embraces some only of the 
+
+
+
+OF TERMS* 7 
+
+manj marks by which an object is known. ' It has 
+only a relative existence, since this knoTi^edge is 
+not given absolutely, but only in connection with 
+some one of the objects to which the concept is 
+related. (For a notion though potentially appli- 
+cable to all the objects which it contains, can only 
+be truly known on occasion of its being actually 
+applied to some one of these objects. This is at 
+once the test and the evidence of its relative cha- 
+racter : and this being its character, it is obviously 
+altogether dependent on the objects from which it 
+is formed). A concept has thus in its totality 
+a purely subjective existence destitute of any ob- 
+jective reality. Being what it is, namely, an ideal 
+whole, subsisting only by relation to the objects 
+whose resembling parts it embraces, it is obvious 
+that, as it has no independent existence, it can 
+convey to us no independent knowledge; and that 
+if we destroy the objects, we destroy the resem- 
+bling attributes in each ; and destroying, the resem- 
+bling parts we annihilate the whole which they 
+together constituted (namely j the concept). As 
+however a concept has only a subjective being, 
+existence and knowledge are here- identity. If 
+no qualities be discriminated in objects as similar, 
+we have no knowledge of a concept, that is, no 
+concept exists. If we cannot assign an object to 
+any class, that is, cannot say that it does or does 
+not belong to any concept, we do not imderstand 
+or comprehend it. We think an object, that is, 
+
+
+
+g OF TEBMS. 
+
+recognise it to he what it is, only as we think it 
+under i^me concept. 
+
+Concepts being thus formed, the great prerequi- 
+site of logic is, that they shall be expressed in 
+language. In every part of logic grammar is 
+called upon to express everything that is con* 
+tained in thought, whether impliedly or not. The 
+triumph of language is the expression of a perfect 
+analysis of thought. Concepts considered through 
+the medium of a name are called Terms. Let us 
+suppose that the mind is taking cognisance of a 
+number of objects, and has discerned in each some 
+common point of resemblance. Let us suppose that 
+this point of resemblance has been considered apart 
+from the object, and that the concept of the com- 
+mon attribute has received the seal of a substan- 
+tive name. This name henceforth stands for all 
+" the objects severally and collectively from the 
+analysis of which it sprung, and each object will 
+be referred to under that name, with the prefix of 
+the definite or indefinite article. 
+
+The more searching the analysis has been, and 
+in consequence, the greater is the number of com- 
+mon points of resemblance comprised in the term, 
+the fewer number of objects in the universe will that 
+term stand for ; and conversely, the more superficial 
+has been the scrutiny of the objects, and the fewer 
+the common features of identity, the greater will 
+be the number of objects that will stand under 
+that. term. For example, in reviewing the vege- 
+
+
+
+OF TERMS. 9 
+
+table world a veiy superficial glance enables us to 
+discern the circumstance that an immense number 
+of different objects have the common attribute of 
+green. If, however, we descend to the more minute 
+particulars than the colour of foliage, if, for in- 
+stance, we seize upon such common points of re- 
+semblance as roots, trunk, boughs, branches, leayes, 
+and such like, and bring these under a common 
+term, we shall find that the number of objects 
+comprised in it is immeasureablj reduced, consist- 
+ing in fact only of trees and shrubs. In like man- 
+ner we shall find universally, that the wider the 
+term, the greater the number of objects, and the 
+fewer the number of marks of identity ; whereas 
+the narrower the term the fewer the number of 
+objects, and the greater the number of marks of 
+identity. This canon has been called by Sir 
+William Hamilton the cardinal point of logic. 
+
+It is evident, then, that we may regard the 
+term, whether summum genus, subaltern genus, 
+species, or infima species, as expressing two things : 
+1st, The mark or marks of identity in the indivi- 
+duals; 2ndly, .The objects or object subsumed 
+under the term. 
+
+For example, "body" expresses primary qua- 
+lities, namely, geometrical solidity, physical solid- 
+ity, (impenetrability), autantitypy, (absolute in- 
+compressibility), mobility and situation, and also 
+secundo-primary and secondary qualities. It like- 
+wise stands for all our concepts of objects in seve- 
+ralty which possess these attributes in common. 
+
+
+
+10 
+
+
+
+OF TERMS. 
+
+
+
+The following table exhibits the facts already 
+enunciated : 
+
+Name. Mark. Object. 
+
+
+
+Genera 
+
+
+
+a 
+
+
+A. 
+
+
+a, 
+
+
+by Cf d. 
+
+
+- ^ 
+
+
+A. B. 
+
+
+hf c, d. 
+
+
+y 
+
+
+A. B. C. 
+
+
+c, d. 
+
+
+h 
+
+
+A. B. C. D. 
+
+
+
+
+d. 
+
+
+
+Species 
+
+Individuals. €, c', e", &c. 
+
+In this table a is the term expressing the 
+summum genus ; ^ and 7 are the terms expressing 
+subalterna genera; S is the term expressing the 
+infima species ; e, e', e", &c. are the terms express- 
+ing concepts of the individual real objects which 
+constitute these genera and species: a expresses 
+the. mark of identity A, and stands for the logical 
+objects a, 6, c, d^ of which a is the lowest in the 
+scale of generalisation, and d the highest : /8 and 
+7 speak for themselves : S expresses the marks of 
+identity A, B, C, D, and stands for the highest 
+logical object d\ the individuals e, e', ^\ &c. 
+have all the marks of S, and constitute the com- 
+plete species d^ which is indicated by the term S. 
+
+In this table also it will be observed that there 
+is an inverse ratio between the number of marks 
+of identity and the number of logical objects. 
+The greater the number of marks expressed by 
+any term, the less is the number of objects sub- 
+sumed under it, and vice versa. 
+
+The following examples may serve to illustrate 
+tjae table. 
+
+
+
+
+
+J» 
+
+
+' 
+
+
+•'$ 
+
+
+f 
+
+
+
+
+f 
+
+
+¦ 
+
+
+n 
+
+
+
+
+
+
+" 
+
+
+
+
+"¦ 
+
+
+
+
+
+Ijll |33l|3l3|| 
+
+«h, !l ?l 1^ I 
+
+
+
+OF TEBMS. 13 
+
+Now, to take the case of a single genus and 
+a single species, to begin with, for the sake of sim- 
+plicity: let X be a genns consisting of diyers 
+species of which Y is one. It is evident that 
+either of these may be considered the greater logi- 
+cal whole of the two, that is, we may consider the 
+genus X as comprehending all the indiyidual 
+objects of the species Y, or we may consider these 
+indiyidual objects, and therefore the species Y, as 
+including all the marks of identity of the genus 
+X ; in other words, we may at pleasure treat the 
+genus as comprehending the species, or the species 
+as including the genus ; in the former case we are- 
+said to proceed in the logical whole of comprehen-' 
+sion (or intension or depth), in the latter we are 
+said to proceed in the metaphysical whole of ex- 
+tension (or breadth); to explain which fully we 
+must proceed to that branch of logic which treats 
+of propositions. 
+
+
+
+PAET II. 
+OF PROPOSITIONS, 
+
+For all purposes of logic a proposition nday 
+be considered as simple, and as such may be de- 
+fined to be the expression of our judgment that 
+two notions or concepts, do or do not agree. 
+
+It accordingly consists of two terms, and a 
+sign of relation is or are, which is called the 
+Copula. The one notion being afltaned (or denied) 
+of the other, the leading term of which the other is- 
+afltaned (or denied) is called the Subject ; and the 
+other term so affirmed (or denied) of the subject, is 
+called the Predicate. 
+
+Of the subject it is easy to see that if it stand 
+or a class (and not for an individual) we may 
+affirm the predicate of some indefinite part of it, 
+while on the other hand, whether it stand for a 
+class or an individual we may affirm the predicate 
+of all the subject. 
+
+The subject then has always a quantity definite 
+or indefinite, and for all purposes of logic this 
+quantity must be distinctly expressed in words, 
+and in such case the subject is said to be quantified. 
+
+Thus when we say : 
+
+All men are mortal, or, 
+Some men are cowards ; 
+
+
+
+OF PROPOSITIONS, 15 
+
+the words ' AH' and ' Some' are signs which ex- 
+press the quantification of the subject * men.' 
+
+Owing to the ambiguities of language it is 
+desirable to have recourse to the expedient of 
+attaching the signs of quantity by means of a 
+hyphen to the terms to which they belong ; thus, 
+' All-men.' 
+
+In the previous chapter we have exhibited and 
+explained the various relations of concepts in a 
+system of classification. From what has been 
+there said, it may be readily perceived that when 
+we bring an object under a concept, that is, when 
+we predicate of it that it belongs to such a class, 
+we must know that it occupies a certain place in 
+that class. For if we were uncertain what place 
+the individual object occupied in the class, or 
+whether it occupied any place at all, we should 
+not know the class, and could not therefore bring 
+any object under it. 
+
+For example, if I do not know whether * rose' 
+comes under the concept * flower,' or whether it is 
+equal to some part or the whole of that concept, or 
+whether it is superior to it, I do not know the 
+class * flower,' and cannot of course predicate 
+* flower' of *rose:' in other words I cannot bring 
+'rose' under the concept 'flower,' since I do not 
+know what the concept means, what it contains, 
+or what it does not. This is clear; for as we 
+have already explained, since a concept as a facti- 
+tious unity in thought (a logical whole) is abso- 
+lutely worthless, and indeed not cognizable, out of 
+
+
+
+16 OP PROPOSITIONS. 
+
+relation to the individual objects, the aggregate of 
+whose resembling qualities it constitutes, and since 
+an object is truly known only as it is thought, 
+through or under a concept, it follows that com- 
+prehension in such a case would be impossible. 
+K therefore we understand the object at all, we 
+must (by an act of judgment) fix in thought the 
+sphere which it occupies under the class to which 
+in predication we have assigned it. In other 
+words, if we comprehend what we utter, every 
+notion holding the place of predicate in a proposi- 
+tion must have a detenninate quantity in thpught, 
+and therefore the predicate ought to be quantified 
+in language (Baynes). Notwithstanding this un- 
+questionable conclusion, the impropriety of such 
+quantification has been tacitly assumed or expressly 
+aflSrmed by the majority, if not the whole, of the 
+logical writers of antiquity whose works are ^xtantl 
+The few who have touched upon the subject seem 
+for the most part to have conceived the possibility 
+of its express quantification only universally, as 
+
+Omnis homo est omne animal. 
+Yet in point of fact there is nothing in Logic more 
+certain than the propriety of quantifying the predi- 
+cate ; for its quantification must always take place 
+in judgment ; and logic, as we have already said, 
+demands as its prerequisite that everything that is 
+contained in thought shall be expressed in lan- 
+guage. In affirming the predicate of a subject we 
+simply express the relation of quantity in which 
+a class stands to an individual, or two classes to * 
+
+
+
+OF PROPOSITIONS. 17 
+
+one another. If this relation were indetenniriate, 
+that is, if we were uncertain whether it was a part, 
+or whole, or none, there could be no predication. 
+The very fact of predication is therefore always 
+evidence that the concept constituting the predi- 
+cate holds a relation of determinate quantity to the 
+subject ; in other words, we think only as we think 
+under some determinate quantity, all thought 
+being nothing more nor less than a comparison of 
+part and whole. Or, let us put the argument in 
+another form: all predication is but the utter- 
+ance of thought: the predicate has a determinate 
+quantity in thought: all predication must there- 
+fore have a determinate quantity (Baynes). It is 
+true that common language generally makes an 
+ellipsis of the quantification of the predicate in the 
+proposition ; but it does the like in respect of many 
+other things which are unambiguous in thought, 
+more especially in inference and argumentation, and 
+yet in all such cases the postulate applies, that for 
+all purposes of logic everything that is contained, 
+however implicitly, in thought, sh^U have a deter- 
+minate expression in language. We conclude, then, 
+that in all propositions both the subject and the 
+predicate ought to be quantified. 
+
+Quantity belongs to terms, not, as some logi- 
+cians say, to propositions; but it is by an act of 
+judgment that the quantity of any term is deter- 
+mined in respect of any other term. The. prin- 
+cipal signs of the quantity of a term are *Air 
+and *Some.' When the proposition is negative, 
+i.L. 2 
+
+
+
+18 OF PROPOSITIONS. 
+
+that is, contradictorily denies a predicate of a 
+subject, the English language necessitates the 
+adoption of the sign 'Any' (or 'No'). AflSrma- 
+tion being as we have said indicated by the copula 
+4s' or 'are,* negation is indicated by 'Is not' 
+or 'Are not' (or 'No — is'). That attribute of a 
+proposition, which consists in its being an affirma* 
+tion or negation, is called its Quality. Hence 
+while we speak of the qu9,ntity of the terms, we 
+say the quality of the proposition which expresses 
+the relation between those terms. 
+
+The following table will shew the different 
+species in the several genera, quantity and quality. 
+
+{Universal ] •« "j 
+Particular J ^ > of a term. 
+Individual} I J 
+fAflSrmative 
+
+
+
+c8 
+
+
+
+Quality i Negative J ^ I of a proposition, 
+[infinite } 2 1 
+
+It will be observed that in each of these genera 
+a third species appears. This is but. the form of 
+the co-existence of the other two. Thus the indi- 
+vidual is in respect of its species a particular, but 
+it constitutes in itself a universal. Again, a pro- 
+position, in denying an indefinitely quantified pre- 
+dicate of a subject, affirms thereof a predicate of 
+indefinite quantity. Thus, if I say, ' the soul is 
+not mortal,' I posit the soul in the complement of 
+* immortal,' that is, I affirm that 'the soul is 
+some immortal ;' . and this is called ' an infinite 
+
+
+
+OP PROPOSITIONS. 19 
+
+judgment/ because the remainder of the logical 
+universe ('immortals') is unlimited, save hj the 
+abstraction of ' all mortals/ and therefore is for all 
+logical purposes considered as infinite. However, 
+the indimdtuzl quantity of a term, and the infinite 
+quality of a proposition belong rather to the matter 
+or content of such term and proposition respect- 
+ively, and, as such are not subjects of which logic 
+can in strictness take cognisance. Though the 
+term quality is properly restricted to the affirm-^ 
+ative or negative character of propositions, yet 
+we may, without departing from this just restric-* 
+tion, treat in this place of the efiect of qualifying 
+the quantity of a term, t. e. of regarding it as in- 
+cluded or excluded : and first of dichotomy. 
+
+Dichotomy is the separation of the logical 
+universe into two parts. We take, for instance, 
+X out of the imiverse ; what is left is Not-X. 
+These two complementary terms are called contra-* 
+dictory terms ; their peculiar property is that they 
+exclude one another; and that the two together 
+make up or exhaust the universe of thought. They 
+exclude each other, since by including X, we 
+virtually exclude Not-X ; and by including Not-X, 
+we virtually exclude X. They exhaust the imi- 
+verse, because whatever is not X, must be Not-X, 
+and whatever is not Not-X must be X. 
+
+Now, if after making a dichotomy of the uni- 
+verse, X, Not-X, we seize on a common attribute 
+of a part, and a part only, of the subclass X, and 
+thus dichotomise it into the contradictory parts Y 
+
+2—2 
+
+
+
+20 
+
+
+
+OF PROPOSITIONS. 
+
+
+
+and Not-Y, these last tenns are said to be con- 
+trary; their peculiar property is that they agree 
+in certain marks of the subclass ^, but contradic- 
+torily differ in certain marks of the higher class Y; 
+and that not only are they mutually exclusive in 
+the class Y, but they are both excluded from the 
+negative side of the first dichotomy, Not^X. 
+
+Let us illustrate this by reference to the table 
+at page 10, and take the summum genus a. The 
+universe consists of a, b, c, and d, and Notna, Not- J, 
+Not-c, and Not-€? : now from the a extract such 
+individuals as have the marks A, B, C, and D, then 
+all the individuals in ^ are either b, c, and rf, or 
+Not-&, Not-c, and Not-rf ; but these terms do not ex- 
+haust the universe : they are contrary only, t,e. are 
+contradictory in the sub-class /8, and in that only. 
+
+Besides the symbols of quantity, All and Some, 
+I shall employ the symbol Certain, by which I 
+mean Some at least, Not*all ; their contradictories 
+are Not-all, Not-any, Not-certain. Thus : 
+
+
+
+Affirmatives. . 
+
+1. AU-X. 
+
+Definite universal in- 
+clusion of X. 
+
+
+
+2. Some-X. 
+Indefinite inclusion of X. 
+(Universal or partial.) 
+
+
+
+3. Certain-X. 
+Partial inclusion of X. 
+(Indefinite or definite.) 
+
+
+
+Negatives, 
+
+1. Not-all-X. 
+Indefinite exclusion of X. 
+
+(Universal or partial.) 
+
+2. Not-any-X. 
+Definite universal ex- 
+clusion of X. 
+
+
+
+3. Not-certain-X. 
+Partial exclusion of X. 
+(Indefinite or definite.) 
+
+
+
+OF PROPOSITIONS. 21 
+
+We proceed now to ennmeiate in a tabular form 
+all possible a£Srmatiye and negative propositions, 
+employing X and Y as representatives of the 
+terms. 
+
+Affirmative (assertorial). 
+
+1. AU-X is AU-Y. 
+
+2. AU-X is Some-Y. 
+
+3. Some-X is AU-Y. 
+
+4. Some-X is Some-Y. 
+
+Negative (contradictory). 
+
+1. AU-X is not AU-Y. 
+
+2. AU-X is not Some-Y. 
+
+3. Some-X is not AU-Y. 
+
+4. Some-X is not Some-Y. 
+
+It may be objected that the negative propo- 
+sitions are ambiguously expressed. We reply, 
+without the hyphen between the sign of quantity 
+and the term, the objection would be valid; but 
+with the hyphen we are convinced that no more 
+precise modes of expressing these contradictories 
+are to be foimd in the language. However, if it 
+be considered desirable, the negative propositions 
+may be expressed as follows. 
+
+Negative, 
+
+1. Some-X is not Some-Y. 
+
+2. Some-X is not Any-Y. 
+
+3. Any-X is not Some-Y. 
+
+4. Any-X is not Any-Y. 
+
+The word *Some' in all these propositions 
+means ' Not*none, perhaps AU ;^ . bearing this in 
+
+
+
+22 
+
+
+
+DP PROPOSITIONS. 
+
+
+
+mind it is easy to discern that some of these pro- 
+positions are comprised in others, according as an 
+indefinite subject or predicate is comprised in a 
+definite subject or predicate : the following table 
+exhibits all these relations. 
+
+
+
+All-X is All-Y } inoludes . 
+
+'include. . 
+
+
+
+AU-X is Some- Y) 
+
+>ii 
+
+
+
+Some-X is AU-Y ) 
+
+( Some-X is not Any-Y 
+^ Any-X is not Some-Y 
+
+j^ I Any-X is not Any-Y}. 
+
+
+
+All-X is Some-Y 1 
+Some-X is All-Y 
+
+
+
+
+
+
+. {Some-X isSome- Y 
+
+
+
+g 
+
+
+
+. include { Some-X is not Some-Y 
+
+{Some-X is not Any-Y 
+Any-X is not Some-Y 
+
+
+
+
+
+
+The above eight propositions are written by 
+Sir William Hamilton as follows: 
+
+Affirmatives, 
+
+A.F.A. = All- is AU- 
+A.F.I. = All- is Some- (A), 
+I.F.A. = Some- is AU- 
+I.F.I. = Some— is Some— (I). 
+
+¦Negatives. 
+
+A.N. A. = Any- is not Any- (E), 
+A.N.I. = Any— is not Some— 
+I.N. A. = Some— is not Any— (0), 
+I»N.I. = Some— is not Some—. 
+
+In this table A signifies. definite, and I indefi- 
+nite. F signifies an aflirmative quality, and N a 
+negative quality. For the explanation of (A), (I), 
+
+
+
+OF PROPOSITIONS. 23 
+
+(E), (O), the reader is referred to Whately's Logic^ 
+Book 11. ch. 2, § 1. 
+
+Of the adequacy of the four negative prapoi^-- 
+tions to express the contradictories of the four 
+affirmative propositions we may entertain a rea- 
+sonable doubt. For example. Let * AU-X is 
+All-Y* be the affirmative proposition, now what 
+is the proposition which denies this? or in other 
+words, what is its contradictory? The answer is 
+* AU-X is not AU-Y.' This is hardly English, 
+but in the absence of a native idiom it must suffice. 
+It means that the whole class X is not co-incident 
+with the whole class Y, and, as all concepts refer 
+to individual objects, it denies that the same indi- 
+viduals constitute both classes. This may happen 
+in these cases only, (1) when there is one indivi- 
+dual at least in the class X which is not foimd 
+in the class Y, or (2) when one individual at least 
+in the class Y is not found in the class X, or 
+(3) when both (1) and (2) are concurrent. Or, to take 
+a concrete example : let our fundamental proposi- 
+tion be, * All-cloven-footed animals are Some-rumi- 
+nants.' The contradictory of this is established by 
+the production of a sow which is cloven-footed but 
+not ruminant, or by the production of a hare, which 
+is ruminant but not cloven-footed, or by the produc- 
+tion of both. The contradictory therefore may be 
+always expressed under one of the two following 
+forms : ' Some-cloven footed animals are not Any- 
+ruminants,* and * Some-ruminants are not Any- 
+eloven-footed/ So far all is clear ; but the difficulty 
+
+
+
+24 OF PROPOSITIONS. 
+
+is in the attempt to express these two propositions 
+in one. The nearest approximp-tion to the exact 
+contradictory expressed in a native idiom is, * Some- 
+cloven-footed animals axe not Some-ruminants;' 
+in using which we must always bear in mind 
+that one of the signs of quantity may mean 
+' Any.' 
+
+Accordingly for all purposes of Logic the pro- 
+position * Some-X is not Some-Y,' may be em- 
+ployed as the contradictory of the proposition, 
+* AU-X is AU-Y.' By a similar train of reasoning 
+it will readily appear that ' Some-X is not Any-Y' 
+is the contradictory of 'AU-X is Some-Y;' also 
+that * Any-X is not Some-Y,' is the contradictory 
+of * Some-X is All-Y ;' and lastly that * Any-X is 
+not Any-Y ' is the contradictory of ' Some-X is 
+Some-Y.' To verify these assertions, the reader is 
+strongly recommended to examine closely the rels^ 
+tions set forth in the table at page 22 ; and besides 
+the exercise of substituting for the symbolic propo- 
+sitions therein their equivalents derived from nature, 
+(an exercise highly to be commended), the student 
+should experimentalise on the abstract formal pro- 
+positions, being careful to give ' Some' its possible 
+maximum value of 'AH' in affirmative propositions, 
+and of ' Any' in negative propositions. 
+
+The advantages accruing from the quantifica- 
+tion of the predicate are innumerable. Not the 
+least important of these is the result that all con- 
+version of propositions is simple. By the term 
+'conversion' logicians ordinarily understand a 
+
+
+
+OF PROPOSITIONS. 25 
+
+transposition of the terms, and snch change of 
+qnantitj, or even of quality, as is necessary to ren- 
+der the converted proposition the exact equivalent 
+of the original one, t. e, so that the former contains 
+neither more nor less than the latter. But with a 
+quantified predicate no such change of quantity 
+or quality is necessary to preserve unchanged the 
+sense of the propositions. In any proposition, where 
+both terms are quantified, conversion is effected by 
+simply transposing the terms with their quantitated 
+adjuncts. Thus : 
+
+AU-X is All-Y = AU-T is All-X. 
+AU-X is Some.Y= Some-T is AU-X. 
+Some-X is AU-Y = AU-Y is Some-X. 
+Some-X is Some-Y = Some-Y is Some-X. 
+
+The student may readily satisfy himself of the 
+fact that these observations are applicable to the 
+four negative propositions. 
+
+In fact the effect of quantifying the predicate 
+is the annihilation of all essential distinction be- 
+tween subject and predicate, so that either term in 
+a proposition may be made (by conversion, if 
+iiecessary) that of which the other is predicated. 
+Let us investigate this result more closely. Take 
+the proposition * X is Y,' in which no quantities 
+appear. What does this mean ? In extension it 
+signifies * X is contained under Y ;' in intension it 
+signifies ' X comprehends in it Y.* In the former 
+case we mean that Y is the larger logical whole, 
+and that X is subsumed imder it. In the latter 
+
+
+
+26 OP PROPOSITIONS. 
+
+case we mean that X is the greater metaphysical 
+whole, and that Y is subordinated to it. In the 
+proposition, then, *X is Y,* in whichever whole 
+we proceed, X is the subject and Y the predi- 
+cate. Now let us quantify both terms and it will 
+appear that there is no longer any necessity for 
+interpreting the copula differently, according to the 
+whole in which we proceed, but that the copula 
+becomes a mere sign of identity. Thus we say, 
+' AU-X is Some-Y,' or ' Some-Y is All-X,' and 
+similarly, ' Spme-X is AU-Y,' or * AU-Y is Some- 
+X,' and the essential distinction between subject 
+and predicate is no more. Similar remarks apply of 
+course with as much force to negative propositions. 
+The following are examples of the above eight 
+propositions, i. necessary, ii. contingent. 
+
+I. Necessary Prepositions. 
+(These aire all derived from pure science.) 
+
+Affirmatives, 
+
+1 . All-parallel lines are All-non-intersecting lines. 
+
+2. All-radii of a circle are Some-equal straight 
+
+lines. 
+
+3. Some-parallels are All-circles having a com- 
+
+mon centre. 
+
+4. Some-square numbers are Some-even numbers. 
+
+Negatives. 
+
+1. All-odd numbers are not All-cubes. 
+
+2. All-quadrilaterals are not Some-squares. 
+
+
+
+OP PROPOSITIONS. 27 
+
+.3. Some-odd numbers are not All-multiples of 
+an odd number. 
+
+4. Some-radii of a plain spiral are not Some- 
+equal radii. 
+
+II. Contingent Propositions, 
+(These are all derived from experience.) 
+
+Affirmatives.^ 
+
+1. All-vertebrate animals are Alt-fishes-reptiles- 
+
+birds-mammals and men. 
+
+2. All-fishes are Some-cold blooded. 
+
+3. Some-flying vertebrates are All-birds. 
+
+4. Some-fishes are Some-vertebrates that intromit 
+
+in fecundation. 
+
+N^atives. 
+
+1. All-animals that intromit in fecundation are 
+
+not All-cold-blooded vertebrates. 
+
+2. All-fishes have not Some-eyelids. 
+
+3. Some Silurian and Devonian animals are not 
+
+All-vertebrates. 
+
+4. Some-reptiles are not Some-animals having 
+
+dorsal parapophyses. 
+
+Affirmatives. 
+
+1. All-birds are All-vertebrates having the limgs 
+
+fixed in the interstices of the ribs. 
+
+2. All-reptiles are Some-vertebrates having two 
+
+auricles and one ventricle to the heart. 
+
+
+
+28 OF PROPOSITIONS. 
+
+3. Some-vertebrates having the nasal canal com- 
+
+municating with the mouth are All-reptiles. 
+
+4. Some-cold blooded are Some-vertebrates that 
+
+lack the outward sign of the organ of 
+hearing. 
+
+Negatives. 
+
+1. All-mammals are not AU-flyiiig vertebrates. 
+
+2. All-vertebrates having cochlea to the laby- 
+
+rinth are not Some-fishes. 
+
+3. Some-Silurian and Devonian are not All- 
+
+fishes. 
+
+4. Some-reptiles are not Some-vertebrates hav- 
+
+ing the scapular arch articulated to the oc- 
+ciput. 
+
+
+
+OF PKOPOSITIONS. 
+
+
+
+29 
+
+
+
+5 ^.^^ 
+
+
+
+Affirmation. 
+
+
+
+ft- 
+
+
+
+9 9 
+
+
+
+ii 
+
+
+
+i 
+
+o o 2. P 
+
+
+
+El 
+& 
+
+I. 
+
+OD 
+
+J 
+
+5 
+
+
+
+ft- 
+
+
+
+g-s: 
+
+
+
+S3 
+
+
+
+80 Hy- 
+
+
+
+g. CD 
+
+CD 
+
+
+
+OD 
+
+CD 
+
+I; 
+
+B 
+
+
+
+3. 
+
+
+
+
+
+
+e 
+
+
+
+\^ 
+
+
+
+3 •" 
+
+
+
+
+
+Line of Depth. (Intension) 
+
+
+
+
+
+
+
+
+
+
+
+
+•? 
+
+
+
+
+
+
+
+
+
+
+
+
+M 
+
+
+OQ 
+
+
+OS 
+
+
+tj\ 
+
+
+e» 
+
+
+CU 
+
+
+»» 
+
+
+M 
+
+
+
+
+
+
+
+
+1 
+
+• 
+
+
+• 
+
+
+
+
+
+
+Odd 
+
+
+^1 
+
+
+8 1 
+.6| 
+
+
+a 
+
+
+00 
+OS 
+
+
+- 
+
+
+.» 
+
+.» 
+A 
+
+
+
+
+3 
+
+
+^ 
+
+
+3 
+
+
+3 
+
+
+1 
+
+
+3 
+
+
+
+
+tH 
+
+
+
+
+5 
+
+
+1^, 
+
+
+
+
+
+
+^ 
+
+
+
+
+>¦ 
+
+
+«3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+! 
+
+
+;» 
+
+
+\ 
+
+\ 
+\ 
+
+
+3 
+
+
+;> 
+
+^ 
+
+
+
+
+5 
+
+
+
+
+> 
+
+
+• 
+
+
+CD 
+
+
+^.^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+« 
+
+
+5 
+SI 
+
+
+\ 
+\ 
+\ 
+
+
+
+
+> 
+
+
+
+
+^, 
+
+
+^ 
+
+
+P* 
+
+
+
+
+i 
+
+
+k 
+
+
+
+
+\ 
+
+
+
+
+5 
+
+
+t^ 
+
+
+> 
+
+
+> 
+
+
+>• 
+
+
+^® \ 
+
+
+
+
+
+
+
+
+
+
+5 
+
+
+
+
+
+
+t^ 
+
+
+>: 
+
+
+>¦ 
+
+
+1 
+
+• 
+
+
+
+
+^ 
+
+
+
+
+\ 
+
+
+5 
+
+
+
+
+> 
+
+
+9r 
+9 
+
+
+\^ 
+
+
+
+
+
+
+
+
+
+
+^ \ 
+
+
+
+
+
+
+
+
+9 
+.3 
+
+
+\ 
+\ 
+
+
+k 
+
+"» 
+
+
+>¦ 
+
+
+
+
+9 
+
+
+\ 
+
+
+
+
+
+
+5 
+
+• ^ 
+
+
+\ 
+\ 
+
+
+> 
+
+
+
+
+i 
+
+
+.5 
+
+
+Negation. \ 
+
+
+
+
+
+
+
+
+
+
+
+
+A 
+
+
+^ 
+
+
+
+
+
+
+P 
+
+
+
+
+\ 
+
+
+
+
+
+Beal. 
+
+
+
+Ideal 
+
+
+
+30 OF PROPOSITIONS. 
+
+I 
+
+In the process of generalisation, we begin with 
+the real individual objects. Logically regarded, 
+they are severally indivisible: we cannot affirm of a, 
+that ' Some-a is not Some-a,' or of a', that ' Some-a' 
+is not Some-a" &c. We select from among those 
+individuals a^", a^% a^'\ &c., being all that have the 
+mark of (infima) species A!'" : we accordingly sub- 
+limate that group into the place of species. We now 
+select from among the marks of the A''", that mark 
+which is next shallower (and therefore wider) than 
+Ar'\ viz. A''', and, we accordingly sublimate the 
+same group again, viz. to 6th subaltern genus : but 
+there are other individuals, a^\ (/\ a\ &c. which, 
+though not possessing so deep a mark A^", have 
+the shallower mark ^' ; and all such individuals 
+we group under that name, and sublimate at once 
+to 6th subaltern genus (vide 2nd column). We now 
+select from among the various attributes of the 
+two groups A''", and ^\ the next shallower (and 
+therefore wider) attribute than A''', viz. A'', and 
+these two groups we accordingly sublimate to 5th 
+subaltern genus : but there are other individuals, 
+a^, a*", a'', &c. which, though lacking the deeper 
+marks AT' and A''", possess the shallower mark A''. 
+These we group, and sublimate at once to the 5th 
+subaltern genus (vide 3rd column) ; and so on, imtil 
+all our groups are found in the summum genus; and, 
+as a finishing stroke, all the individuals a, a, a, &c. 
+which lack the marks hr\ Ar\ AT, A"^, A'", A", 
+and A', but possess the attribute A, (the shallow- 
+est and broadest of all) are per saUum sublimated 
+from the region of reality to the summum genus. 
+
+
+
+OF PKOPOSITIONS. 31 
+
+In employing this table it must be bome in 
+mind that all propositions can be read in either 
+whole, without changing the sign of quantity. 
+Thus All-A" is Some-A', may be read either, all A" 
+contains in it (as attribute) some A', (depth) ; or, 
+all A" contains imder it (as constituent) some A', 
+(breadth). 
+
+Terms have the same extension, or are co- 
+extensive, when they stand for the same objects. 
+Thus man^ rational, are co-extensive, because, 
+(speaking of course with sole reference to beings 
+of this world,) every man is rational, and every 
+rational is a man, that is, the same objects are 
+denoted'hj both terms. 
+
+Terms have the same intension, or are co-inten- 
+sive when they stand for the same marks. Thus,* 
+rood, acre, are co-intensive, because every mark 
+(except that of the extension) possessed by a roodia 
+likewise possessed by an acre, and vice versa; 
+that is, the same marks are connoted by both 
+terms. * All-man is All-rational,' is the co-ex- 
+tensive relation between terms that are not co- 
+intensive. 'All-rood is Some-acre' is the non- 
+co-extensive relation between terms that are co- 
+intensive. Terms have equal extension, or are 
+equi-extensive when the objects denoted by each 
+are equally extensive. 
+Thus: 
+
+Justices of the court of Queen's Bench, 1750, 
+and 
+
+Justices of the court of Queen's Bench, 1850, 
+
+
+
+32 OP PROPOSITIONS. 
+
+are terms which are co-extensive ; though, in point 
+of fact, some only of the former are some only of 
+the latter. Terms have equivalent intension, or 
+are equi-intensive when the marks connoted by 
+each are of equivalent degrees of generalisation. . 
+Thus, triangular, trilateral, are terms which agree 
+in connoting triplicity, but the one connotes angu- 
+larity, and the other laterality, and angles and 
+sides are of equivalent degrees of generalisation, 
+viz. geometrical-of-two-dimensions. . 
+
+In the first of the last two examples the terms 
+are co-intensive, as well as equi-extensive ; and 
+in the second, the terms are co-extensive, as well 
+as equi-extensive. We might have chosen differ- 
+ently. Thus, for the first, we might have chosen 
+
+, the relation between Jiours on the dial, and a jury, 
+(no hours on the dial are any of a jury). And 
+for the second, we might have chosen equilateral 
+and equiangular which are not co-extensive, since 
+for instance, an equilateral parallelogram (not a 
+square) is not equiangular. 
+
+Now what is the bearing of these remarks on 
+the last table? Carry the eye down the first 
+
+file (or column). The groups A, A', A", &C....A''", 
+are composed of exactly the same individuals 
+a^'\ a^", a^", &c. They are merely sublimated, firom 
+the species gradatim to the summum genus, ac- 
+cording to the attributes they possess. Accord- 
+ingly we say, that no two of the groups, A, A', 
+A", &c. . . AT", are co-intensive, but they are all 
+co-extensive. Again, carry the eye along the first 
+
+
+
+OP PBOPOSITIONS. 33, 
+
+rank (or row). The groups, A, A, A, &c. have 
+precisely the same mark or marks, A ; but they 
+do not contain the same set of individuals among- 
+the a^a^... a', a, ... a", a", ... &c. Accordingly 
+we say, that all the groups A, A, A, &c. are co- 
+intensive, but no two of them are co-extensive. , 
+
+Similar remarks apply of course to all the files 
+and all the ranks. 
+
+For all the table says to the contrary, however, 
+any two or more of the groups in one file may he 
+equi-intensive ; and any two or more of the groups 
+in one rank raay he equi-extensive. 
+
+Now if we introduce the new quantity certain^ 
+indicating partial (definite or indefinite) inclusion, 
+or partial (definite or indefinite) exclusion, of the 
+term to which it is prefixed, we shall have to add 
+ten propositions to the foregoing eight, which are 
+all as important in a logical point of view as those 
+eight, simply because they validly express actual 
+judgments. These ten are as follows : 
+
+Affirmative, Negative. 
+
+AU-X' is Certain-Y. AU-X is not Certain- Y. 
+
+Certain-X is AU-Y. Certain-X is not AU-Y. 
+
+Certain-X is Certain-Y. Certain-X is not Cer- 
+Some-X is Certain-Y. tain-Y. 
+
+Certain-X is Some-Y. Any-Xis not Certain-Y. 
+
+I Certain-X is not Any- Y. 
+Certain here means. Some at least. Not-all : it 
+indicates a partial quantification, whether definite 
+or indefinite. Its value may be known or un- 
+known: it may, if you please, be numerically 
+
+I.L. 3 
+
+
+
+34 OP PROPOSITIONS. 
+
+exprimaUe. The propositions, * Certain-X is Cer- 
+tain-Y,' and * Certain-X is not Certain-T/ where 
+' Certain* is a definite quantity, are called nvmeri- 
+aaJly dejinite propositions* 
+
+We now proceed to state, according to Sir 
+William Hamilton's masterly analysis, the result 
+and process of affirmation and negation, and to 
+contrast the two qualities according to the wholes 
+in which they proceed. In result affirmation is 
+indusi(m, and universal affirmation is absolute in- 
+clusion, that is, the inclusion of a definite this or 
+all (individual or class). Negation is exclusion^ 
+and universal negation is absolute exclusion, that 
+is, the exclusion of a definite this or all (individual 
+or class). In process affirmation proceeds down- 
+wards or inwards, from greatest to least, from the 
+constituted whole to the constituent parts. Nega- 
+tion proceeds upwards or outwards, from least to 
+greatest, from the constituent parts to the consti- 
+tuted whole. In coifUarasty in proportion to the 
+intension is affirmation, in proportion to the exten- 
+sion is negation. At the maximum of extension 
+there are predicated by affirmation least of the 
+most ; that is, there are given the fewest attributes 
+to the greatest number of things: by negation, there 
+are given the most of the least, that is, there are 
+withdrawn the greatest number of attributes from 
+the fewest fhings. At the maximum of intension 
+there are predicated by affirmation the most of the 
+least, that is, there axe given the greatest number of 
+attributes to the fewest things : by negation, there 
+
+
+
+jOf psoPCNSinoNSf 35 
+
+are given the least of the most ; that is, there are 
+withdrawn the fewest attributes from the greatest 
+nnmber of things. Hence in breadth, to posit the 
+genus is not to posit the species or the individual; 
+but to sublate the genus is to sublate the species 
+and the individual : also in depth, to posit the in- 
+dividual is to posit the species and the genus ; but 
+to sublate the individual is not to sublate the 
+species or the genus. 
+
+In the foregoing exposition there is one point 
+which demands elucidation. The direction in 
+which affirmation and negation proceed may be 
+discerned from the following considerations. Hav- 
+ing regard to the table at page 29, and reading it 
+in breadth (or extension), an individual or class 
+contained in any superior class, saj the sixth 
+subaltern genus, is necessarily included in every 
+higher genus, but is not necessarily included in 
+any lower class. In order then to include it in 
+such lower class we must make an affirmation in 
+which such class stands as predicate, that is, we 
+proceed downwards. Similarly, if an individual 
+or term be not contained in the sixth subaltern 
+genus, it is necessarily excluded from every inferior 
+class, but not necessarily excluded from any 
+superior class* Accordingly if we wish to exclude 
+it from such class we must make a negation in 
+which such class stands as predicate, that is, we 
+proceed upwards. If the table be read in breadth, 
+the individual is greater than any class, while the 
+summum genus is the least class : 'SO that if in any 
+
+3—2 
+
+
+
+36 OF PKOPOSITIONS* 
+
+affirmation or negation, the signs of quantity be 
+made to stand (improperly no doubt) for the inten-* 
+sion of the terms to which they may be prefixed, 
+affirmation would proceed upwards and negation 
+downwards. But as we have already seen (page 
+28), terms are only expressly quantified with refer-* 
+ence to the logical whole of extension. Affirmation, 
+therefore, is always downwards and negation up- 
+wards. The former proceeds inwards towards the 
+most intensive class, the latter outwards to the 
+most extensive class. 
+
+When in a proposition the quantity of both 
+terms is definite (whether universal or particular), 
+the judgment expressed thereby is called a defi- 
+nition of the most implicit of the two terms. De- 
+finition may be of three kinds. 1. By the inten- 
+sion of the defined concept. 2. By its extension. 
+3. By accidental coincidence. Examples : of 1. 
+Man is a being endowed with reason, conscious- 
+ness, free-will, and understanding : of 2. Britons 
+are those that dwell in England, Scotland, or 
+Wales: of 3. A triangle is a figure contained 
+by three straight lines. 
+
+Having now treated of the Quantity of a Term 
+and the Quality of a Proposition, we proceed to 
+consider the Relation of Propositions. Relation is 
+properly predicated of a plurality of propositions 
+only. It is of three kinds, as follows : 
+
+Independent 
+Relation \ Qonjunqjtive \ of propositions. 
+Disjunctive 
+
+
+
+OP PROPOSITIOl^S. 37 
+
+Independent propositions are of tiie following 
+forms: 
+
+X is T and X is Z (or Z is X). 
+
+X is T and Y is Z (or Z is T). 
+
+X is T and Z is W (or W is Z). 
+
+In any of these forms, the propositions in each 
+pair (though in two instances intemallj connected), 
+are categorically independent. 
+
+Conjunctive propositions are of the following 
+forms: 
+
+If X is T Xis Z (or Z is X), 
+If X is Y Y is Z (or Z is Y). 
+If X is Y Z is W (or W is Z). 
+
+In all these forms, the latter proposition is con- 
+sequentially dependent on the former. 
+
+Disjunctive propositions are of the following 
+forms : 
+
+Either X is Y or X is Z (or Z is X). 
+Either X is Y or Y is Z (or Z is Y). 
+Either X is Y or Z is W (or W is Z). 
+
+In each of these forms the propositions are 
+consequentially exclusive of each other. 
+
+
+
+PART m. 
+
+
+
+OF ILLATION. 
+
+
+
+We restrict the term Illation to that kind of 
+inference which is direct and immediate, and we 
+confine the term Syllogism to that kind of infer- 
+ence which is indirect and mediate. When, from 
+the consideration of one or more propositions, in- 
+volving only two terms, we are enabled to arrive 
+at a judgment not formally identical with the 
+ludsnoients expressed in such proposition or pro- 
+posSons, the process of arri4ig at the second 
+judgment is called immediate inference or Illation. 
+
+Illation by Oppositicn. 
+
+The simplest instance of this, (excluding Con- 
+version, which, when the predicate is quantified, 
+is no inference at all), are the inferences depend- 
+ing on logical Opposition. Two propositions are 
+said to be in opposition, when the terms of each 
+are the same while the one proposition is affirma- 
+tive and the other negative. Accordingly it fol- 
+lows that when any one of the following proposi- 
+tions, viz. ; 
+
+
+
+OF ILLATION. 
+
+
+
+39 
+
+
+
+? Affirmative, 
+
+
+
+1. AU-XisAll-T 
+
+2. All-X is Some-Y 
+
+3. Some-X is AU-Y 
+
+4. Some-X is Some-Y 
+
+is asserted simultaneously with any one of the fol* 
+lowing, viz.: 
+
+5* Some-X is not Some-Y 
+
+6. Some-X is not Any-Y 
+
+7. Some-Y is not Any-X 
+
+8. Any-X is not Any-Y 
+
+the two are in opposition. 
+
+
+
+Negative, 
+
+
+
+The following are. all the pairs that can be 
+formed by taking one proposition from the affirma- 
+tives, and one from the negatives. 
+
+1+8. 1+7. 1+6. 1+5. 2+8. 2+7. 2+6. 2+5* 
+3+8. 3+7. 3+6. 3+5. 4+8. 4+7. 4+6. 4+5, 
+sixteen in all. 
+
+Those pairs that exclusively contradict each 
+other are (as we have already seen) called Contrar- 
+dictories, the one proposition denying exactly that 
+which the other affirms. In Contradictories more- 
+over, there are always two terms indefinite, and 
+two definite. Those propositions in any pair 
+which are inconsistent with each other, without 
+necessarily excluding each other, are called Con- 
+traries. Those propositions in any pair which are 
+consistent with each other, but whose Contra- 
+dictories are Contraries, are called Subcontraries* 
+
+
+
+40 
+
+
+
+OP ILLATIOK. 
+
+
+
+Those propQsitions in any pair, which may be 
+simultaneously either inconsistent or consistent, are 
+called Subalterns. The remaining combinations of 
+propositions, two and two, viz. those in which 
+.there is no difference of quality, both propositions 
+being affirmative or both negative, are not cases of 
+opposition at all. They will be treated of under 
+another head, (Illations by Fluxion.) 
+
+The cases of opposition above enumerated, viz. 
+four Contradictories, five Contraries, five Subcon- 
+traries, and two Subalterns, (that is, sixteen in all,) 
+appear in detail in the .following tables. In all 
+such pairs, Some of course means Some at least, 
+perhaps All. However, in investigating the con- 
+ditions of their solution, we replace every * Some' 
+by Certain, 
+
+
+
+I. Exclusives (or Contradictortes). 
+
+
+
+I AU-X is AU-Y 
+ISome-X is not Some-T 
+
+/AU-X is Some-Y 
+ISome-X is not Any-Y 
+
+f Some-X is AU-Y 
+
+i Some-Y is not Any-X 
+
+/ Some-X is Some-Y 
+vAny-X is not Any-Y 
+
+
+
+In each pair, the pro- 
+positions cannot both 
+be true at once, or both 
+false at once. One of 
+the two must be true, 
+and the other false. 
+
+
+
+OF ILLATION. 
+
+
+
+41 
+
+
+
+II. Inconststeiits (or Contraries). 
+
+
+
+f All-X is AU-Y 
+vAny-X is not Any-T 
+
+I AU-X is AU-Y 
+iSome-X is not Any-Y 
+
+f All-X is AU-Y 
+vSome-Y is not Any-X 
+
+•f All-X is Some-Y 
+vAny-'X is not Any-Y 
+
+f Some-X is AU-Y 
+vAny-X is not Any-Y 
+
+
+
+In each pair, the pro- 
+positions may both be 
+' false at once, but they 
+cannot both be true at 
+once. 
+
+
+
+ni. ConststerUs (or Suicontraries). 
+
+
+
+f Some-X is Some-Y 
+i Some-X is not Some-Y 
+
+
+
+I All-X is Some-Y 
+
+t Some-X is not Some-Y 
+
+f Some-X is AU-Y 
+
+I Some-X is not Some-Y 
+
+{Some-X is Some-Y 
+Some-X is not Any-Y 
+
+{Some-X is some-Y 
+Some-Y is not Any-X 
+
+
+
+In each pair, the pro- 
+positions may both be 
+true at once, but they 
+cannot both be false at 
+once. 
+
+
+
+42 
+
+
+
+OP ILLATIOI^. 
+
+
+
+IV. Suhahems* 
+
+
+
+r AU-X is Some-Y 
+iSome-T is not Any-X 
+
+rSome-X is AU-Y 
+\Some-X is not Any-Y 
+
+
+
+In each pair, both 
+propositions may be 
+true at •nee ; or both 
+may be false at once. 
+
+
+
+These tables may be greatly simplified. It is 
+observable that in the table of Contraries, the pro- 
+positions of each pair are the Contradictories of 
+those in a corresponding pair in the table of Sub- 
+contraries. Thus : 
+
+
+
+Contraries. 
+
+All-X is AU-Y. 
+Any-X is not Any-Y. 
+
+
+Subcontraries. 
+Some-X is not Some-Y. 
+Some-X is Some-Y. 
+
+
+AU-X is AU-Y. 
+Some-X is not Any-Y. 
+
+
+Some-X is not Some-Y. 
+All-X is Some-Y. 
+
+
+All-X is AU-Y. 
+Some-Y is not Any-X. 
+
+
+Some-X is not Some-Y. 
+Some-X is AU-Y. 
+
+
+All-X is Some-Y. 
+Any-X is not Any-Y. 
+
+
+Some-X is not Any-Y. 
+Some-X is Some-Y. 
+
+
+Some-X is AU-Y. 
+Any-X is not Any-Y. 
+
+
+6ome-Y is not Any-X. 
+Some-X is Some-Y. 
+
+
+
+Similarly, the propositions in either of the two 
+pairs of Subalterns, are the Contradictories of those, 
+each to each, in the other. Thus*: 
+
+
+
+All-X is Some-Y. 
+Some-Y is not Any-X. 
+
+
+
+Some-X is not Any-Y» 
+Some-X is AU-Y. 
+
+
+
+OF ILLATION. 43 
+
+
+
+I. Contradictortes. 
+
+
+
+There is no condition of solubility of a pair of 
+Contradictories, inasmuch as the propositions so 
+opposed cannot be simultaneously true. 
+
+II. and III. Contraries and Suhcontraries. 
+
+If the propositions in any pair of Contraries be 
+ffJse, those in its corresponding pair of Suhcon- 
+traries are true. We may therefore confine our 
+attention to the pairs of suhcontraries : 
+
+1. 
+
+Some-X is not Some-Y, 
+Some-X is Some->T. 
+
+
+
+Certain-X is not Certain-T > .« . ^ 
+
+2. 
+
+Some-X is not Some-T, 
+All-X is Some-T. 
+
+Some-X is not Certain-T ^ are the resulting 
+and, All-X is Certain-Y j illations. 
+
+3. 
+
+Some-Y is not Any-X, 
+Some-X is Some-Y, 
+
+
+
+Certain-Y is not Any-X ) are the resulting 
+and, Some-X is Certain-Y j illations* 
+
+
+
+44 OF ILLAnOK. 
+
+4. 
+
+Some-X is not Some-T, 
+Some-Xis All-Y. 
+
+Certain-X is not Some-Y i aie the resulting 
+and, Certain-X is All-Y j iUations. 
+
+
+
+5. 
+
+Some-X is not Any-Y, 
+Some-X is Some-Y. 
+
+
+
+Certain-X is not Any-Y ) are the resulting 
+and, Certain-X is Some-Y j illations. 
+
+
+
+I append a couple of examples. 
+
+Some-civilian is not Some-militaiy. 
+Some-civilian is Some-military. 
+
+Therefore, if certain members of parliament be 
+the civilians who constitute a portion of the mili- 
+tary, the class civilian is divisible into militaiy 
+M.P.'s and not-military, and the class military is 
+divisible into military M.P.'s and not-civilian. 
+
+Again, 
+
+All-human is Some-biped. 
+Some-biped is not Any-human. 
+
+Therefore, if birds be the bipeds who are not 
+human, the class biped is divisible into birds and 
+men, and the other bipeds, if any. 
+
+
+
+OF ILLATION. 45 
+
+IV. SubaUems. 
+Let All-X is Some-T ) be simultaneous- 
+
+
+
+-xF 
+
+
+
+and Some-Y is not Any-X J \j true. 
+
+All-X is Certain-Y ) axe the resulting 
+and, Certain-Y is not Any-X j illations. 
+
+and if Some-X is All-Y 1 be simultaneous- 
+
+and Some-X is not Any-Y j ly true. 
+
+Certain-X is All-Y | are the resulting 
+and, Certain-X is not Any- Yj illations.* 
+
+In all these cases Certain implies definite quan- 
+tity. 
+
+These solutions are of more importance in ap- 
+plied logic than their form would lead us to suppose. 
+
+In concluding our remarks on these instances 
+of immediate inference, we may call attention to 
+the fact, that in every case in which an inference is 
+drawn immediately from two propositions, we have 
+. only to lay down the illative result as the original 
+proposition, and the two opposed propositions will 
+form a double immediate inference therefrom. 
+
+We now proceed to consider 
+
+Illation by Privation* 
+
+The following Table will exhibit all possible 
+assertorial inferences from the eight general propo- 
+sitions, by writing for one or both terms its contra- 
+dictory (or infinite complement). 
+
+
+
+46 OF ILLATION. 
+
+1. AU-X is AU-Y, 
+
+IAny-X is not Any-not-T, 
+Any-not-X is not Any-T, 
+AU-not-X is AU-not-Y. 
+
+Example to 1. * The just are all the holy.' 
+* No just man is unholy.' * No holy man is un- 
+just.' * All unjust men axe all the unholy.* 
+
+2. All-X is Some-Y. 
+Any-X is not Any-not-Y, 
+Any-not-X is not Some-Y, 
+Some-not-X is AU-not-Y. 
+
+
+
+Therefore, 
+
+
+
+Example to 2. ^ All the righteous are happy.' 
+
+* None of the righteous are unhappy.' * Some 
+happy men are not unrighteous.' *A11 who are 
+not happy are not righteous.' 
+
+3. Some-X is AU-Y. 
+
+ISome-X is not Any-not-Y, 
+Any-not-X is not Any-Y, 
+AU-not-X is Some-not-Y. 
+
+Example to 3. ' Some happy persons are all 
+the righteous.' * Some-happy persons are not un- 
+righteous.' *No unhappy person is righteous.' 
+
+* All who are unrighteous are unhappy.' 
+
+4. Some-X is Some-Y. 
+
+rp, p f Some-X is not Any-not-Y, 
+' (Any-not-X is not Some-Y. 
+
+Example to 4. ' Some desirable events are 
+probable.' ^ Some desirable events axe not im* 
+
+
+
+OF ILLATION. 47 
+
+probable.' *Some probable events are not un- 
+desirable/ 
+
+These are all the immediate (assertorial) infer- 
+ences by privation that can be drawn from affirm- 
+ative propositions. 
+
+It will be observed that each proposition except 
+the fourth affords three inferences and no more. 
+When we proceed however to negative proposi- 
+tions, the circmnstances are very different. 
+
+No negative proposition can yield more than 
+two assertorial illations, and one negative propo- 
+sition affords none at all. 
+
+5. Some-X is not Some-Y. 
+
+On this proposition no categorical immediate 
+inference by privation can be drawn. 
+
+6. Some-X is not Any-Y. 
+
+,T» /• (Some-X is Some-not-Y, 
+Therefore, |A„y.^ot.x i^ ^ot Some-not-Y. 
+
+Examples of 6. ^ Some possible cases axe not 
+probable.' * Some possible cases are improbable.* 
+^ Some improbable cases are not impossible.' 
+
+7. Any-X is not Some-Y. 
+
+rp, n fSome-not-X is Some-Y, 
+
+' (Some-not-X is not Any-not-Y. 
+
+Examples of 7. * No probable case is some- 
+possible.' ^ Some impossible cases are some possi- 
+ble.' ^ Some improbable cases are not impossible.' 
+
+
+
+48 OF ILLATION. 
+
+8. Any-X is not Any-Y* 
+
+
+
+Therefore, ^ 
+
+
+
+AU-X is Some-not-Y, 
+Some-not-X is AU-Y, 
+Certain (indefinite) -not-X is not Any- 
+
+not-Y, 
+Any-not-X is not Certain (indefinite)- 
+
+not-X. 
+
+
+
+Examples of 8. * No human virtue is perfect.' 
+* All human virtues are imperfect.' * All perfect 
+virtues are unhuman.' * Certain imhuman virtues 
+are not imperfect.' * Certain imperfect virtues are 
+not unhuman.' 
+
+Besides assertorial inferences of this nature, 
+there are copious hypothetical inferences, namely, 
+conjunctive, disjunctive, and both together. One 
+example of this large family of illatives will suf- 
+fice. 
+
+Take the proposition Any-X is not Any-Y: 
+it is susceptible of the following conjunctive in- 
+ference: *If both the propositions, All-not-X is 
+AU-pY, and AU-X is AU-not-Y be untrue, then 
+Some-not-X is Some-not-Y.' 
+
+It is evident th'at instances of this kind of 
+illation might be multiplied ad infinitum. We 
+proceed then to 
+
+Illation by Fluxion. 
+
+By this we mean to speak of immediate infer- 
+ences derivable firom the above eight propositions, 
+
+
+
+OF ILLATION. 49 
+
+hy supposing a quantity to shrink or swell, that is, 
+decrease or increase towards the limits zero and 
+infinity, or towards the limit3 individual and uni- 
+versal. 
+
+The reader is referred to the table at p. 22, 
+from which the following statements may be veri- 
+fied: 
+
+1. All-X is AU-Y. 
+
+f All-X is Some-Y, 
+Therefore, sSome-X is AU-Y, 
+ISome-X is Some-Y. 
+
+2. All-X is Some-Y. 
+Therefore, Some-X is Some-Y. 
+
+3. Some-X is All-Y. 
+Therefore, Some-X is Some-Y. 
+
+4. Some-X is not Any-Y. 
+Therefore, Some-X is not Some-Y, 
+
+5. Any-X is not Some-Y. 
+Therefore, Some-X is not Some-Y. 
+
+6. Any-X is not Any-Y. 
+
+{Some-X is not Any-Y, 
+Any-X is not Some-Y. 
+Some-X is not Some-Y# 
+
+These are all fluxional inferences by descent 
+from the inclusion or exclusion of a greater quan- 
+tity to that of a less. 
+
+I.L. 4 
+
+
+
+I 
+
+60 OP " ILLATION. 
+
+The following are examples of complex flux- 
+
+ional illation: 
+
+__ * 
+
+JAII-X is Some-T, and 
+
+|Some-X is AU-Y ; ' 
+
+therefore, AU-X is AIl-T. 
+Again, 
+
+jSome-X is not Any-T, and 
+
+[Any-X is not Some-Y: 
+
+therefore, Some-X is* not Some-Y. 
+Numerous examples might be given from the 
+same table of hypothetical illation. Thus, from 
+the proposition ^ 
+
+AU-X is not All-Y, 
+
+we have the disjunctive inference 
+
+either, Some-X is not Any-Y, 
+or, Any-X is not Some-Y, 
+
+and the conjimctive inferences 
+
+if Some-X is Certain- Y, 
+
+then Any-X is not Some-Y, and also 
+
+if Certain-X is Some-Y, 
+then Some-X is not Any-Y. 
+
+Instances of this kind may be multipUed to a 
+great extent. Their amplification will be good 
+practice for the student. 
+
+There is yet another class of fluxional illa- 
+tions. 
+
+The ordinary ' hypothetical syllogism,* as it is 
+improperly called, is, as Sir William Hamilton 
+
+
+
+OP ILLATION- 51 
+
+o1>BeiTes, no syllogism at all, but merely an im- 
+mediate inference. It is either conjunctive or dis- 
+junctive. The conjunctive illation is of this kind. 
+
+IfWisX, TisZ. 
+
+But W is X 
+Therefore, T is Z. 
+
+There are however many other forms of this 
+illation. 
+
+The disjimctive illation is of this kind. 
+
+W is either X, T, or Z. 
+
+But W is not X or Y. 
+
+Therefore W is Z : 
+
+with many other forms. 
+
+That these illations are nothing more than im- 
+mediate inferences is readily seen by transforming 
+them thus. 
+
+Let W, X be U, and Y, Z be V. 
+
+Then the conjimctive illation becomes 
+
+AU-U is Some-V. 
+Some-U is Some-V, 
+
+which is an illation by fluxion. 
+
+Again, let us resolve the disjunctive premise, 
+
+W is either X, Y, or Z, into its constituent 
+propositions; these are: 
+
+If W is X it is not Y or Z. 
+IK W is Y or Z it is not X. 
+
+4-2 
+
+
+
+li 
+
+
+
+52 OP ILLATION; 
+
+
+
+
+
+
+If W is Tit is not X or Z. 
+If W is X or Z it is not Y. 
+
+If W is Z it is not X or T. 
+W is X or Y it is not Z. 
+
+The first pair means, 
+
+All cases of W is X, is all cases of W is not Y, 
+jgid W is not Z. 
+
+The second pair tneans, 
+
+All cases of W is T, is all cases of W is not X, 
+and W is not Z. 
+
+The third pair means, 
+
+All cases of W is Z, is all cases of W is not X, 
+and W is not T. 
+
+Now let W, X be U, W, Y be V, and W, Z 
+be Q. 
+
+Then we have 
+
+AU-U is All.not-(V + fl). 
+All-V is AU-not-(U + fl). 
+AU-a is All-not-(U + V), 
+
+which are three equivalent forms of the same ex- 
+pressions, the illation being by privation. 
+
+Any one, then, may stand as sumption in the 
+disjunctive illation. 
+
+Let AU-O is All-not-(U + V) be the sumption. 
+
+Then Some-Q is Some-not'(U + V) is an illa- 
+tion by fluxion. 
+
+Logicians reckon many other kinds of imme- 
+diate inference besides those we have mentioned ; 
+all of them however are questionable* 
+
+
+
+OF ILLATION. 
+
+
+
+53 
+
+
+
+Immediate inferences, to which we deny the 
+name of syUogisms, have been called by Kant, 
+* Syllogisms of the Understanding.' 
+
+It must be careftdly borne in mind that though 
+an immediate inference from a given proposition 
+may immensely facilitate the process of reasoning, 
+yet that the neglect to do so will ijiever reduce the 
+constituent parts of a system of ratiocination to 
+enthymeme^ or sorites. (For the meaning of these 
+words see Whately, Bk. ii. c. 4, § 7.) 
+
+
+
+PAET IV. 
+OF THE SYLLOGISM. 
+
+The term Syllogism is here restricted to mean 
+the expression of an argument in which it is neces- 
+sary to compare two terms with a third term, in 
+order to determine the relation between those two 
+terms. This kind of inference is said to be medi- 
+ate, and the third term with which the other two 
+are compared is called the Middle Term. Thus, 
+if it be suspected that bitter beer is deleterious, 
+we should be unable to convert that suspicion into 
+a certainty, until we had found that it contains* 
+strychnine or some other determined deleterious 
+drug. This argument, which all men go through 
+every day of their lives, is logically expressed as 
+follows: 'Bitter beer contains stiychnine; every 
+liquid that contains strychnine is deleterious ; there- 
+fore bitter beer is deleterious.' 
+
+In all such arguments it is evident that there 
+must be two propositions which (whatever other 
+points of similarity or dissimilarity they may have) 
+agree in this, that they both involve the middle 
+term : and disagree in this, that they connect the 
+
+
+
+OF THE STLLOGISM. 55 
+
+middle tenn with different terms* Thi gBiienl 
+
+canon of mediate inference is this : 
+
+The agreement or disagreement of one concept 
+with another is ascertained by a third concept^ in- 
+asmuch as this wholly or in part agrees with both, 
+or with only one, of the concepts to be compared. 
+
+The syllogism may accordingly be defined to 
+be a formula of comparison of any two concepts 
+with, or through the medium of, a third, in order 
+to ascertain whether they agree or not. 
+
+Every syllogism therefore consists of three pro- 
+positions involying the three terms. Divers names 
+have been employed by logicians to particularize 
+these propositions and terms. The following names 
+appear to deserve the preference. The most exten- 
+sive or most comprehensive of the two propositions, 
+from which the third is inferred, we call the Sump- 
+tion. The other of those two we call the Sub- 
+sumption. The sumption and subsmpption we 
+call the Premises, and the resulting proposition 
+we call the Consequence. The term that is com- 
+mon to the premises (which in most ancient writers 
+is called the Argument) we have called the middle 
+term, in acquiescence with modem usage. The 
+term involved in the sumption, besides the middle 
+term, we call the Major Term; and the term in- 
+volved in the subsumption, besides the middle 
+term, we call the Minor Term. Example. ' All 
+men are mortal ; Gabriel was not mortal ; there- 
+fore Gabriel wa9 not a man.* Here 'man* is the 
+major t^m ; ' Gabriel' the minor term. They are 
+
+
+
+56 OF THE SYLLOaiSlT. 
+
+compared ttrough the medium of 'mortal,' which 
+is therefore the middle term. * All men are mortal' 
+is the most extensive premise ; and as j;he syllo- 
+gism is in the logical whole of extension, this is 
+the sumption, and * Gabriel is not mortal' is the 
+subsumption. ' Gabriel is not a man' is the ' con- 
+sequence.' 
+
+^ Not only must every syllogism, as we have 
+said, contain three terms and no more, and three 
+propositions and no more, but of the premises one 
+at least must be affirmative. Moreover the conse- 
+quence must express the worst relation of the two 
+terms with the middle term. If one of the premises 
+be negative, the consequence must also be nega- 
+tive. The comparison of each of the two terms 
+must be with either the whole or some part of the 
+middle term. Neither term must be distributed 
+in the consequence (that is imiversally affirmed or 
+denied) unless it has been so in the premise in- 
+volving it. All these conditions are involved in 
+the above canon. (For the copious illustration of 
+all these points the student is referred to Thomson's 
+Laws of Thought (1854), § 93.) 
+
+The necessity of quantifying the predicates of 
+the sumption, the subsumption, and the conse- 
+quence of a syllogism, may be easily shewn. For 
+since the^syllogism is but a means of stating the 
+afgument or disagreement of two terms by means 
+of their agreement or disagreement with a third, 
+it is imperative that the extent of these terms 
+themselves should be taken into account* . Apart 
+
+
+
+OF THE SYLLOGISM. 57 
+
+fix>m this there can be no measurement of extent 
+and no conclusion of identity or difference of ex- 
+tent as the result of such measurement; and there- 
+fore no conclusion of scientific significance. The 
+implicit quantification of the predicate has accord- 
+ingly been always held by logicians, though they 
+have, with well nigh one consent, most illogically 
+rejected its explicit quantification* As there is still 
+some hesitation on their part to allow the claims 
+of the new doctrine in reference to the syllogism, 
+I will enter into a more detailed demonstration of 
+its truth. 
+
+In any syllogism the process of the reasoning 
+and the evidence of its validity is the same, and 
+it is the following: the middle term is the mean or 
+measure; in the first place one extreme is compared 
+with the middle term, an,d seen to agree with it so 
+far; then the other extreme is compared with the 
+middle, and also seen to agree with it so far; and 
+thereupon this identity of agreement is affirmed. 
+But in either case, if I do not know the extent of 
+the term compared, (cannot take it, that is, in some 
+definite extent,) I cannot tell how far it agrees with 
+the middle. Or, again, if I do not know the ex- 
+tent of the middle term, (cannot take it in some 
+definite extent,) I cannot tell whether the term to 
+be compared agrees with it in extent or not, — 
+whether it is part, or whole, or none. The predi- 
+cate notion, however, in every reasoning, is one of 
+these terms, and stands in one of these relations. 
+It is, therefore, absolutely necessary, as we have 
+
+
+
+58 OF THE STLLOaiSH. 
+
+said, to the validity of the reasoning that the pre- 
+dicate should always be quantified. (Baynes). 
+The incidents of the syllogism are 
+
+1 . Subordination of propositions. 
+
+2. Figilre. 
+
+3. Mood. 
+
+4. Action (or Motion). 
+
+1. The syllogism may be deductive or induc- 
+tive; but unta further notice, when we speak of 
+the syllogism, we mean the deductive syllogism. 
+
+In the Syllogism then the sumption must stand 
+first, and the subsumption must occupy the subor- 
+dinate place. This distinction however may be lost 
+sight of in dealing with the empty formulae of the 
+syllogism, where, in point of fact, any proposition 
+may stead as sumption. The form in which a 
+proposition appears in the syllogism is of more im- 
+portance than the order of the propositions. The 
+English language generally requires that the 
+second term in any.afltanative proposition in ex- 
+tension should be more extensive than the first. 
+But even this distinction may for the present be 
+lost sight of; and we may assume that any propo- 
+sition and its converse are equally admissible in 
+the syllogism. 
+
+2. The Figure of a syllogism depends solely 
+on the relative position of the middle term. 
+
+The figures are three in number. In the first 
+figure the middle term is the subject of the 
+sumption, and the predicate of the subsumption. 
+In the second figure the middle term stands as 
+
+
+
+OF THE SYLLOGISM. 59 
+
+predicate in both premises. In the third figure 
+the middle term stands as subject in both pre- 
+mises. 
+
+Galen, on insufficient authority, has had the 
+credit or discredit of adding to these a fourth 
+figure, which, through the lack of independence in 
+logical speculation, held an unquestioned place in 
+modem treatises on logic, until its claims were 
+disputed and finally overthrown by Sir Willis^m 
+Hamilton. In this supposititious figure the middle 
+term was said to be the predicate of the sumption, 
+and the subject of the subsumption. 
+
+The real fact is, that when a syllogism appears 
+in this spurious figure, one has simply to transpose 
+the order of the premises to reduce the syllogism 
+to the first figure; and it is somewhat remarkable, 
+(though perhaps never before remarked,) that if in 
+the premises and consequence the more extensive 
+term occupy the place of predicate, there can be 
+only one syllogism appearing in the fourth figure 
+that is not reducible to the first figure ; namely, 
+the following : 
+
+j Any-T is not Any-X, 
+t AU-Y is'Some-Z. 
+
+Therefore Some-Z is not Any-X. 
+
+This of course is in the third figure; but it will 
+be also observed that the syllogism is redundant in 
+the subsumption, and that the same consequence 
+would follow if the subsumption were * Some-Z is 
+Some-T;' If this proposition stand as subsump- 
+
+
+
+60 OP THE SYLLOGISM. 
+
+tion in the above syllogism, the argument is 
+ahready in the first figure ! 
+
+Each figure has its own peculiar canon. 
+
+Canon of first figure. In so far as two concepts 
+are related, either both positively, or one positively 
+and the other negatively to a common term, of 
+which the one is subject and the other predicate, 
+so far are these two concepts related positively 
+or negatively to each other as subject and pre- 
+dicate. 
+
+Canon of second figure. In so far as two con- 
+cepts (both subjects) are either both positively or 
+the one positively and the other negatively related 
+to a common predicate, so far are they either posi- 
+tively or negatively indifierently subject and predi- 
+cate of each other. 
+
+Canon of third figure. In so far as two con* 
+cepts (both predicates) are either both positively 
+oi the one positively and the other negatively 
+related to a common subject, in so far arjB they 
+positively or negatively indifferently subject and 
+predicate of each other. 
+
+3. The Mood of a syllogism is determined by 
+the quantity of the two terms and the quality of 
+the two propositions which stand as sumption and 
+subsumption. 
+
+The moods of each figure are thirty-six in 
+ntimber, of which twelve have positive conse- 
+quences (and of these twelve, seven are redundant) 
+«ind twenty-four have negative consequences (of 
+which twenty-four, twelve are redundant). 
+
+
+
+OP THE SYLLOGISM. 
+
+
+
+61 
+
+
+
+The moods of the first figure may be exhibited 
+in the following tables, which are the result of 
+combining the four propositions: 
+
+
+
+AU-Y is AU-X 
+
+AU- Y is Some-X 
+
+Some-Y is AU-X 
+
+Some-Y is Some-X 
+
+
+
+
+
+
+AU-Z is AU-Y 
+
+AU-Z is Some-Y 
+
+Some-Z is AU-Y 
+
+Some-Z is Some-Y 
+
+Some-Z is not Some-Y 
+
+4 
+
+Some-Z is not Any- Y 
+
+Any-Z is not Some-Y 
+
+. Any-Z is not Any- Y . 
+
+
+
+¦4a 
+
+P 
+
+o 
+
+teg 
+
+O 
+
+I 
+lis 
+
+lia 
+
+
+
+And also of combining the eight propositions : 
+
+AU-Y is AU-X 
+
+AU-Y is Some-X 
+
+Some-Y is AU-X 
+
+Somei-Y is Some-X 
+
+Some- Yisnot Some-X 
+
+Some-Y is not Any-X 
+
+Anv-Yis not Some-X 
+
+Any- Y is not Any-X 
+
+
+
+
+
+
+AU-Z is AU-Y 
+
+AU-Z is Some-Y 
+
+Some-Z is AU-Y 
+
+Some-Z is Some-Y 
+
+
+
+§ 
+
+o to 
+
+I"! 
+
+
+
+By this procedure it will be observed that 
+We elicit every possible combination of YX, and 
+ZY, preserving the condition that both proposi- 
+tions shall not be negative. 
+
+Complete Table of Moods in Fig, 1, 
+(valid and suflScient). 
+
+AU^Y is AU-X 
+AU^Z is AU-Y 
+
+
+
+AU-Z is AU-X 
+
+
+
+62 
+
+
+
+OF THE STLLOQISM. 
+
+
+
+AU-Y 
+
+
+is 
+
+
+Some-X Some-Y 
+
+
+is 
+
+
+All-X 
+
+
+AU-Z 
+
+
+IB 
+
+
+Some-Y x Some-Z 
+
+
+is 
+
+
+AU-Y 
+
+
+
+All-Z is Some-X 
+
+
+
+Some-Z is All-X 
+
+
+
+AU-Y 
+Some-Z 
+
+
+
+is Some-X 
+is Some-Y 
+
+
+
+ac 
+
+
+
+Some-Y 
+Some-Z 
+
+
+
+is Some-X 
+is All-Y 
+
+
+
+Some-Z 
+
+
+
+IS 
+
+
+
+Some-X 
+
+
+
+Some-Z 
+
+
+
+IS 
+
+
+
+Some-X 
+
+
+
+Any-Y is not Any-X 
+AU-Z is Some-Y 
+
+
+
+oc 
+
+
+
+Some-Y is AU-X 
+Any-Z is not Any-Y 
+
+
+
+Any-Z is not Any-X Any-Z is not Any-X 
+
+
+
+AU-Y is Some-X 
+Any-Z is not Some-Y 
+
+
+
+Some-Y is not Any-X 
+Some-Z is aU-Y 
+
+
+
+Any-Z is not Sojne-X Some-Z is not Any-X 
+
+
+
+Any-Y is not Any-X 
+Some-Z is Some-Y 
+
+Some-Z is tiot Any-X 
+
+Any-Y is not Some-X 
+AU-Z IS Some-Y 
+
+Any-Z is not Some-X 
+
+AU-Y is Some-X 
+Some-Z is not Some-Y 
+
+Some-Z is not Some-X 
+
+
+
+Some-Y is Some-X 
+Any-Z is not Any-Y 
+
+Any-Z is not Some-X 
+
+Some-Y is AU-X 
+Som^-Z is not Any-Y 
+
+Some-Z is not Any-X 
+
+Some-Y is not Some-X 
+Some-Z is AU-Y 
+
+Some-Z is not Some-X 
+
+
+
+Some-Y is Some-X Any-Y is not Some-X 
+
+Some-Z is not Any-Y w Some-Z is Some-Y 
+
+
+
+Some-Z is not Some-X 
+
+
+
+Some-Z is not Some-X 
+
+
+
+OP THE SYLLOGISM. 
+
+
+
+63 
+
+
+
+AU-Y is 
+Some-Z is 
+
+
+
+Surplus Moods^ 
+
+(valid but rednndant). 
+
+[AU]-X Some-Y 
+
+Some-Y oc [All]-Z 
+
+
+
+Some-Z 
+
+
+is 
+
+
+Some-X 
+
+
+AU-Y 
+AU-Z 
+
+
+is 
+is 
+
+
+[AUJ-X 
+Some-Y 
+
+
+AU-Z 
+
+
+is 
+
+
+Some-X 
+
+
+[AU]-Y 
+Some-Z 
+
+
+is 
+is 
+
+
+AU-X 
+AU-Y 
+
+
+Some-Z 
+
+
+is 
+
+
+AU-X 
+
+
+
+is' some-X 
+is AU-Y 
+
+
+
+Some-Z 
+
+
+is 
+
+
+Some-X 
+
+
+Some-Y 
+
+[AU]-Z 
+
+
+is 
+is 
+
+
+AU-X 
+AU-Y 
+
+
+Some-Z 
+
+
+is 
+
+
+AU-X 
+
+
+AU-Y 
+AU-Z 
+
+
+is 
+is 
+
+
+Some-X 
+[AU-Y 
+
+
+AU-Z 
+
+
+is 
+
+
+Some-X 
+
+
+
+[AU]-Y is Some-X 
+Some-Z is AU-Y 
+
+Some-Z is Some-Y 
+
+
+
+AU-Y is [AU]-X 
+Some-Z is not Some-Y 
+
+Some-Z is not Some-X 
+
+[AU]-Y is AU-X 
+Some-Z is not Any- Y 
+
+Some-Z is not Any-X 
+
+AU-Y is [AU]-X 
+Any-Z is not some-Y 
+
+
+
+Some-Y is not Some-X 
+« [All]-Z is AU-Y 
+
+Some-Z is not Some-X 
+
+
+
+Any- Y is not Some-X 
+cc AU-Z is [AU]-Y 
+
+Any-Z is not Some-X 
+
+Some-Y is not Any-X 
+=c [AU]-Z is AU-Y 
+
+
+
+Any-Z is not Some-X Some-Z is not Any-X 
+
+
+
+OP THE STLLOOISU, 
+
+
+
+[Aai]-T U All-X 
+Any-Z knot Any-Y 
+
+
+Any-Y is not Any-X 
+=c AU-Z is [AU]-Y 
+
+
+Any-Z is not Any-X 
+
+
+Any-Z is not Any-X 
+
+
+[AU]-T is Bome-X 
+Any-Z bnot Any-Y 
+
+
+Any-Y U not Any-X 
+=c 8ome-Z is [All]-Y 
+
+
+Any-Z ianot Some-X 
+
+
+Bome-Z is not Any-X 
+
+
+AB-Y in Spme-X 
+8ome-Zi8notBS^]-Y 
+
+
+Any-Y bnot Some-X 
+= Bome-Z ia [AU]-Y 
+
+
+Som«-Z ianot Some-X 
+
+
+Some-Z IB not Some-X 
+
+
+
+The quantity ' All' in brackets in tlie Table of 
+Smrplos Moods indicates a redundant distribution : 
+if ' Some' be written for ' [All],' tbe consequence 
+drawn is tbe same. 
+
+The sign = standing between two syllogisms 
+indicates that they are congruoua, that is, that if 
+in either syllopsm X be written for Z and Z for 
+X, the other results. 
+
+From the above Tables of Moods in the first 
+
+fioiire. Tables of Moods in the second figure are 
+
+y simply converting the sumption, and 
+
+Uoods in the third figure by converting 
+
+ptwn. 
+
+e purposes of natural expression, it is 
+to observe the rule of writing every 
+proposition in soch order of terms as 
+the most extensiTQ term the predicate. 
+
+
+
+OP THE SYLLOGISM. 65 
+
+For example, we prefer to say * AU-X is Some-Y' 
+rather than the converse, because *T' is the broader 
+term, a fact indicated by the quantity of both 
+terms. 
+
+But, on the other hand, in negative propo- 
+sitions, we prefer saying ' Some-X is not Any-Y,' 
+, rather than the converse. When both terms are 
+definite, however, as ' AU-X is All-Y,' and * Any-X 
+is not Any-Y,' it is indifferent in which order the 
+terms stand ; as, in the latter case, we say, * No-X 
+is Y,' and *No-Y is X' indifferently; and a 
+similar remark applies to propositions in which 
+both terms are indefinite, as * Some-X is Some-Y,' 
+* Some-X is not Some-Y.' 
+
+The fallowing table contains the moods appli- 
+cable to any one or two of the figures or to all 
+three of them. The distinctions axe grounded 
+upon two assumptions. First, that every propo- 
+sition shall stand in the natural order of the terms 
+according to the English language. Secondly, 
+that congruous propositions shall be regarded as 
+only one form of ratiocination. 
+
+For this purpose, and especially with a view to 
+avoid any particular succession of the major and 
+minor terms, let us write *G' and ^T' for the major 
+or minor terms, either being major or minor at 
+pleasure, and we retain *Y' as the sign of the 
+middle term. 
+
+The following table then exhibits all the essen- 
+tially distinct moods of syllogism of which the 
+English language is susceptible. 
+
+I. L. 5 
+
+
+
+66 
+
+
+
+OF THE SYLLOGISM. 
+
+
+
+AU-T 
+
+Au-r 
+
+
+
+IS 
+
+is 
+
+
+
+AU-G 
+All-Y 
+
+
+
+All-r is AU-G 
+
+
+
+Any- Y is not Any-G 
+All-r is Some-Y 
+
+Any-Fis not Any-G 
+
+
+
+All-Y is Some-G 
+Some-F is Some-Y 
+
+
+
+Some-F is Some-G 
+
+
+
+Any-Y is not Any-G 
+Some-F is Some-Y 
+
+
+
+Some-F is not Any-G 
+
+
+
+Some-Y is Some-G 1 
+Some-F is not Any-Y 
+
+
+
+Some-Fisnot Some-G 
+
+All-Y is Some-G 
+Some-Fis not Some-Y 
+
+
+
+Some-Fisnot Some-G 
+
+
+
+g - 
+
+
+
+All-Y is Some-G 1 
+AU-F is Some-Y 
+
+AU-F is Some-G 
+
+
+
+Good for fig. 1 only. 
+
+
+
+Some-G is not Any-Y 
+AU-F is Some-Y 
+
+Some-G is not Any-F 
+
+
+
+Good for fig. 2 only. 
+
+
+
+All-Y is Some-G 1 
+
+Some-Y is not Any-F j^ q^^ ^^ gg^ g ^^ly. 
+
+Some-G is not Any-F 
+
+
+
+In all then there are nine essential moods. 
+
+The following points must be carefully kept in 
+view in studying this table. 
+
+
+
+J 
+
+
+
+OF THE SXLLOmSM. 67 
+
+lat. That in the form of syllogism it is indif- 
+ferent which of the extreme terms is major, and 
+which is minor. In fact, that *G' and T' really 
+differ in some point, either in quantity and kind, or 
+in kind only ; but as to the difference in kind, we 
+know nothing whatever about it. We know that 
+there is such a difference, and that is all. 
+
+2ndly. That in such form it is indifferent 
+which premise is sumption, and which is sub- 
+sumption. 
+
+3rdly. That the figure of the syllogism is 
+only an unessential variety, and becomes of mo- 
+ment only in consequence of the peculiar idiom of 
+the language in which the reasoning is expressed. 
+
+4thly. That the English language, in certain 
+forms of affirmation and negation, necessitates a 
+particular order of terms, and that this order is 
+strictly observed in the above table. 
+
+5thly. That wherever a mood is competent for 
+the first figure, its exemplar is written in that 
+figure, that figure being at once the most formal, 
+and the most natural. 
+
+Besides the thirty-six moods already investi- 
+gated, there are twelve combinationa, firom which 
+no inference can be drawn, viz. : 
+
+Some-T is AU-X Some-T is Some-X 
+
+Some-Z is Some-Y =c AU-Z is Some-Y 
+
+
+
+5—2 
+
+
+
+68 OF THE 8TLL0GISM. 
+
+Some-Yis AU-X 
+AU-Z isSome-Y 
+
+
+
+Some-Y is Some-X 
+Some-Z is Some-Y 
+
+
+
+Some-Y is All-X Some-Y is not Some-X 
+
+Some-Z is not Some-Y « AU-Z is Some-Y 
+
+
+
+Some-Y is All-X Spme- Y is not Any-X 
+
+Any-Z is not Some-Y « All-Z is Some-Y 
+
+
+
+Some-Y is Some-X Some-Y is not Some-X 
+
+Some-Z is not Some-Y « Some-Z is Some-Y 
+
+
+
+Some-Y is Some-X Some-Y is not Any-X 
+
+Any-Z is not Some-Y x Some-Z is Some-Y 
+
+
+
+The reason why no third proposition in *Z ' and 
+* X ' results from any of these twelve pairs, is that in 
+each case Aristotle's principle fails, which requires 
+that the middle term ' Y' shall be distributed, {i,e. 
+universally predicated) in one of the premises. In 
+
+
+
+OF THE SYLLOGISM. 69 
+
+all these twelve pairs the middle tenn has in both 
+premises the indefinite quantity some. 
+
+The feint of drawing an inference in such cases 
+is called the fallacy of the undistributed middle. 
+The following are examples of it : 
+
+L 
+
+Some-Y'is All-X 
+AU-Z' isSome-T 
+
+
+
+Nonsequitur AU-Z' is AU-X' 
+
+
+
+Some-cases of rarefaction are caused by heat, 
+All-comets are cases of rarefaction ; 
+
+/. All-comets are rarefied by heat. 
+
+II. 
+
+Some-Yis AU-X 
+¦ AU-Z isSome-Y 
+
+
+
+Hon sequitur AU-Z is Some-X ... (1). 
+
+Some-cases of rarefaction are derived from other 
+
+causes than heat, 
+All-comets are some-cases of rarefaction ; 
+
+.•, All-comets are rarefied by something else than 
+heat. 
+
+AU-X is Some-W 
+
+AU-Z is Some-X firom (1). 
+
+AU-Z is Some-W 
+
+
+
+70 OF THE SYLLOGISM. 
+
+All bodies undergoing rarefaction from some 
+
+other cause than heat are cooled down ; 
+All-comets are so rarefied ; 
+
+/. All comets by rarefaction are cooled down. 
+
+Here the effect ' X' ' excludes the effect * W; 
+that is, if the comet by rarefaction be made hotter 
+it cannot be made cooler. The same informal con- 
+cluding thus gives birth to opposite conclusions. 
+
+. III. 
+
+Some-Y is All-X 
+Some or AU-Z is AU-Y 
+
+
+
+Some-Z is Some-X 
+
+
+
+Heat is caused by th^ proximity of comets, 
+It is hot to-day; 
+
+.*. Comets are near the earth to-day. 
+
+IV. 
+
+Some-X is AU-Y 
+Some-Z is All-X 
+
+
+
+Some-Z is AU-Y 
+
+
+
+Comets are discernible in hot weather, ' 
+To-day comets are seen ; 
+
+.•. To-day it is hot. 
+
+Now if for some, wherever it is the quantity 
+of the middle term * Y', we write certain^ in the 
+
+
+
+OF THE STLLOGISH. 71 
+
+sense of partial quantity definite or indefinite, and if 
+we suppose that the * Certain- Y' of the one premise 
+in any pair, together with the ' Certain-Y' of the 
+other premise in that pair, do together exceed the 
+universal quantity of ^ Y', then an inference can be 
+drawn, which extends to a quantity of * Y' at least 
+equal to the difference between the two certains. 
+In few words we say: If of two propositions the 
+middle term be not distributed as predicate in either, 
+but if it be quantified in both, and the sum of its 
+quantities exceed its universal quantity, a conse- 
+quent may be drawn. This is called the principle 
+of the ultra-total qiuintification of the middle term*. 
+For example : 
+
+Half the brigade were slain 
+A majority of the brigade were brave 
+
+Some brave men were slain 
+
+
+
+i. e. —- — Y is Some-X 
+2 
+
+> -- — Y is Some-Z 
+
+
+
+Some-Z is Some-X 
+
+
+
+Bearing in mind this condition of the over- 
+lapping of partial definites, we may write all the 
+twelve moods which have been dismissed as in- 
+competent, and state the consequents. 
+
+* Finrt schematised by Lambert : named by Sir W. Hamilton. 
+
+
+
+72 OF THE SYLLOGISM. 
+
+Let Certain in the one premise be definite or 
+indefinite, and [Certain] in the other premise be 
+greater than the diflference between aU and certain 
+in the first : or vice versa. 
+
+Then the following twelve additional moods 
+are valid ; five being sufficient, and seven redmi- 
+dant. 
+
+Additional Moods, 
+. Valid and sufficient. 
+
+Certain-Y is Some-X 
+Some-Z is [Certain]-Y 
+
+Some-E is Some-X 
+
+
+
+Certain- Y is Some-X Certain-Y is not Some-X 
+Some-Z is not [Certain]-Y « Some-Z is [Certain]-Y 
+
+Some-Z is not Some-X Some-Z is not Some-X 
+
+
+
+Certain-Y is Some-X Certain-Y is not Anv-X 
+
+Any-Zisnot[Certain]-Y « Some-Z is [Certairi-Y 
+
+Any-Z is not Some-X Some-Z is not Any-X. 
+
+
+
+Surplus Moods. 
+Valid but redundant. 
+
+Certain-Y is [All]-X Certain-Y is Some-X 
+
+Some-Z is [Certain]-Y ex: [AllJ-Z is [CertainJ-Y 
+
+Some-Z is Some-X Some-Z is Some-X 
+
+
+
+OF THE SYLLOGISM. 73 
+
+Certain-Y is [AUJ-X 
+[AU]-Z is [Certam].Y 
+
+Some-Z is Some-X. 
+
+
+
+Certain-Y is [All]-X Certain-Y is not Some-X 
+
+Some-Zisnot[Certain].Y « [All]-Z is [Certain]-Y 
+
+Some-Z is not Some-X Some-Z is not Some-X 
+
+Certain-Y is [AllJ-X Certain-Y is not Any-X 
+Any-Zis not [Certain]-Y oc [All]-Z is[Certain]-Y 
+
+Any-Z is not Some-X Some-Z is not Any-X 
+
+Writing each pair of congruous syllogisms as 
+one, and adopting the notation already explained, 
+the following represent the three valid sufficient 
+forms: 
+
+Certain-Y is Some-G i 
+
+[Certain]-Y is Some-r ( Good for Figs. I, 
+
+Some-F is Some-G j ' 
+
+Certain-Y is Som^-G ] 
+
+[Certain]-Y is not Some-Z I Good for Figs. I, 
+
+Some-r is not Som.e-G ( ^^' ™" ¦ 
+
+Certain-Y is Some-G 
+
+i jDertaij-Y is not any-F [ Good for Fig. III. 
+Some-G is not any-F 
+
+The syllogism is sometimes presented under a 
+form involving six (or perhaps more) terms, each 
+
+
+
+74 OP THE SYLLOGISM. 
+
+premise exhibiting two (or perhaps more) proposi- 
+tions hypothetically connectei Accordingly some 
+writers on logic have treated of these syllogisms 
+under the head of hypothetical. But the fact is, 
+that all such are immediately reducible to the 
+assertorial form. The following are examples of 
+this class of syllogisms. 
+
+In All cases where U is V Y is Z 
+In All cases where W is X U is V 
+
+In All cases where W is X Y is Z 
+
+In All cases where U is V Y is Z 
+In Some cases where W is X U is V 
+
+In Some cases where W is X Y is Z 
+
+In All cases where U is V Y is Z 
+In Some cases where U is V W is X 
+
+In Some cases where W is X Y is Z 
+
+In All cases where Y is Z U is V 
+In All cases where U is V W is X 
+
+In Some cases where W is X Y is Z 
+
+Now in these formulae if *U' with the attribute 
+'V; be 'U", 'T' with the attribute 'Z' be ' Y", 
+and 'W with the attribute 'X' be 'W", these syllo- 
+gisms are reduced to the following assertorial forms. 
+
+All-U' is Some-Y' 
+AU-W is Some-U' 
+
+
+
+AU-W is Some-Y' 
+
+
+
+OF THE SYLLOGISM. 75 
+
+All-U' is Some-Y' 
+Some-W is Some-U' 
+
+
+
+Some-W is Some-Y' 
+
+AU-U' is Some-Y' 
+Some-U' is Some-W 
+
+Some-W is Some-Y' 
+
+All-Y' is Some-U' 
+AU-U' is Some-W 
+
+Some-W is Some-Y' 
+
+It is obvious that by reference to the tables of 
+moods, hypothetical syllogisms may be multiplied 
+without limit. 
+
+The syllogisms that we have already treated of 
+are designated * Figured Syllogisms,' in contradis- 
+tinction to another class which we have hitherto 
+kept out of sight. 
+
+The canon of the unfignred syllogism is the 
+following. 
+
+In as far as two concepts, either both agreeing 
+or, one agreeing the other does not, with a common 
+third concept, in so far these notions do, or do not 
+agree with each other. 
+
+The unfigured syllogism in the terms * G,' * Y,' 
+\ r.' expiresses either that 'G and Yare tdenticaly (that 
+is the same in kind and quantity), or not identical, 
+as the case may be, and that Y and T are identical, 
+or not identical ; and that therefore G and T are 
+identical, or not identical, as the case may be : or. 
+
+
+
+76 OP THE SYLLOaiSM. 
+
+on the other hand, that G and Y are the same in 
+kind, but that G is in Y, and that Y and F are the 
+same in kind, but that Y is in F, and therefore 
+that G is in F : or that G, Y and F being of the 
+same kind, Y is in G, and F is in Y; and therefore 
+that F is in G.' ' 
+
+In such syllogisms there are indeed two ex- 
+treme terms and a middle term, but no term is 
+subject or predicate in any proposition ; and it will 
+be often found that the attempt to reduce the un- 
+figured syllogism to the figured is fraught with 
+complexity and redundancy, if not with absurdity. 
+
+The student may, for practice, try the experi- 
+ment of throwing the unfigured syllogism, Hhe 
+fruit is bigger than the stone, the stone is bigger 
+than the kernel; therefore the fruit is bigger than 
+the kernel,' into a figured syllogism. 
+
+Syllogisms, besides being figured and unfigured, 
+are also analytic and synthetic. In the former, 
+which is the most natural method of reasoning, the 
+consequence is expressed first, and the premises 
+then stated as its reasons. In the latter, which is 
+that cultivated by logicians, and to which there- 
+fore exclusively all logical nomenclature is rela- 
+tive, the premises precede, and, as it were, effectu- 
+ate the consequence. Example. If it be asked, 
+^is Z in X'? we reply analytically * Yes; for Z is 
+in Y, and Y is in X' ; but synthetically we should 
+reply ' Yes; for Y is in X, and Z isin Y' ; the syl- 
+logisms in both cases being unfigured. 
+
+
+
+PAET V. 
+
+OF CHAINS OF REASONING, DEDUCTIVE 
+
+AND INDUCTIVE. 
+
+In rendering logical processes subservient to 
+purposes of science, the mode of procedure is, to 
+a certain extent, determined bj the nature of the 
+subject-matter. 
+
+To that extent therefore the discussion of me- 
+thod is excluded from a treatise on formal logic. ' 
+
+The pure logical aspects of continuous chains of 
+reasoning are but two. 
+
+Reasoning may be analytic or synthetic; it 
+may be deductive or inductive. 
+
+For the sake of perspicuity, we will first inves- 
+tigate the distinction between deductive and in- 
+ductive reasoning. 
+
+In deduction we reason from the whole to the 
+parts, from the genus to the species, from the 
+species to the individual. 
+
+All the forms of syllogism with which we have 
+had as yet to deal are deductive. 
+
+The deductive syllogism may be figured or 
+unfigured. 
+
+
+
+78 OF CHAINS OP BEASONIKa, 
+
+In a simple chain of deductive syUogisms we- 
+start from the .greatest whole either in extension 
+or comprehension, and we terminate with an indi- 
+vidual olgect, or the all-embracing attribute. 
+
+Induction, on the other hand, is reasoning from 
+the parts to the whole, from the individual to the 
+species, from the species to the genus. The induc- 
+tive syllogism is in one figure only. In a simple 
+chain of inductive syllogisms we start from the in- 
+dividual objects, or the shallowest attributes, and 
+we reason to the most extensive class, or to the 
+most complex object (extension or intension). Ac- 
+cordingly (employing for the sake of illustration 
+the whole of extension only), we may descend 
+from the most extensive whole to the smallest con- 
+stituent parts by a chain of deductive syllogisms, 
+and we may ascend through the same series back 
+to the greatest whole by a chain of inductive syllo- 
+gisms; or, on the other hand, we may first ascend 
+by induction, and then descend by deduction. 
+These two logical procedures are as it were the 
+converse of each other. Hopeless then, nay absurd, 
+must appear the attempt of nearly all lo^cians to 
+assimilate the one procedure to the other. 
+
+Some have endeavoured to shew that the in- 
+ductive syllogism belongs to the third figure; 
+others, that it ought to be classed with hypotheti- 
+cals. Both views are manifestly erroneous. Let 
+us take examples of a single inductive, and a single 
+deductive syllogism, in extension, the two being 
+the converse of each other. 
+
+
+
+DEDUCTIVE AND INDUCTTIVE. 79 
+
+Inductive. Deductive. 
+
+AU-B is Some-A 
+
+
+
+c, c', cf\ are Some-A 
+
+c, c^ cf\ are AU-B 
+
+.-. All-B is Some-A 
+
+
+
+c, c', c", are Some or All-B 
+.*. c, c', c", are Some-A 
+
+
+
+In the inductive syllogism the predicate of the 
+second premise must be universal, or, in other 
+words, c, cf, cf\ must be constituents of a given 
+whole. When this is the case the induction is said 
+to be complete. It is worthy of observation that 
+if this predicate be indefinite, no conclusion can be 
+drawn; the premises c, &, cf\ are Some-A, and 
+c, cfy cf\ are Some-B, being incompetent. For ex- 
+ample: ^ . 
+
+Isaac, Levi, and Abraham, are avaricious, 
+Isaac, Levi, and Abraham, are All-the-Jews; 
+.". All Jews are avaricious. 
+
+This conclusion is just; but if the three indi- 
+viduals named do not constitute all the Jews, no 
+conclusion at all can be drawn. It is true, that by 
+indefinitely increasing the number of individuals 
+that collectively form the subject of both premises, 
+that is, by indefinitely approximating to the uni- 
+verse of Jews, the conclusion can be made more 
+and more probable; but until our induction ex- 
+hausts the universe, that is, until we have found 
+every individual Jew to be avaricious, we have no 
+right to predicate that fact apodictically; and it 
+must be remembered that logic deals with none 
+but necessary reasoning. 
+
+
+
+80 OF CHAINS OF BEASONIKG, 
+
+We maj extend what has been said on the in- 
+ductive syllogism to chains of reasoning of all 
+Aorts. The simplest case is where the individnals 
+if i^f i^^y belong to a species S, that species to a 
+genus 7, 7 to a genus fi, and )3 to a snmmnm genns 
+a: or we may extend the generalisation still higher. 
+In the example given the following are the induc- 
+tive and deductive series respectively. 
+
+Inductive. Dedtictive. 
+
+9f €', «", are Some-a All-)8 is Some-a 
+
+«, «', «", are AU-S 
+
+All-5 is Some-a 
+
+
+
+AU-S is Some-a 
+All-8 is Some-Y 
+
+
+
+All-7 
+
+
+ia Some-/3 
+
+
+AU-y 
+
+
+is Some-o 
+
+
+AU-y 
+AU-S 
+
+
+is Some-a 
+is Some-y 
+
+
+AU-S 
+
+
+is Some-a 
+
+
+AU-S i£ 
+
+
+1 Some-a 
+areAUor Some-S 
+
+
+e, e', e", 
+
+
+are Some-a 
+
+
+
+Home-yis Some-a 
+
+Some-yis Some-a 
+All-7 is Some-/8 
+
+Some-/8is Some-a 
+
+It is seldom, in the application of logic to 
+science, that any inductive operation involving a 
+longer chain of syllogisms is employed. The diffi- 
+culty and complexity of an inductive process lies 
+in something else than the length of the chain of 
+reasoning, or in any of the formal details of the 
+syllogisms employed. 
+
+In the domain of nature everything is pre- 
+sented to us under the forms of substance and acci- 
+dent, cause and effect, or action and reaction. 
+
+
+
+DEDUCTIVE AND INDUCTIVE. 81 
+
+Under the first form our judgments are assertorial, 
+that is, a predicate is simply afBrmed (or denied) of 
+a subject. Under the second form our judgments 
+are conjunctive, one proposition being affirmed (or 
+denied) as the consequence of another of which it 
+is logically independent. Under the third form our 
+judgments are disjunctive, an alternative being 
+presented between two or more propositions. Now 
+in point of fact these three forms are cognizable 
+under a single form, since the accident may always 
+be affirmed (or denied) as the effect of the sub- 
+stance, and in the case of action and reaction, either 
+may stand as cause, and the other as effect. Ac- 
+cordingly, in the investigation of nature, with a 
+view to determine the dependence of phenomena 
+upon each other, the occupation of the observer and 
+inductive reasoner is commonly called the search 
+after causes. Now as logic can take no cognizance 
+of the content or matter contained in any term or 
+proposition, it is manifestly out of its province to 
+inquire whether two phenomena (presented in the 
+form of propositions) are connected by the relation 
+of substance and accident, cause and effect, or ac- 
+tion and reaction. The business of logic is simply 
+to consider the relation of identity subsisting be- 
+tween two or more propositions formally distinct. 
+
+We proceed then to investigate the syllogistic 
+forms, hypothetical of course, under which the in- 
+ductive philosophy can conclude, from observation 
+and experiment, that two observed phenomena are 
+universally connected in a certain manner. 
+I. L. 6 
+
+
+
+
+
+
+82 OP THE SYLLOGISM. 
+
+It is of course assumed that the laws of nature 
+are constant, and that the like effects follow the 
+like causes in the absence of neutralising or modi- 
+fying concurrent causes. It is by virtue of this 
+assumption that the conclusions are invested with 
+the character of universality. 
+
+Now let us assume that we ar& presented with 
+a given instance which is analysed and resolved 
+into four phenomena X', X", X"', and Z. Let Z be 
+the phenomenon whose cause we seek, and let X' 
+and X" be two assigned causes selected on account 
+of some apparent probability that one or other is 
+the cause we seek. Then X'" is called the Resi- 
+dual Phenomenon, and of course if neither X' nor 
+X" be the cause sought that cause will be found 
+among the constituents of the residual phenomenon. 
+Now let us suppose that the circumstances of the 
+case permit us to experimentalize on the effect of 
+any two of the three constituents X', X", and X'"; 
+then the following are the only possible results. 
+
+I. X'andX"giveZ, X'andX"'give Z, X" and X"'do not give Z. 
+IL X'and X'giveZ, X'andX'" do not give Z, X"and X'" give Z. 
+
+III. X'andX"do notgiveZ, X'and X'"do not give Z, X"and X'"giveZ. 
+
+IV. X'andX"donotgiveZ, X'andX"'give Z, X"and X'" do not give Z. 
+V. X'andX"do notgiveZ, X' and X'" give Z, X" and X'" give Z. 
+
+TL X'andX"giveZ,X'andX'"donotgiveZ, X"andX'"do notgiveZ. 
+VIL X'andX"giveZ, X' and X'" give Z, X"andX'"give Z. 
+
+These are the only practicable combinations. 
+From I. it follows that X' is the caaise sought 
+
+
+
+OF THE STLLOGISM. 83 
+
+From II. that X" is the cause sought. Froin III. 
+it follows that X' is a contradictoiy cause, and 
+from IV. that X" is a contradictory cause. From 
+V, we learn that the required cause is to be sought 
+for in the residual phenomenon, and from VI. 
+that the residual phenomenon contains a contra- 
+dictory cause* From VII. we learn that X', X", 
+and X'" are all three equivalent causes. These 
+results are susceptible of a syllogistic schema- 
+tism. 
+
+Let the concurrence of X' and X" present the 
+phenomenon Y'. Let the concurrence of X' and 
+X'^' present the phenomenon Y", and let the con- 
+currence of X" and X'" present the phenomenon 
+Y'". Then from I, we have the following sche- 
+matism : 
+
+In all cases where Y' is Z is. 
+
+In all cases where Y' is X'" is not. 
+
+Therefore in some cases where Z is X'" is not. 
+
+In all cases where Y'' is Z is. 
+
+In some cases where Y" is X" is not. 
+
+Therefore in some cases where Z is X" is not. 
+
+
+
+Either in all cases where Z is X' is, or in all cases where Z is 
+X" is, or in all cases where Z is X!" is. 
+
+But in some cases where Z is X'" is not, and in some cases where 
+Z is X'' is not. 
+
+
+
+Therefore in all cases where Z is X' is. 
+
+
+
+In this disjunctive iDation, the truth of the 
+sumption depends on the fact that X', X", and X''' 
+
+
+
+* * * 
+
+* * * 
+
+
+
+81 OF THE SYLLOGISM. 
+
+comprise the whole universe of phenomena. Of 
+course no induction can extend so far as that in 
+practice the major premiss in question is of pro- 
+blematical modality only; but logic, as we have 
+seen, takes no cognizance of the problematioal or 
+presumptive, but only of the assertorial. 
+
+From U. we have the following, schematiatu : 
+
+In all cases where Y' ia Z is. 
+
+In all cases where Y' is X'" is not. 
+
+
+
+Therefore in some cases where Z is Ji'" is not. 
+
+In all cases where Y'" is Z is. 
+In all cases where Y'" is X is not. 
+
+Therefore in some cases where Z is X' is not. 
+
+Either in all cases where Z is X' is, or in all cases wbers Z \b 
+X" is, or in all cases where Z is X'" is. 
+
+But in some cases where Z is X''' is not, and in some cases where 
+Z is X' is not. 
+
+Therefore in all cases where Z is X" is. 
+
+
+
+From III, we have the following schematism 
+
+In all cases where Y' is Not -Z is. 
+In all cases where Y' is Z'" is not. 
+
+Therefore in some cases where Not -Z is X'" is not. 
+
+In all cases where Y" is Not -Z is. 
+In all cases where Y" is X" is not. 
+
+
+
+Therefore in some cases where Not -Z is X'' is not. 
+
+
+
+Either in all cases where Not -Z is X' is, or in all cases where 
+Not -Z is X" is, or in all cases where Not -Z is X'" is. 
+
+
+
+
+
+
+
+
+
+OP THE SYLLOGISM. 85 
+
+But in some cases where Not -Z is X'" is not, and in some cases 
+where Not -Z is X"' is not. 
+
+Therefore in all cases where Not -Z is X' is. 
+
+
+
+From IV. we have the following schematism : 
+
+In all cases wh^re Y' is Not -Z is. 
+In tJl o&EKs where Y' is X.'" is not. 
+
+
+
+Therefore in some cases where Not -Z is X'" is not. 
+
+In all cases where Y"' is Not -Z is. 
+In all cases where Y''' is X' is not. 
+
+
+
+Therefore in some cases where Z is X' is not. 
+
+Either in all cases where Not -Z is X' is, or in all cases where 
+Not -Z is X'' is, or in all oases where Z is X'" is. 
+
+But in some cases where Not -Z is X'" is not, and in some cases 
+where Not -Z is X' is not. 
+
+Therefore in all cases where Not -Z is X" is. 
+
+In a similar manner the schematisms V. and VI. 
+might be written. The conclusions from V, viz. 
+where Z is X'" is, merely informs ns that the 
+cause of Z is to be sought for in X'", the residual 
+phenomenon. 
+
+The conclusion from VI, where Not-Z is X'" 
+is, merely informs us that in the residual pheno- 
+menon X" there is a cause, but for which Z would 
+be present. The result of VII shews that the se- 
+lection of assumed causes X' and X" was unskilfdl 
+or unlucky, and recourse must \>e had again to 
+experiment. 
+
+
+
+» * 
+* t 
+t » 
+
+
+
+86 OF THE SYLLOGISM. 
+
+SyllogisTna hy hypothesis. 
+
+Syllogiams are often employed hypothetically 
+in a ci;ain of reasoning. The following example 
+may serve for an illuBtration. To prove that if 
+there are more hairy people in the world than 
+hairs on any one, two persons at least must have 
+the same numl)er of hairs. 
+
+I. 
+
+(Simple Illation.) 
+
+All the hairy people are more in nnmber than the 
+
+hairs of any one. (Datum.) 
+Therefore All the hairy people in the world are 
+
+more in number than the hairs on A. 
+
+II. 
+
+The number of hairs on A is equal to the number 
+of different mimlDers of haira from 1 to the 
+number A has. (Mathematical truth.) 
+
+1 the hairy people in the world are more in 
+number than the hairs on A. (Consequent of I.) 
+
+lerefore all the hairy people in the world are 
+more in number than the different numbers of 
+hairs from 1 to the number of hairs on A. 
+
+The next is an assertorial syllogism hypothe-. 
+ally posited. 
+
+
+
+OF THE SYLLOGISM. 87 
+
+III. 
+
+Let every one of the hairy people in the world 
+have a different number of hairs from the num- 
+ber on any one else. (Hypothesis.) 
+
+All the hairy people in the world are more in 
+number than the different number of hairs 
+from 1 to the number A has. (Consequent of II.) 
+
+Therefore some (one at least) of the hairy people 
+in the world have higher number of hairs on 
+them than the number A has. 
+
+IV. 
+
+(Disjunctive Illation.) 
+
+Either each of the hairy people in the world has a 
+different number of hairs from that on any one 
+else; or some (two at least) have the same 
+number of hairs. (Mathematical truth.) 
+
+But if the first alternative be true, there are some 
+(one at least) who have higher numbers of 
+hairs on them than the number A has, which 
+is the contradictory of the datum. 
+
+Therefore some (two at least) have the same num- 
+ber of hairs. 
+
+This example, which belongs rather to applied 
+than to formal logic, is introduced with the view 
+of shewing in a small compass, the value of a 
+suppository assertorial syllogism ^ The use made 
+
+^ Is not this the syllogisrm which Aristotle calls i( inro$4a€<a$^ 
+
+
+
+88 OF THE SYLLOGISM* 
+
+of it in the preceding example, is called die 
+Reductio ad absurdum. 
+
+Without infringing on the sphere of applied 
+logic, it is difficult to discuss the subject of ana- 
+lysis and synthesis as methods of teaching science 
+and of investigating scientific truths. Whether 
+the names be well or ill applied, as discriminating 
+between algebraical and geometrical processes, is 
+a matter of great doubt. We have already em* 
+ployed these terms to designate the direct and 
+inverse methods of stating an argument. (See 
+p. 76). The student must carefully bear in mind 
+that no such sense is to be attributed to the terms 
+analytical and synthetical as applied to distinguish 
+such processes as those of algebra and geometry. 
+I specify algebra and geometry, simply because 
+these are the only sciences in which the two 
+processes we are speaking of are exhibited in per- 
+fection. 
+
+In the opinion of the writer both those pro- 
+cesses are deductive, and further, that there is no 
+logical difference between them; in other words, 
+they differ only in their subject matter. 
+
+
+
+THE END. 
+
+
+
+c t. 
+
+• * ' * 
+
+4. C C 
+
+
+
+CAMBRIDGE, June 1869. 
+
+MACMILLAN & CO/S 
+
+PUBLICATIONS- 
+
+
+
+JESCHTLI Enmenides. 
+
+The Greek Text with English Notes.: with an Introduction, containing an 
+Analysis of C. O. MUUer's Dissertations ; and an English Metrical Translation. 
+By BERNARD DRAKE, M.A., Fellow of King'? College, Cambridge; Editor 
+of ''Demosthenes de Corona." 8yo. cloth, 7$. €d, 
+
+ANTH0L06I/L Latina Selecta. In 2 vols. Small 8vo. 
+
+Vol. I.— Containing select Epigrams of Catullns, Virgil, Claudian, Ausonius, 
+
+with others from the Anthologia Latina. 
+Vol. II. — Containing select Epigrams of Martial. 
+
+Edited with English notes, by J. E. B. MAYOR, M.A., Fellow and Classical 
+Lecturer of St. John's College, Cambridge, Editor of Juvenal. 
+
+[Preparing, 
+
+ARISTOPHANES. The Greek Text revised, with a Com- 
+mentary. By W. O. CLARK, M.A., Fellow and Assistant Tutor of Trinity 
+College. IPreparing, 
+
+ARISTOTELES de Rhetorica. The Greek Text, with English 
+
+Notes. By A Fsllow ov Tkihitt College. {Preparing* 
+
+ARISTOTLE on the Vital Principle. Translated from the 
+
+Original Text, with Notes. By CHARLES COLLIER, M.D., F.R.S., Fellow 
+of the Royal College of Physicians. Crown 8vo. cloth, Bt, 6d, 
+
+BEAMONT.— Catherine, the Egyptian Slave in 1852. A Tale 
+
+of Eastern Life. By W. J. BEAMONT, M.A., Fellow of Trinity College, 
+Cambridge, late Principal of the English College, Jerusalem. Fcap. 8yo. 5t.6d, 
+
+BENGELII GNOMON NOVI TESTAMENTI, in quo ez 
+
+Nativa Verbonim vi simplicitas, profunditas, concinnitas, salubritas en* 
+suum coelestium indicatur. Editio Tertia. Imperial 8vo. cloth, 18«. 
+
+BIRES.— The Difficulties of Belief in connexion with the 
+
+Creation and the Fall. By THOMAS RAWSON BIRKS, M.A., Rector ef 
+
+Kelshall, Formerly Fellow of Trinity College ; Author of « The Life of th« 
+
+Bey. O. Bickersteth." Crown 8vo. cloth, 4*. 6(f. 
+
+Contents. Introduction. — On the Knowledge of God. Chap. I.— On the 
+Power of God. II. — On the Nature of God. III.— On the Creation of 
+Free Agents. IV. — On Temptation in Free Agents. V. — On the Creation 
+and Fall of Angels. VI.— On the Creation and Fall of Man. VII.— On 
+the Permission of Satanic Temptation. VIII. & IX.— On Original Sin. 
+
+
+
+S MACMILLAN & CO.'S FUBUCATIOirS. 
+
+BOLTON.— The Evidences of Christiftiiity as Exhibited in 
+
+the Writings of its Apologists down to Augustine. An Essay which obtained 
+the Hulsean Prize for the Year 1892. By W. J. BOLTON, of GonviUe and 
+Caius College, Cambridge. Bro. doth, 6«. 
+
+BRAVE WORDS fdr BRAVE SOLDIERS and SAILORS. 
+
+Tenth ThouiiMid. 16mo. sewed, id, ; or 10«. per 100. 
+
+[Printtdfor DMribuHom, 
+
+BUTLER (Professor Archer).— Sermons, Doctrinal and Prac- 
+tical. By the Rev. WILLIAM ARCHER BUTLER, M.A. late Professor 
+of Moral Philosophy in the University of Dublin. Edited, with a Memoir of 
+the Author's Life, by the Very Rev. Thomas Woodwakd, M.A. Dean of 
+Down* With Portrait. Third Edition. Svo. cloth, 12#. 
+
+BUTLER (Professor Archer).— A Second Series of Sermons. 
+
+Edited from the Author's Manuscripts, by J. A. Jerbmxx, D-.D. Regius 
+Professor of Divinity in the University of Cambridge. 8vo. cloth. 10«. Gd. 
+
+BUTLER (Professor Archer).— Lectores on the History of 
+
+Ancient Philosophy. By the Rev. W. ARCHER BUTLER, late Professor 
+of Moral Philosophy in the University of Dublin. Edited, firom the Author's 
+Manuscripts, by William Hbpworth Thompson, M.A. Regius Professor 
+of Greek in the University of Cambridge. 2 vols. 8vo. cloth, It, 5$, 
+
+BUTLER (Professor Archer).— Letters on Romanism, in 
+
+Reply to Mr. Newman's Essay on Development. Edited by the Very Rev. 
+T. Woodward, Dean of Down. 8vo. cloth, 10«. 6d, 
+
+BUTLER.— A Hand Book to Butler's Analogy. 
+
+With a few Notes. By C. A. SWAINSON, M.A. Principal of Chichester 
+Theological College, formerly Fellow and Tutor of Christ's College, Cam* 
+bridge. Crown 8vo. It. 6d, 
+
+CAMBRIDGE.— Cambridge Theological Papers. Comprising 
+
+those given at the Voluntary Theological and Crosse Scholarship Examina- 
+tions. Edited, with References and Indices, by A. P. MOOR, M.A. of Trinity 
+College, Cambridge, and Sub-warden of St. Augustine's College, Canterbury. 
+8vo. cloth, 7$, 6d, 
+
+CAMBRIDGE PROBLEMS.— Solutions of the Senate-House 
+
+Riders for Four Years (1848 to 1851). By F. J. JAMESON, H.A. FeUow 
+of Caius CoUege, Cambridge. 8vo. cloth, 7«. 6d. 
+
+CAMBRIDGE PROBLEMS.— Solutions of Senate-House 
+
+Problems for Four Years (1848 to 1851). By N. M. FERRERS, and 
+J. S. JACKSON, Fellows of Caius College, Cambridge. 8to. cloth» ISt, 6d. 
+
+CAMBRIDGE PROBLEMS, 1854.-Solutions of the Pro- 
+
+blems proposed in the Senate House Examination, January 1854. By the 
+Moderators (W. WALTON, M.A. Trinity College, and C. F. MACKENZIE. 
+M.A. Fellow of Caius College). In 8vo. cloth, 10«. 6d, 
+
+
+
+4, • 
+
+
+
+VACIOLLAN & CO.*S PXTBUCATIONS. 9 
+
+GAHBSIDGE.-Xlambridge Guide: Inclading Historical and 
+
+Arohlteetural Notices of the Public Buildings, and a concise Account of the 
+Customs and Ceremonies of the University, with a Sketch of the Places most 
+worthy of Note in the County. A New Edition, with Engravings and a Map. 
+]2mo. cloth, 5s. 
+
+CAMBRIDGE FITZWILLIAM MnSEnM.-^A Hand-Book 
+
+to the Pictures in the Fitiwilliam Museum, Cambridge. Crown 8vo. sewed, 
+1«. 6(f . ; or in cloth elegant, 2s. 6d, 
+
+CAMBRIDGE.— Cambridge Mathematical JonmaL VoL L 
+
+Second Edition, 8vo. cloth, 18«. 
+
+CAMBRIDGE.—Cambridge and Dublin MathematicalJonmaL 
+
+Ths Complete Workt in Nine Vols. 8vo. cloth, H. As. 
+
+ONLY ? FXW COriXS OV THS COMPLXTV WO&K »SX4IH OH H4HI>. 
+
+CAMPBELL.— The Nature of the Atonement and its Rela- 
+tion to Remission of Sins and Eternal Life, By JOHN M*L£OD 
+CAMPBELL. Svo. cloth, 10«. 6d. 
+
+COLEKSO.~Ten Weeks in Natal. A Journal of a First 
+
+Tour of Visitation among the Colonists and Zulu Kafirs of Natal. By the 
+Right Rev. JOHN WILLIAM COLENSO, D.D. Bishop of Natal, with * 
+Map and Illustrations. Fcap. Svo. cloth, 5#. 
+
+COLENSO.— An Ordination and Three Missionary Sermons. 
+
+By the Right Rev. JOHN WILLIAM COLENSO, D.D. Bishop of NataL 
+l8mo. 1«. 
+
+COLENSO.— Village Sermons. By the Right Rev. JOHN WIL- 
+LI am COLENSO, D.D. Bishop of Natal. Second Edition. Fcap. Svo. 
+cloth, is. 6if. 
+
+COLENSO.— The Commnnion Service, from the Book of 
+
+Common-Prayer, with Select Readings firom the writings of the Kev. F. D. 
+MAURICE, M. A. Edited by the Right Rev. JOHN WILLIAM COLENSO, 
+D.D., Bishop of Natal. Fine Bditiont rubricated and bound in morocco* 
+antique style, ts.; or in cloth, 2s. 6d. Common Paper, lymp cloth. Is. 
+
+COOPER.— A Geometrical Treatise on Conic Sections. By 
+
+, the Rev. J. £. COOPER, M.A. late Fellow of St. John's College, Cambridge. 
+
+iPreparing. 
+
+COTTON.— Sermons : chiefly connected with Public Events 
+
+of 1854. By G. £. LYNCH COTTON, M.A. Master of Marlborough CoUege« 
+formerly Fellow of Trinity Coll^[e, Cambridge. Fcap. Svo. cloth, St. 
+
+DAVIES.— St Paul and Modem Thought : 
+
+Remarks on some of the Views advanced in Professor Jowett's Commentary 
+on St. PaoL By Rev, J. LL. DAVIES, M.A. Fellow of Trinity College, Cam- 
+bridge, and Incumbent of St. Mark's, Whitechapel. Svo. 2s. 6d. 
+
+DEMOSTHENES.— Demosthenes de Corona. 
+
+The Greek Text, with English Notes. By BERNARD DRAKE, M.A. 
+Fellow of King's Coll. Cambridge, Editor and Translator of the "EumenidM 
+pf iBschylus." Crown Svo. cloth, 5s. 
+
+At 
+
+
+
+4 MACMtLLAN & CO.'S FUBUCATIONS. 
+
+¦DEMOSTHENES.— Translation of Demosthenes on thi 
+
+Crown. By J. P. NORRIS, M.A. Fellow of Trinity College, Cambridge aoA 
+one of Her Mi^esty's Inspector* of Schools. Crown Svo. doth, 8«. 
+
+DRAKE.— Notes Explanatory and Critical on the Books of 
+
+Jonah and Rosea. By WILLIAM DRAKE, M.A. late Fellow of St. Jobn'^ 
+College, Cambridge. 8yo. cloth. 9t. 
+
+EVANS.— Sonnets on the Death of the Duke of Wellington, 
+
+by SEBASTIAN EVANS. 8yo. sewed, U. 
+
+FERRAR.— Lives of Nicholas Ferrar, Fellow of Clare HalL 
+
+By his BROTHER JOHN, and Dr. JEBB. Now first Edited, with lUua- 
+trations, by J. £. B. MAYOR, M.A., Fellow and Assistant Tutor of SC 
+John's College, Cambridge. Fcap. Svo. cloth, 7t. 6tf. 
+
+FLOWERS OF THE FOREST.— A War Ballad for January 
+
+1855. Bv M. A. H. Crown Svo. 6d. / 
+
+FROST.— The First Three Sections of Newton's Principia. 
+
+With Notes and Problems in illustration of the subject. By PERCIVAL 
+FROST, M.A. late Fellow of St. John's College, Cambridge, and Mathe- 
+matical Lecturer of Jesus College. Crown Svo. cloth, 10«. 6d, 
+
+FROST.— Thncydides, Book VI. The &reek Text, and English 
+
+Notes: with a Map of Syracuse. By PERCIVAL FROST, Jun. M.A. late 
+Fellow of St. John's College, Cambridge. Svo. cloth, 7$. 6d. 
+
+60DFRA7.— An Elementary Treatise on the Lunar Theory. 
+
+With a brief Sketch of the History of the Problem up to the time of Newton. 
+By HUGH GODFRAY, B.A. of S t. John's CoUege, Cambridge. Svo. cloth, 
+5* . 6d. 
+
+GOODWIN.— How Christ's Promises are folfiUed. 
+
+A Farewell Sermon preached on the occasion of the departure of the Bishop 
+of Natal, and the other members of the Natal Mission. By HARVEY 
+GOODWIN, M. A., Minister of St. Edward's, and Hulsean Lecturer in the 
+University of Cambridge. Svo. sewed. 1#. 
+
+GRANT.— Plane Astronomy. 
+
+Including Explanations of Celestial Phenomena, and Descriptions of Astrono* 
+mical Instruments. By A. R. GRANT, M.A., one of Her Majesty's In- 
+spectors of Schools, late Fellow of Trinity CoUege, Cambridge. Svo. boards, 6«. 
+
+HALLIFAX.— Bishop Hallifax's Analysis of the Civil Law. In 
+
+which a comparison is occasionally made between the Roman Laws and those 
+of England. A new Edition, with alterations and additions, being the heads 
+of a Course of Lectures publicly delivered in the University of Cambridge, by 
+J. W. GELDART, LL.D. Svo. bds. Bt. 6(/.; interleaved, lOt. 6d,; double In- 
+terleaved, ISs. 6d. 
+
+HARE.— Charges to the Clergy of the Archdeaconry of Lewes, 
+
+delivered at the Ordinary Visitations from the Year 1 840 to ] 854. With Not^ 
+on the Principal Events affecting the Church during that period. By JULIUS 
+CHARLES HARE, M.A. Archdeacon. With an Introduction, explanatory 
+•f his position in the Church with reference to the parties which divide it. 
+I vols. Svo. cloth, li. 11#. erf. 
+
+
+
+1£ACMILLAN IfL CO;S PUBLICATIONS. ft 
+
+HARE.— Charges to the Clergy of the Archdeaconry of Lewes, 
+
+delivered at the Ordinary Visitations in the Years 1848, 1845, 1846. By 
+JULIUS CHARLES HARE, M.A. Archdeacon. Never before published. 
+With an Introduction, explanatory of his position in the Church with 
+reference to the parties which divide it, 6«. 6d. 
+
+BARE.— Miscellaneous Pamphlets on some of the Leading 
+
+Questions agitated in the Church during the last Ten Years. 8vo. cloth, ]2«. 
+*«-* As only a very small Edition of the Collected Pamphlets has been made 
+up, an early application is requested. 
+
+HARE.— The Victory qf Faith. 
+
+Second Edittoa. 8vo. cloth, 5«. 
+
+HARE.— The Mission of the Comforter. 
+
+Second Edition. With Notes. 8vo. cloth, 12«. 
+
+HARE.— Vindication of Lather from his English Assailants . 
+
+Second Edition. 8vo. cloth, 7«. 
+
+HARE.— The Contest with Rome. 
+
+With Notes especially in answer to Dr. Newman's recent Lectures. Second 
+EdlMon. 8vo. cloth, 10«. 6d, 
+
+HARE.— Parish Sermons. 
+
+Second Series. 8vo. cloth, 12s. 
+
+HARE.— Portions of the Psalms in English Verse. 
+
+Selected for Public Worship. ISmo. cloth, 2s. 6d. 
+
+HARDWICK— Christ and other Masters. 
+
+An Historical Inquiry into some of the chief Parallelisms and Contrasts 
+between Christianity and the Religious Systems of the Ancient World. With 
+special reference to prevailing Difficulties and Objections. By CHARLES 
+HARDWICK, M.A., Fellow of St. Catherine's Hall, Divinity Lecturer at 
+King's College, and Christian Advocate in the University of Cambridge. 
+Pt. I. 8vo. cloth, 7s. ed. 
+
+:pARDWICK— A History of the Christian Chnrch, daring the 
+
+Middle Ages. By CHARLES HARDWICK, M.A. Fellow of St. Catha- 
+rine's Hall, Divinity Lecturer in King's College, and Christian Advocate in 
+the University of Cambridge. Author of '< A History of the XXXIX. 
+Articles." With Four Maps constructed for this Work by. A. KEITH 
+JOHNSTON. Crown 8vo. cloth, 10«. 6d. 
+
+HARDWICK.— A History of tlie Christian Chnrch daring the 
+
+Reformation. By CHARLES HARDWICK, M.A. Crown Svo. cloth, 
+10s. 6d. 
+
+*«* These two Books are part of a Series of Theological Manuals 
+
+now in progress. 
+
+HARDWICK.— Twenty Sermons for Town Congregations. By 
+
+CHARLES HARDWICK, M.A. Crown 8vo. cloth, 6s. Gd. 
+
+
+
+( MACMULAN & CO.'S PUBLICATIONS. 
+
+HARE.— Two Sermons preached in Herstanoncenz Clmreli^ 
+
+on Septuagesima Sundfty, February 4, 1855, being the Sunday after the 
+Funeral ofthe Venerable Arehdea<^on Hare. By the Rev. H. VENN ELLIOTT, 
+Perpetual Curate of St. Mary's, Brighton, late Fellow of Trinity College, 
+Cambridge, and the Key. J. N. SIMPKINSON, Rector of Biington, North- 
+ampton, formerly Curate of Herstmonceux. * 8vo. 1«. M. 
+
+HEMMING.— An Elementary Treatise on tlie Differential 
+
+and Integral Calculus. For the Use of Colleges and Schools. By O. W. 
+HEMMING, M.A. Fellow of St. John's College, Cambridge. Seeond 
+Bdltlon^ with Corrections and Additions. 8to. doth, 9s. 
+
+HEBVET.— The Genealogies of oar Lord and Saviour Jesna 
+
+Christ, as contained in the Gospels of St. Matthew and St. Luke, reconciled 
+with each other and with the Genealogy of the House of David, from Adam to 
+the close of the Canon of the Old Testament, and shown to be in harmony with 
+the true Chronology of the Times. By Lord ARTHXJR HERVEY, M.A. 
+Rector of Ickwoith with Horringer. 8vo. cloth, 10«. 6d. 
+
+HEBVE7.— The Inspiration of Holy Scripture. 
+
+Five Sermons preached before the University of Cambridge, in the month of 
+December 1855. 8vo. cloth, Si. 6d, 
+
+HOWARD.— The Book of Genesis, according to the Version 
+
+of the LXX. Translated Into English, with Notices of its Omissions and In- 
+sertions, and with Noteion the Passages in which it diflfers from our Authorised 
+Version. By the Hon. HENRY £. J. HOWARD, D.D. Dean of Lichfield. 
+Crown 8vo. cloth, 8«. 6d, 
+
+HOWES.— A History of the Christian Church dnring the First 
+
+Six Centuries. By J. G. HOWES, M.A. Fellow of St. Peter's Coll. Camb. 
+
+[Nearlif r€ad$* 
+%• This is part of a Series of Theological Manuals now in progress. 
+
+HULBEBT.— The Gospel Bevealed to Job: or Patriarchal 
+
+Faith and Practice illustrated. By C. A. HULBERT, M.A. 8vo. cloth, lUk 
+
+HUMPHBE7S.— Exercitationes lambicae; or, Frogresdve 
+
+Exercises in Greek Iambic Verse. To which are prefixed, the Rules of Greek 
+Prosody, with copious Notes and Illustrations of the Exercises. By E. R» 
+HUMPHREYS, LL.D. Head Master of the Cheltenham Grammar School* 
+Second Edition. Fcap. cloth, 5«. 6d. 
+
+JEBEMIE.— Two Sermons Preached before the University 
+
+of Cambridge, on April 26, 1854, and March 21, 1855, being the Daye 
+appointed for General Humiliation and Prayer. By J. A. JEREMIE, D.D. 
+Regius Professor of Divinity. 8vo. 2«. 
+
+JEBEMIE.— Sermon preached before the University of Cam- 
+bridge, on July 1st, 1855, on the occasion of the Death of Profsssob Blvvt. 
+By J. A. JEREMIE, D.D. 8vo. sewed, 1«. 
+
+JEWELL.— An Apology of the Church of England, and an 
+
+Epistle to Seignior Scipio concerning the Council of Trent, translated from the 
+original Latin, and illustrated with Notes, chiefly drawn firom the Author'* 
+•« Defence of the Apology.** By A. T. RUSSELL. Fcp. 8vo. bds. 5a. 
+
+
+
+MACMILLAK & CO.*S PUBUCATIONa. 7 
+
+JUSTIN MARTTB.— S. Jastini Pliilosophi et MartyriB 
+
+Apologia Prima. Edited, with a corrected Text, and English Introduction 
+and explanatory Notes, by W. TROLLOPE, M.A» Pembroke College, Cam- 
+bridge. 8to. bds. 7*. 6d. 
+
+JUVENAL.— Juvenal : chiefly from the Text of Jahn. 
+
+With English Notes for the Use of Schools. By J. £. B. MAYOR, M.A. 
+Fellow and Classical Lecturer of St. John's College, Cambridge. Crown 8to. 
+cloth, lOf. M, 
+
+KENNEDY.— The Influence of Christianity upon Inter- 
+
+national Law. The Hulsean Prixe Essay in the University of Cambridge for 
+the year 1854. Crown 8to. cloth, 4«. 
+
+KENGSLET— " Westward Ho !" or, the Voyages and Adven- 
+tures of Sir Amyas Leigh, Knight, of Burrough, in the County of DeTon, in 
+the Reign of Her Most Glorious M^esty Queen Elixabeth. By CHARLES 
+KINGSLEY. Second Bdltion. 3 vols, crown 8vo. 1/. lU. 64. 
+
+EIN6SLE7.— The Heroes: or, Greek Fairy Tales for my 
+
+Children. With Eight Illustrations after Drawings by the Autiior. In 8to. 
+beautiftilly printed on tinted paper, and elegantly bound in cloth, with gilt 
+leaves, 7«. 6d, 
+
+** If the public accept our recommendation, Mr. Kingsley's little book will run 
+through many editions." — Guardidn, March 12, 1856. 
+
+EIN6SLE7.— ^Glaucus ; or, the Wonders of the Shore. 
+
+Second Bdltion* With a Frontispiece. Fcap. 8vo. cloth, St, 6d, 
+
+EINGSLE7.— Alexandria and Her Schools : being Four Lec- 
+tures delivered at the Philosophical Institution, Edinburgh. With a Preface. 
+Crown 8vo. cloth, 5«. 
+
+CINGSLET.— Phaethon ; or Loose Thoughts for Loose 
+
+Thinkers. Second Bdltion. Crown 8vo. boards, 2«. 
+
+LATHAM.— ^Geometrical Problems in the Properties of Conic 
+
+Sections. By H. LATHAM, M.A. Fellow and Tutor of Trinity Hall. 8vo. 
+sewed, it,M, 
+
+LECTURES to Ladies on Practical Subjects. 
+
+Delivered in London during the month of July, 1855, by the Rev. F. D. 
+MAUl^ICE, Professor TRENCH. Archdeacon ALLEN. J. S. BREWER, 
+J. LL. DAVIE8, CHARLES KINGSLEY, Dr. CHAMBERS, 
+Dr. SIEVEKING, Dr. JOHNSON, TOM TAYLOR, Esq., and 
+F. J. STEPHEN, Esq. Second Edition. Crown 8vo. cloth, 7s. Bd, 
+
+LETTERS from Italy and Vienna. 
+
+Small 8vo.. cloth, 5«. M, 
+
+
+
+9 WLCmUJLtH k CO.'S POBIilCATIONS. 
+
+LUND.— A Short and Easy Course of Algebra. 
+
+Chiefly designed for the use of the Junior CiMses in Schools, with a nameroat 
+colleetton of Original ea«y Exercises. By THOMAS LUND, B.D. late Fellow 
+of St. John's College, Cambridge. Second Edition. 12mo. cloth, St. 6d, 
+
+LUSHINGTON.— La Nation Boatiqni^re : and other Poems, 
+
+chiefly Political. With a Preface. By the late HENRY LUSHIN6T0N» 
+Chief Secretary to the Governor of Malta. Points Of War« By 
+FRANKLIN LUSHINOTON, Judge in the Supreme Courts of the IodJmi 
+Isles. In 1 vol. fcap. 8vo. clo^h. S*, 
+
+MACKENZIE.— The Christian Clergy of the first Ten Cenr 
+
+turies: their Influence on European Civilization. By HENRY MACKENZIE. 
+B.A. formerly Scholar of Trinity College, Cambridge. Crown 8vo. cloth, 6s, 6d, 
+
+MANSFIELD.— Letters from Brazil, Buenos Ayres, and 
+
+Paraguay. With a Map. Edited firom the Author's MSS. With a Sketch 
+of his Life. By the Rev. CHARLES KINGSLEY. iJttst ready. 
+
+MANSFIELD.— On the Constitution of Salts. 
+
+Edited from the Author's MS. by N. H. 8. MASKELYNE, M.A. Wadham 
+College, and Reader in Mineralogy in the University of Oxford. [In the Preee, 
+
+M COY." Freparing for Publication; to be completed in about Five PartSt 
+price 5«. each, forming One Volume 8vo. of about 500 pages, vrith nearly 1,000 
+illustrations in the text, drawn and engraved by the Author, 
+
+A Manual of the Genera of British Fossils. 
+
+, Comprising Systematic Descriptions of all the Classes, Orders, Families, and 
+Genera of Fossil Animals found in the Strata of the British Isles ; with 
+figures of all the Generic Types. By FREDERICK M'COY, F.G.S., Hon. 
+F.C.P.S., Professor of Natural History in the University of Melbourne, Author 
+of '* Characters of the Carboniferous Limestone Fossils of Ireland," " Synopsis 
+of the Silurian Fossils of Ireland,*' one of the Authors of " Sedgwick and 
+M'Coy's British Palieozoic Rocks and Fossils," &c. 
+
+M'COY. — Preparing for Publication, in One Volume, crown Svo. with numerons 
+Illustrations, 
+
+An Elementary Introduction to the Study of FalsBontology. 
+
+With numerous Figures illustrative of Structural Details. 
+*«* This little Work is intended to supply all that elementary information on the 
+Structure of Fossil Animals, with reference to the most nearly allied existing 
+types, illustrated explanation of technical terms, &c. which the beginner may 
+require, but which would be out of place in the Author's systematic voluma 
+on the Genera. 
+
+M'COY.— ^Contributions to British Palaeontology; or, First De* 
+
+seriptions of several hundred Fossil Radiata, Articulata, Mollusca, and Pisces, 
+firom the Tertiary, Cretaceous, Oolitic, and Palaosoic Strata of Great Britain. 
+With numerous Woodcuts. Svo. cloth, 9$. 
+*«* This forms a complete Series of the Author's Papers fh>m the '* Annals of 
+Natural History." 
+
+MASSON.— Essays, Biographical and Critical ; chiefly on the 
+
+English Poets. By DAVID MASSON, M.A. professor of EngUsh 
+Literature in University College, London. Svo. cloth, I2t, 6d. 
+
+
+
+HACIOLLAN & CO.*S JPUBLICATIONS. 9 
+
+MAURICE.— A Photograph Portrait of Rev. F. D. Maurice. 
+
+4to. price 6«. 
+
+MAURICE.— Lectures on the Ecclesiastical History of the 
+
+First and Second Centuries. By FREDERICK DENISON MAURIC£» 
+M.A. Chaplun of Lincoln's Inn. 8to. clotli> 10«. 6tf. 
+
+MAURICE.— The Unity of the New Testament, being a 
+
+Synopsis of, and Commentary on, the first three Gospels, and the Epistles of 
+St. James, St. Jude, St. Peter, and St. Paul. 8vo. doth, Hi, 
+
+MAURICE.— Patriarchs and Lawgivers of the Old Testament. 
+
+Second Edition. With nev Preface. Crown Syo. cloth, 6*. 
+
+MAURICE.— The Prophets and Kings of the Old Testament. 
+
+Crown Svo. cloth. Second Edition. 10«. 6d, 
+
+MAURICE.— Theological Essays. 
+
+Second Edition^ with a new Preface and other additions. Crown Svo. 
+cloth, 10«. 6d, 
+
+MAURICE.— The Doctrine of Sacrifice deduced from the 
+
+Scriptures. With a Dedicatory Letter to the Young Men's Christian Associa- 
+tion. Crown 8ro. cloth, 7«. 6d, 
+
+MAURICE.— Christmas Day, and other Sermons. 
+
+tTO. cloth, 10«.6d. 
+
+MAURICE.— The Religions of the World, and their relations 
+
+to Christianity. Third Edition. Fcap. Svo. cloth, 5«. 
+
+MAURICE.— The Prayer-Book considered, especially in rer 
+
+forence to the Romish System. Second Editionj Foap. Svo. cloth, 5«. 6d, 
+
+MAURICE.— The Church a Family. Twelve Sermons on the 
+
+OiCcasional Services of the Prayer-Book. Fcap. Svo. cloth, 4«. 6d, 
+
+MAURICE.— On the Lord's Prayer. 
+
+Third Edition. Fcap. Svo. cloth, 2«. 6d. 
+
+MAURICE.— On the Sabbath Day: the Character of the 
+
+Warrior; and on the Interpretation of History. Fcap. Svo. cloth, 2i. 6tf, 
+
+MAURICE.— Learning and Working.— Six Lectures delivered 
+
+in Willis's Rooms, London, in June and July, 1854. The Reli^On Of 
+Rome, and its influence on Modem CiTilisation.— Four Lec- 
+tures delivered in the Philosophical Institution of Edinburgh, in December 
+1854. In One Volume, Crown Svo. cloth. 5«. 
+
+MAURICE.— An Essay on Eternal Life and Eternal Deathi 
+
+and the Preface to the new Edition of " Theological Essays." Crown Svo. 
+sewed, U. 6d. 
+
+*«* Published separately for the purchasers <3f the first edition. 
+
+MAURICE.— Death and Life. A Sermon Preached in tiie 
+
+Chapel of Lincoln's Inn, March 25, 1855. Jn filnmUm <K(. B. IS. Svo. 
+lewed, U, 
+
+
+
+10 HACHILLAN ft CO.*S VUBLICATIOKS. 
+
+MAURICE.— Plan of a Female College for the Help of thd 
+
+Rich and of the Poor. A Lecture delivered at the Working Men'a College, 
+London, to a Clasi of Ladies. 8vo. 6tf. 
+
+MAUBICE.— Administrative Reform. 
+
+A Lecture deliyered at the Working Men't College, London. Crown Sto. Sd. 
+
+MAURICE.— The Word "Eternal," and the Prmishment of 
+
+the Wicke^. A Letter to the Rev. Dr. Jelf, Prfaicipal of King's College. 
+London. Fiflh Thousand. 8vo. U, 
+
+MAURICE.— The Name "Protestant:" the Seemingly Double 
+
+Character of the English Church; and the English Bishopric at Jerusalem. 
+Three Letters to the Rev. Wm. Palmer, Fellow and Tutor of Magdalen 
+College, Oxford. Second Bdltion. 8vo. 8f. 
+
+MAURICE.— On Right and Wrong Methods of Sapportiiig 
+
+Protestantism. A Letter to Lord Ashlejr. 8vo. U, 
+
+MAURICE.— Thoughts on the Duty of a Protestant, in the 
+
+Oxford Election of 1847. 8vo. U, 
+
+MAURICE.— The Case of Queen's College, London. 
+
+A Letter to the Lord Bishop of London, in reply to the '< Quarterly Review." 
+8vo. 1«. dd, 
+
+MAURICE.— Lectures on Modem History and English 
+
+Literature. [JVspaHiif. 
+
+MAURICE.— Law's Remarks on the Fable of the Bees, witii 
+
+an Introduction of Eighty Pages by FREDERICK DENISON MAURICE, 
+M.A. Chaplain of Lincoln's Inn. Fcp. 8vo. eloth, 4«. Bd. 
+••This Introduetion diseuHes the' Relifious. PoliUe&l, Social, and Ethical Theories of ear 
+
+dajr, and shows the special worth of Law's method* and how far It Is applieable to onr eir- 
+
+cumstanees.** 
+
+MINUCIUS FELIX.— The Octavius of Minncius Felix. 
+
+Translated into English by LORD HAILES. Fcp. 8vo. eloth, U. M. 
+
+NAHER.— Lord Bacon and Sir Walter Raleigh. 
+
+Critical and Biographical Essays. By MACYET NAPIER, late Editoi 
+of the Xdit^urgk Rwiew and of the Sneyclopadia Briiannica, Post 8vo. 
+cloth, 7«. 6d, 
+
+NIND.-Sonnets of Cambridge Life. By Rev. W. NIND, M JL 
+
+Fellov of St. Peter's College. Post 8vo. boards, U. 
+
+NIND.— the German Lyrist; or, Metrical Versions from the 
+
+principal German Lyric Poets. By Rev. W. NIND, Fellov of St. Peter's 
+College. Crown 8vo. cloth, 3«. 
+
+NORRIS.— Ten School-Room Addresses. 
+
+Edited by J. P. NORRIS, m'.A. Fellow of Trinity College, and on« of Her 
+llajesty's Inspectors of Schools. 18mo. sewed, 8^ . 
+
+
+
+HACMILLiN k OO.'S FT7BLICATI0NS. II 
+
+PARKINSON.— A Treatise on Elementaiy Mechanics. 
+
+For the Use of the Junior Classes at the University, and the Higher Classes in 
+Schools. With a collection of Examples. By S. PARKINSON, M.A. Fellow 
+and Assistant Tutor of St. John's College, Cambridge. Crown 8to. doth, 9». 6d, 
+
+FABMINTER.— Materials for a Grammar of the Modem 
+
+English Language. Designed as a Text-book of Classical Grammar for the 
+use of Training Colleges, and the Higher Classes of English Schools. By 
+GEORGE HENRY PARMINTER, of Trinity CoUege, Cambridge; Rector 
+of the United Parishes of SS. John and George, Exeter. Fcap. 8to. clotb| S«. 6tf . 
+
+PAYN.— Poems. 
+
+By JAMES PATN. Fcp. 8vo. cloth, 5«. 
+
+PEACE IN WAR. Jfn fiSUmntiam H. H. 
+
+Crown 8vo. sewed, U, 
+
+PEARSON.— Elements of the Calcnlas of Finite Differences, 
+
+treated on the Method of the Separation of Symbols. By J. PEARSON, M.A. 
+Rector of St. Edmund's, Norwich, Mathematical Master of Norwich Grammar 
+School, and formerly Scholar of Trinity College, Cambridge. Second 
+Bditioiij enlarged. 8yo. 5«. 
+
+PEROWNE.-" Al-Ac(Jrumileh." 
+
+An Elementary Arabic Grammar, with a Translation. By J. J. S. PEROWNE, 
+M.A. Fellow of Corpus Christi College, Cambridge, and Lecturer in Hebrew 
+in King's College, London. 8to. cloth, 5«. 
+
+PERR7.— Five Sermons Preached before the University of 
+
+Cambridge, in November 1855. By the Right Rev. CHARLES PERRY, 
+Lord Bishop of Melbourne, formerly Fellow and Tutor of Trinity College, 
+Cambridge. Crown 8vo. cloth, S«. 
+
+PHEAR.— Elementary Mechanics. 
+
+Accompanie4 by numerous E^xamples solved Geometrically. By J. B. 
+PHEAR, M. A., Fellow and Mathematical Lecturer of Clare Hall, Cambridge. 
+8vo. cloth, 10<. 6d, 
+
+PHEAR.— Elementary Hydrostatics. 
+
+Aocompanied by numerous Examples. Crown 8to. cloth, 5«. 64. 
+
+PLATO.~The Republic of Plato. 
+
+Translated into English, with Notes. By Two Fellows of Trinity College, 
+Cambridge, (J. LI. Davies M.A., and D. J. Yaughan, M.A.) Crown 8vo. 
+eloth, 7«. 6d. 
+
+POWELL.— The Scriptoral Doctrine of the Influence of the 
+
+Holy Ghost, as Illustrated by the Analogy of Nature. The Barney Prise Essay 
+for the year 1858. 8yo. sewed, 2«. M, 
+
+
+
+U ILLCHILLAN ft Oa'S FUBLIGATIONS. 
+
+PRATT.— The Mathematical Principles of MechanicaT 
+
+FhUoBopby. By J. H. PRATT, M.A., Fellov of Caius College. 
+*»* The above work is now out of Print: but the Part on STATICS has been r«- 
+edited by Mr, Todhunter, with numerous alterations and additions: the Port on 
+DYNAMICS, by Messrs. Tait and Steele, is just published. The other parts will be 
+published in separate forms, improved and altered as may seem needful. 
+
+PRINCIPLES of ETHICS according to the NEW TESTA- 
+MENT. Croim Svo. 2s, 
+
+PROCTER.— A History of the Book of Common Prayer: with 
+
+a Rationale of its Offices. By FRANCIS PROCTER, M.A., Vicar of Witton« 
+Norfolk, and late Fellov of St. Catharine Hall. Crown Svo. cloth, 10«. 6d. 
+
+*«* This is part of a series of Theological Manuals, now in progress. 
+
+PUCELE.— An Elementary Treatise on Conic Sections and 
+
+Algebraic Geometry. With a numerous collection of Easy Examples pro- 
+gressively arranged, especially designed for the use of Schools and Beginners. 
+By G. HALE PUCKLE, M.A., St. John's College, Cambridge; Principal of 
+Windermere College. Crown Svo. cloth, 7s. 6d% 
+
+PURTON.— The Acts of the Apostles. 
+
+With a Paraphrase and Exegetical Commentary. By JOHN SMYTH 
+PURTON, M.A. Fellow and Tutor of St. Catherine's Hall, Cambridge. Svo. 
+
+JiPreparing. 
+
+RAMSA7.— The Catechiser's Manual; or, the Church Cate- 
+chism illustrated and explained, for the use of Clergymen, Sehoolmastera, 
+and Teachers. By ARTHUR RAMSAY, M.A. of Trinity CoUeg^, 
+Cambridge. 18mo, doth, 3s. 6d, 
+
+REICHEL.— The Lord's Prayer and other Sermons. 
+
+By C. P. REICHEL, B.D., Professor of Latin in the Queen's University; 
+Chaplain to his Excellency the Lord Lieutenant of Ireland ; and late Douo 
+nellan Lecturer in the University of Dublin. Crown Svo. cloth, 7s, Gd. 
+
+ROBINSON.— Missions urged upon the State on grounds 
+
+both of Duty and Policy. An Essay which obtained the Maitland Prise in 
+the year 1852. By C. K. ROBINSON, M.A., Fellow and Assistant Tutor of 
+St. Catharine's Hall, Cambridge. Fcp. Svo. cloth, Ss, 
+
+ROSE (Henry John).— An Exposition of the Articles of the 
+
+Church of England. By HENRY JOHN ROSE, B.D. late Fellow of St. 
+John's College, and Hulsean Lecturer in the University of Cambridge. 
+
+[Preparing, 
+*ii* This is part of a Series of Theological Manuals now in progress. 
+
+SALLUST.-Sallust. 
+
+The Latin Text, with English Notes. By CHARLES MERIVALB, B.D., 
+late Fellow and Tutor of St. John's College, Cambridge, See., Author of « 
+** History of Rome," &c. Crown 8vo* cloth, 5s, 
+
+
+
+KACVrULAN h 00.'§ FXTfiLICATIONS. IS 
+
+vSEDOWICE AND M'COT'S British Palsozoic FossUs. 
+
+Fart I. 4to. seved, 16«. 
+
+-—-—-—--------— ————--^-¦^-— —^^———- Part II. 4to. sewed, 10*. 
+
+' Part III, completing the 
+
+work, 16«. just ready. 
+
+*«* Thx wholx bouvd XV Two Vols., ito. cloth, £2 2«. 
+
+SELWYN — The Work of Christ in the World. Pour Sermons, 
+
+preached before the University of Cambridge, on the four Sundays preceding 
+Advent in the year of our Lord 1854. By the Right Rev. GEORGE 
+AUGUSTUS SELWYN, D.D. Bishop of New Zealand, formerly Fellow of 
+St. John's College. Third Bdition. Crown 8vo. 2«. 
+
+SELWYN.— A Verbal Analysis of the Holy Bible. 
+
+Intended to facilitate the translation of the Holy Scriptures into Foreign 
+Languages. Compiled by THE BISHOP OF NEW ZEALAND, for the use 
+of the Melanesian Mission. Small folio, cloth, 14«. 
+
+SIMPSON.— An Epitome of the History of the Christian 
+
+Church during the first Three Centuries and during the Time of the Refor- 
+mation, adapted for the use of Students in the Universities and in Schools. 
+By WILLIAM SIMPSON, M.A. With Examination Questions. Second 
+Bdltlon^ Improved. Fcp. 8vo. cloth, 6». 
+
+SMITH.— Arithmetic and Algebra, in their Principles and 
+
+Application: with numerous systematically arranged Examples, taken from 
+the Cambridge Examination Papers. With especial reference to the ordinary 
+Examination for B. A. Degree. By BARNARD SMITH, M.A., Fellow of St. 
+Peter's College, Cambridge. Third Edition, enlarged and revised 
+throughout. Crown 8vo. cloth j IOa. 6d, 
+
+SMITH.— Arithmetic for the use of Schools. By BARNARD 
+
+SMITH, M.A. Fellow of St. Peter's College. Third Thonaand| with 
+Additions. Crown 8vo. cloth, 4m. 6d. 
+
+*^* This has been published in accordance with yery numeroun requests firom 
+Schoolmasters and Inspectors of Schools. It comprises a complete reprint of the 
+Arithmetic from Mr. Smith's larger work, with such alterations as were necessary 
+In separating it Arom the Algebra, and references throughout to the Decimal System 
+of Coinage, 
+
+SMITH.— A Key to Mr. Smith's Arithmetic for Schools. 
+
+Crown 8vo. cloth, 8e. 6d. 
+
+SMITH.— Mechanics and Hydrostatics, in their Principles 
+
+and Application : with numerous systematically arranged Examples, taken 
+from the Cambridge Examination Papers. With a speciid reference to the 
+Ordinary Examination for B.A. Degree. By BARNARD SMITH, M.A. 
+Fellow of St. Peter's College, Cambridge. {Pr^aring, 
+
+SNOWBALL.— The Elements of Plane and Spherical 
+
+Trigonometry. Greatly improved and enlarged. By J. C. SNOWBALL, M.A. 
+Fellow of St. John's College, Cambridge. Eiffhth Bdition, with Additions 
+and Improvements* Crown 8vo. cloth, 7t. 64» 
+
+
+
+U HAdOLLiN & 00.*S PUBLICATIONS. 
+
+SWAINSON.— A Hand Book to Butler's Analogy. 
+
+With a few Notes. By C. A. SWAINSON, M.A. Principal of the Chichester 
+Theological College, formeriy FeUow and Tutor of Christ's College, Cam- 
+bridge, and Preacher at Whitehall. Crown 8to. U. Bd, 
+
+TAIT and STEELE.— A Treatise on Dynamics, with nume- 
+rous Examples. By P. O. TAIT, Fellow of St. Peter's College, and Professor 
+of Mathematics in Queen's College, Belfast, and W. J. STEELE, FeUow of 
+St. Peter's College. Crown 8vo. cloth, 10«. 6d, {Just readg. 
+
+This is a new Edition of that part of Pratt's Mechanical Philosophy which 
+treats of Dynamics, with large additions and improvements. 
+
+TAYLOR.— The Restoration of Belief. 
+
+By ISAAC TAYLOR. Crown 8to. cloth, 8«. 6d, 
+
+CoHTCMTS. I. — Christianity in relation to its Ancient and Modem Anta- 
+gonists, , II. — On the Supernatural Element contained in the Epistles, 
+and its bearing on the argument. III. — The Miracles of the Gospels con« 
+sidered In their relation to the principal features of the Christian Scheme. 
+
+THEOCRITUS.— Theocritus. 
+
+The Greek Text, with English notes, Critical an Explanatory, for the use of 
+CoUeges and Schools. By £. H. PEROWNE, M.A., Fellow of Corpni 
+Christi College. Crown 8to. [Preparitig* 
+
+THEOLOaiGAL Manuals. 
+
+Just published :— 
+
+CHURCH HISTORY : THE MIDDLE AGES. By CHARLES HARD- 
+WICK. With Four Maps. Crown 8vo. cloth, price 10«. 6d. 
+
+THE COMMON PRAYER : ITS HISTORY AND RATIONALE. By 
+FRANCIS PROCTER. Crown 8vo. cloth, 10«. Bd. 
+
+A HISTORY OF THE CANON OF THE NEW TESTAMENT. By 
+B. F. WESTCOTT. Crown 8vo. elotll^ 12«. Bd, 
+
+CHURCH HISTORY: THE REFORMATION. By CHARLES HARD- 
+WICK. Crown 8to. cloth, 10<. Bd. 
+
+The following will shortly appear:— 
+INTRODUCTION TO THE STUDY OF THE OLD TESTAMENT. 
+NOTES ON ISAIAH. 
+INTRODUCTION TO THE STUDY OF THE GOSPELS. 
+
+EPISTLES, 
+
+NOTES ON THE GOSPELS AND ACTS. 
+
+EPISTLES AND APOCALYPSE. 
+CHURCH HISTORY, THE FIRST SIX CENTURIES. 
+
+17TK CENTURY TO THE PRESENT TIME. 
+
+THE THREE CREEDS. 
+
+THE THIRTY-NINE ARTICLES. 
+
+*«* Others are in progress, and will be annmmced in due time. 
+
+THRING.— A Constming Book. 
+
+CompUed by the Rev. EDWARD THRING, M.A. late Fellow of King*! 
+College, Cambridge, and Head Master of Uppingham School. Fcap. 8to. 
+doth, %t, Bd. 
+
+
+
+i 
+
+
+
+tf ACHniiAN & CO.'S PUBLICATIONS* 15 
+
+THBING.— The Elements of Orammar taught in English. 
+
+By EDWARD THBINO, M.A. Head Master of the Royal Orammar 
+School, Uppingham ; late Fellow of King's College, Cambridge. Second 
+Bdition. 18mo. bound in cloth, 2«. 
+
+THRING.—The Child's Grammar. 
+
+Being the substance of the above, with Examples for Practice. Adapted for 
+Junior Classes. A NttW Bdition. 18mo. lymp cloth, 1«. 
+
+THBUPP.— Psalms and Hymns for Public Worship. Selected 
+
+and Edited by JOSEPH FRANCIS THRUPP, M.A. Vicar of Barrington, late 
+Fellow of Trinity College. 18mo. cloth, 2«. Second paper in lymp cloth, UAtU 
+
+THBUPP.— Antient Jemsalem: a New Investigation into the 
+
+History, Topography, and Plan of the City, Environs, and Temple. Designed 
+principally to illustrate the records and prophecies of Scripture. With Map 
+and Plans. By JOSEPH FRANCIS THRUPP, M.A. Vicar of Barrington, 
+Cambridge, late Fellow of Trinity College. 8vo. cloth, 15s. 
+
+TODHUNTER.— A Treatise on the Differential Calculus ; and 
+
+the Elements of the Integral Calculus. With numerous Examples. By 
+I. TODHUNTER, M.A., Fellow and Tutor of St. John's College, Cambridge. 
+Second Bdition. Crown 8vo. cloth, 10«. 6d, 
+
+TODHUNTER. — A Treatise on Analytical Statics, with 
+
+numerous Examples. Crown 8vo. cloth, 10«. M. 
+
+TODHUNTER.— A Treatise on Conic Sections. With 
+
+numerous Examples* For the Use of Colleges and Schools. Crown 8vo. 
+cloth, ]0«. 6tf. 
+
+TODHUNTER.— A Treatise on Algebra, for the Use of 
+
+students in the Universities, and of the Higher Classes in Schools, IPrep, 
+
+A ho by the same Author, 
+
+An Elementary Work on the same subject, for the use of 
+
+Beginners. 
+
+TRENCH.— Synonyms of the New Testament 
+
+By RICHARD CHENEVIX TRENCH, B.D., Vicar of Itchenstohe, Hants, 
+Professor of Divinity, King's College, London, and Examining Chaplain to 
+the Bishop of Oxford. Third Edition, revised. Pop. 8vo. cloth, 5s. 
+
+TRENCH.— Hulsean Lectures for 1845-46. 
+
+CoMTXMTs. 1.— The Fitness of Holy Scripture for unfolding the Spiritual Life 
+of Man. 2. — Christ the Desire of all Nations ; or the Unconscious Pro> 
+phecies of Heathendom. Third Edition. Foolscap 8vo. cloth, 5». 
+
+For VERIFYING DATES. 
+
+A perpetual Almanac for determining Dates past, present, and future; with 
+a Lunar Kalendar and Tables of the more important Periods, JEna, Festivals, 
+and Anniversaries. Price 6d, 
+•» * This is so printed, that if the margin be cut off it may be carried in a pocket-book. 
+
+WATERS OF COMFORT.— A SmaU Volume of Devotional 
+
+Poetry of a Practical Character. By the Author of •* Visiting my Relations." 
+Fcap. 9vo§ cloth, 4«, 
