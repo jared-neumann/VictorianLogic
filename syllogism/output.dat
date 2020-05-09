@@ -1,0 +1,124 @@
+2899 documents , 1 concepts , 7004 context features (syllogism) 
+kappaF 10.000000, kappaK 4.000000, a0 7.000000, b0 3.000000, K 2, max_docs_per_slice 2000, start 1826, end 1860, times 18, dT 2, I 300
+
+
+map[]
+
+===============  per type  ===============
+0.4586443632410521   T=0,K=0:  every (0.021) ; three (0.020) ; terms (0.016) ; propositions (0.014) ; conclusion (0.012) ; must (0.012) ; e (0.012) ; term (0.012) ; two (0.011) ; premises (0.011) ; 
+0.5615981927478922   T=1,K=0:  conclusion (0.017) ; terms (0.017) ; propositions (0.016) ; middle (0.015) ; major (0.012) ; every (0.012) ; may (0.011) ; three (0.010) ; must (0.010) ; premises (0.009) ; 
+0.4551767844328265   T=2,K=0:  conclusion (0.021) ; three (0.013) ; terms (0.013) ; may (0.011) ; every (0.011) ; syllogism (0.010) ; one (0.010) ; middle (0.010) ; propositions (0.010) ; must (0.009) ; 
+0.5157073900197935   T=3,K=0:  conclusion (0.020) ; three (0.014) ; must (0.014) ; term (0.012) ; one (0.012) ; propositions (0.011) ; argument (0.010) ; reasoning (0.010) ; syllogism (0.009) ; every (0.009) ; 
+0.8879143425277077   T=4,K=0:  must (0.021) ; reasoning (0.013) ; middle (0.012) ; one (0.012) ; argument (0.010) ; syllogism (0.010) ; conclusion (0.010) ; term (0.010) ; three (0.009) ; propositions (0.009) ; 
+0.7554977148069821   T=5,K=0:  three (0.019) ; conclusion (0.015) ; syllogism (0.013) ; one (0.013) ; middle (0.011) ; must (0.011) ; reasoning (0.011) ; categorical (0.009) ; argument (0.008) ; logic (0.008) ; 
+0.5160206165929263   T=6,K=0:  syllogism (0.014) ; three (0.013) ;  (0.011) ; conclusion (0.010) ; one (0.009) ;  (0.009) ; categorical (0.008) ; must (0.008) ; true (0.007) ; forms (0.007) ; 
+0.5533491220210974   T=7,K=0:   (0.020) ;  (0.016) ; three (0.011) ; one (0.011) ; syllogism (0.011) ; conclusion (0.010) ; reasoning (0.009) ; two (0.008) ; case (0.007) ; minor (0.007) ; 
+0.522320232813084   T=8,K=0:   (0.039) ;  (0.012) ; one (0.011) ; two (0.011) ; conclusion (0.010) ; functions (0.009) ; value (0.008) ; three (0.008) ; syllogism (0.008) ; term (0.008) ; 
+0.6648686357365093   T=9,K=0:   (0.017) ;  (0.013) ; minor (0.011) ; middle (0.010) ; term (0.009) ; two (0.009) ; major (0.009) ; one (0.008) ; must (0.008) ; three (0.008) ; 
+0.6399377744975333   T=10,K=0:  two (0.013) ;  (0.012) ; true (0.011) ; term (0.011) ;  (0.010) ; three (0.010) ; every (0.009) ; minor (0.009) ; one (0.009) ; must (0.008) ; 
+0.40460898641491666   T=11,K=0:  form (0.012) ; term (0.011) ; one (0.011) ; terms (0.009) ;  (0.009) ; two (0.009) ; syllogism (0.009) ; every (0.009) ; figure (0.008) ; minor (0.008) ; 
+0.5676272964209029   T=12,K=0:   (0.014) ; syllogism (0.012) ;  (0.011) ; term (0.011) ; form (0.010) ; three (0.010) ; two (0.008) ; conclusion (0.008) ; every (0.008) ; minor (0.008) ; 
+0.5031237414297416   T=13,K=0:   (0.019) ; term (0.016) ; three (0.013) ; syllogism (0.011) ; every (0.011) ; middle (0.010) ; conclusion (0.010) ; terms (0.009) ; propositions (0.009) ; premises (0.009) ; 
+0.5086681508585347   T=14,K=0:  syllogism (0.013) ; three (0.013) ; term (0.012) ;  (0.012) ; terms (0.012) ; figure (0.010) ; first (0.010) ; propositions (0.010) ; conclusion (0.009) ; every (0.009) ; 
+0.6254560287914751   T=15,K=0:   (0.037) ; terms (0.015) ; propositions (0.013) ; first (0.013) ; syllogism (0.013) ; conclusion (0.011) ; figure (0.010) ; premises (0.010) ; term (0.009) ; three (0.009) ; 
+0.42863036921137154   T=16,K=0:   (0.047) ; syllogism (0.016) ; conclusion (0.015) ; first (0.012) ; form (0.012) ; terms (0.011) ; three (0.011) ; one (0.010) ; figure (0.010) ; two (0.009) ; 
+0.45898181617511224   T=17,K=0:   (0.064) ; syllogism (0.021) ; conclusion (0.014) ; two (0.012) ; three (0.012) ; one (0.011) ; form (0.010) ; first (0.009) ; figure (0.008) ; terms (0.008) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=0:   (0.016) ; three (0.012) ; conclusion (0.012) ; syllogism (0.011) ; one (0.010) ;  (0.010) ; term (0.009) ; terms (0.009) ; propositions (0.008) ; every (0.008) ; 
+
+0.5413556367589478   T=0,K=1:  may (0.018) ; form (0.013) ; conclusion (0.012) ; argument (0.012) ; premiss (0.012) ; one (0.011) ;  (0.010) ; syllogism (0.008) ; reduced (0.008) ; thus (0.008) ; 
+0.43840180725210776   T=1,K=1:  conclusion (0.016) ; may (0.015) ; form (0.015) ; one (0.013) ; first (0.012) ;  (0.011) ; therefore (0.009) ; premiss (0.009) ; argument (0.009) ; major (0.008) ; 
+0.5448232155671735   T=2,K=1:  conclusion (0.017) ; form (0.014) ; one (0.014) ; figure (0.013) ; first (0.011) ; may (0.011) ; premiss (0.011) ;  (0.010) ; minor (0.008) ; therefore (0.008) ; 
+0.4842926099802065   T=3,K=1:  conclusion (0.016) ; minor (0.015) ; may (0.013) ; one (0.012) ; first (0.011) ;  (0.011) ; figure (0.010) ; premiss (0.009) ; hypothetical (0.009) ; form (0.009) ; 
+0.11208565747229242   T=4,K=1:  conclusion (0.031) ; minor (0.012) ; rules (0.010) ; may (0.010) ; premiss (0.010) ; hypothetical (0.009) ; syllogism (0.009) ; first (0.008) ; one (0.008) ; figure (0.008) ; 
+0.24450228519301778   T=5,K=1:  conclusion (0.029) ; may (0.019) ; syllogism (0.016) ; premiss (0.010) ; rules (0.010) ; one (0.009) ; figure (0.009) ; hypothetical (0.008) ; premises (0.008) ; true (0.008) ; 
+0.48397938340707364   T=6,K=1:  may (0.018) ; syllogism (0.017) ; conclusion (0.015) ; premiss (0.011) ; premises (0.010) ; one (0.009) ; b (0.009) ; c (0.009) ; hypothetical (0.009) ; logic (0.008) ; 
+0.4466508779789027   T=7,K=1:  syllogism (0.019) ; may (0.014) ; conclusion (0.013) ; one (0.010) ; rules (0.009) ; premiss (0.009) ; reasoning (0.008) ; figure (0.008) ; premises (0.008) ; logic (0.007) ; 
+0.477679767186916   T=8,K=1:  syllogism (0.017) ; reasoning (0.014) ; conclusion (0.011) ; one (0.009) ; may (0.009) ; figure (0.009) ; rules (0.008) ; logic (0.008) ;  (0.008) ; process (0.008) ; 
+0.3351313642634906   T=9,K=1:  syllogism (0.014) ; conclusion (0.013) ; may (0.012) ; one (0.011) ; reasoning (0.011) ;  (0.010) ; every (0.009) ;  (0.008) ; logic (0.007) ; argument (0.007) ; 
+0.3600622255024667   T=10,K=1:  syllogism (0.021) ;  (0.012) ; conclusion (0.012) ; logic (0.010) ; reasoning (0.009) ; premises (0.009) ; one (0.009) ; may (0.008) ; argument (0.008) ; every (0.008) ; 
+0.5953910135850833   T=11,K=1:  syllogism (0.020) ; logic (0.014) ; may (0.013) ; reasoning (0.013) ; conclusion (0.010) ; form (0.009) ; formal (0.009) ; figure (0.008) ; one (0.008) ; premiss (0.008) ; 
+0.4323727035790971   T=12,K=1:  reasoning (0.011) ; syllogism (0.011) ; conclusion (0.010) ; first (0.009) ; one (0.008) ; logic (0.007) ; may (0.007) ; major (0.006) ;  (0.006) ; figure (0.006) ; 
+0.4968762585702584   T=13,K=1:  syllogism (0.012) ; reasoning (0.011) ; major (0.011) ; general (0.008) ; one (0.008) ; figure (0.007) ; first (0.007) ; minor (0.007) ; conclusion (0.006) ; logic (0.006) ; 
+0.4913318491414653   T=14,K=1:  syllogism (0.016) ; general (0.014) ; one (0.009) ; major (0.008) ; logic (0.008) ; minor (0.008) ; rules (0.007) ; may (0.006) ; figure (0.006) ;  (0.006) ; 
+0.3745439712085249   T=15,K=1:  one (0.011) ; syllogism (0.010) ; term (0.009) ;  (0.009) ; form (0.009) ; ii (0.009) ; figure (0.009) ; logic (0.007) ; may (0.007) ; proposition (0.007) ; 
+0.5713696307886286   T=16,K=1:   (0.015) ; term (0.014) ; ii (0.013) ; one (0.013) ; form (0.011) ; figure (0.010) ; may (0.008) ; c (0.007) ; minor (0.007) ; syllogism (0.007) ; 
+0.5410181838248878   T=17,K=1:   (0.015) ; ii (0.014) ; one (0.012) ; term (0.010) ; l (0.010) ; form (0.010) ; figure (0.010) ; c (0.009) ; syllogism (0.009) ; may (0.009) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=1:  syllogism (0.013) ; conclusion (0.013) ; may (0.011) ; one (0.010) ; figure (0.008) ; form (0.008) ; reasoning (0.008) ; first (0.007) ; logic (0.007) ; premiss (0.007) ; 
+
+===============  per time  ===============
+Time=0  
+0.4586443632410521   T=0,K=0:  every (0.021) ; three (0.020) ; terms (0.016) ; propositions (0.014) ; conclusion (0.012) ; must (0.012) ; e (0.012) ; term (0.012) ; two (0.011) ; premises (0.011) ; 
+0.5413556367589478   T=0,K=1:  may (0.018) ; form (0.013) ; conclusion (0.012) ; argument (0.012) ; premiss (0.012) ; one (0.011) ;  (0.010) ; syllogism (0.008) ; reduced (0.008) ; thus (0.008) ; 
+
+Time=1  
+0.5615981927478922   T=1,K=0:  conclusion (0.017) ; terms (0.017) ; propositions (0.016) ; middle (0.015) ; major (0.012) ; every (0.012) ; may (0.011) ; three (0.010) ; must (0.010) ; premises (0.009) ; 
+0.43840180725210776   T=1,K=1:  conclusion (0.016) ; may (0.015) ; form (0.015) ; one (0.013) ; first (0.012) ;  (0.011) ; therefore (0.009) ; premiss (0.009) ; argument (0.009) ; major (0.008) ; 
+
+Time=2  
+0.4551767844328265   T=2,K=0:  conclusion (0.021) ; three (0.013) ; terms (0.013) ; may (0.011) ; every (0.011) ; syllogism (0.010) ; one (0.010) ; middle (0.010) ; propositions (0.010) ; must (0.009) ; 
+0.5448232155671735   T=2,K=1:  conclusion (0.017) ; form (0.014) ; one (0.014) ; figure (0.013) ; first (0.011) ; may (0.011) ; premiss (0.011) ;  (0.010) ; minor (0.008) ; therefore (0.008) ; 
+
+Time=3  
+0.5157073900197935   T=3,K=0:  conclusion (0.020) ; three (0.014) ; must (0.014) ; term (0.012) ; one (0.012) ; propositions (0.011) ; argument (0.010) ; reasoning (0.010) ; syllogism (0.009) ; every (0.009) ; 
+0.4842926099802065   T=3,K=1:  conclusion (0.016) ; minor (0.015) ; may (0.013) ; one (0.012) ; first (0.011) ;  (0.011) ; figure (0.010) ; premiss (0.009) ; hypothetical (0.009) ; form (0.009) ; 
+
+Time=4  
+0.8879143425277077   T=4,K=0:  must (0.021) ; reasoning (0.013) ; middle (0.012) ; one (0.012) ; argument (0.010) ; syllogism (0.010) ; conclusion (0.010) ; term (0.010) ; three (0.009) ; propositions (0.009) ; 
+0.11208565747229242   T=4,K=1:  conclusion (0.031) ; minor (0.012) ; rules (0.010) ; may (0.010) ; premiss (0.010) ; hypothetical (0.009) ; syllogism (0.009) ; first (0.008) ; one (0.008) ; figure (0.008) ; 
+
+Time=5  
+0.7554977148069821   T=5,K=0:  three (0.019) ; conclusion (0.015) ; syllogism (0.013) ; one (0.013) ; middle (0.011) ; must (0.011) ; reasoning (0.011) ; categorical (0.009) ; argument (0.008) ; logic (0.008) ; 
+0.24450228519301778   T=5,K=1:  conclusion (0.029) ; may (0.019) ; syllogism (0.016) ; premiss (0.010) ; rules (0.010) ; one (0.009) ; figure (0.009) ; hypothetical (0.008) ; premises (0.008) ; true (0.008) ; 
+
+Time=6  
+0.5160206165929263   T=6,K=0:  syllogism (0.014) ; three (0.013) ;  (0.011) ; conclusion (0.010) ; one (0.009) ;  (0.009) ; categorical (0.008) ; must (0.008) ; true (0.007) ; forms (0.007) ; 
+0.48397938340707364   T=6,K=1:  may (0.018) ; syllogism (0.017) ; conclusion (0.015) ; premiss (0.011) ; premises (0.010) ; one (0.009) ; b (0.009) ; c (0.009) ; hypothetical (0.009) ; logic (0.008) ; 
+
+Time=7  
+0.5533491220210974   T=7,K=0:   (0.020) ;  (0.016) ; three (0.011) ; one (0.011) ; syllogism (0.011) ; conclusion (0.010) ; reasoning (0.009) ; two (0.008) ; case (0.007) ; minor (0.007) ; 
+0.4466508779789027   T=7,K=1:  syllogism (0.019) ; may (0.014) ; conclusion (0.013) ; one (0.010) ; rules (0.009) ; premiss (0.009) ; reasoning (0.008) ; figure (0.008) ; premises (0.008) ; logic (0.007) ; 
+
+Time=8  
+0.522320232813084   T=8,K=0:   (0.039) ;  (0.012) ; one (0.011) ; two (0.011) ; conclusion (0.010) ; functions (0.009) ; value (0.008) ; three (0.008) ; syllogism (0.008) ; term (0.008) ; 
+0.477679767186916   T=8,K=1:  syllogism (0.017) ; reasoning (0.014) ; conclusion (0.011) ; one (0.009) ; may (0.009) ; figure (0.009) ; rules (0.008) ; logic (0.008) ;  (0.008) ; process (0.008) ; 
+
+Time=9  
+0.6648686357365093   T=9,K=0:   (0.017) ;  (0.013) ; minor (0.011) ; middle (0.010) ; term (0.009) ; two (0.009) ; major (0.009) ; one (0.008) ; must (0.008) ; three (0.008) ; 
+0.3351313642634906   T=9,K=1:  syllogism (0.014) ; conclusion (0.013) ; may (0.012) ; one (0.011) ; reasoning (0.011) ;  (0.010) ; every (0.009) ;  (0.008) ; logic (0.007) ; argument (0.007) ; 
+
+Time=10  
+0.6399377744975333   T=10,K=0:  two (0.013) ;  (0.012) ; true (0.011) ; term (0.011) ;  (0.010) ; three (0.010) ; every (0.009) ; minor (0.009) ; one (0.009) ; must (0.008) ; 
+0.3600622255024667   T=10,K=1:  syllogism (0.021) ;  (0.012) ; conclusion (0.012) ; logic (0.010) ; reasoning (0.009) ; premises (0.009) ; one (0.009) ; may (0.008) ; argument (0.008) ; every (0.008) ; 
+
+Time=11  
+0.40460898641491666   T=11,K=0:  form (0.012) ; term (0.011) ; one (0.011) ; terms (0.009) ;  (0.009) ; two (0.009) ; syllogism (0.009) ; every (0.009) ; figure (0.008) ; minor (0.008) ; 
+0.5953910135850833   T=11,K=1:  syllogism (0.020) ; logic (0.014) ; may (0.013) ; reasoning (0.013) ; conclusion (0.010) ; form (0.009) ; formal (0.009) ; figure (0.008) ; one (0.008) ; premiss (0.008) ; 
+
+Time=12  
+0.5676272964209029   T=12,K=0:   (0.014) ; syllogism (0.012) ;  (0.011) ; term (0.011) ; form (0.010) ; three (0.010) ; two (0.008) ; conclusion (0.008) ; every (0.008) ; minor (0.008) ; 
+0.4323727035790971   T=12,K=1:  reasoning (0.011) ; syllogism (0.011) ; conclusion (0.010) ; first (0.009) ; one (0.008) ; logic (0.007) ; may (0.007) ; major (0.006) ;  (0.006) ; figure (0.006) ; 
+
+Time=13  
+0.5031237414297416   T=13,K=0:   (0.019) ; term (0.016) ; three (0.013) ; syllogism (0.011) ; every (0.011) ; middle (0.010) ; conclusion (0.010) ; terms (0.009) ; propositions (0.009) ; premises (0.009) ; 
+0.4968762585702584   T=13,K=1:  syllogism (0.012) ; reasoning (0.011) ; major (0.011) ; general (0.008) ; one (0.008) ; figure (0.007) ; first (0.007) ; minor (0.007) ; conclusion (0.006) ; logic (0.006) ; 
+
+Time=14  
+0.5086681508585347   T=14,K=0:  syllogism (0.013) ; three (0.013) ; term (0.012) ;  (0.012) ; terms (0.012) ; figure (0.010) ; first (0.010) ; propositions (0.010) ; conclusion (0.009) ; every (0.009) ; 
+0.4913318491414653   T=14,K=1:  syllogism (0.016) ; general (0.014) ; one (0.009) ; major (0.008) ; logic (0.008) ; minor (0.008) ; rules (0.007) ; may (0.006) ; figure (0.006) ;  (0.006) ; 
+
+Time=15  
+0.6254560287914751   T=15,K=0:   (0.037) ; terms (0.015) ; propositions (0.013) ; first (0.013) ; syllogism (0.013) ; conclusion (0.011) ; figure (0.010) ; premises (0.010) ; term (0.009) ; three (0.009) ; 
+0.3745439712085249   T=15,K=1:  one (0.011) ; syllogism (0.010) ; term (0.009) ;  (0.009) ; form (0.009) ; ii (0.009) ; figure (0.009) ; logic (0.007) ; may (0.007) ; proposition (0.007) ; 
+
+Time=16  
+0.42863036921137154   T=16,K=0:   (0.047) ; syllogism (0.016) ; conclusion (0.015) ; first (0.012) ; form (0.012) ; terms (0.011) ; three (0.011) ; one (0.010) ; figure (0.010) ; two (0.009) ; 
+0.5713696307886286   T=16,K=1:   (0.015) ; term (0.014) ; ii (0.013) ; one (0.013) ; form (0.011) ; figure (0.010) ; may (0.008) ; c (0.007) ; minor (0.007) ; syllogism (0.007) ; 
+
+Time=17  
+0.45898181617511224   T=17,K=0:   (0.064) ; syllogism (0.021) ; conclusion (0.014) ; two (0.012) ; three (0.012) ; one (0.011) ; form (0.010) ; first (0.009) ; figure (0.008) ; terms (0.008) ; 
+0.5410181838248878   T=17,K=1:   (0.015) ; ii (0.014) ; one (0.012) ; term (0.010) ; l (0.010) ; form (0.010) ; figure (0.010) ; c (0.009) ; syllogism (0.009) ; may (0.009) ; 
+
+
+
+-----------------------
+ kappa_c 4.244054 , kappa_f 10.000000

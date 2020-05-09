@@ -1,0 +1,162 @@
+3791 documents , 1 concepts , 8640 context features (reasoning) 
+kappaF 10.000000, kappaK 4.000000, a0 7.000000, b0 3.000000, K 3, max_docs_per_slice 2000, start 1826, end 1860, times 18, dT 2, I 300
+
+
+map[]
+
+===============  per type  ===============
+0.2632697308516271   T=0,K=0:  may (0.013) ; called (0.011) ;  (0.011) ; logic (0.009) ; one (0.009) ; truth (0.009) ; new (0.008) ; province (0.008) ; reasoning (0.008) ; upon (0.008) ; 
+0.22866067387915429   T=1,K=0:  called (0.011) ; one (0.011) ; logic (0.010) ; may (0.009) ;  (0.009) ; reasoning (0.009) ; form (0.007) ; process (0.007) ; upon (0.006) ; new (0.006) ; 
+0.2178002615461553   T=2,K=0:  one (0.009) ; nature (0.007) ; term (0.007) ; logic (0.007) ; man (0.006) ; called (0.006) ; process (0.006) ; reasoning (0.006) ;  (0.005) ; conclusion (0.005) ; 
+0.2699356085517983   T=3,K=0:  logic (0.009) ; nature (0.007) ; called (0.007) ; may (0.006) ; reasoning (0.006) ; process (0.006) ; one (0.006) ; man (0.006) ;  (0.005) ; powers (0.005) ; 
+0.3600078084592177   T=4,K=0:  one (0.009) ; logic (0.009) ; reasoning (0.008) ; nature (0.007) ; may (0.007) ; general (0.007) ; man (0.006) ; mathematical (0.006) ; use (0.006) ; knowledge (0.005) ; 
+0.30318673172635124   T=5,K=0:  reasoning (0.016) ;  (0.009) ; general (0.008) ; process (0.007) ; mathematical (0.007) ; logic (0.007) ; nature (0.007) ; man (0.006) ; use (0.005) ; mind (0.005) ; 
+0.2575016250924152   T=6,K=0:  reasoning (0.010) ;  (0.009) ; may (0.008) ; logic (0.008) ; general (0.007) ; one (0.007) ; process (0.007) ; use (0.006) ; upon (0.006) ; art (0.006) ; 
+0.28795803156396826   T=7,K=0:   (0.019) ; art (0.010) ; may (0.010) ; logic (0.009) ; use (0.008) ; upon (0.007) ; general (0.007) ; must (0.006) ; make (0.005) ; one (0.005) ; 
+0.2703329536339785   T=8,K=0:   (0.052) ; art (0.011) ; may (0.008) ; logic (0.007) ; process (0.007) ; science (0.007) ; reasoning (0.006) ; many (0.005) ; theory (0.005) ; purposes (0.004) ; 
+0.23522437401554608   T=9,K=0:   (0.026) ; reasoning (0.011) ; may (0.009) ; process (0.008) ; art (0.008) ; theory (0.006) ; science (0.006) ; logic (0.006) ; subject (0.005) ; common (0.005) ; 
+0.3684349506876085   T=10,K=0:  reasoning (0.010) ;  (0.010) ; process (0.010) ; art (0.009) ; may (0.008) ; subject (0.008) ; science (0.007) ; logic (0.007) ; man (0.006) ; syllogism (0.006) ; 
+0.38832197349622544   T=11,K=0:  reasoning (0.018) ; may (0.009) ; process (0.008) ; logic (0.008) ; therefore (0.006) ; subject (0.006) ; syllogism (0.006) ; form (0.006) ; art (0.006) ; whole (0.005) ; 
+0.3027815250259068   T=12,K=0:  reasoning (0.025) ; whole (0.009) ;  (0.009) ; process (0.008) ; may (0.007) ; logic (0.006) ; theory (0.006) ; form (0.006) ; mind (0.006) ; therefore (0.006) ; 
+0.26663149957952503   T=13,K=0:  reasoning (0.018) ; two (0.011) ; may (0.011) ; one (0.007) ; whole (0.007) ; logic (0.006) ; syllogism (0.006) ;  (0.006) ; process (0.006) ; form (0.006) ; 
+0.3300810406891257   T=14,K=0:   (0.014) ; two (0.012) ; reasoning (0.010) ; may (0.009) ; c (0.008) ; principles (0.007) ; upon (0.007) ; whole (0.006) ; one (0.006) ; form (0.006) ; 
+0.30539757034715337   T=15,K=0:   (0.012) ; reasoning (0.012) ; two (0.012) ; process (0.009) ; whole (0.008) ; syllogism (0.008) ; one (0.007) ; may (0.007) ; c (0.006) ; forms (0.006) ; 
+0.17981062270697806   T=16,K=0:   (0.019) ; two (0.013) ; reasoning (0.010) ; whole (0.010) ; may (0.008) ; process (0.007) ; thus (0.007) ; syllogism (0.007) ; parts (0.007) ; form (0.007) ; 
+0.33969953945948   T=17,K=0:   (0.017) ; whole (0.016) ; parts (0.012) ; two (0.011) ; reasoning (0.011) ; syllogism (0.009) ; one (0.007) ; case (0.007) ; general (0.006) ; part (0.006) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=0:  reasoning (0.011) ;  (0.010) ; may (0.008) ; logic (0.007) ; process (0.007) ; one (0.006) ;  (0.006) ; two (0.006) ; upon (0.005) ; whole (0.005) ; 
+
+0.1962403216243524   T=0,K=1:  process (0.015) ; made (0.010) ; syllogism (0.008) ; nature (0.008) ; c (0.008) ; reasoning (0.007) ; would (0.007) ; often (0.007) ; prin (0.006) ; without (0.006) ; 
+0.20313670232955905   T=1,K=1:  process (0.017) ; reasoning (0.008) ; syllogism (0.008) ; would (0.007) ; nature (0.007) ;  (0.005) ; general (0.005) ; may (0.005) ; often (0.005) ; wrong (0.005) ; 
+0.23425795857762227   T=2,K=1:  process (0.012) ; reasoning (0.007) ; syllogism (0.007) ; general (0.006) ; would (0.006) ; often (0.006) ;  (0.006) ; thus (0.006) ; nature (0.005) ;  (0.005) ; 
+0.2599575305877207   T=3,K=1:  process (0.010) ; general (0.010) ; mathematical (0.010) ; reasoning (0.010) ; nature (0.008) ; syllogism (0.007) ;  (0.007) ;  (0.006) ; thus (0.005) ; often (0.004) ; 
+0.2978021593053145   T=4,K=1:  general (0.016) ; mathematical (0.015) ; reasoning (0.010) ;  (0.009) ; nature (0.008) ; process (0.008) ; upon (0.006) ; syllogism (0.005) ;  (0.005) ; thus (0.005) ; 
+0.34079770946882054   T=5,K=1:  mathematical (0.025) ;  (0.009) ; may (0.008) ;  (0.008) ; general (0.007) ; thus (0.007) ; reasoning (0.007) ; syllogism (0.006) ; upon (0.006) ; would (0.006) ; 
+0.2982708419309543   T=6,K=1:  may (0.011) ;  (0.009) ; thus (0.007) ;  (0.006) ; mathematical (0.006) ; general (0.006) ; nature (0.006) ; must (0.006) ; b (0.005) ; reasoning (0.005) ; 
+0.4177836958181173   T=7,K=1:   (0.016) ; thus (0.012) ; may (0.009) ; process (0.006) ;  (0.005) ; reasoning (0.005) ; upon (0.005) ; must (0.005) ; b (0.005) ; principles (0.004) ; 
+0.3439388038672738   T=8,K=1:   (0.055) ; process (0.010) ; reasoning (0.009) ; may (0.008) ; inference (0.006) ; trains (0.006) ;  (0.006) ; thus (0.006) ;  (0.005) ; would (0.005) ; 
+0.48446036907883494   T=9,K=1:   (0.029) ; may (0.013) ; reasoning (0.011) ; process (0.008) ;  (0.007) ;  (0.006) ; syllogism (0.006) ; upon (0.005) ; trains (0.005) ; thus (0.005) ; 
+0.3653405566342726   T=10,K=1:   (0.019) ; reasoning (0.013) ; may (0.009) ;  (0.009) ; one (0.007) ; form (0.007) ; syllogism (0.006) ;  (0.006) ; principles (0.006) ; process (0.005) ; 
+0.2634512845135568   T=11,K=1:  reasoning (0.018) ;  (0.011) ; may (0.008) ; one (0.007) ; form (0.007) ;  (0.007) ; general (0.006) ;  (0.006) ; syllogism (0.006) ; inductive (0.005) ; 
+0.3339003442635651   T=12,K=1:  reasoning (0.029) ;  (0.009) ; may (0.009) ; theory (0.009) ; one (0.007) ;  (0.007) ; general (0.007) ; form (0.007) ; rules (0.007) ; contingent (0.006) ; 
+0.31196836348854673   T=13,K=1:  reasoning (0.016) ; may (0.011) ; relations (0.007) ; logic (0.007) ;  (0.006) ;  (0.006) ; general (0.006) ; form (0.006) ; must (0.006) ; first (0.006) ; 
+0.4051353371140396   T=14,K=1:  may (0.009) ; principles (0.009) ; logic (0.008) ;  (0.007) ; reasoning (0.007) ; first (0.007) ; form (0.007) ; v (0.007) ; laws (0.006) ; general (0.006) ; 
+0.38228448467526177   T=15,K=1:  form (0.010) ; reasoning (0.009) ;  (0.009) ; logic (0.008) ; principles (0.007) ; would (0.007) ; may (0.007) ; upon (0.007) ; general (0.006) ; thought (0.006) ; 
+0.447086206842033   T=16,K=1:  logic (0.012) ; form (0.010) ;  (0.010) ; one (0.008) ; may (0.008) ; general (0.008) ; thought (0.007) ; two (0.006) ; reasoning (0.006) ; whole (0.006) ; 
+0.42599145498636215   T=17,K=1:  logic (0.014) ;  (0.011) ; judgment (0.010) ; one (0.008) ; reasoning (0.008) ; form (0.007) ; may (0.007) ; syllogism (0.007) ; thought (0.007) ; act (0.006) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=1:   (0.011) ; reasoning (0.010) ; may (0.008) ; process (0.007) ;  (0.007) ; general (0.006) ; syllogism (0.005) ; logic (0.005) ; thus (0.005) ; would (0.005) ; 
+
+0.5404899475240205   T=0,K=2:  process (0.011) ; may (0.011) ; one (0.011) ; province (0.009) ; reasoning (0.009) ; logic (0.009) ; mind (0.008) ; induction (0.008) ; art (0.007) ; argument (0.006) ; 
+0.5682026237912866   T=1,K=2:  words (0.011) ; one (0.010) ; process (0.009) ; act (0.008) ; logic (0.007) ; science (0.007) ; reasoning (0.006) ; mind (0.006) ; may (0.006) ; province (0.006) ; 
+0.5479417798762224   T=2,K=2:  reasoning (0.011) ; act (0.011) ; words (0.009) ; one (0.009) ; mind (0.008) ; every (0.007) ; us (0.007) ; logic (0.006) ; science (0.006) ; process (0.006) ; 
+0.47010686086048104   T=3,K=2:  mind (0.010) ; every (0.008) ; one (0.008) ; us (0.008) ; act (0.007) ; order (0.007) ; reasoning (0.006) ; art (0.006) ; nature (0.006) ; may (0.006) ; 
+0.3421900322354679   T=4,K=2:  one (0.013) ; nature (0.009) ; every (0.009) ; may (0.008) ; us (0.008) ; process (0.006) ; art (0.006) ; truth (0.006) ; syllogism (0.006) ; purpose (0.005) ; 
+0.3560155588048282   T=5,K=2:  reasoning (0.013) ; must (0.008) ; would (0.008) ; process (0.007) ; may (0.007) ; one (0.006) ; true (0.006) ; first (0.006) ; truth (0.006) ;  (0.005) ; 
+0.44422753297663053   T=6,K=2:  induction (0.014) ; may (0.011) ; process (0.009) ; reasoning (0.007) ; one (0.007) ; must (0.007) ;  (0.007) ; syllogism (0.007) ; first (0.006) ; true (0.005) ; 
+0.29425827261791443   T=7,K=2:  induction (0.017) ;  (0.014) ; process (0.008) ; reasoning (0.007) ; may (0.007) ; use (0.007) ; first (0.006) ; one (0.006) ; since (0.006) ; truth (0.006) ; 
+0.38572824249874776   T=8,K=2:   (0.032) ; process (0.015) ; induction (0.011) ; known (0.007) ; truth (0.007) ; inference (0.007) ; first (0.007) ; reasoning (0.007) ; may (0.006) ; case (0.006) ; 
+0.28031525690561887   T=9,K=2:   (0.019) ; process (0.012) ; reasoning (0.010) ; induction (0.009) ; may (0.009) ; logic (0.008) ; truth (0.008) ; known (0.006) ; would (0.006) ; general (0.006) ; 
+0.2662244926781188   T=10,K=2:  may (0.015) ;  (0.012) ; reasoning (0.012) ; process (0.010) ; truth (0.006) ; would (0.006) ; true (0.005) ; logic (0.005) ; mode (0.005) ; upon (0.005) ; 
+0.34822674199021775   T=11,K=2:  may (0.017) ; reasoning (0.015) ; process (0.008) ; one (0.007) ; facts (0.006) ;  (0.006) ; truth (0.006) ; rules (0.006) ; true (0.005) ; mode (0.005) ; 
+0.36331813071052815   T=12,K=2:  reasoning (0.019) ; may (0.017) ; one (0.008) ; process (0.007) ; species (0.006) ; theory (0.006) ; form (0.005) ; mode (0.005) ; would (0.005) ;  (0.005) ; 
+0.4214001369319282   T=13,K=2:  may (0.017) ; reasoning (0.013) ; one (0.008) ; therefore (0.007) ; syllogism (0.006) ; principle (0.006) ; process (0.005) ; us (0.005) ; general (0.005) ; facts (0.005) ; 
+0.2647836221968347   T=14,K=2:  may (0.021) ; syllogism (0.008) ; truth (0.008) ; reasoning (0.008) ; process (0.007) ; general (0.006) ; must (0.006) ; therefore (0.006) ; one (0.005) ; whether (0.005) ; 
+0.31231794497758497   T=15,K=2:  may (0.016) ; truth (0.012) ; syllogism (0.011) ; reasoning (0.008) ;  (0.007) ; process (0.007) ; us (0.005) ; one (0.005) ; general (0.005) ; form (0.005) ; 
+0.37310317045098906   T=16,K=2:  truth (0.014) ; may (0.013) ; reasoning (0.010) ;  (0.007) ; tion (0.007) ; principle (0.006) ; one (0.006) ; process (0.006) ; syllogism (0.006) ; logic (0.006) ; 
+0.23430900555415793   T=17,K=2:  may (0.012) ; reasoning (0.009) ; truth (0.009) ; logic (0.008) ;  (0.007) ; form (0.007) ; us (0.006) ; one (0.006) ; process (0.006) ; must (0.005) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=2:  may (0.011) ; reasoning (0.010) ; process (0.008) ; one (0.007) ;  (0.007) ; truth (0.006) ; induction (0.006) ; syllogism (0.005) ; logic (0.005) ; us (0.005) ; 
+
+===============  per time  ===============
+Time=0  
+0.2632697308516271   T=0,K=0:  may (0.013) ; called (0.011) ;  (0.011) ; logic (0.009) ; one (0.009) ; truth (0.009) ; new (0.008) ; province (0.008) ; reasoning (0.008) ; upon (0.008) ; 
+0.1962403216243524   T=0,K=1:  process (0.015) ; made (0.010) ; syllogism (0.008) ; nature (0.008) ; c (0.008) ; reasoning (0.007) ; would (0.007) ; often (0.007) ; prin (0.006) ; without (0.006) ; 
+0.5404899475240205   T=0,K=2:  process (0.011) ; may (0.011) ; one (0.011) ; province (0.009) ; reasoning (0.009) ; logic (0.009) ; mind (0.008) ; induction (0.008) ; art (0.007) ; argument (0.006) ; 
+
+Time=1  
+0.22866067387915429   T=1,K=0:  called (0.011) ; one (0.011) ; logic (0.010) ; may (0.009) ;  (0.009) ; reasoning (0.009) ; form (0.007) ; process (0.007) ; upon (0.006) ; new (0.006) ; 
+0.20313670232955905   T=1,K=1:  process (0.017) ; reasoning (0.008) ; syllogism (0.008) ; would (0.007) ; nature (0.007) ;  (0.005) ; general (0.005) ; may (0.005) ; often (0.005) ; wrong (0.005) ; 
+0.5682026237912866   T=1,K=2:  words (0.011) ; one (0.010) ; process (0.009) ; act (0.008) ; logic (0.007) ; science (0.007) ; reasoning (0.006) ; mind (0.006) ; may (0.006) ; province (0.006) ; 
+
+Time=2  
+0.2178002615461553   T=2,K=0:  one (0.009) ; nature (0.007) ; term (0.007) ; logic (0.007) ; man (0.006) ; called (0.006) ; process (0.006) ; reasoning (0.006) ;  (0.005) ; conclusion (0.005) ; 
+0.23425795857762227   T=2,K=1:  process (0.012) ; reasoning (0.007) ; syllogism (0.007) ; general (0.006) ; would (0.006) ; often (0.006) ;  (0.006) ; thus (0.006) ; nature (0.005) ;  (0.005) ; 
+0.5479417798762224   T=2,K=2:  reasoning (0.011) ; act (0.011) ; words (0.009) ; one (0.009) ; mind (0.008) ; every (0.007) ; us (0.007) ; logic (0.006) ; science (0.006) ; process (0.006) ; 
+
+Time=3  
+0.2699356085517983   T=3,K=0:  logic (0.009) ; nature (0.007) ; called (0.007) ; may (0.006) ; reasoning (0.006) ; process (0.006) ; one (0.006) ; man (0.006) ;  (0.005) ; powers (0.005) ; 
+0.2599575305877207   T=3,K=1:  process (0.010) ; general (0.010) ; mathematical (0.010) ; reasoning (0.010) ; nature (0.008) ; syllogism (0.007) ;  (0.007) ;  (0.006) ; thus (0.005) ; often (0.004) ; 
+0.47010686086048104   T=3,K=2:  mind (0.010) ; every (0.008) ; one (0.008) ; us (0.008) ; act (0.007) ; order (0.007) ; reasoning (0.006) ; art (0.006) ; nature (0.006) ; may (0.006) ; 
+
+Time=4  
+0.3600078084592177   T=4,K=0:  one (0.009) ; logic (0.009) ; reasoning (0.008) ; nature (0.007) ; may (0.007) ; general (0.007) ; man (0.006) ; mathematical (0.006) ; use (0.006) ; knowledge (0.005) ; 
+0.2978021593053145   T=4,K=1:  general (0.016) ; mathematical (0.015) ; reasoning (0.010) ;  (0.009) ; nature (0.008) ; process (0.008) ; upon (0.006) ; syllogism (0.005) ;  (0.005) ; thus (0.005) ; 
+0.3421900322354679   T=4,K=2:  one (0.013) ; nature (0.009) ; every (0.009) ; may (0.008) ; us (0.008) ; process (0.006) ; art (0.006) ; truth (0.006) ; syllogism (0.006) ; purpose (0.005) ; 
+
+Time=5  
+0.30318673172635124   T=5,K=0:  reasoning (0.016) ;  (0.009) ; general (0.008) ; process (0.007) ; mathematical (0.007) ; logic (0.007) ; nature (0.007) ; man (0.006) ; use (0.005) ; mind (0.005) ; 
+0.34079770946882054   T=5,K=1:  mathematical (0.025) ;  (0.009) ; may (0.008) ;  (0.008) ; general (0.007) ; thus (0.007) ; reasoning (0.007) ; syllogism (0.006) ; upon (0.006) ; would (0.006) ; 
+0.3560155588048282   T=5,K=2:  reasoning (0.013) ; must (0.008) ; would (0.008) ; process (0.007) ; may (0.007) ; one (0.006) ; true (0.006) ; first (0.006) ; truth (0.006) ;  (0.005) ; 
+
+Time=6  
+0.2575016250924152   T=6,K=0:  reasoning (0.010) ;  (0.009) ; may (0.008) ; logic (0.008) ; general (0.007) ; one (0.007) ; process (0.007) ; use (0.006) ; upon (0.006) ; art (0.006) ; 
+0.2982708419309543   T=6,K=1:  may (0.011) ;  (0.009) ; thus (0.007) ;  (0.006) ; mathematical (0.006) ; general (0.006) ; nature (0.006) ; must (0.006) ; b (0.005) ; reasoning (0.005) ; 
+0.44422753297663053   T=6,K=2:  induction (0.014) ; may (0.011) ; process (0.009) ; reasoning (0.007) ; one (0.007) ; must (0.007) ;  (0.007) ; syllogism (0.007) ; first (0.006) ; true (0.005) ; 
+
+Time=7  
+0.28795803156396826   T=7,K=0:   (0.019) ; art (0.010) ; may (0.010) ; logic (0.009) ; use (0.008) ; upon (0.007) ; general (0.007) ; must (0.006) ; make (0.005) ; one (0.005) ; 
+0.4177836958181173   T=7,K=1:   (0.016) ; thus (0.012) ; may (0.009) ; process (0.006) ;  (0.005) ; reasoning (0.005) ; upon (0.005) ; must (0.005) ; b (0.005) ; principles (0.004) ; 
+0.29425827261791443   T=7,K=2:  induction (0.017) ;  (0.014) ; process (0.008) ; reasoning (0.007) ; may (0.007) ; use (0.007) ; first (0.006) ; one (0.006) ; since (0.006) ; truth (0.006) ; 
+
+Time=8  
+0.2703329536339785   T=8,K=0:   (0.052) ; art (0.011) ; may (0.008) ; logic (0.007) ; process (0.007) ; science (0.007) ; reasoning (0.006) ; many (0.005) ; theory (0.005) ; purposes (0.004) ; 
+0.3439388038672738   T=8,K=1:   (0.055) ; process (0.010) ; reasoning (0.009) ; may (0.008) ; inference (0.006) ; trains (0.006) ;  (0.006) ; thus (0.006) ;  (0.005) ; would (0.005) ; 
+0.38572824249874776   T=8,K=2:   (0.032) ; process (0.015) ; induction (0.011) ; known (0.007) ; truth (0.007) ; inference (0.007) ; first (0.007) ; reasoning (0.007) ; may (0.006) ; case (0.006) ; 
+
+Time=9  
+0.23522437401554608   T=9,K=0:   (0.026) ; reasoning (0.011) ; may (0.009) ; process (0.008) ; art (0.008) ; theory (0.006) ; science (0.006) ; logic (0.006) ; subject (0.005) ; common (0.005) ; 
+0.48446036907883494   T=9,K=1:   (0.029) ; may (0.013) ; reasoning (0.011) ; process (0.008) ;  (0.007) ;  (0.006) ; syllogism (0.006) ; upon (0.005) ; trains (0.005) ; thus (0.005) ; 
+0.28031525690561887   T=9,K=2:   (0.019) ; process (0.012) ; reasoning (0.010) ; induction (0.009) ; may (0.009) ; logic (0.008) ; truth (0.008) ; known (0.006) ; would (0.006) ; general (0.006) ; 
+
+Time=10  
+0.3684349506876085   T=10,K=0:  reasoning (0.010) ;  (0.010) ; process (0.010) ; art (0.009) ; may (0.008) ; subject (0.008) ; science (0.007) ; logic (0.007) ; man (0.006) ; syllogism (0.006) ; 
+0.3653405566342726   T=10,K=1:   (0.019) ; reasoning (0.013) ; may (0.009) ;  (0.009) ; one (0.007) ; form (0.007) ; syllogism (0.006) ;  (0.006) ; principles (0.006) ; process (0.005) ; 
+0.2662244926781188   T=10,K=2:  may (0.015) ;  (0.012) ; reasoning (0.012) ; process (0.010) ; truth (0.006) ; would (0.006) ; true (0.005) ; logic (0.005) ; mode (0.005) ; upon (0.005) ; 
+
+Time=11  
+0.38832197349622544   T=11,K=0:  reasoning (0.018) ; may (0.009) ; process (0.008) ; logic (0.008) ; therefore (0.006) ; subject (0.006) ; syllogism (0.006) ; form (0.006) ; art (0.006) ; whole (0.005) ; 
+0.2634512845135568   T=11,K=1:  reasoning (0.018) ;  (0.011) ; may (0.008) ; one (0.007) ; form (0.007) ;  (0.007) ; general (0.006) ;  (0.006) ; syllogism (0.006) ; inductive (0.005) ; 
+0.34822674199021775   T=11,K=2:  may (0.017) ; reasoning (0.015) ; process (0.008) ; one (0.007) ; facts (0.006) ;  (0.006) ; truth (0.006) ; rules (0.006) ; true (0.005) ; mode (0.005) ; 
+
+Time=12  
+0.3027815250259068   T=12,K=0:  reasoning (0.025) ; whole (0.009) ;  (0.009) ; process (0.008) ; may (0.007) ; logic (0.006) ; theory (0.006) ; form (0.006) ; mind (0.006) ; therefore (0.006) ; 
+0.3339003442635651   T=12,K=1:  reasoning (0.029) ;  (0.009) ; may (0.009) ; theory (0.009) ; one (0.007) ;  (0.007) ; general (0.007) ; form (0.007) ; rules (0.007) ; contingent (0.006) ; 
+0.36331813071052815   T=12,K=2:  reasoning (0.019) ; may (0.017) ; one (0.008) ; process (0.007) ; species (0.006) ; theory (0.006) ; form (0.005) ; mode (0.005) ; would (0.005) ;  (0.005) ; 
+
+Time=13  
+0.26663149957952503   T=13,K=0:  reasoning (0.018) ; two (0.011) ; may (0.011) ; one (0.007) ; whole (0.007) ; logic (0.006) ; syllogism (0.006) ;  (0.006) ; process (0.006) ; form (0.006) ; 
+0.31196836348854673   T=13,K=1:  reasoning (0.016) ; may (0.011) ; relations (0.007) ; logic (0.007) ;  (0.006) ;  (0.006) ; general (0.006) ; form (0.006) ; must (0.006) ; first (0.006) ; 
+0.4214001369319282   T=13,K=2:  may (0.017) ; reasoning (0.013) ; one (0.008) ; therefore (0.007) ; syllogism (0.006) ; principle (0.006) ; process (0.005) ; us (0.005) ; general (0.005) ; facts (0.005) ; 
+
+Time=14  
+0.3300810406891257   T=14,K=0:   (0.014) ; two (0.012) ; reasoning (0.010) ; may (0.009) ; c (0.008) ; principles (0.007) ; upon (0.007) ; whole (0.006) ; one (0.006) ; form (0.006) ; 
+0.4051353371140396   T=14,K=1:  may (0.009) ; principles (0.009) ; logic (0.008) ;  (0.007) ; reasoning (0.007) ; first (0.007) ; form (0.007) ; v (0.007) ; laws (0.006) ; general (0.006) ; 
+0.2647836221968347   T=14,K=2:  may (0.021) ; syllogism (0.008) ; truth (0.008) ; reasoning (0.008) ; process (0.007) ; general (0.006) ; must (0.006) ; therefore (0.006) ; one (0.005) ; whether (0.005) ; 
+
+Time=15  
+0.30539757034715337   T=15,K=0:   (0.012) ; reasoning (0.012) ; two (0.012) ; process (0.009) ; whole (0.008) ; syllogism (0.008) ; one (0.007) ; may (0.007) ; c (0.006) ; forms (0.006) ; 
+0.38228448467526177   T=15,K=1:  form (0.010) ; reasoning (0.009) ;  (0.009) ; logic (0.008) ; principles (0.007) ; would (0.007) ; may (0.007) ; upon (0.007) ; general (0.006) ; thought (0.006) ; 
+0.31231794497758497   T=15,K=2:  may (0.016) ; truth (0.012) ; syllogism (0.011) ; reasoning (0.008) ;  (0.007) ; process (0.007) ; us (0.005) ; one (0.005) ; general (0.005) ; form (0.005) ; 
+
+Time=16  
+0.17981062270697806   T=16,K=0:   (0.019) ; two (0.013) ; reasoning (0.010) ; whole (0.010) ; may (0.008) ; process (0.007) ; thus (0.007) ; syllogism (0.007) ; parts (0.007) ; form (0.007) ; 
+0.447086206842033   T=16,K=1:  logic (0.012) ; form (0.010) ;  (0.010) ; one (0.008) ; may (0.008) ; general (0.008) ; thought (0.007) ; two (0.006) ; reasoning (0.006) ; whole (0.006) ; 
+0.37310317045098906   T=16,K=2:  truth (0.014) ; may (0.013) ; reasoning (0.010) ;  (0.007) ; tion (0.007) ; principle (0.006) ; one (0.006) ; process (0.006) ; syllogism (0.006) ; logic (0.006) ; 
+
+Time=17  
+0.33969953945948   T=17,K=0:   (0.017) ; whole (0.016) ; parts (0.012) ; two (0.011) ; reasoning (0.011) ; syllogism (0.009) ; one (0.007) ; case (0.007) ; general (0.006) ; part (0.006) ; 
+0.42599145498636215   T=17,K=1:  logic (0.014) ;  (0.011) ; judgment (0.010) ; one (0.008) ; reasoning (0.008) ; form (0.007) ; may (0.007) ; syllogism (0.007) ; thought (0.007) ; act (0.006) ; 
+0.23430900555415793   T=17,K=2:  may (0.012) ; reasoning (0.009) ; truth (0.009) ; logic (0.008) ;  (0.007) ; form (0.007) ; us (0.006) ; one (0.006) ; process (0.006) ; must (0.005) ; 
+
+
+
+-----------------------
+ kappa_c 6.661735 , kappa_f 10.000000

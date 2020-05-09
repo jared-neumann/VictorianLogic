@@ -1,0 +1,162 @@
+1285 documents , 1 concepts , 4458 context features (inference) 
+kappaF 10.000000, kappaK 4.000000, a0 7.000000, b0 3.000000, K 3, max_docs_per_slice 2000, start 1826, end 1860, times 18, dT 2, I 300
+
+
+map[]
+
+===============  per type  ===============
+0.6868116400218423   T=0,K=0:  may (0.019) ; premises (0.019) ; facts (0.014) ; known (0.013) ; conclusion (0.012) ; syllogism (0.011) ; force (0.008) ; good (0.008) ; drawn (0.008) ; one (0.007) ; 
+0.5929587456968614   T=1,K=0:  may (0.016) ; facts (0.013) ; known (0.012) ; conclusion (0.012) ; premises (0.011) ; drawn (0.011) ; force (0.010) ; certain (0.009) ; good (0.008) ; former (0.007) ; 
+0.5042235266446393   T=2,K=0:  may (0.016) ; facts (0.014) ; known (0.013) ; drawn (0.010) ; conclusion (0.010) ; certain (0.010) ; good (0.008) ; syllogism (0.007) ; force (0.007) ; premises (0.007) ; 
+0.5265603535371868   T=3,K=0:  facts (0.018) ; may (0.016) ; conclusion (0.014) ; known (0.009) ; cannot (0.009) ; certain (0.009) ; tion (0.008) ; good (0.008) ; inductive (0.008) ; syllogism (0.006) ; 
+0.5105078556171018   T=4,K=0:  facts (0.017) ; may (0.011) ; conclusion (0.011) ; cannot (0.008) ; certain (0.008) ; one (0.007) ; cases (0.007) ; class (0.006) ; tion (0.006) ; syllogism (0.006) ; 
+0.30349751687756066   T=5,K=0:  facts (0.015) ; cannot (0.013) ; though (0.012) ; may (0.011) ; conclusion (0.010) ; point (0.008) ; inductive (0.007) ; one (0.007) ; cases (0.007) ; premifes (0.006) ; 
+0.35057435702142814   T=6,K=0:  facts (0.015) ; may (0.014) ; conclusion (0.011) ; though (0.010) ; cases (0.010) ; cannot (0.009) ; inductive (0.009) ; inference (0.008) ; point (0.007) ; form (0.006) ; 
+0.31568444841628984   T=7,K=0:  facts (0.020) ; may (0.016) ; conclusion (0.010) ; cases (0.010) ; though (0.010) ; inference (0.009) ; process (0.008) ; good (0.007) ; drawn (0.007) ; inductive (0.007) ; 
+0.35416008056941106   T=8,K=0:  inference (0.016) ; process (0.012) ; conclusion (0.011) ; cases (0.011) ; facts (0.010) ; may (0.009) ; known (0.009) ; mere (0.008) ; drawn (0.008) ; though (0.006) ; 
+0.4422204180353897   T=9,K=0:  inference (0.012) ; facts (0.010) ; inductive (0.010) ; drawn (0.008) ; known (0.008) ; conclusion (0.008) ; thus (0.007) ; reasoning (0.007) ; also (0.007) ; one (0.006) ; 
+0.2958942457953513   T=10,K=0:  logical (0.011) ; thus (0.008) ; facts (0.007) ; known (0.007) ; one (0.007) ; conclusion (0.007) ; drawn (0.006) ; every (0.006) ; inductive (0.006) ; form (0.006) ; 
+0.24668229424222554   T=11,K=0:  logical (0.013) ; one (0.010) ; would (0.008) ; though (0.007) ; known (0.007) ; conclusion (0.007) ; logic (0.006) ; must (0.006) ; thus (0.006) ; every (0.006) ; 
+0.33233853500465177   T=12,K=0:  logical (0.012) ; would (0.012) ; false (0.011) ; one (0.009) ; logic (0.008) ; conclusion (0.008) ; proposition (0.006) ; drawn (0.006) ; must (0.006) ; particular (0.005) ; 
+0.606361062221549   T=13,K=0:  conclusion (0.014) ; would (0.013) ; one (0.013) ; false (0.009) ; though (0.008) ; syllogism (0.007) ; must (0.007) ; premises (0.006) ; reasoning (0.006) ; thus (0.006) ; 
+0.24401002314714737   T=14,K=0:  conclusion (0.010) ; one (0.010) ; false (0.009) ; process (0.009) ; logic (0.008) ; two (0.008) ; though (0.007) ; would (0.007) ; logical (0.006) ; even (0.006) ; 
+0.2772516249569099   T=15,K=0:  one (0.014) ; conclusion (0.010) ; deductive (0.009) ; false (0.009) ; two (0.009) ; logic (0.008) ; process (0.007) ; thus (0.007) ; always (0.006) ; logical (0.006) ; 
+0.20575644293774661   T=16,K=0:  one (0.012) ; two (0.009) ; deductive (0.008) ; conclusion (0.008) ; reasoning (0.008) ; syllogism (0.008) ; quantity (0.007) ; premises (0.007) ; false (0.007) ; thus (0.007) ; 
+0.3924922401865944   T=17,K=0:  two (0.015) ; one (0.013) ; quantity (0.011) ; conclusion (0.009) ; syllogism (0.008) ; whole (0.008) ; induction (0.007) ; may (0.007) ; therefore (0.007) ; premises (0.006) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=0:  facts (0.010) ; conclusion (0.010) ; may (0.010) ; one (0.008) ; known (0.007) ; drawn (0.006) ; syllogism (0.006) ; premises (0.006) ; though (0.006) ; logical (0.005) ; 
+
+0.2217898730356612   T=0,K=1:  proof (0.028) ; word (0.020) ; chapter (0.016) ; inference (0.014) ; deductive (0.012) ; one (0.012) ; induction (0.010) ; false (0.009) ; may (0.009) ; particular (0.009) ; 
+0.27319594529124064   T=1,K=1:  inference (0.018) ; proof (0.018) ; one (0.014) ; particular (0.011) ; may (0.010) ; induction (0.010) ; word (0.008) ; chapter (0.008) ; false (0.007) ; sion (0.007) ; 
+0.41860800411115634   T=2,K=1:  inference (0.020) ; may (0.014) ; proof (0.013) ; one (0.011) ; word (0.011) ; induction (0.009) ; particular (0.008) ; false (0.008) ; mind (0.006) ; know (0.006) ; 
+0.2508378182445731   T=3,K=1:  inference (0.020) ; proof (0.015) ; one (0.009) ; false (0.009) ; mind (0.009) ; may (0.009) ; therefore (0.007) ; mistaken (0.007) ; induction (0.006) ; chapter (0.006) ; 
+0.28852477992677344   T=4,K=1:  inference (0.024) ; proof (0.012) ; false (0.012) ; one (0.011) ; therefore (0.009) ; may (0.009) ; mistaken (0.007) ; particular (0.006) ; induction (0.006) ; chapter (0.006) ; 
+0.4406062377164693   T=5,K=1:  inference (0.020) ; false (0.011) ; one (0.010) ; may (0.007) ; reasoning (0.007) ; therefore (0.006) ; induction (0.006) ; different (0.006) ; mind (0.006) ; proof (0.005) ; 
+0.4839087439645997   T=6,K=1:  inference (0.014) ; reasoning (0.013) ; false (0.008) ; therefore (0.008) ; one (0.008) ; different (0.007) ; may (0.007) ; true (0.006) ; mind (0.006) ; thus (0.005) ; 
+0.3364403971737226   T=7,K=1:  reasoning (0.012) ; inference (0.011) ; may (0.010) ; one (0.007) ; thus (0.007) ; therefore (0.007) ; logic (0.007) ; us (0.006) ; term (0.005) ; facts (0.005) ; 
+0.252751641796321   T=8,K=1:  inference (0.017) ; reasoning (0.015) ; one (0.012) ; therefore (0.007) ; logic (0.007) ; facts (0.006) ;  (0.006) ; draw (0.006) ; syllogism (0.006) ; thus (0.006) ; 
+0.2790477598755254   T=9,K=1:  inference (0.025) ; reasoning (0.012) ; us (0.011) ; must (0.010) ; one (0.008) ; draw (0.008) ; may (0.007) ; logic (0.006) ; proposition (0.006) ; term (0.005) ; 
+0.4235585948608161   T=10,K=1:  inference (0.016) ; us (0.010) ; one (0.010) ; form (0.008) ; must (0.007) ; may (0.006) ; logic (0.006) ; proposition (0.006) ; draw (0.005) ; reasoning (0.005) ; 
+0.4058156036597735   T=11,K=1:  inference (0.011) ; one (0.008) ; must (0.007) ; proposition (0.006) ; may (0.006) ; reasoning (0.005) ; conclusion (0.005) ; us (0.005) ; either (0.005) ; term (0.005) ; 
+0.3747346677260657   T=12,K=1:  one (0.010) ; term (0.008) ; may (0.007) ; must (0.007) ; inference (0.007) ; us (0.006) ; reasoning (0.006) ; chapter (0.005) ; logic (0.005) ; two (0.005) ; 
+0.23099743914835374   T=13,K=1:  one (0.011) ; two (0.008) ; may (0.008) ; must (0.007) ; term (0.007) ; inference (0.007) ; certain (0.006) ; drawn (0.006) ; laws (0.006) ; necessary (0.006) ; 
+0.4602332349599518   T=14,K=1:  general (0.011) ; may (0.010) ; one (0.010) ; us (0.006) ; must (0.006) ; science (0.005) ; inference (0.005) ; drawn (0.005) ; logic (0.005) ; necessary (0.005) ; 
+0.3824955468118724   T=15,K=1:  may (0.014) ; one (0.010) ; general (0.009) ; syllogism (0.008) ; us (0.007) ; two (0.007) ; propositions (0.006) ; immediate (0.006) ; necessary (0.005) ; proposition (0.005) ; 
+0.3352037172263796   T=16,K=1:  may (0.022) ; general (0.009) ;  (0.008) ; us (0.008) ; immediate (0.008) ; two (0.008) ; one (0.006) ; ° (0.006) ; syllogism (0.006) ; drawn (0.006) ; 
+0.3156444941701067   T=17,K=1:  may (0.025) ; general (0.014) ; immediate (0.011) ;  (0.010) ; necessary (0.008) ; two (0.008) ; ° (0.007) ; cases (0.007) ; us (0.007) ; con (0.007) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=1:  inference (0.013) ; may (0.010) ; one (0.010) ; reasoning (0.007) ; proof (0.006) ; general (0.006) ; us (0.005) ; proposition (0.005) ; false (0.005) ; form (0.005) ; 
+
+0.09139848694249668   T=0,K=2:   (0.025) ; draw (0.015) ; conclusion (0.014) ; knowledge (0.014) ; preceding (0.013) ; inductive (0.012) ; rules (0.009) ; quently (0.008) ;  (0.008) ; one (0.008) ; 
+0.133845309011898   T=1,K=2:   (0.029) ; draw (0.015) ; conclusion (0.014) ; preceding (0.014) ; included (0.012) ; knowledge (0.010) ; kind (0.010) ; upon (0.010) ; inductive (0.009) ; one (0.009) ; 
+0.07716846924420426   T=2,K=2:   (0.023) ; inductive (0.016) ; conclusion (0.015) ; draw (0.013) ; preceding (0.013) ; kind (0.012) ; one (0.011) ; middle (0.009) ; rules (0.009) ; included (0.008) ; 
+0.22260182821824018   T=3,K=2:  conclusion (0.021) ;  (0.016) ; one (0.015) ; draw (0.012) ; preceding (0.010) ; true (0.010) ; inductive (0.010) ; upon (0.008) ; rules (0.007) ; useful (0.006) ; 
+0.2009673644561247   T=4,K=2:   (0.027) ; conclusion (0.020) ; draw (0.015) ; one (0.014) ; upon (0.013) ; inductive (0.009) ; reasoning (0.008) ; cases (0.008) ; preceding (0.008) ; act (0.007) ; 
+0.25589624540596995   T=5,K=2:  conclusion (0.022) ;  (0.020) ; one (0.017) ; reasoning (0.014) ; inductive (0.012) ; draw (0.008) ; truths (0.007) ; upon (0.007) ; included (0.007) ; legitimate (0.007) ; 
+0.16551689901397224   T=6,K=2:  conclusion (0.020) ; inductive (0.018) ;  (0.016) ; reasoning (0.016) ; one (0.012) ; truths (0.011) ; legitimate (0.010) ; draw (0.008) ; process (0.007) ; cases (0.007) ; 
+0.3478751544099875   T=7,K=2:  inductive (0.020) ; conclusion (0.016) ;  (0.013) ; reasoning (0.012) ; one (0.011) ; legitimate (0.011) ; upon (0.010) ; general (0.008) ; every (0.008) ; act (0.007) ; 
+0.39308827763426785   T=8,K=2:   (0.030) ; reasoning (0.021) ; general (0.013) ; one (0.011) ; process (0.010) ; conclusion (0.009) ; inductive (0.009) ; cases (0.008) ; legitimate (0.007) ; induction (0.007) ; 
+0.27873182208908487   T=9,K=2:   (0.014) ; general (0.012) ; reasoning (0.012) ; one (0.011) ; legitimate (0.010) ; process (0.009) ; conclusion (0.006) ; every (0.006) ; cases (0.006) ;  (0.006) ; 
+0.28054715934383273   T=10,K=2:   (0.012) ; one (0.011) ; inference (0.009) ; general (0.008) ; middle (0.008) ; conclusion (0.007) ; would (0.007) ; every (0.007) ;  (0.007) ; two (0.006) ; 
+0.34750210209800103   T=11,K=2:  particular (0.008) ;  (0.008) ; one (0.008) ;  (0.007) ; case (0.007) ; would (0.007) ; inference (0.007) ; conclusion (0.007) ; act (0.007) ; middle (0.007) ; 
+0.29292679726928256   T=12,K=2:  case (0.010) ; one (0.009) ; facts (0.008) ; would (0.007) ; conclusion (0.007) ;  (0.007) ; may (0.007) ; particular (0.007) ; reasoning (0.007) ; reason (0.006) ; 
+0.16264149863009736   T=13,K=2:  particular (0.012) ; one (0.009) ; term (0.008) ; would (0.007) ; may (0.007) ; terms (0.006) ; middle (0.006) ; reason (0.006) ; general (0.006) ; cases (0.006) ; 
+0.2957567418929008   T=14,K=2:  case (0.009) ; one (0.008) ; terms (0.008) ; may (0.008) ; particular (0.008) ; two (0.007) ; term (0.007) ; would (0.007) ; middle (0.007) ; first (0.006) ; 
+0.3402528282312176   T=15,K=2:   (0.018) ; one (0.015) ; terms (0.010) ; middle (0.009) ; inductive (0.007) ; necessary (0.007) ; fact (0.007) ; syllogism (0.007) ; logic (0.006) ; condition (0.006) ; 
+0.4590398398358739   T=16,K=2:   (0.024) ; one (0.013) ; inductive (0.012) ; first (0.012) ; terms (0.010) ; facts (0.009) ; fact (0.009) ; term (0.009) ; thought (0.008) ; necessary (0.007) ; 
+0.29186326564329895   T=17,K=2:   (0.026) ; terms (0.011) ; first (0.009) ; fact (0.009) ; inductive (0.009) ; conclusion (0.008) ; particular (0.008) ; kind (0.007) ; term (0.007) ; one (0.007) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=2:   (0.014) ; conclusion (0.011) ; one (0.011) ; inductive (0.009) ; reasoning (0.007) ;  (0.006) ; draw (0.006) ; general (0.006) ; upon (0.006) ; middle (0.006) ; 
+
+===============  per time  ===============
+Time=0  
+0.6868116400218423   T=0,K=0:  may (0.019) ; premises (0.019) ; facts (0.014) ; known (0.013) ; conclusion (0.012) ; syllogism (0.011) ; force (0.008) ; good (0.008) ; drawn (0.008) ; one (0.007) ; 
+0.2217898730356612   T=0,K=1:  proof (0.028) ; word (0.020) ; chapter (0.016) ; inference (0.014) ; deductive (0.012) ; one (0.012) ; induction (0.010) ; false (0.009) ; may (0.009) ; particular (0.009) ; 
+0.09139848694249668   T=0,K=2:   (0.025) ; draw (0.015) ; conclusion (0.014) ; knowledge (0.014) ; preceding (0.013) ; inductive (0.012) ; rules (0.009) ; quently (0.008) ;  (0.008) ; one (0.008) ; 
+
+Time=1  
+0.5929587456968614   T=1,K=0:  may (0.016) ; facts (0.013) ; known (0.012) ; conclusion (0.012) ; premises (0.011) ; drawn (0.011) ; force (0.010) ; certain (0.009) ; good (0.008) ; former (0.007) ; 
+0.27319594529124064   T=1,K=1:  inference (0.018) ; proof (0.018) ; one (0.014) ; particular (0.011) ; may (0.010) ; induction (0.010) ; word (0.008) ; chapter (0.008) ; false (0.007) ; sion (0.007) ; 
+0.133845309011898   T=1,K=2:   (0.029) ; draw (0.015) ; conclusion (0.014) ; preceding (0.014) ; included (0.012) ; knowledge (0.010) ; kind (0.010) ; upon (0.010) ; inductive (0.009) ; one (0.009) ; 
+
+Time=2  
+0.5042235266446393   T=2,K=0:  may (0.016) ; facts (0.014) ; known (0.013) ; drawn (0.010) ; conclusion (0.010) ; certain (0.010) ; good (0.008) ; syllogism (0.007) ; force (0.007) ; premises (0.007) ; 
+0.41860800411115634   T=2,K=1:  inference (0.020) ; may (0.014) ; proof (0.013) ; one (0.011) ; word (0.011) ; induction (0.009) ; particular (0.008) ; false (0.008) ; mind (0.006) ; know (0.006) ; 
+0.07716846924420426   T=2,K=2:   (0.023) ; inductive (0.016) ; conclusion (0.015) ; draw (0.013) ; preceding (0.013) ; kind (0.012) ; one (0.011) ; middle (0.009) ; rules (0.009) ; included (0.008) ; 
+
+Time=3  
+0.5265603535371868   T=3,K=0:  facts (0.018) ; may (0.016) ; conclusion (0.014) ; known (0.009) ; cannot (0.009) ; certain (0.009) ; tion (0.008) ; good (0.008) ; inductive (0.008) ; syllogism (0.006) ; 
+0.2508378182445731   T=3,K=1:  inference (0.020) ; proof (0.015) ; one (0.009) ; false (0.009) ; mind (0.009) ; may (0.009) ; therefore (0.007) ; mistaken (0.007) ; induction (0.006) ; chapter (0.006) ; 
+0.22260182821824018   T=3,K=2:  conclusion (0.021) ;  (0.016) ; one (0.015) ; draw (0.012) ; preceding (0.010) ; true (0.010) ; inductive (0.010) ; upon (0.008) ; rules (0.007) ; useful (0.006) ; 
+
+Time=4  
+0.5105078556171018   T=4,K=0:  facts (0.017) ; may (0.011) ; conclusion (0.011) ; cannot (0.008) ; certain (0.008) ; one (0.007) ; cases (0.007) ; class (0.006) ; tion (0.006) ; syllogism (0.006) ; 
+0.28852477992677344   T=4,K=1:  inference (0.024) ; proof (0.012) ; false (0.012) ; one (0.011) ; therefore (0.009) ; may (0.009) ; mistaken (0.007) ; particular (0.006) ; induction (0.006) ; chapter (0.006) ; 
+0.2009673644561247   T=4,K=2:   (0.027) ; conclusion (0.020) ; draw (0.015) ; one (0.014) ; upon (0.013) ; inductive (0.009) ; reasoning (0.008) ; cases (0.008) ; preceding (0.008) ; act (0.007) ; 
+
+Time=5  
+0.30349751687756066   T=5,K=0:  facts (0.015) ; cannot (0.013) ; though (0.012) ; may (0.011) ; conclusion (0.010) ; point (0.008) ; inductive (0.007) ; one (0.007) ; cases (0.007) ; premifes (0.006) ; 
+0.4406062377164693   T=5,K=1:  inference (0.020) ; false (0.011) ; one (0.010) ; may (0.007) ; reasoning (0.007) ; therefore (0.006) ; induction (0.006) ; different (0.006) ; mind (0.006) ; proof (0.005) ; 
+0.25589624540596995   T=5,K=2:  conclusion (0.022) ;  (0.020) ; one (0.017) ; reasoning (0.014) ; inductive (0.012) ; draw (0.008) ; truths (0.007) ; upon (0.007) ; included (0.007) ; legitimate (0.007) ; 
+
+Time=6  
+0.35057435702142814   T=6,K=0:  facts (0.015) ; may (0.014) ; conclusion (0.011) ; though (0.010) ; cases (0.010) ; cannot (0.009) ; inductive (0.009) ; inference (0.008) ; point (0.007) ; form (0.006) ; 
+0.4839087439645997   T=6,K=1:  inference (0.014) ; reasoning (0.013) ; false (0.008) ; therefore (0.008) ; one (0.008) ; different (0.007) ; may (0.007) ; true (0.006) ; mind (0.006) ; thus (0.005) ; 
+0.16551689901397224   T=6,K=2:  conclusion (0.020) ; inductive (0.018) ;  (0.016) ; reasoning (0.016) ; one (0.012) ; truths (0.011) ; legitimate (0.010) ; draw (0.008) ; process (0.007) ; cases (0.007) ; 
+
+Time=7  
+0.31568444841628984   T=7,K=0:  facts (0.020) ; may (0.016) ; conclusion (0.010) ; cases (0.010) ; though (0.010) ; inference (0.009) ; process (0.008) ; good (0.007) ; drawn (0.007) ; inductive (0.007) ; 
+0.3364403971737226   T=7,K=1:  reasoning (0.012) ; inference (0.011) ; may (0.010) ; one (0.007) ; thus (0.007) ; therefore (0.007) ; logic (0.007) ; us (0.006) ; term (0.005) ; facts (0.005) ; 
+0.3478751544099875   T=7,K=2:  inductive (0.020) ; conclusion (0.016) ;  (0.013) ; reasoning (0.012) ; one (0.011) ; legitimate (0.011) ; upon (0.010) ; general (0.008) ; every (0.008) ; act (0.007) ; 
+
+Time=8  
+0.35416008056941106   T=8,K=0:  inference (0.016) ; process (0.012) ; conclusion (0.011) ; cases (0.011) ; facts (0.010) ; may (0.009) ; known (0.009) ; mere (0.008) ; drawn (0.008) ; though (0.006) ; 
+0.252751641796321   T=8,K=1:  inference (0.017) ; reasoning (0.015) ; one (0.012) ; therefore (0.007) ; logic (0.007) ; facts (0.006) ;  (0.006) ; draw (0.006) ; syllogism (0.006) ; thus (0.006) ; 
+0.39308827763426785   T=8,K=2:   (0.030) ; reasoning (0.021) ; general (0.013) ; one (0.011) ; process (0.010) ; conclusion (0.009) ; inductive (0.009) ; cases (0.008) ; legitimate (0.007) ; induction (0.007) ; 
+
+Time=9  
+0.4422204180353897   T=9,K=0:  inference (0.012) ; facts (0.010) ; inductive (0.010) ; drawn (0.008) ; known (0.008) ; conclusion (0.008) ; thus (0.007) ; reasoning (0.007) ; also (0.007) ; one (0.006) ; 
+0.2790477598755254   T=9,K=1:  inference (0.025) ; reasoning (0.012) ; us (0.011) ; must (0.010) ; one (0.008) ; draw (0.008) ; may (0.007) ; logic (0.006) ; proposition (0.006) ; term (0.005) ; 
+0.27873182208908487   T=9,K=2:   (0.014) ; general (0.012) ; reasoning (0.012) ; one (0.011) ; legitimate (0.010) ; process (0.009) ; conclusion (0.006) ; every (0.006) ; cases (0.006) ;  (0.006) ; 
+
+Time=10  
+0.2958942457953513   T=10,K=0:  logical (0.011) ; thus (0.008) ; facts (0.007) ; known (0.007) ; one (0.007) ; conclusion (0.007) ; drawn (0.006) ; every (0.006) ; inductive (0.006) ; form (0.006) ; 
+0.4235585948608161   T=10,K=1:  inference (0.016) ; us (0.010) ; one (0.010) ; form (0.008) ; must (0.007) ; may (0.006) ; logic (0.006) ; proposition (0.006) ; draw (0.005) ; reasoning (0.005) ; 
+0.28054715934383273   T=10,K=2:   (0.012) ; one (0.011) ; inference (0.009) ; general (0.008) ; middle (0.008) ; conclusion (0.007) ; would (0.007) ; every (0.007) ;  (0.007) ; two (0.006) ; 
+
+Time=11  
+0.24668229424222554   T=11,K=0:  logical (0.013) ; one (0.010) ; would (0.008) ; though (0.007) ; known (0.007) ; conclusion (0.007) ; logic (0.006) ; must (0.006) ; thus (0.006) ; every (0.006) ; 
+0.4058156036597735   T=11,K=1:  inference (0.011) ; one (0.008) ; must (0.007) ; proposition (0.006) ; may (0.006) ; reasoning (0.005) ; conclusion (0.005) ; us (0.005) ; either (0.005) ; term (0.005) ; 
+0.34750210209800103   T=11,K=2:  particular (0.008) ;  (0.008) ; one (0.008) ;  (0.007) ; case (0.007) ; would (0.007) ; inference (0.007) ; conclusion (0.007) ; act (0.007) ; middle (0.007) ; 
+
+Time=12  
+0.33233853500465177   T=12,K=0:  logical (0.012) ; would (0.012) ; false (0.011) ; one (0.009) ; logic (0.008) ; conclusion (0.008) ; proposition (0.006) ; drawn (0.006) ; must (0.006) ; particular (0.005) ; 
+0.3747346677260657   T=12,K=1:  one (0.010) ; term (0.008) ; may (0.007) ; must (0.007) ; inference (0.007) ; us (0.006) ; reasoning (0.006) ; chapter (0.005) ; logic (0.005) ; two (0.005) ; 
+0.29292679726928256   T=12,K=2:  case (0.010) ; one (0.009) ; facts (0.008) ; would (0.007) ; conclusion (0.007) ;  (0.007) ; may (0.007) ; particular (0.007) ; reasoning (0.007) ; reason (0.006) ; 
+
+Time=13  
+0.606361062221549   T=13,K=0:  conclusion (0.014) ; would (0.013) ; one (0.013) ; false (0.009) ; though (0.008) ; syllogism (0.007) ; must (0.007) ; premises (0.006) ; reasoning (0.006) ; thus (0.006) ; 
+0.23099743914835374   T=13,K=1:  one (0.011) ; two (0.008) ; may (0.008) ; must (0.007) ; term (0.007) ; inference (0.007) ; certain (0.006) ; drawn (0.006) ; laws (0.006) ; necessary (0.006) ; 
+0.16264149863009736   T=13,K=2:  particular (0.012) ; one (0.009) ; term (0.008) ; would (0.007) ; may (0.007) ; terms (0.006) ; middle (0.006) ; reason (0.006) ; general (0.006) ; cases (0.006) ; 
+
+Time=14  
+0.24401002314714737   T=14,K=0:  conclusion (0.010) ; one (0.010) ; false (0.009) ; process (0.009) ; logic (0.008) ; two (0.008) ; though (0.007) ; would (0.007) ; logical (0.006) ; even (0.006) ; 
+0.4602332349599518   T=14,K=1:  general (0.011) ; may (0.010) ; one (0.010) ; us (0.006) ; must (0.006) ; science (0.005) ; inference (0.005) ; drawn (0.005) ; logic (0.005) ; necessary (0.005) ; 
+0.2957567418929008   T=14,K=2:  case (0.009) ; one (0.008) ; terms (0.008) ; may (0.008) ; particular (0.008) ; two (0.007) ; term (0.007) ; would (0.007) ; middle (0.007) ; first (0.006) ; 
+
+Time=15  
+0.2772516249569099   T=15,K=0:  one (0.014) ; conclusion (0.010) ; deductive (0.009) ; false (0.009) ; two (0.009) ; logic (0.008) ; process (0.007) ; thus (0.007) ; always (0.006) ; logical (0.006) ; 
+0.3824955468118724   T=15,K=1:  may (0.014) ; one (0.010) ; general (0.009) ; syllogism (0.008) ; us (0.007) ; two (0.007) ; propositions (0.006) ; immediate (0.006) ; necessary (0.005) ; proposition (0.005) ; 
+0.3402528282312176   T=15,K=2:   (0.018) ; one (0.015) ; terms (0.010) ; middle (0.009) ; inductive (0.007) ; necessary (0.007) ; fact (0.007) ; syllogism (0.007) ; logic (0.006) ; condition (0.006) ; 
+
+Time=16  
+0.20575644293774661   T=16,K=0:  one (0.012) ; two (0.009) ; deductive (0.008) ; conclusion (0.008) ; reasoning (0.008) ; syllogism (0.008) ; quantity (0.007) ; premises (0.007) ; false (0.007) ; thus (0.007) ; 
+0.3352037172263796   T=16,K=1:  may (0.022) ; general (0.009) ;  (0.008) ; us (0.008) ; immediate (0.008) ; two (0.008) ; one (0.006) ; ° (0.006) ; syllogism (0.006) ; drawn (0.006) ; 
+0.4590398398358739   T=16,K=2:   (0.024) ; one (0.013) ; inductive (0.012) ; first (0.012) ; terms (0.010) ; facts (0.009) ; fact (0.009) ; term (0.009) ; thought (0.008) ; necessary (0.007) ; 
+
+Time=17  
+0.3924922401865944   T=17,K=0:  two (0.015) ; one (0.013) ; quantity (0.011) ; conclusion (0.009) ; syllogism (0.008) ; whole (0.008) ; induction (0.007) ; may (0.007) ; therefore (0.007) ; premises (0.006) ; 
+0.3156444941701067   T=17,K=1:  may (0.025) ; general (0.014) ; immediate (0.011) ;  (0.010) ; necessary (0.008) ; two (0.008) ; ° (0.007) ; cases (0.007) ; us (0.007) ; con (0.007) ; 
+0.29186326564329895   T=17,K=2:   (0.026) ; terms (0.011) ; first (0.009) ; fact (0.009) ; inductive (0.009) ; conclusion (0.008) ; particular (0.008) ; kind (0.007) ; term (0.007) ; one (0.007) ; 
+
+
+
+-----------------------
+ kappa_c 3.464291 , kappa_f 10.000000

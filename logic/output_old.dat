@@ -1,0 +1,200 @@
+6311 documents , 1 concepts , 14119 context features (logic) 
+kappaF 10.000000, kappaK 4.000000, a0 7.000000, b0 3.000000, K 4, max_docs_per_slice 2000, start 1826, end 1860, times 18, dT 2, I 300
+
+
+map[]
+
+===============  per type  ===============
+0.2653323368641506   T=0,K=0:  elements (0.020) ;  (0.010) ; may (0.009) ; system (0.009) ; general (0.008) ; new (0.007) ; science (0.007) ; one (0.006) ; says (0.006) ; made (0.006) ; 
+0.10504131122735683   T=1,K=0:  elements (0.017) ; made (0.011) ;  (0.010) ; system (0.008) ; science (0.007) ; words (0.007) ; general (0.007) ; one (0.007) ; object (0.006) ; rules (0.006) ; 
+0.12762493959907475   T=2,K=0:  system (0.011) ; object (0.008) ; words (0.008) ;  (0.007) ; says (0.007) ; made (0.007) ; rules (0.007) ; science (0.006) ; general (0.006) ; elements (0.006) ; 
+0.11023993553452452   T=3,K=0:  system (0.010) ; words (0.009) ; says (0.006) ; new (0.006) ; h (0.006) ; made (0.005) ; dr (0.005) ; science (0.005) ; name (0.005) ; first (0.005) ; 
+0.20981722113868106   T=4,K=0:  system (0.008) ; new (0.007) ; dr (0.006) ; made (0.006) ; general (0.005) ; one (0.005) ; old (0.005) ; even (0.005) ; subject (0.005) ; may (0.004) ; 
+0.45551488933852535   T=5,K=0:  new (0.014) ; logic (0.009) ; old (0.008) ; system (0.006) ; science (0.005) ; one (0.005) ; dr (0.005) ; reasoning (0.005) ;  (0.005) ; general (0.005) ; 
+0.27070962915647534   T=6,K=0:  new (0.022) ; old (0.019) ; logic (0.014) ; one (0.009) ; syllogism (0.007) ; dr (0.006) ;  (0.005) ; system (0.005) ; must (0.005) ; may (0.004) ; 
+0.14818821995279616   T=7,K=0:  logic (0.016) ; new (0.012) ;  (0.010) ; one (0.010) ; old (0.009) ; though (0.006) ; system (0.006) ; laws (0.005) ; may (0.004) ; means (0.004) ; 
+0.2623181248013119   T=8,K=0:   (0.021) ; logic (0.017) ; one (0.007) ; laws (0.006) ; old (0.006) ; though (0.005) ; science (0.005) ; new (0.005) ; means (0.004) ; language (0.004) ; 
+0.2075725121775744   T=9,K=0:  logic (0.019) ;  (0.014) ; one (0.009) ; science (0.007) ; cause (0.005) ; thought (0.005) ; common (0.004) ; old (0.004) ; schools (0.004) ; part (0.004) ; 
+0.3055448902302497   T=10,K=0:  logic (0.014) ; one (0.011) ; may (0.006) ; science (0.006) ;  (0.006) ; art (0.005) ; schools (0.004) ; cause (0.004) ; truth (0.004) ; reasoning (0.004) ; 
+0.31622432423217256   T=11,K=0:  logic (0.018) ; one (0.008) ; deductive (0.007) ; may (0.007) ; science (0.006) ; sec (0.006) ;  (0.005) ; schools (0.005) ; different (0.005) ; art (0.005) ; 
+0.2483231581962845   T=12,K=0:   (0.017) ; logic (0.013) ; science (0.009) ;  (0.009) ; one (0.005) ; system (0.005) ; art (0.005) ; may (0.005) ; reason (0.004) ; reasoning (0.004) ; 
+0.139137413402607   T=13,K=0:  logic (0.017) ; science (0.010) ;  (0.007) ;  (0.007) ; may (0.007) ; one (0.006) ; reason (0.005) ; thus (0.004) ; use (0.004) ; thought (0.004) ; 
+0.24900922321568328   T=14,K=0:  may (0.010) ; logic (0.009) ; science (0.007) ;  (0.006) ;  (0.006) ; one (0.005) ; pure (0.005) ; system (0.005) ; thought (0.005) ; p (0.005) ; 
+0.27742076565594104   T=15,K=0:  logic (0.014) ;  (0.011) ;  (0.009) ; science (0.009) ; may (0.009) ; formal (0.007) ; term (0.007) ; thought (0.006) ; p (0.006) ; general (0.006) ; 
+0.11464228659164159   T=16,K=0:  logic (0.026) ; lectures (0.014) ; p (0.012) ;  (0.012) ;  (0.009) ; may (0.007) ; nothing (0.006) ; thought (0.006) ; science (0.006) ; general (0.006) ; 
+0.25456822163990045   T=17,K=0:  logic (0.033) ;  (0.029) ; lectures (0.017) ; lect (0.013) ; p (0.009) ;  (0.008) ; general (0.008) ; ed (0.007) ; two (0.006) ; may (0.006) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=0:  logic (0.013) ;  (0.008) ; one (0.006) ; science (0.006) ; new (0.006) ; may (0.006) ;  (0.006) ; system (0.005) ; general (0.004) ; old (0.004) ; 
+
+0.30879111171154977   T=0,K=1:  elements (0.024) ; would (0.011) ; part (0.009) ; men (0.009) ; see (0.007) ; art (0.007) ; subject (0.006) ; one (0.006) ; whole (0.005) ; may (0.005) ; 
+0.21730951890130937   T=1,K=1:  would (0.011) ; elements (0.011) ; see (0.011) ; men (0.009) ; whole (0.008) ; may (0.007) ; remarks (0.007) ; part (0.007) ; rules (0.007) ; thing (0.006) ; 
+0.12974542284449458   T=2,K=1:  would (0.009) ; reasoning (0.009) ; men (0.009) ; us (0.009) ; made (0.008) ; part (0.007) ; see (0.007) ; rules (0.007) ; elements (0.006) ; whole (0.006) ; 
+0.24683252602817643   T=3,K=1:  reasoning (0.012) ; whole (0.010) ; would (0.009) ; logic (0.007) ; us (0.007) ; part (0.006) ; art (0.006) ; see (0.006) ; may (0.006) ; respect (0.005) ; 
+0.21506320910072632   T=4,K=1:  reasoning (0.009) ; logic (0.008) ; would (0.008) ; therefore (0.006) ; see (0.006) ; science (0.006) ;  (0.005) ; one (0.005) ; may (0.005) ; art (0.005) ; 
+0.18534353040094542   T=5,K=1:  new (0.008) ; science (0.008) ; would (0.007) ; may (0.007) ; logic (0.006) ; thing (0.006) ; old (0.006) ; reasoning (0.006) ;  (0.006) ; art (0.006) ; 
+0.2256379956116408   T=6,K=1:  science (0.012) ; new (0.010) ; would (0.009) ; old (0.008) ; must (0.006) ; logic (0.006) ; art (0.006) ; subject (0.006) ;  (0.006) ;  (0.005) ; 
+0.19956866862324732   T=7,K=1:  science (0.012) ; logic (0.011) ; art (0.008) ;  (0.008) ;  (0.007) ; province (0.007) ; may (0.007) ; must (0.006) ; subject (0.005) ; thing (0.005) ; 
+0.2996521887585647   T=8,K=1:  science (0.022) ;  (0.013) ; logic (0.011) ; art (0.008) ; province (0.007) ; form (0.006) ; definition (0.006) ;  (0.006) ; rules (0.005) ; every (0.005) ; 
+0.2614844608837902   T=9,K=1:  science (0.012) ; logic (0.012) ; art (0.009) ;  (0.007) ; one (0.007) ; province (0.007) ; may (0.006) ; useful (0.005) ;  (0.005) ; every (0.005) ; 
+0.190019224321138   T=10,K=1:  science (0.013) ; art (0.010) ;  (0.008) ; logic (0.007) ;  (0.007) ; may (0.006) ; one (0.005) ; us (0.005) ; part (0.005) ; mind (0.005) ; 
+0.22765292192741815   T=11,K=1:  logic (0.010) ; science (0.009) ;  (0.009) ;  (0.008) ; may (0.007) ; words (0.005) ; art (0.005) ; one (0.005) ; must (0.005) ; logical (0.005) ; 
+0.2909168893786268   T=12,K=1:   (0.020) ; logic (0.014) ; science (0.010) ;  (0.008) ; analogy (0.007) ; logical (0.006) ; may (0.005) ; art (0.005) ; universal (0.004) ; words (0.004) ; 
+0.2754509795690775   T=13,K=1:  logic (0.014) ; science (0.009) ;  (0.009) ;  (0.006) ; thought (0.006) ; may (0.006) ; laws (0.005) ; language (0.005) ; truth (0.004) ; induction (0.004) ; 
+0.3327070669850215   T=14,K=1:   (0.013) ; logic (0.010) ; system (0.010) ; science (0.008) ; thought (0.008) ; laws (0.007) ; may (0.007) ; formal (0.006) ; general (0.005) ; one (0.005) ; 
+0.2913350800345963   T=15,K=1:  logic (0.020) ;  (0.017) ; thought (0.016) ; science (0.010) ; laws (0.008) ; formal (0.008) ; system (0.007) ;  (0.006) ; language (0.006) ; us (0.006) ; 
+0.16922144540234477   T=16,K=1:  logic (0.028) ;  (0.021) ; thought (0.016) ; formal (0.010) ; science (0.009) ; laws (0.008) ; system (0.007) ; matter (0.007) ; form (0.006) ; may (0.006) ; 
+0.23730238152733682   T=17,K=1:  logic (0.028) ;  (0.025) ; thought (0.020) ; science (0.019) ; laws (0.010) ; matter (0.010) ; form (0.008) ; object (0.008) ; may (0.007) ; must (0.007) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=1:  logic (0.011) ; science (0.010) ;  (0.008) ;  (0.007) ; may (0.006) ; would (0.005) ; thought (0.005) ; art (0.005) ; one (0.005) ; us (0.004) ; 
+
+0.02194867225063927   T=0,K=2:  sect (0.037) ; chap (0.035) ; reasoning (0.012) ; ii (0.009) ; new (0.008) ; chapter (0.007) ; mind (0.006) ; judgment (0.006) ;  (0.006) ; every (0.006) ; 
+0.07658237579233754   T=1,K=2:  chap (0.032) ; sect (0.028) ; ii (0.010) ; reasoning (0.009) ; logic (0.009) ;  (0.007) ; pro (0.007) ; mind (0.006) ; chapter (0.006) ; us (0.005) ; 
+0.3933541803395296   T=2,K=2:  chap (0.037) ; sect (0.021) ; ii (0.014) ;  (0.008) ; logic (0.008) ; us (0.007) ; reasoning (0.007) ; pro (0.006) ; mind (0.006) ; every (0.005) ; 
+0.11122272987226199   T=3,K=2:  sect (0.013) ;  (0.011) ; chap (0.011) ; ii (0.010) ; us (0.009) ; new (0.008) ; logic (0.007) ; pro (0.006) ; mathematics (0.006) ; words (0.006) ; 
+0.0856412195305636   T=4,K=2:  logic (0.010) ; ii (0.009) ; sect (0.008) ; new (0.008) ; science (0.008) ;  (0.007) ; chap (0.007) ; may (0.005) ; mind (0.005) ; words (0.005) ; 
+0.14410335417729805   T=5,K=2:  new (0.010) ; logic (0.010) ; old (0.008) ; may (0.007) ; ii (0.007) ; science (0.007) ; aristotle (0.005) ; system (0.005) ;  (0.005) ; necessary (0.005) ; 
+0.2652012241128472   T=6,K=2:  old (0.016) ; logic (0.013) ; new (0.012) ; science (0.008) ; may (0.005) ; system (0.005) ; aristotle (0.005) ; syllabus (0.005) ; would (0.005) ; one (0.004) ; 
+0.1242339173356003   T=7,K=2:  logic (0.011) ; old (0.007) ; p (0.007) ; notions (0.006) ; may (0.006) ; aristotle (0.006) ; new (0.005) ; must (0.005) ; science (0.005) ; ii (0.004) ; 
+0.20269406973526205   T=8,K=2:  logic (0.010) ; must (0.008) ; may (0.008) ; science (0.007) ; p (0.007) ; notions (0.004) ; new (0.004) ; first (0.004) ; old (0.004) ; aristotle (0.004) ; 
+0.39127160960174207   T=9,K=2:  logic (0.010) ; p (0.008) ; may (0.007) ; science (0.007) ;  (0.006) ; must (0.005) ; notions (0.005) ; one (0.005) ; first (0.004) ; truth (0.004) ; 
+0.4279524844489475   T=10,K=2:  logic (0.017) ; notions (0.008) ; science (0.006) ;  (0.006) ; one (0.006) ; p (0.006) ; may (0.005) ; every (0.005) ; two (0.005) ; truth (0.005) ; 
+0.16929109387275718   T=11,K=2:  logic (0.015) ; science (0.009) ;  (0.007) ; truth (0.006) ; p (0.006) ;  (0.006) ; may (0.005) ; aristotle (0.004) ; ii (0.004) ; general (0.004) ; 
+0.2210658628037443   T=12,K=2:   (0.019) ; logic (0.015) ;  (0.011) ; p (0.008) ; science (0.006) ; million (0.005) ; ii (0.004) ; book (0.004) ; part (0.004) ; thb (0.004) ; 
+0.15050745302646434   T=13,K=2:  logic (0.023) ;  (0.019) ; p (0.012) ;  (0.011) ; ii (0.006) ; book (0.006) ; science (0.005) ; one (0.004) ; c (0.004) ; introduction (0.003) ; 
+0.146683212807172   T=14,K=2:  p (0.016) ;  (0.016) ; logic (0.010) ; ii (0.009) ; c (0.006) ; system (0.006) ;  (0.005) ; part (0.005) ; syllogism (0.004) ; ed (0.004) ; 
+0.07725990548121904   T=15,K=2:   (0.020) ; p (0.018) ; logic (0.012) ; ii (0.010) ;  (0.008) ; lectures (0.007) ; lect (0.007) ; ed (0.006) ; syllogism (0.006) ; § (0.006) ; 
+0.032254251199262174   T=16,K=2:   (0.040) ; logic (0.023) ; p (0.018) ; lectures (0.015) ; ii (0.012) ; § (0.010) ;  (0.007) ; lect (0.007) ; ed (0.007) ; c (0.007) ; 
+0.2598328703212388   T=17,K=2:   (0.041) ; lectures (0.023) ; p (0.019) ; lect (0.018) ; logic (0.017) ; § (0.017) ; ii (0.014) ; ed (0.013) ;  (0.008) ; part (0.006) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=2:  logic (0.012) ;  (0.012) ; p (0.008) ; chap (0.008) ; ii (0.007) ; sect (0.007) ; science (0.005) ;  (0.005) ; may (0.004) ; new (0.004) ; 
+
+0.40392787917366046   T=0,K=3:  logic (0.015) ; art (0.012) ; may (0.012) ; science (0.009) ; elements (0.009) ;  (0.008) ; knowledge (0.008) ; reasoning (0.007) ; part (0.006) ; applied (0.006) ; 
+0.6010667940789962   T=1,K=3:  art (0.011) ; may (0.010) ; logic (0.010) ;  (0.008) ; upon (0.007) ; science (0.007) ; subject (0.006) ; truth (0.006) ; part (0.006) ; ii (0.006) ; 
+0.349275457216901   T=2,K=3:  ii (0.010) ; logic (0.009) ;  (0.008) ; may (0.008) ; truth (0.007) ; art (0.007) ; rhetoric (0.006) ; part (0.006) ; reasoning (0.006) ; subject (0.005) ; 
+0.531704808565037   T=3,K=3:  logic (0.009) ; reasoning (0.008) ; first (0.007) ; part (0.007) ; may (0.007) ; ii (0.007) ;  (0.007) ; truth (0.006) ; words (0.005) ; term (0.005) ; 
+0.48947835023002906   T=4,K=3:  logic (0.011) ; term (0.008) ; part (0.008) ; reasoning (0.008) ; may (0.007) ; science (0.007) ; first (0.006) ; subject (0.006) ;  (0.005) ; truth (0.005) ; 
+0.21503822608323117   T=5,K=3:  logic (0.017) ; term (0.011) ; reasoning (0.008) ; old (0.008) ; new (0.008) ; science (0.007) ; may (0.007) ; first (0.007) ; subject (0.006) ; part (0.006) ; 
+0.23845115111903661   T=6,K=3:  logic (0.021) ; old (0.011) ; new (0.011) ; syllabus (0.009) ; first (0.007) ; term (0.006) ; one (0.006) ; may (0.006) ; common (0.005) ; science (0.004) ; 
+0.5280091940883562   T=7,K=3:  logic (0.019) ; may (0.009) ; science (0.008) ;  (0.007) ; common (0.007) ; new (0.006) ; term (0.005) ; formal (0.005) ; one (0.005) ; subject (0.005) ; 
+0.23533561670486133   T=8,K=3:  logic (0.019) ;  (0.013) ; science (0.011) ; subject (0.007) ; also (0.007) ; induction (0.006) ; common (0.006) ; may (0.005) ; one (0.005) ; inductive (0.005) ; 
+0.13967141733689328   T=9,K=3:  logic (0.018) ; science (0.012) ;  (0.009) ; sect (0.007) ; formal (0.007) ; reasoning (0.007) ; rhetoric (0.006) ; also (0.006) ; induction (0.006) ; common (0.005) ; 
+0.07648340099966468   T=10,K=3:  logic (0.026) ; chap (0.011) ; formal (0.010) ; manual (0.009) ; sect (0.008) ; iv (0.007) ;  (0.007) ; one (0.006) ; syllogism (0.006) ; chapter (0.006) ; 
+0.2868316599676522   T=11,K=3:  manual (0.019) ; logic (0.016) ; sect (0.010) ; chap (0.008) ; one (0.008) ; formal (0.008) ; syllogism (0.007) ; theory (0.006) ; rhetoric (0.006) ; may (0.005) ; 
+0.23969408962134445   T=12,K=3:   (0.014) ; logic (0.012) ; hy (0.008) ; manual (0.007) ; may (0.006) ; one (0.006) ;  (0.005) ; syllogism (0.005) ; sect (0.005) ; first (0.005) ; 
+0.43490415400185123   T=13,K=3:  logic (0.009) ; pure (0.008) ; one (0.008) ; grammar (0.007) ; science (0.006) ; metaphysics (0.006) ; first (0.005) ; ii (0.005) ; may (0.005) ; true (0.005) ; 
+0.2716004969921233   T=14,K=3:  may (0.008) ; ii (0.007) ; symbols (0.006) ; logic (0.006) ; one (0.006) ; proposition (0.005) ; science (0.005) ; formal (0.005) ;  (0.005) ; chap (0.004) ; 
+0.3539842488282436   T=15,K=3:   (0.007) ; logic (0.007) ; may (0.007) ; proposition (0.006) ; language (0.006) ; ii (0.006) ; thought (0.005) ; subject (0.005) ; science (0.005) ; one (0.005) ; 
+0.6838820168067514   T=16,K=3:   (0.008) ; lectures (0.008) ; may (0.008) ; logic (0.007) ; language (0.007) ; thought (0.006) ; science (0.005) ; induction (0.005) ; thus (0.005) ; one (0.005) ; 
+0.24829652651152403   T=17,K=3:   (0.014) ; lectures (0.014) ; logic (0.012) ; lect (0.009) ; science (0.008) ; may (0.007) ; thought (0.006) ; formal (0.006) ; ii (0.005) ; l (0.004) ; 
+p(w|s) = sum_t P(w|t,s)  T=-1,K=3:  logic (0.013) ; may (0.007) ; science (0.007) ; one (0.005) ; first (0.005) ; reasoning (0.005) ;  (0.005) ; subject (0.005) ; ii (0.005) ; part (0.004) ; 
+
+===============  per time  ===============
+Time=0  
+0.2653323368641506   T=0,K=0:  elements (0.020) ;  (0.010) ; may (0.009) ; system (0.009) ; general (0.008) ; new (0.007) ; science (0.007) ; one (0.006) ; says (0.006) ; made (0.006) ; 
+0.30879111171154977   T=0,K=1:  elements (0.024) ; would (0.011) ; part (0.009) ; men (0.009) ; see (0.007) ; art (0.007) ; subject (0.006) ; one (0.006) ; whole (0.005) ; may (0.005) ; 
+0.02194867225063927   T=0,K=2:  sect (0.037) ; chap (0.035) ; reasoning (0.012) ; ii (0.009) ; new (0.008) ; chapter (0.007) ; mind (0.006) ; judgment (0.006) ;  (0.006) ; every (0.006) ; 
+0.40392787917366046   T=0,K=3:  logic (0.015) ; art (0.012) ; may (0.012) ; science (0.009) ; elements (0.009) ;  (0.008) ; knowledge (0.008) ; reasoning (0.007) ; part (0.006) ; applied (0.006) ; 
+
+Time=1  
+0.10504131122735683   T=1,K=0:  elements (0.017) ; made (0.011) ;  (0.010) ; system (0.008) ; science (0.007) ; words (0.007) ; general (0.007) ; one (0.007) ; object (0.006) ; rules (0.006) ; 
+0.21730951890130937   T=1,K=1:  would (0.011) ; elements (0.011) ; see (0.011) ; men (0.009) ; whole (0.008) ; may (0.007) ; remarks (0.007) ; part (0.007) ; rules (0.007) ; thing (0.006) ; 
+0.07658237579233754   T=1,K=2:  chap (0.032) ; sect (0.028) ; ii (0.010) ; reasoning (0.009) ; logic (0.009) ;  (0.007) ; pro (0.007) ; mind (0.006) ; chapter (0.006) ; us (0.005) ; 
+0.6010667940789962   T=1,K=3:  art (0.011) ; may (0.010) ; logic (0.010) ;  (0.008) ; upon (0.007) ; science (0.007) ; subject (0.006) ; truth (0.006) ; part (0.006) ; ii (0.006) ; 
+
+Time=2  
+0.12762493959907475   T=2,K=0:  system (0.011) ; object (0.008) ; words (0.008) ;  (0.007) ; says (0.007) ; made (0.007) ; rules (0.007) ; science (0.006) ; general (0.006) ; elements (0.006) ; 
+0.12974542284449458   T=2,K=1:  would (0.009) ; reasoning (0.009) ; men (0.009) ; us (0.009) ; made (0.008) ; part (0.007) ; see (0.007) ; rules (0.007) ; elements (0.006) ; whole (0.006) ; 
+0.3933541803395296   T=2,K=2:  chap (0.037) ; sect (0.021) ; ii (0.014) ;  (0.008) ; logic (0.008) ; us (0.007) ; reasoning (0.007) ; pro (0.006) ; mind (0.006) ; every (0.005) ; 
+0.349275457216901   T=2,K=3:  ii (0.010) ; logic (0.009) ;  (0.008) ; may (0.008) ; truth (0.007) ; art (0.007) ; rhetoric (0.006) ; part (0.006) ; reasoning (0.006) ; subject (0.005) ; 
+
+Time=3  
+0.11023993553452452   T=3,K=0:  system (0.010) ; words (0.009) ; says (0.006) ; new (0.006) ; h (0.006) ; made (0.005) ; dr (0.005) ; science (0.005) ; name (0.005) ; first (0.005) ; 
+0.24683252602817643   T=3,K=1:  reasoning (0.012) ; whole (0.010) ; would (0.009) ; logic (0.007) ; us (0.007) ; part (0.006) ; art (0.006) ; see (0.006) ; may (0.006) ; respect (0.005) ; 
+0.11122272987226199   T=3,K=2:  sect (0.013) ;  (0.011) ; chap (0.011) ; ii (0.010) ; us (0.009) ; new (0.008) ; logic (0.007) ; pro (0.006) ; mathematics (0.006) ; words (0.006) ; 
+0.531704808565037   T=3,K=3:  logic (0.009) ; reasoning (0.008) ; first (0.007) ; part (0.007) ; may (0.007) ; ii (0.007) ;  (0.007) ; truth (0.006) ; words (0.005) ; term (0.005) ; 
+
+Time=4  
+0.20981722113868106   T=4,K=0:  system (0.008) ; new (0.007) ; dr (0.006) ; made (0.006) ; general (0.005) ; one (0.005) ; old (0.005) ; even (0.005) ; subject (0.005) ; may (0.004) ; 
+0.21506320910072632   T=4,K=1:  reasoning (0.009) ; logic (0.008) ; would (0.008) ; therefore (0.006) ; see (0.006) ; science (0.006) ;  (0.005) ; one (0.005) ; may (0.005) ; art (0.005) ; 
+0.0856412195305636   T=4,K=2:  logic (0.010) ; ii (0.009) ; sect (0.008) ; new (0.008) ; science (0.008) ;  (0.007) ; chap (0.007) ; may (0.005) ; mind (0.005) ; words (0.005) ; 
+0.48947835023002906   T=4,K=3:  logic (0.011) ; term (0.008) ; part (0.008) ; reasoning (0.008) ; may (0.007) ; science (0.007) ; first (0.006) ; subject (0.006) ;  (0.005) ; truth (0.005) ; 
+
+Time=5  
+0.45551488933852535   T=5,K=0:  new (0.014) ; logic (0.009) ; old (0.008) ; system (0.006) ; science (0.005) ; one (0.005) ; dr (0.005) ; reasoning (0.005) ;  (0.005) ; general (0.005) ; 
+0.18534353040094542   T=5,K=1:  new (0.008) ; science (0.008) ; would (0.007) ; may (0.007) ; logic (0.006) ; thing (0.006) ; old (0.006) ; reasoning (0.006) ;  (0.006) ; art (0.006) ; 
+0.14410335417729805   T=5,K=2:  new (0.010) ; logic (0.010) ; old (0.008) ; may (0.007) ; ii (0.007) ; science (0.007) ; aristotle (0.005) ; system (0.005) ;  (0.005) ; necessary (0.005) ; 
+0.21503822608323117   T=5,K=3:  logic (0.017) ; term (0.011) ; reasoning (0.008) ; old (0.008) ; new (0.008) ; science (0.007) ; may (0.007) ; first (0.007) ; subject (0.006) ; part (0.006) ; 
+
+Time=6  
+0.27070962915647534   T=6,K=0:  new (0.022) ; old (0.019) ; logic (0.014) ; one (0.009) ; syllogism (0.007) ; dr (0.006) ;  (0.005) ; system (0.005) ; must (0.005) ; may (0.004) ; 
+0.2256379956116408   T=6,K=1:  science (0.012) ; new (0.010) ; would (0.009) ; old (0.008) ; must (0.006) ; logic (0.006) ; art (0.006) ; subject (0.006) ;  (0.006) ;  (0.005) ; 
+0.2652012241128472   T=6,K=2:  old (0.016) ; logic (0.013) ; new (0.012) ; science (0.008) ; may (0.005) ; system (0.005) ; aristotle (0.005) ; syllabus (0.005) ; would (0.005) ; one (0.004) ; 
+0.23845115111903661   T=6,K=3:  logic (0.021) ; old (0.011) ; new (0.011) ; syllabus (0.009) ; first (0.007) ; term (0.006) ; one (0.006) ; may (0.006) ; common (0.005) ; science (0.004) ; 
+
+Time=7  
+0.14818821995279616   T=7,K=0:  logic (0.016) ; new (0.012) ;  (0.010) ; one (0.010) ; old (0.009) ; though (0.006) ; system (0.006) ; laws (0.005) ; may (0.004) ; means (0.004) ; 
+0.19956866862324732   T=7,K=1:  science (0.012) ; logic (0.011) ; art (0.008) ;  (0.008) ;  (0.007) ; province (0.007) ; may (0.007) ; must (0.006) ; subject (0.005) ; thing (0.005) ; 
+0.1242339173356003   T=7,K=2:  logic (0.011) ; old (0.007) ; p (0.007) ; notions (0.006) ; may (0.006) ; aristotle (0.006) ; new (0.005) ; must (0.005) ; science (0.005) ; ii (0.004) ; 
+0.5280091940883562   T=7,K=3:  logic (0.019) ; may (0.009) ; science (0.008) ;  (0.007) ; common (0.007) ; new (0.006) ; term (0.005) ; formal (0.005) ; one (0.005) ; subject (0.005) ; 
+
+Time=8  
+0.2623181248013119   T=8,K=0:   (0.021) ; logic (0.017) ; one (0.007) ; laws (0.006) ; old (0.006) ; though (0.005) ; science (0.005) ; new (0.005) ; means (0.004) ; language (0.004) ; 
+0.2996521887585647   T=8,K=1:  science (0.022) ;  (0.013) ; logic (0.011) ; art (0.008) ; province (0.007) ; form (0.006) ; definition (0.006) ;  (0.006) ; rules (0.005) ; every (0.005) ; 
+0.20269406973526205   T=8,K=2:  logic (0.010) ; must (0.008) ; may (0.008) ; science (0.007) ; p (0.007) ; notions (0.004) ; new (0.004) ; first (0.004) ; old (0.004) ; aristotle (0.004) ; 
+0.23533561670486133   T=8,K=3:  logic (0.019) ;  (0.013) ; science (0.011) ; subject (0.007) ; also (0.007) ; induction (0.006) ; common (0.006) ; may (0.005) ; one (0.005) ; inductive (0.005) ; 
+
+Time=9  
+0.2075725121775744   T=9,K=0:  logic (0.019) ;  (0.014) ; one (0.009) ; science (0.007) ; cause (0.005) ; thought (0.005) ; common (0.004) ; old (0.004) ; schools (0.004) ; part (0.004) ; 
+0.2614844608837902   T=9,K=1:  science (0.012) ; logic (0.012) ; art (0.009) ;  (0.007) ; one (0.007) ; province (0.007) ; may (0.006) ; useful (0.005) ;  (0.005) ; every (0.005) ; 
+0.39127160960174207   T=9,K=2:  logic (0.010) ; p (0.008) ; may (0.007) ; science (0.007) ;  (0.006) ; must (0.005) ; notions (0.005) ; one (0.005) ; first (0.004) ; truth (0.004) ; 
+0.13967141733689328   T=9,K=3:  logic (0.018) ; science (0.012) ;  (0.009) ; sect (0.007) ; formal (0.007) ; reasoning (0.007) ; rhetoric (0.006) ; also (0.006) ; induction (0.006) ; common (0.005) ; 
+
+Time=10  
+0.3055448902302497   T=10,K=0:  logic (0.014) ; one (0.011) ; may (0.006) ; science (0.006) ;  (0.006) ; art (0.005) ; schools (0.004) ; cause (0.004) ; truth (0.004) ; reasoning (0.004) ; 
+0.190019224321138   T=10,K=1:  science (0.013) ; art (0.010) ;  (0.008) ; logic (0.007) ;  (0.007) ; may (0.006) ; one (0.005) ; us (0.005) ; part (0.005) ; mind (0.005) ; 
+0.4279524844489475   T=10,K=2:  logic (0.017) ; notions (0.008) ; science (0.006) ;  (0.006) ; one (0.006) ; p (0.006) ; may (0.005) ; every (0.005) ; two (0.005) ; truth (0.005) ; 
+0.07648340099966468   T=10,K=3:  logic (0.026) ; chap (0.011) ; formal (0.010) ; manual (0.009) ; sect (0.008) ; iv (0.007) ;  (0.007) ; one (0.006) ; syllogism (0.006) ; chapter (0.006) ; 
+
+Time=11  
+0.31622432423217256   T=11,K=0:  logic (0.018) ; one (0.008) ; deductive (0.007) ; may (0.007) ; science (0.006) ; sec (0.006) ;  (0.005) ; schools (0.005) ; different (0.005) ; art (0.005) ; 
+0.22765292192741815   T=11,K=1:  logic (0.010) ; science (0.009) ;  (0.009) ;  (0.008) ; may (0.007) ; words (0.005) ; art (0.005) ; one (0.005) ; must (0.005) ; logical (0.005) ; 
+0.16929109387275718   T=11,K=2:  logic (0.015) ; science (0.009) ;  (0.007) ; truth (0.006) ; p (0.006) ;  (0.006) ; may (0.005) ; aristotle (0.004) ; ii (0.004) ; general (0.004) ; 
+0.2868316599676522   T=11,K=3:  manual (0.019) ; logic (0.016) ; sect (0.010) ; chap (0.008) ; one (0.008) ; formal (0.008) ; syllogism (0.007) ; theory (0.006) ; rhetoric (0.006) ; may (0.005) ; 
+
+Time=12  
+0.2483231581962845   T=12,K=0:   (0.017) ; logic (0.013) ; science (0.009) ;  (0.009) ; one (0.005) ; system (0.005) ; art (0.005) ; may (0.005) ; reason (0.004) ; reasoning (0.004) ; 
+0.2909168893786268   T=12,K=1:   (0.020) ; logic (0.014) ; science (0.010) ;  (0.008) ; analogy (0.007) ; logical (0.006) ; may (0.005) ; art (0.005) ; universal (0.004) ; words (0.004) ; 
+0.2210658628037443   T=12,K=2:   (0.019) ; logic (0.015) ;  (0.011) ; p (0.008) ; science (0.006) ; million (0.005) ; ii (0.004) ; book (0.004) ; part (0.004) ; thb (0.004) ; 
+0.23969408962134445   T=12,K=3:   (0.014) ; logic (0.012) ; hy (0.008) ; manual (0.007) ; may (0.006) ; one (0.006) ;  (0.005) ; syllogism (0.005) ; sect (0.005) ; first (0.005) ; 
+
+Time=13  
+0.139137413402607   T=13,K=0:  logic (0.017) ; science (0.010) ;  (0.007) ;  (0.007) ; may (0.007) ; one (0.006) ; reason (0.005) ; thus (0.004) ; use (0.004) ; thought (0.004) ; 
+0.2754509795690775   T=13,K=1:  logic (0.014) ; science (0.009) ;  (0.009) ;  (0.006) ; thought (0.006) ; may (0.006) ; laws (0.005) ; language (0.005) ; truth (0.004) ; induction (0.004) ; 
+0.15050745302646434   T=13,K=2:  logic (0.023) ;  (0.019) ; p (0.012) ;  (0.011) ; ii (0.006) ; book (0.006) ; science (0.005) ; one (0.004) ; c (0.004) ; introduction (0.003) ; 
+0.43490415400185123   T=13,K=3:  logic (0.009) ; pure (0.008) ; one (0.008) ; grammar (0.007) ; science (0.006) ; metaphysics (0.006) ; first (0.005) ; ii (0.005) ; may (0.005) ; true (0.005) ; 
+
+Time=14  
+0.24900922321568328   T=14,K=0:  may (0.010) ; logic (0.009) ; science (0.007) ;  (0.006) ;  (0.006) ; one (0.005) ; pure (0.005) ; system (0.005) ; thought (0.005) ; p (0.005) ; 
+0.3327070669850215   T=14,K=1:   (0.013) ; logic (0.010) ; system (0.010) ; science (0.008) ; thought (0.008) ; laws (0.007) ; may (0.007) ; formal (0.006) ; general (0.005) ; one (0.005) ; 
+0.146683212807172   T=14,K=2:  p (0.016) ;  (0.016) ; logic (0.010) ; ii (0.009) ; c (0.006) ; system (0.006) ;  (0.005) ; part (0.005) ; syllogism (0.004) ; ed (0.004) ; 
+0.2716004969921233   T=14,K=3:  may (0.008) ; ii (0.007) ; symbols (0.006) ; logic (0.006) ; one (0.006) ; proposition (0.005) ; science (0.005) ; formal (0.005) ;  (0.005) ; chap (0.004) ; 
+
+Time=15  
+0.27742076565594104   T=15,K=0:  logic (0.014) ;  (0.011) ;  (0.009) ; science (0.009) ; may (0.009) ; formal (0.007) ; term (0.007) ; thought (0.006) ; p (0.006) ; general (0.006) ; 
+0.2913350800345963   T=15,K=1:  logic (0.020) ;  (0.017) ; thought (0.016) ; science (0.010) ; laws (0.008) ; formal (0.008) ; system (0.007) ;  (0.006) ; language (0.006) ; us (0.006) ; 
+0.07725990548121904   T=15,K=2:   (0.020) ; p (0.018) ; logic (0.012) ; ii (0.010) ;  (0.008) ; lectures (0.007) ; lect (0.007) ; ed (0.006) ; syllogism (0.006) ; § (0.006) ; 
+0.3539842488282436   T=15,K=3:   (0.007) ; logic (0.007) ; may (0.007) ; proposition (0.006) ; language (0.006) ; ii (0.006) ; thought (0.005) ; subject (0.005) ; science (0.005) ; one (0.005) ; 
+
+Time=16  
+0.11464228659164159   T=16,K=0:  logic (0.026) ; lectures (0.014) ; p (0.012) ;  (0.012) ;  (0.009) ; may (0.007) ; nothing (0.006) ; thought (0.006) ; science (0.006) ; general (0.006) ; 
+0.16922144540234477   T=16,K=1:  logic (0.028) ;  (0.021) ; thought (0.016) ; formal (0.010) ; science (0.009) ; laws (0.008) ; system (0.007) ; matter (0.007) ; form (0.006) ; may (0.006) ; 
+0.032254251199262174   T=16,K=2:   (0.040) ; logic (0.023) ; p (0.018) ; lectures (0.015) ; ii (0.012) ; § (0.010) ;  (0.007) ; lect (0.007) ; ed (0.007) ; c (0.007) ; 
+0.6838820168067514   T=16,K=3:   (0.008) ; lectures (0.008) ; may (0.008) ; logic (0.007) ; language (0.007) ; thought (0.006) ; science (0.005) ; induction (0.005) ; thus (0.005) ; one (0.005) ; 
+
+Time=17  
+0.25456822163990045   T=17,K=0:  logic (0.033) ;  (0.029) ; lectures (0.017) ; lect (0.013) ; p (0.009) ;  (0.008) ; general (0.008) ; ed (0.007) ; two (0.006) ; may (0.006) ; 
+0.23730238152733682   T=17,K=1:  logic (0.028) ;  (0.025) ; thought (0.020) ; science (0.019) ; laws (0.010) ; matter (0.010) ; form (0.008) ; object (0.008) ; may (0.007) ; must (0.007) ; 
+0.2598328703212388   T=17,K=2:   (0.041) ; lectures (0.023) ; p (0.019) ; lect (0.018) ; logic (0.017) ; § (0.017) ; ii (0.014) ; ed (0.013) ;  (0.008) ; part (0.006) ; 
+0.24829652651152403   T=17,K=3:   (0.014) ; lectures (0.014) ; logic (0.012) ; lect (0.009) ; science (0.008) ; may (0.007) ; thought (0.006) ; formal (0.006) ; ii (0.005) ; l (0.004) ; 
+
+
+
+-----------------------
+ kappa_c 3.291774 , kappa_f 10.000000
