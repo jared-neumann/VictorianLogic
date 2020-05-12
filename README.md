@@ -83,7 +83,7 @@ SCAN requires a concordance file with instances of the target word. The context 
 4873   | knowledge science **logic** propositions judgments         | 1850_Field_Analogy.txt
 ...    | ...                                                        | ...
 
-However, SCAN requires the following format, where the date of publication comes first, then a tab character, then the concordance:
+These original concordances are contained in the [conc_original.zip](https://github.com/janeumanIU/VictorianLogic/blob/master/conc_original.zip) file. However, SCAN requires the following format, where the date of publication comes first, then a tab character, then the concordance:
 
 
  Year  | Delimiter |        Keyword in Context (KWIC) with 2L/2R                
