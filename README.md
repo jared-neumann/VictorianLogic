@@ -92,7 +92,7 @@ However, SCAN requires the following format, where the date of publication comes
 1850   | \t        | knowledge science **logic** propositions judgments         
 ...    | ...       | ...                                                
 
-Furthermore -- another methodological issue -- I wanted to avoid over-representing concordances from texts that were simply longer than others. So, the first step is to get the number of concordances per text per target word and use that as a baseline to randomly sample concordances from other texts. Try lognormal?
+Furthermore -- another methodological issue -- it may be beneficial to avoid over-representing concordances from texts that are simply longer than others. One way to do this is to put a cap on the number of concorances drawn from any given text. I did not do that for this aspect of the project, as I thought it might resolve itself given a larger corpus.
 
 ### Running the SCAN Model
 
