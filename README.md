@@ -83,7 +83,7 @@ SCAN requires a concordance file with instances of the target word. The context 
 4873   | knowledge science **logic** propositions judgments         | 1850_Field_Analogy.txt
 ...    | ...                                                        | ...
 
-However, SCAN requires the following format, where the date of publication comes first, then a tab character, then the concordance:
+These original concordances are contained in the [conc_original.zip](https://github.com/janeumanIU/VictorianLogic/blob/master/conc_original.zip) file. However, SCAN requires the following format, where the date of publication comes first, then a tab character, then the concordance:
 
 
  Year  | Delimiter |        Keyword in Context (KWIC) with 2L/2R                
@@ -92,7 +92,7 @@ However, SCAN requires the following format, where the date of publication comes
 1850   | \t        | knowledge science **logic** propositions judgments         
 ...    | ...       | ...                                                
 
-Furthermore -- another methodological issue -- it may be beneficial to avoid over-representing concordances from texts that are simply longer than others. One way to do this is to put a cap on the number of concorances drawn from any given text. I did not do that for this aspect of the project, as I thought it might resolve itself given a larger corpus.
+The translation was done with a simple Python script contained in [antconc_to_scan.py](https://github.com/janeumanIU/VictorianLogic/blob/master/misc/antconc_to_scan.py). Furthermore -- another methodological issue -- it may be beneficial to avoid over-representing concordances from texts that are simply longer than others. One way to do this is to put a cap on the number of concordances drawn from any given text. I did not do that for for now, as I thought it might resolve itself given a larger corpus. The new concordances are found in the [input](https://github.com/janeumanIU/VictorianLogic/tree/master/input) folder. 
 
 ### Running the SCAN Model
 
