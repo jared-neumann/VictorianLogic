@@ -1,0 +1,1386 @@
+1	  found class st forms enter admit 	inference aa ea fig ae ea fig 	1847_Boole_Analysis.txt
+2	  ys zy zx zs xs case 	inference aa fig xs ys xl xy 	1847_Boole_Analysis.txt
+3	 dijin appendix hypothelical disjunctive reasoninc 	inference aauthors doctrinefragments mediate inference inco	1860_Hamilton_Lectures_II.txt
+4	  philofophy mutton ate long connexion permits 	inference abfblutely irrelevant fallacies attempt fubftitut	1847_DeMorgan_Logic.txt
+5	  gained habit closely investigating meaning draw 	inference ability speak great pre cision occasions 	1838_Newman_Lectures.txt
+6	  showing deny conclusion syllogisms contradictory 	inference absurd contradictories true remains original conc	1860_Hamilton_Lectures_I.txt
+7	 ferences travelled cases spring follow repetition 	inference act additional guarantee applying indiscriminate 	1854_Devey_Logic.txt
+8	 invention requisite inductive inference inductive 	inference act invention requisite act slips notice 	1840_Whewell_Philosophy_II.txt
+9	 ntion winch requisite inductive ference inductive 	inference act invention requisite act slips notice 	1858_Whewell_Renovatum.txt
+10	 reason ratio relation analogy comparison judgment 	inference acts standing synonymous compare judge things 	1850_Field_Analogy.txt
+11	  visible diagrams diagrams minds eye logic 	inference ad infinitum truth steps leach conclusion 	1831_Smart_Sematology.txt
+12	  fyllogifm reprefented valid valid written axiom 	inference ad mind makes inference fubordinate notation 	1847_DeMorgan_Logic.txt
+13	  mu lefs fliould inference fpurious lefs 	inference add condition mi firft inference fyl 	1847_DeMorgan_Logic.txt
+14	 neral conclusion researches sound induction fresh 	inference add force claims high principle order 	1838_Powell_Connexion.txt
+15	 tempt prove priori exclufive validity fyllogiflic 	inference admit good ground diffent ma tured 	1847_DeMorgan_Logic.txt
+16	 stic array attributed cogency chain philosophical 	inference admitted rigorous precision quantity statement su	1854_Devey_Logic.txt
+17	 igation inductions made fresh extension inductive 	inference advance direction kepler expressed regularity exi	1843_Mill_System_I.txt
+18	 igation inductions made fresh extension inductive 	inference advance direction kepler expressed regularity exi	1843_Mill_System_II.txt
+19	  modals modal syllogisms arc certainty conclusion 	inference affected modality neces sary contingent premisses	1848_Moberly_Lectures.txt
+20	  pq fignify names xp xqxpqis fyllogifm 	inference affertion ufe pleafure ways faying fame 	1847_DeMorgan_Logic.txt
+21	  con fusedly supposed alleged major premiss 	inference affirmative pre misses negative political crimes 	1848_Moberly_Lectures.txt
+22	  part identical part identical process resembles 	inference affirmative syllogism double identity firstly mid	1860_Mansel_Prolegomena.txt
+23	  fecond thefe fyuogifms eflentially feme mode 	inference afford change fyuogifm fame mode inference 	1847_DeMorgan_Logic.txt
+24	  things number attributes observed order ground 	inference agree attributes ascertained possess evident prop	1860_Hamilton_Lectures_II.txt
+25	  tenn terms thi gbiienl canon mediate 	inference agreement disagreement concept ascertained concep	1856_Ingleby_Outlines.txt
+26	  logical actual experience men narrow judgment 	inference aid analogy logic evidence things faith 	1850_Field_Analogy.txt
+27	 egetable blues lemonjuice reddens vegetable blues 	inference allowed virtue proposition connects syllogises un	1848_Moberly_Lectures.txt
+28	  ten reaches age striking difference carries 	inference alon remarked emment practitioum hundred men 	1851_Gilbart_Logic.txt
+29	 nner generally reafoning retort objeft alteration 	inference altered changing propo fition logical equivalent 	1847_DeMorgan_Logic.txt
+30	 t alternative knowuig alternatives niust formally 	inference alternative double hypothetical conjunctive disju	1860_Hamilton_Lectures_II.txt
+31	 clare actual actual convertibility copula renders 	inference altogether independent figure copula inconvertibl	1860_DeMorgan_Syllabus.txt
+32	  cases consequence confusion led kant reject 	inference altogether prolegomena logica affirmed subject co	1860_Mansel_Prolegomena.txt
+33	  representation domain science case pass sort 	inference altogether treat separate distinct reasoning expr	1851_Bailey_Reasoning.txt
+34	 hej metaphysical local conditions hie sjllogistic 	inference alwajb nacessarj modified bj eitrafurmal doq 	1850_Munro_Logic.txt
+35	  compared number xs generally fpeaking kind 	inference amine univerfal cafes found ame law 	1847_DeMorgan_Logic.txt
+36	  quantity quality lation position implies amotion 	inference amotion consequence involute opposition involute 	1842_Thomson_Outline.txt
+37	  made fhown poffible conception word purpofes 	inference amounts frequent moft ufual ufe word 	1847_DeMorgan_Logic.txt
+38	  inductive ar gument case tended show 	inference amounts moral certainty induction considered equi	1827_Bentham_Outline.txt
+39	 assassination safe en thymemes foregoing treatise 	inference amounts variety expression fact stated premise 	1851_Bailey_Reasoning.txt
+40	 alidity rise called trains reasoning combinations 	inference ample kind furnished sorites series syllogisms 	1854_Devey_Logic.txt
+41	 usurpations succeed usurpations succeed induction 	inference amples similitude indication instances analogy ar	1850_Field_Analogy.txt
+42	  takes evidence inade quate establish complete 	inference amply suffi cient refutation peculiar character 	1854_Devey_Logic.txt
+43	 tives circumstances nations statesmen politicians 	inference analogy experience acts determinatives nations kn	1850_Field_Analogy.txt
+44	 concrete deductive method direct inverse probable 	inference analogy ill contents fallacies proemium formal 	1854_Devey_Logic.txt
+45	  uni formity idea suggested perceive force 	inference analogy imagines things pre cise extent 	1838_Powell_Connexion.txt
+46	 ditors admit calctjiiation probabilities probable 	inference analogy moral sciences department probable eviden	1854_Devey_Logic.txt
+47	  genus species conclu sion properly called 	inference analogy principle case disposed extend inferences	1860_Hamilton_Lectures_II.txt
+48	  effect produce considerable end ten thousand 	inference analogy strength proba bility depend extent 	1854_Devey_Logic.txt
+49	  reader bear mind sole province method 	inference analysis determine relations necessitated connexi	1854_Boole_Laws.txt
+50	  tho point inquiry natural theology growul 	inference analysis natural impression contended professed f	1838_Powell_Connexion.txt
+51	 l principles inference proemium universal methods 	inference analysis synthesis contents li universal methods 	1854_Devey_Logic.txt
+52	  importance study morals admit premises demur 	inference ancient writer charac teristic liberal sciences 	1847_Boole_Analysis.txt
+53	  conclusion called eajne term conbequently draw 	inference anj term employed term employed univertauy 	1850_Munro_Logic.txt
+54	 phenomena concomitant occurrence frequent warrant 	inference antecedent connexion affording secure ground affi	1854_Devey_Logic.txt
+55	 uent denotes consequent result antecedent natural 	inference antecedent thusif sun fixed earth move 	1851_Gilbart_Logic.txt
+56	  conclusion aristotle european view mere formal 	inference antecedents likewise extralogical logic concerned	1860_Hamilton_Lectures_I.txt
+57	 truth falsehood antecedents necessity consequence 	inference antecedents preceded showing truth called proof 	1860_DeMorgan_Syllabus.txt
+58	  determinable oe fig eo fig cases 	inference ao eo oa fig ai eo 	1847_Boole_Analysis.txt
+59	  things perceived senses de rive indubitable 	inference ap pear expression concrete abstract scholastic 	1839_Haughton_Inquiry.txt
+60	 aracter feel justified attributing motives vanity 	inference apparent imply equal wisdom dictate line 	1838_Newman_Lectures.txt
+61	  mood bringing perfect form figure necessity 	inference apparent kinds kinds reduction ostensive reductio	1827_Huyshe_Logic.txt
+62	  hear judg ments analyse steps distinguish 	inference appearance mix tures observation inference speak 	1840_Whewell_Philosophy_I.txt
+63	  common laws inference depend common laws 	inference applicability accompanied accompanied idea eflent	1847_DeMorgan_Logic.txt
+64	 lattested observations ch incorrect mode speaking 	inference applicable induction produces mere probability pr	1827_Bentham_Outline.txt
+65	 t scholastic distinctions partly canons deductive 	inference application direct attention aristotelian logic c	1854_Boole_Laws.txt
+66	 data gradations science ultimate conclusions laws 	inference applied definitions axioms postulates enable inve	1848_Chretian_Method.txt
+67	 lace induction admitted parts supposed legitimate 	inference applied induction contrary rests constancy unifor	1860_Hamilton_Lectures_II.txt
+68	  disposition regard material objects things real 	inference applied work doubt perfect expositions logic 	1854_Devey_Logic.txt
+69	  determine inferences drawn case work drawing 	inference applying formula rules school logic system 	1854_Devey_Logic.txt
+70	  deciphering process sun rise tomorrow simple 	inference apprehend inductive belief uniformity sequences n	1852_Young_Elementary.txt
+71	  mind truth supposed truth result rapid 	inference apprehended intuitively long agreed philosophers 	1843_Mill_System_I.txt
+72	  mind truth supposed truth result rapid 	inference apprehended intuitively long agreed philosophers 	1843_Mill_System_II.txt
+73	  applied major term leads palpably wrong 	inference argument plato inferred virtue branch intelligenc	1854_Devey_Logic.txt
+74	  reflridled cafes unre flridled x probable 	inference argument teftimony argument vehi cle information 	1847_DeMorgan_Logic.txt
+75	 te proposition respect things unambiguous thought 	inference argumentation cases postulate applies purposes lo	1856_Ingleby_Outlines.txt
+76	  inferred rightly fhould aware falfe form 	inference arifing badnefs flyle juft injurious habits 	1847_DeMorgan_Logic.txt
+77	  mentioned ufual intro dudlion find form 	inference ariflote lian fhould fay euler ufe 	1847_DeMorgan_Logic.txt
+78	  logic retire limits making provision processes 	inference arisen attempting reconcile operations reason pur	1854_Devey_Logic.txt
+79	 amiliarise encyclopaedia knowledge general theory 	inference aristotle told thousand years ago reason 	1854_Devey_Logic.txt
+80	 ess attribute erroneous conclusions facts warrant 	inference as possess attribute universal law case 	1851_Bailey_Reasoning.txt
+81	  meaning terms argument expect form actual 	inference ascertained evidence clear simple fa account 	1848_Moberly_Lectures.txt
+82	 essitated lowest computation consistent inductive 	inference assign incal culable series ages successive 	1838_Powell_Connexion.txt
+83	 n denies existence certainty reasoning principles 	inference assumes attempts rase scientific structure ground	1854_Devey_Logic.txt
+84	 perfect maintain temperature surrounding mosphere 	inference assumes character scientific certainty method ans	1854_Devey_Logic.txt
+85	 hrowing syllogistic form bringing universal canon 	inference assumption tend weaken syllogistic doctrine show 	1854_Devey_Logic.txt
+86	  conclu sion absolute general guilty irrelevant 	inference attach probable weight argument pursue circumstan	1854_Devey_Logic.txt
+87	 onnected multitude facts deductive inductive mode 	inference avail connecting minor law wider generality 	1854_Devey_Logic.txt
+88	  greater alfo vifible mode formation fecond 	inference ay tw exceeds exceeds jj numerically 	1847_DeMorgan_Logic.txt
+89	 tions connected particulars scaffolding inductive 	inference bacon designed wolf failed unite methods 	1854_Devey_Logic.txt
+90	  labour combe asked qnestions cerrectneas assumed 	inference banre eared erroneona conclusion shonld frary 	1848_Holyoake_Logic.txt
+91	 taneous habitual apprehension puerile terra cases 	inference bare guesses whims imagination allegations suppos	1851_Bailey_Reasoning.txt
+92	  nalure uniform fact found contradictory facts 	inference based argument falls ground abistotles syllogism 	1852_Young_Elementary.txt
+93	 osition agree drawing inference premises question 	inference bc drawn principle cases deductive reasoning 	1853_Ramsay_Introduction.txt
+94	  premifes fee inconclufive forms form draw 	inference becaufe inferences pofitive imply aflertion fuffi	1847_DeMorgan_Logic.txt
+95	  ference cafe muft degree approach univerfality 	inference begins ordinary fyllo gifms fufpeft meant 	1847_DeMorgan_Logic.txt
+96	 red supplement appendix foundations evidence draw 	inference belief axioms stability nature individuals simila	1854_Devey_Logic.txt
+97	 ity thefe fyuogifms numerical quantity conditions 	inference belonging imaginable cafe reprefented general for	1847_DeMorgan_Logic.txt
+98	 hood sheltered influence atmosphere dew deposited 	inference borne actual observation dew copious situations 	1854_Devey_Logic.txt
+99	 intelligence precise sense question fiir language 	inference borne conclusions unaided reasoning powers firom 	1838_Powell_Connexion.txt
+100	  inference inference good confe quently bad 	inference breach thefe rules produftion examples exercife 	1847_DeMorgan_Logic.txt
+101	  mediate infer ence quantify terms formal 	inference breaks difference proposition alpendix restrictio	1860_Hamilton_Lectures_II.txt
+102	 elopment virtually aftually expreffed confequence 	inference bring divefted fpecific meaning names names 	1847_DeMorgan_Logic.txt
+103	  sense perceive congruity dis agreement mode 	inference brutes capable degree men deal large 	1854_Devey_Logic.txt
+104	 dduced purposes eleventh epistle hebrews examples 	inference bsiasoninq examples verse twelfth wherefore toe 	1851_Gilbart_Logic.txt
+105	  fecond cafe ariftoteli fyuogifm deduced fecond 	inference cafe agrees firft muft make liich 	1847_DeMorgan_Logic.txt
+106	  numerically definite canon middle term double 	inference cafe premife negative double inference true 	1847_DeMorgan_Logic.txt
+107	  form lead suppose concluding remarks instances 	inference call attention fact case inference drawn 	1856_Ingleby_Outlines.txt
+108	 hindoos men blacks backwards negation affirmation 	inference call integration affirming men animals entitled 	1860_Hamilton_Lectures_II.txt
+109	 ffirmed considered principle competent legitimise 	inference called celebrated enthy meme generative principle	1854_Devey_Logic.txt
+110	  consciously assented complex case sort apparent 	inference called conversion proposi tions consists making 	1843_Mill_System_I.txt
+111	  consciously assented complex case sort apparent 	inference called conversion proposi tions consists making 	1843_Mill_System_II.txt
+112	  occasion doubt exert exert consideration admit 	inference called judgement voluntary act lay blame 	1849_Smart_Logic.txt
+113	 sical purely metaphysical proposition reason draw 	inference called logical language premiss reason expressed 	1853_Ramsay_Introduction.txt
+114	 s ambiguities acceptations means syllogizing mode 	inference called suffi cient accuracy present purpose 	1843_Mill_System_I.txt
+115	 s ambiguities acceptations means syllogizing mode 	inference called suffi cient accuracy present purpose 	1843_Mill_System_II.txt
+116	  ably shewn professor de morgan lawful 	inference cambridge memoirs part undoubtedly true principle	1847_Boole_Analysis.txt
+117	  names differences giving difference names forms 	inference capable evolved forms con comitance nonconcomitan	1860_DeMorgan_Syllabus.txt
+118	  effect state mere matter fact draw 	inference case act direct contingent reasoning formation 	1851_Bailey_Reasoning.txt
+119	  form examples multiplied class enters equations 	inference case exists dis tinction unlawful cases 	1847_Boole_Analysis.txt
+120	  term attached hypothesis equal deduce law 	inference case middle terms condition inference universal 	1854_Boole_Laws.txt
+121	  truths presenting discovered de monstrative form 	inference case strict reasoning completely analysed found 	1854_Devey_Logic.txt
+122	  premise manifest prefix general rule mediate 	inference case syllogism wotdd propositions premises merged	1860_Hamilton_Lectures_II.txt
+123	  tenn premises indefinite quantity feint drawing 	inference cases called fallacy undistributed middle example	1856_Ingleby_Outlines.txt
+124	  guided experience teaching case dif ferent 	inference cases dissimilar hearer reader juggle led 	1849_Smart_Logic.txt
+125	  rule practical importance guard pure errors 	inference cases expressed general terms injunction proporti	1851_Bailey_Reasoning.txt
+126	  xs ys ys xs true force 	inference cases forget propositions contradict distinguishe	1860_DeMorgan_Syllabus.txt
+127	 contingent matter contingent iiics matter logical 	inference cases governed laws thought misapprehension natur	1860_Hamilton_Lectures_I.txt
+128	  moment great evil con founding knowledge 	inference cases hard distinguished reason preferring term 	1851_Bailey_Reasoning.txt
+129	  decipher notes notes duke included obvious 	inference cases preceding act generalization assumed expres	1852_Young_Elementary.txt
+130	  men mortal include duke rest asked 	inference cases previous process general ization apprehend 	1852_Young_Elementary.txt
+131	  scientific pursuits source error tee error 	inference cases rocognisel logicians seq ll conversion 	1860_Hamilton_Lectures_II.txt
+132	 n affirmation negation quality predication manner 	inference categorical reasoning drawn exclude determination	1860_Hamilton_Lectures_I.txt
+133	 ons mnemonic aids educational suggestions science 	inference censures applicable forcible strike claim logic 	1854_Devey_Logic.txt
+134	  contends argument halts oo legs triumphs 	inference certainty science words source evidence defective	1838_Powell_Connexion.txt
+135	 ct analysis intellectual process called reasoning 	inference ch mental operations intended ilitate hiis 	1851_Gilbart_Logic.txt
+136	  terms condition inference universal extreme rule 	inference change quantity quality extreme equate result 	1854_Boole_Laws.txt
+137	  condition inference universal middle terms rule 	inference change quantity quality extreme equate result 	1854_Boole_Laws.txt
+138	 ions experience judgment future things analogical 	inference chief instrument discovery truths physical moral 	1850_Field_Analogy.txt
+139	  schools increase number juvenile thieves reply 	inference christian times observes specific statistical fig	1851_Gilbart_Logic.txt
+140	 clusion understood expressed major objection kind 	inference ciceros defence muraena accused justice acting 	1854_Devey_Logic.txt
+141	  purpofe fhall ufe denote formal error 	inference clafe fallacy fo phifm words difficult 	1847_DeMorgan_Logic.txt
+142	  general propo sitions true wrong processes 	inference claiming attention arc kinds technically called 	1851_Bailey_Reasoning.txt
+143	  suppose result explanation op laws extended 	inference class cases comparison engendered processes laws 	1843_Mill_System_I.txt
+144	  suppose result explanation op laws extended 	inference class cases comparison engendered processes laws 	1843_Mill_System_II.txt
+145	 nc tive syllogisms antecedent clauses proposition 	inference clauses proposition erroneously divided minor pro	1860_Hamilton_Lectures_II.txt
+146	  illustration place side side universal law 	inference collective fact theory reasoning collective fact 	1851_Bailey_Reasoning.txt
+147	  conscious tree distance judge chestnut lime 	inference colour form mass precon ceived classifications 	1840_Whewell_Philosophy_I.txt
+148	  purious write forms inference fixteen ways 	inference combine propofition xy xy xy xz 	1847_DeMorgan_Logic.txt
+149	 emmatic syllogism logicians il mediate peremptory 	inference common categorical syllogism propositions actual 	1860_Hamilton_Lectures_II.txt
+150	  fallacy question applies common instance cited 	inference commonly drawn favour despotic government similar	1854_Devey_Logic.txt
+151	 ts result previous deduction remarked essentially 	inference compare instances adduced syllogism enthymeme maj	1851_Bailey_Reasoning.txt
+152	  judgment infer ence arises sentence expresses 	inference comparison instituted intervention medium order a	1831_Smart_Sematology.txt
+153	 cess previously proposition proposition expresses 	inference comparison made instance sentence single term 	1831_Smart_Sematology.txt
+154	 true sounds physical pheenomena inferred premises 	inference competent all figure moods generally admissible 	1860_Hamilton_Lectures_I.txt
+155	  ac count entitled part included legitimate 	inference competent draw case part included suppose 	1854_Devey_Logic.txt
+156	 ry science series illustrations aristotle leaping 	inference complete analysis facts mind employed affirmed 	1854_Devey_Logic.txt
+157	  class con stitute foundation valid inductive 	inference completeness result material logical inquiry baco	1850_Munro_Logic.txt
+158	  commonly held syllogism basis common type 	inference complex form structure resolved series syllogisms	1854_Boole_Laws.txt
+159	 ces adduced dissimilar concur particulars general 	inference complex subject men talk civilisation truths 	1850_Field_Analogy.txt
+160	 ependence alternation states short errors mediate 	inference composite categorical proposition dependent propo	1860_Hamilton_Lectures_II.txt
+161	  admit dtjiinslion ah rogated invention fo 	inference con cerned difpute modes fupplying names 	1847_DeMorgan_Logic.txt
+162	  deteftion breaches rule fallacies fo thofe 	inference con cerned neverthelefs points connefted matter 	1847_DeMorgan_Logic.txt
+163	 direction voice heard matter secondary impression 	inference con comitant circumstances primary fact sensation	1840_Whewell_Philosophy_I.txt
+164	  pair contranominals firft pair write cafe 	inference con fidering firft lift ob tained 	1847_DeMorgan_Logic.txt
+165	  caae nauet hold tome naeaning mem 	inference con tome mediate tradiction omitted alao 	1860_Hamilton_Lectures_II.txt
+166	 easoning indefinite denote part postulate applies 	inference con version predesignate logical unity propositio	1860_Hamilton_Lectures_II.txt
+167	  modes thought principles antagonism deny modes 	inference conceivable practicable utility proposers quantif	1854_Devey_Logic.txt
+168	  put paper sees separate infers order 	inference conception reality left spectator natural process	1840_Whewell_Philosophy_I.txt
+169	  proper sphere apply objects mill asserts 	inference concerned burlesque ordi nary notions adaptabilit	1854_Devey_Logic.txt
+170	  derived fay fb extent cha rafter 	inference concerned pals general rules complete fyftem 	1847_DeMorgan_Logic.txt
+171	  thing things thefe meaning fo ufe 	inference concerned xy juft defined treated departure 	1847_DeMorgan_Logic.txt
+172	 bject object view coessential implication logical 	inference conclude recipro cally argue universally coincide	1850_Field_Analogy.txt
+173	 enses maxims principles control priori posteriori 	inference concludes logic survey entire systems knowledge 	1854_Devey_Logic.txt
+174	  make iyllo gifms capable verbal defcription 	inference conclufions matter felfevidence deflrable fhould 	1847_DeMorgan_Logic.txt
+175	  minor obvious sight intuitively evi dent 	inference conclusion argument thrown syllogistic form stand	1843_Mill_System_I.txt
+176	  minor obvious sight intuitively evi dent 	inference conclusion argument thrown syllogistic form stand	1843_Mill_System_II.txt
+177	  renounce inference infer herb poison case 	inference conclusion belonging deductive logic inference ph	1849_Smart_Logic.txt
+178	  alkali case impurity case acid alkali 	inference conclusion cases impurity cases nonproduction aci	1854_Devey_Logic.txt
+179	 called anprtmises tecedent premises proved called 	inference conclusion connexion premises connexion premises 	1827_Huyshe_Logic.txt
+180	 ootnote consequence consequents consequence logic 	inference conclusion consequents topics internal arguments 	1849_Smart_Logic.txt
+181	  logic proving con futing arguments shew 	inference conclusion contained premises con clusion contain	1850_Field_Analogy.txt
+182	  proved called antecedent premisses proved called 	inference conclusion crakadtborpe eiplbina mauer ana jarm 	1850_Munro_Logic.txt
+183	 siness physical sciences tin conclusion belonging 	inference conclusion included premises conclusion conclusio	1849_Smart_Logic.txt
+184	  act state induced conjecture strong term 	inference conclusion increase etidenoe coiecture conclusion	1851_Gilbart_Logic.txt
+185	  act state induced conjecture strong term 	inference conclusion increase evidence theory reasoning con	1851_Bailey_Reasoning.txt
+186	  explanation induction present doubt process real 	inference conclusion induction embraces contained premisses	1843_Mill_System_I.txt
+187	  explanation induction present doubt process real 	inference conclusion induction embraces contained premisses	1843_Mill_System_II.txt
+188	  laid universal property sections cone induction 	inference conclusion mere summing asserted propositions dra	1843_Mill_System_I.txt
+189	  laid universal property sections cone induction 	inference conclusion mere summing asserted propositions dra	1843_Mill_System_II.txt
+190	  fallen ground lift mil fall ground 	inference conclusion moment doubts certainty certainty rest	1849_Smart_Logic.txt
+191	 elliptical orbit false obvious examines syllogism 	inference conclusion natural conclusion true drawn planets 	1852_Young_Elementary.txt
+192	  analysis syllo gism universal law founded 	inference conclusion obtained general generical term includ	1850_Field_Analogy.txt
+193	 ong induction induction distinguished enumeration 	inference conclusion premises inductive process process arg	1849_Smart_Logic.txt
+194	 stly inference reasoning considered light evident 	inference conclusion pro usition necessitated directly medi	1860_Hamilton_Lectures_II.txt
+195	  proposition duke wel lington mortal evidently 	inference conclusion reahty conclude proposition men mortal	1843_Mill_System_I.txt
+196	  proposition duke wel lington mortal evidently 	inference conclusion reahty conclude proposition men mortal	1843_Mill_System_II.txt
+197	  subject observation extended pro duced effect 	inference conclusion simply giving summary result inductive	1851_Bailey_Reasoning.txt
+198	  connected reason conse quent effect valid 	inference conclusion sophisma krug logit anm cf 	1860_Hamilton_Lectures_I.txt
+199	  suppose facts length suggest result result 	inference conclusion till length previous knowledge granted	1849_Smart_Logic.txt
+200	  inductive process special fiicts basis inductive 	inference conclusion train deduction manner deduction estab	1840_Whewell_Philosophy_II.txt
+201	  inductive process special facts basis inductive 	inference conclusion train deduction manner deduction estab	1858_Whewell_Renovatum.txt
+202	  conversion mode called simple conversion cases 	inference conclusion truth asserted premisses obvious appre	1843_Mill_System_I.txt
+203	  conversion mode called simple conversion cases 	inference conclusion truth asserted premisses obvious appre	1843_Mill_System_II.txt
+204	 nterested examining nature propositions principle 	inference conclusively drawn confirmed opinion ob served 	1832_Wesley_Guide.txt
+205	 inference general examined examine nature grounds 	inference condi tions make legitimate subject discussion 	1843_Mill_System_I.txt
+206	 inference general examined examine nature grounds 	inference condi tions make legitimate subject discussion 	1843_Mill_System_II.txt
+207	 ons leave abftrafting necefltary examination laws 	inference condition confine ourfelves fay man animal 	1847_DeMorgan_Logic.txt
+208	  gene ral rule rule safely draw 	inference conduct despot seated throne possession unchecked	1848_Holyoake_Logic.txt
+209	 circumstance esteemed matter indifference process 	inference conducted precision termed mechanical demonstrati	1854_Boole_Laws.txt
+210	  long ago attraded attention faw poffibility 	inference confidered abfolutely depended exclufively quanti	1847_DeMorgan_Logic.txt
+211	 eprefentation fyllogifms algebraift fay ftrudture 	inference confidered depend names reference names fundament	1847_DeMorgan_Logic.txt
+212	  points refemble differ part reafoning called 	inference confifls comparifon feveral things fame thing 	1847_DeMorgan_Logic.txt
+213	 reffddar oonse diminution recede older formations 	inference confirmed extended avir mmmimimiimiiiitiiimaai in	1838_Powell_Connexion.txt
+214	 clusion form necessity general propositions basis 	inference confirmed necessity conceive involved existence p	1854_Boole_Laws.txt
+215	 inal animals destitute power selfmotion sensation 	inference confirmed nerves circumstance la marck drew 	1838_Newman_Lectures.txt
+216	 particulars observed instances unobserved drawing 	inference conform formula adopted guidance operations recor	1843_Mill_System_I.txt
+217	 particulars observed instances unobserved drawing 	inference conform formula adopted guidance operations recor	1843_Mill_System_II.txt
+218	 sal method analysis synthesis induction deduction 	inference confounded ception inquiry experimental methods s	1854_Devey_Logic.txt
+219	  tariff justi fied perception theories perception 	inference confounded personal identity peter hispanus verse	1854_Devey_Logic.txt
+220	  pre mifes mention picked laft procefs 	inference conftfts ariftotle noticed fure fame ys 	1847_DeMorgan_Logic.txt
+221	  scending scale untried substances ledge end 	inference conjecture begin contingent reasoning appears sol	1851_Bailey_Reasoning.txt
+222	  op illation obeites syllogism im mediate 	inference conjunctive dis junctive conjunctive illation kin	1856_Ingleby_Outlines.txt
+223	 g investigation nature essentially consists found 	inference conse quently proof discovery truths evident 	1843_Mill_System_I.txt
+224	 g investigation nature essentially consists found 	inference conse quently proof discovery truths evident 	1843_Mill_System_II.txt
+225	 low grant reason accepting foundation syllogistic 	inference consequences held true reason true thirdly 	1854_Devey_Logic.txt
+226	  logic account logic fact con siders 	inference consequent antece krter lotjtk kd lectdre 	1860_Hamilton_Lectures_II.txt
+227	 ogicians long ago attracted attention possibility 	inference considered absolutely depended exclusively quan t	1860_Hamilton_Lectures_II.txt
+228	  conclusion por tions deductive argument reason 	inference considered corre sponding portion arguments gener	1827_Bentham_Outline.txt
+229	  excrescence minor premise lend force clearness 	inference considered indispensable step strange ludicrous m	1851_Bailey_Reasoning.txt
+230	 essing deducing actual fects conviction inductive 	inference consistent facts finds place mind gradually 	1840_Whewell_Philosophy_II.txt
+231	 essing deducing actual facts conviction inductive 	inference consistent facts finds place mind gradually 	1858_Whewell_Renovatum.txt
+232	 positions introduction mental philosophy validity 	inference consists conviction depends considered respect re	1853_Ramsay_Introduction.txt
+233	 opinion examples con tained furnish contradiction 	inference consists pe culiarly elimination terms elementary	1854_Boole_Laws.txt
+234	  judgment furnishes material act reasoning matter 	inference consists propositions disputed question relation 	1860_Mansel_Prolegomena.txt
+235	 or ingenious exaggeration limiting error probable 	inference consti tutes exception comparatively small depart	1860_Hamilton_Lectures_II.txt
+236	 er admitting logical induction supposed imperfect 	inference constituent parts imperfect induction doctrine he	1860_Hamilton_Lectures_I.txt
+237	 nsequent falsehood antecedent modes hypotheti cal 	inference constitutes called logic constructive hypothetica	1860_Hamilton_Lectures_I.txt
+238	 law thought axiomatic expression nature deductive 	inference constitutive elements subject induction receive a	1854_Boole_Laws.txt
+239	 nowledge prolegomena logic indication true ground 	inference contained additional knowledge mere hypothetical 	1860_Mansel_Prolegomena.txt
+240	  distinct class truths necessarily denote species 	inference contem plated founder logic view countenanced 	1854_Devey_Logic.txt
+241	 ssity reascending original evidence universal law 	inference contingent reasoning rightly employed de monstrat	1851_Bailey_Reasoning.txt
+242	  analysis synthesis contents li universal methods 	inference continued induction deduction meaning terms kinds	1854_Devey_Logic.txt
+243	 earness precision remarking tracing back ferences 	inference continues now ultimate ground consist individual 	1851_Bailey_Reasoning.txt
+244	  instance cases proving mentally supply give 	inference contradistinction conclusion inference utmost cer	1849_Smart_Logic.txt
+245	  spurious conclufions refult premife fpurious law 	inference contranominal forms numerical propofitions partia	1847_DeMorgan_Logic.txt
+246	 meaning obtain veritable opposition subaltemation 	inference contrariety call integration opposition peopositi	1860_Hamilton_Lectures_II.txt
+247	 gism syllogism correct analysis process reasoning 	inference contrary mere inference testimony inference parti	1843_Mill_System_I.txt
+248	 gism syllogism correct analysis process reasoning 	inference contrary mere inference testimony inference parti	1843_Mill_System_II.txt
+249	  heat maintained form conception entitled denj 	inference contrary opposing facts equally instructive disco	1831_Herschel_Discourse.txt
+250	 ledge importance professions logic which occupied 	inference conversant ttt abstract matter theology law 	1860_Hamilton_Lectures_I.txt
+251	 cidental conversion tained reality double process 	inference conversion oppo sition si quaeras car 	1842_Thomson_Outline.txt
+252	 fying predicate uantification pkedicate lmmediate 	inference conversion opposition pp proceed treated relation	1860_Hamilton_Lectures_II.txt
+253	 ons instrument arrived states language inevitable 	inference convince reason account universality terminations	1839_Haughton_Inquiry.txt
+254	 y rightly condemned extralogical true syllogistic 	inference copula judg ments criticism accepted verbally 	1860_Mansel_Prolegomena.txt
+255	 t conclusion hypothetical apt erroneously suppose 	inference correct conceivable syllogism show large assumpti	1853_Ramsay_Introduction.txt
+256	 granted requires proof conclusion nay comprehends 	inference correct conclusion utterly false reason reasoning	1853_Ramsay_Introduction.txt
+257	  practically useless im perfect exposition theory 	inference correct idea induction affirmed syllogism major 	1854_Devey_Logic.txt
+258	  description illogical poses made premisses laid 	inference correct ut material formal point view 	1850_Munro_Logic.txt
+259	  natural mind draw inference experience correct 	inference corrected con firmed belief convinced connection 	1838_Newman_Lectures.txt
+260	  essential strict legitimate convincing syllogism 	inference correctness syllogism depends prin cipal term 	1837_Tagart_Remarks.txt
+261	 ves sufficiently evident history multiplied lines 	inference corroborating point strictly priori kind existenc	1854_Devey_Logic.txt
+262	 ical philosophy account brevity consistency leads 	inference custom instinct nature essays treatises contingen	1851_Bailey_Reasoning.txt
+263	  log haa oodsectlou uie beytrnd iba 	inference dadaced asaumed completeness distinction deductiv	1850_Munro_Logic.txt
+264	 atesman reconstruct theory venture predict future 	inference data brought unison present past inquiries 	1854_Devey_Logic.txt
+265	  ap plying reasoning faculties drawing fair 	inference data set class answers measure whatelys 	1827_Bentham_Outline.txt
+266	  eye confines province logjlc qsa introduction 	inference deciphering process leechman wake learned prelate	1852_Young_Elementary.txt
+267	 con ceive complement witole individuals induction 	inference declare ion gevitjr absence gall observation 	1860_Hamilton_Lectures_II.txt
+268	 gism recourse inductive process satisfied grounds 	inference deduce process syllogism grounds conclusion inevi	1849_Smart_Logic.txt
+269	  sometimes true true introduced conditions rules 	inference deduced categorical syllo gisms abatement interpr	1854_Boole_Laws.txt
+270	 llible fallible obvious conclusions universal law 	inference deduced fact collection facts express abreast 	1851_Bailey_Reasoning.txt
+271	 tinct wholly unconnected assertions conse quently 	inference deduced general rules person slew patroclus 	1827_Huyshe_Logic.txt
+272	 ersion syllogism proposition expressed understood 	inference deduced immediately premisses consist termsasanyo	1850_Munro_Logic.txt
+273	  tapio frequently liand true premisses false 	inference deduced olyect logic obviato defects pre 	1850_Munro_Logic.txt
+274	  conclusion laws regulate phenomena mind states 	inference deduced preceding inquiry realty exists occupy 	1839_Haughton_Inquiry.txt
+275	  regarded adaptation parts oiga nized structures 	inference deduced researches guide investigations jr i 	1838_Powell_Connexion.txt
+276	 xhibition fixteen varieties numerical fyllogiftic 	inference deduction ordinary fyllogifms cafes de finite 	1847_DeMorgan_Logic.txt
+277	 oof fashions initiatory processes inductive train 	inference deductive capable resolved syllogisms amenable la	1854_Devey_Logic.txt
+278	  member syllogism induction major reduces method 	inference deductive form manner karslakes aids study 	1854_Devey_Logic.txt
+279	 ses conclusion petitio principii consists process 	inference deductive induc tive processes perfectly analogou	1854_Devey_Logic.txt
+280	  mortal duke man duke mortal mill 	inference deductive process infer men mortal include 	1852_Young_Elementary.txt
+281	 rtion supremacy universal sufficiency syllogistic 	inference deductive reasoning language archbishop whately c	1854_Boole_Laws.txt
+282	  ordinary fyllogifms cafes de finite particulars 	inference defcription refpesi middle term double choice 	1847_DeMorgan_Logic.txt
+283	  object speak independently reference time case 	inference definite portion matter continues unaffected surr	1851_Bailey_Reasoning.txt
+284	 cessarily stand beginning demonstration inductive 	inference definitions principles hlq final restiu reasoning	1840_Whewell_Philosophy_II.txt
+285	 nt reason directs understand instinct inspiration 	inference degrade man elevates creation sympathises living 	1850_Field_Analogy.txt
+286	 ute aggrega tion composition proposition judgment 	inference demon stration relation onymatic relations readin	1860_DeMorgan_Syllabus.txt
+287	 pofition afterted explanation prefented fyllogifm 	inference demonflration called refiilt petitio principii do	1847_DeMorgan_Logic.txt
+288	  learn fo fee inftance probability fort 	inference demonftrable concluiion fyllogifm muft exift prem	1847_DeMorgan_Logic.txt
+289	 ference preceding arrived conclusion irresistible 	inference demonstration finished doubt truth question doubt	1853_Ramsay_Introduction.txt
+290	  conftrudl fyllogifm premifes principles received 	inference denied fimple denial premifes confidered tech 	1847_DeMorgan_Logic.txt
+291	  deny identity xy yx confidered material 	inference deny difference points view work concerned 	1847_DeMorgan_Logic.txt
+292	 lative methods refrain thrusting forward probable 	inference department sufficient ground oversetting legi tim	1854_Devey_Logic.txt
+293	  systematic view principles evidence methods op 	inference departments human knowledge joseph devey london 	1854_Devey_Logic.txt
+294	  property poflefled thefe notions common laws 	inference depend common laws inference applicability accomp	1847_DeMorgan_Logic.txt
+295	 u tation syllogistic conclusions logical illation 	inference depend simply contained included included pre 	1850_Field_Analogy.txt
+296	 iftotelian fyuogifm fecond numerically quantified 	inference depending number zs exceeding number ys 	1847_DeMorgan_Logic.txt
+297	  fact set facts expressible single proposition 	inference depends case mind minor premise syllogism 	1851_Bailey_Reasoning.txt
+298	 al ipecies cafe inference preponderance largenefe 	inference depends extent preponderance xz inference whj 	1847_DeMorgan_Logic.txt
+299	  propositions virtuous happy virtuous happy force 	inference depends proposi tion adopt exclusively make 	1854_Devey_Logic.txt
+300	  judgment rightly regarded logical affect formal 	inference derivable case quantity quality modality affects 	1860_Mansel_Prolegomena.txt
+301	 rsion considered relations propositions processes 	inference derivable treated connection judgment consequence	1860_Mansel_Prolegomena.txt
+302	  gradually general complex ascent proof chains 	inference derive force abstract laws thought meet 	1854_Devey_Logic.txt
+303	  stated cogency denied presented obvious judgment 	inference derive intrinsic light force mode state 	1854_Devey_Logic.txt
+304	  fo truth ts opinions prefump tions 	inference derived imply takes care inference fhall 	1847_DeMorgan_Logic.txt
+305	  fever tertian quartan gout cough obvious 	inference derived ob servation diseases classed separate 	1839_Haughton_Inquiry.txt
+306	  word origin imply agency results overturn 	inference derived observation words soul sanscrit greek 	1839_Haughton_Inquiry.txt
+307	 striction logic truth facts opinions presumptions 	inference derived simply takes care inference true 	1848_Holyoake_Logic.txt
+308	  complete induction extend spheres revolve axes 	inference descends lower scale probability account absence 	1854_Devey_Logic.txt
+309	 fact fitness adjustment created beings properties 	inference design intelligence shows strict sense ancient 	1838_Powell_Connexion.txt
+310	 uted commonly inadequately understood appreciated 	inference design intention forethought mentioned trutht con	1838_Powell_Connexion.txt
+311	  admitted ways tend equally substantiate great 	inference design universal preseration systematic order sus	1838_Powell_Connexion.txt
+312	 e converse converted propositio conversaa species 	inference detain long noticed logicians sec appendix 	1860_Hamilton_Lectures_II.txt
+313	 ed hypothetical syllogisms hypo thetic peremptory 	inference determined con clusion species alternative infere	1860_Hamilton_Lectures_II.txt
+314	  reasoning account takes place mind draws 	inference determined conclusion preceding representations m	1851_Bailey_Reasoning.txt
+315	  artis prior wolf phil ration logic 	inference determined exclusively law xvl thought subsumptio	1860_Hamilton_Lectures_I.txt
+316	 ceives oonveraaot solely uotjirgt notions logical 	inference determined oijective casualty subsisting terms pr	1850_Munro_Logic.txt
+317	  authority enrolled partifans order examine laws 	inference dif tinftly perceiving fay fo muft 	1847_DeMorgan_Logic.txt
+318	 nt experience establishment truth shows inductive 	inference differ demonstrative threefold character judgment	1854_Devey_Logic.txt
+319	  edinburgh final reply appendix fome forms 	inference differing thofe arijlotelians elements logic firj	1847_DeMorgan_Logic.txt
+320	  reader form opinion appendix fome forms 	inference differing thofe arijlotelians defirable ftate att	1847_DeMorgan_Logic.txt
+321	  hearer infer bread dear hearer draws 	inference difficulty thing cheap dear time time 	1856_Latham_Logic.txt
+322	 fhewn reference difpofition names contraries form 	inference diftindion figure avoided beginning introducing p	1847_DeMorgan_Logic.txt
+323	 enefs notation fimple numerical propofition forms 	inference dire si middle term numerically definite 	1847_DeMorgan_Logic.txt
+324	 ppendix jl indirect conclusion logicians observed 	inference direct conclusion mediate premises moods fourth 	1860_Hamilton_Lectures_II.txt
+325	  relation middle term premises ergo indirect 	inference direct conclusions figure terms subordinated prem	1860_Hamilton_Lectures_II.txt
+326	  part illation restrict term illation kind 	inference direct confine term syllogism kind infer 	1856_Ingleby_Outlines.txt
+327	 lusion premises author ellipsis reasoning logical 	inference directly draw princes find impediments order 	1851_Bailey_Reasoning.txt
+328	  milst false truth propositions conclude falsity 	inference directly laws subaltemation affirm true stones 	1857_Morrell_Handbook.txt
+329	  mises reader choose term claim appellation 	inference discussion scarcely needful combat phraseology ho	1851_Bailey_Reasoning.txt
+330	 ctive proposi tions assertions assertions subject 	inference disjunctive reduced categorical syllogism problem	1848_Moberly_Lectures.txt
+331	 ability occasionally form ground rigid scientific 	inference disproof position adversary philosopher conclusio	1854_Devey_Logic.txt
+332	  order system natural tlie remark applies 	inference distinct cjcistcnce source moral causar tion 	1838_Powell_Connexion.txt
+333	  effected scatter nineteen legiti mate forms 	inference distinct moods comprising conceivable actual form	1854_Devey_Logic.txt
+334	 ms logic attempted classification allowable forms 	inference distinct reference forms col lectively individual	1854_Boole_Laws.txt
+335	  disp dlst nature necessity syl logistic 	inference distinction formal material necessity neceuita eo	1860_Hamilton_Lectures_II.txt
+336	  calleil disjunctives disteibution eeasoninca nov 	inference distributed fully accurately middle term medium 	1860_Hamilton_Lectures_II.txt
+337	  put trial ear capable appreciating intervals 	inference doctrine numerical reasoning imperfections concor	1840_Whewell_Philosophy_II.txt
+338	  put trial ear capable appreciating intervals 	inference doctrine numerical reasoning imperfections concor	1858_Whewell_Renovatum.txt
+339	  teaching con clusions thought rightly fair 	inference doctrines locke instances opinions speak filtered	1848_Chretian_Method.txt
+340	 erstand meaning syllogism order perceive justness 	inference doubt assent syllogism terms successively varied 	1851_Bailey_Reasoning.txt
+341	  illuflrator throw mode connexion choofe procefs 	inference doubtful choofe premifes fb illuflrate wrong 	1847_DeMorgan_Logic.txt
+342	  exist mere conception word true make 	inference draw altogether delusion ignorance na ture 	1839_Haughton_Inquiry.txt
+343	  design intention word moral cohse clear 	inference draw support truth natural theology vitiated 	1838_Powell_Connexion.txt
+344	  affirmative propositions allowed affect argument 	inference drawn accidental circumstaqce description illogic	1850_Munro_Logic.txt
+345	 ion probations reference cogency degree certainty 	inference drawn cogency degrees objectively considered prob	1860_Hamilton_Lectures_II.txt
+346	 tained consequent posterior clause sumption exist 	inference drawn con clusion reason antecedent prior 	1860_Hamilton_Lectures_I.txt
+347	 nificati virtute signi considered affect argument 	inference drawn depended circumstance form expression regar	1827_Huyshe_Logic.txt
+348	 tence comparison effectually made comparison made 	inference drawn ect sentence expresses inference single 	1831_Smart_Sematology.txt
+349	  physical facts provided existing thing proviso 	inference drawn existence thing properties existence meanin	1843_Mill_System_I.txt
+350	  physical facts provided existing thing proviso 	inference drawn existence thing properties existence meanin	1843_Mill_System_II.txt
+351	  certainy premise pair exceed universal quantity 	inference drawn extends quantity equal difference certains 	1856_Ingleby_Outlines.txt
+352	 respect conclusion induction conclusion universal 	inference drawn fact happen similar circumstances means 	1827_Huyshe_Logic.txt
+353	  body receives increase power sleep remains 	inference drawn fact power sleeping body plenished 	1839_Haughton_Inquiry.txt
+354	 es insufficient prove conclusion deduced modified 	inference drawn facts stated facts bear asserted 	1851_Bailey_Reasoning.txt
+355	  completely eftablifhed excep tion afltertion fb 	inference drawn fbon aftertion eflablifhed refult ftated 	1847_DeMorgan_Logic.txt
+356	  circle part figure weakeft fyuogifm fuch 	inference drawn feem xs ys zs ys 	1847_DeMorgan_Logic.txt
+357	 nt ultimate inductive inference liable revolution 	inference drawn formula desire public good set 	1843_Mill_System_I.txt
+358	 nt ultimate inductive inference liable revolution 	inference drawn formula desire public good set 	1843_Mill_System_II.txt
+359	 escription conclusion inference drawn rom formula 	inference drawn formula real logical antecedent premisses 	1843_Mill_System_I.txt
+360	 escription conclusion inference drawn rom formula 	inference drawn formula real logical antecedent premisses 	1843_Mill_System_II.txt
+361	  ticulars particulars marks marks conclu sion 	inference drawn general pro position advisable consult 	1854_Devey_Logic.txt
+362	  reasonmo falling pit sinking quagmire eyes 	inference drawn general truth science established observati	1853_Ramsay_Introduction.txt
+363	  instances inference call attention fact case 	inference drawn immediately propositions lay illative resul	1856_Ingleby_Outlines.txt
+364	 simple categorical syllogism premises true proved 	inference drawn logic undertakes ascertain validity argumen	1827_Huyshe_Logic.txt
+365	  mark class men formula previous instances 	inference drawn looked occasions great quantity inferences 	1854_Devey_Logic.txt
+366	 ogisms general premises universal case infallible 	inference drawn major proposition uni versal embrace 	1853_Ramsay_Introduction.txt
+367	  evidence strictly moral sense comprises kind 	inference drawn mere resem blance relations assumption 	1854_Devey_Logic.txt
+368	  rea sons preceding negative pre rule 	inference drawn mises negative premises case middle 	1827_Huyshe_Logic.txt
+369	  show principle applies lower higher subject 	inference drawn negative minor premiss assert principle 	1848_Moberly_Lectures.txt
+370	  ment cited syllogisms prove rule asserts 	inference drawn negative propositions false observing negat	1854_Devey_Logic.txt
+371	 phere actual experience differ induction observed 	inference drawn ob served unity plurality analogy 	1860_Hamilton_Lectures_II.txt
+372	  terms classreason ins determine real nature 	inference drawn obvious corollary indirect contingent reaso	1851_Bailey_Reasoning.txt
+373	 tal operations obsernng comparing selecting facts 	inference drawn part process peculiar induction deduction 	1853_Ramsay_Introduction.txt
+374	  consentiunt inter se strictly analogical shewn 	inference drawn premises conclusive reason terms case 	1850_Field_Analogy.txt
+375	 hearts englishmen remember injuries premises rule 	inference drawn premises premises negative order middle 	1827_Huyshe_Logic.txt
+376	  occurrence degree probabi lity depend number 	inference drawn pro duces small degree probability 	1827_Huyshe_Logic.txt
+377	  thing compared mufl fome propofitions obtained 	inference drawn propofitions affer tions denials divided 	1847_DeMorgan_Logic.txt
+378	 s record criteria thought ascertained distinguish 	inference drawn real premisses individual observations forg	1843_Mill_System_I.txt
+379	 s record criteria thought ascertained distinguish 	inference drawn real premisses individual observations forg	1843_Mill_System_II.txt
+380	  premiss syllogism formula description conclusion 	inference drawn rom formula inference drawn formula 	1843_Mill_System_I.txt
+381	  premiss syllogism formula description conclusion 	inference drawn rom formula inference drawn formula 	1843_Mill_System_II.txt
+382	  good logicians sophists good logicians premises 	inference drawn rule negative again premises negative 	1827_Huyshe_Logic.txt
+383	 correct performance great mental operation marked 	inference drawn socrates drawn resemble observed individual	1843_Mill_System_I.txt
+384	 correct performance great mental operation marked 	inference drawn socrates drawn resemble observed individual	1843_Mill_System_II.txt
+385	  moods investi gated twelve combinationa firom 	inference drawn somet aux somet somex somez 	1856_Ingleby_Outlines.txt
+386	 nism inductive deductive reasoning cases illative 	inference drawn train reasoning err formal side 	1854_Devey_Logic.txt
+387	 rgument implies deficient induction major premiss 	inference drawn undistri premisses middle term middle 	1848_Moberly_Lectures.txt
+388	  predicate middle term contrary general rule 	inference drawn vrill invalid middle term distributed 	1850_Munro_Logic.txt
+389	 ideas plainly idea substance sensation reflection 	inference draws clear idea asked word substance 	1840_Whewell_Philosophy_I.txt
+390	 arafteriflics word requifite abflrafted fludy ing 	inference eafily apprehended ufed fenfes common property 	1847_DeMorgan_Logic.txt
+391	  duftive ufe thefe philofophy independent modes 	inference eafily colleft fcattered fragments ledge unity 	1847_DeMorgan_Logic.txt
+392	 e precifely fame conflderations repeated original 	inference eafilybe feen propofition involves fimple fyllogt	1847_DeMorgan_Logic.txt
+393	  ascend manner previous stage phenomena similar 	inference earlier stage fmbrs palibtiological science scien	1840_Whewell_Philosophy_II.txt
+394	  false system place absence close compact 	inference easily supplied ingenious sophisms brilliant rhet	1854_Devey_Logic.txt
+395	 raws physical effect proposition warrants logical 	inference effect reason believing equally reason expecting 	1838_Newman_Lectures.txt
+396	  school olgeot ground tbe consequence logical 	inference effected materia virtue matter gronnda implied 	1850_Munro_Logic.txt
+397	 laws action hidden uniformities predict grounding 	inference effects laws exhibited past kind loose 	1854_Devey_Logic.txt
+398	  fpecified ys propofi tions ftated conditions 	inference effehive number propofition number mentioned cafe	1847_DeMorgan_Logic.txt
+399	  cafes propofition number makes ef fedlive 	inference effeve number pofitive propofition num ber 	1847_DeMorgan_Logic.txt
+400	 ed ihould remembered demonjirative inference kind 	inference elucidatory inference recapitulatory inference pr	1847_DeMorgan_Logic.txt
+401	 tement correct induction comprise amination facts 	inference embraces deductive process reasoning introduction	1853_Ramsay_Introduction.txt
+402	  design logic repre sentation valid forms 	inference employed construction moral physical sciences ser	1854_Devey_Logic.txt
+403	  fell palpable sophism accuracy tlie trains 	inference employed depended infallibility faculty intended 	1854_Devey_Logic.txt
+404	 ent consequent syllogistic proposition antecedent 	inference enables formally draw conclusion show catcgorical	1860_Hamilton_Lectures_II.txt
+405	 cccliv preface comprise attempt systematise forms 	inference engaged con struction science generation opinion 	1854_Devey_Logic.txt
+406	 nstitution human mind grounds possibility species 	inference enter general ob servations serve track 	1854_Boole_Laws.txt
+407	  convinced truth pre mises admit conclusion 	inference equally ap parent terras changed symbols 	1827_Huyshe_Logic.txt
+408	 mem cxplicand conversion propositions explicative 	inference equally consequent antecedent antecedent conseque	1860_Hamilton_Lectures_II.txt
+409	 ular linear illustrative concrete examples formal 	inference equally necessury sinqdo syllogism resolvable sim	1860_Hamilton_Lectures_II.txt
+410	  stone sink water legitimate conclusion premises 	inference equally readily granted hands place eyes 	1851_Bailey_Reasoning.txt
+411	  condition inference middle term universal rule 	inference equate extremes analysis equations condition syll	1854_Boole_Laws.txt
+412	  unlike middle terms conditions rules syllogistic 	inference equation reducible form syllogistic conclusion es	1854_Boole_Laws.txt
+413	 ss position perversely choose sublating sublation 	inference equipollence grammati cal translation affirmation	1860_Hamilton_Lectures_II.txt
+414	 assumed premises cases expressed asserted warrant 	inference erro neous conclusion due manner assumed 	1851_Bailey_Reasoning.txt
+415	  cases noted consist premise nature minor 	inference erroneous conclusions scarcely false facts exclud	1851_Bailey_Reasoning.txt
+416	  end discourse lead logic surmise matters 	inference erroneous true rise prooress aristotles logic 	1839_Brenan_Logic.txt
+417	  duction literature europe theory reasoning wrong 	inference error prevented detected logical rule argument 	1851_Bailey_Reasoning.txt
+418	  principle logic philosophy rea soning logical 	inference es sential existing relation material sensual 	1850_Field_Analogy.txt
+419	 ses distinct groups knowledge raised combinations 	inference essential pur suit moral sciences general 	1854_Devey_Logic.txt
+420	 direct contingent reasoning formation general law 	inference event operation solely entitled appel lation 	1851_Bailey_Reasoning.txt
+421	  hitherto found fallible man fallible direct 	inference evidence inferring collective fact men fallible 	1851_Bailey_Reasoning.txt
+422	  relation faces figure form cube matter 	inference evident case pictured cube true vision 	1840_Whewell_Philosophy_I.txt
+423	 corroboration minor premiss argument combinations 	inference evident grow complex involved proportion terms 	1854_Devey_Logic.txt
+424	 d science founded reflection irrational absurdity 	inference evolution con catenation conducted logical princi	1860_Hamilton_Lectures_I.txt
+425	  vl enable interpret vz syllogisms cases 	inference examples ao fig mutation oa fig 	1847_Boole_Analysis.txt
+426	 ice versa reasoning proposition general preceding 	inference examples observations distinction inductive deduc	1853_Ramsay_Introduction.txt
+427	  xy pq tells fame ypq ing 	inference exift objefts ideas names applicable firft 	1847_DeMorgan_Logic.txt
+428	  sugar sweet sand sweet case deny 	inference existence attribute show intuitionally fallacious	1852_Young_Elementary.txt
+429	  con clusion evidently confined person makes 	inference expected dividual major premiss true middle 	1854_Devey_Logic.txt
+430	 ontroverted point regard laid syllogisms instance 	inference experi ence exhibited conclucdon ratiocination un	1843_Mill_System_I.txt
+431	 ontroverted point regard laid syllogisms instance 	inference experi ence exhibited conclucdon ratiocination un	1843_Mill_System_II.txt
+432	  practical business common life case legitimate 	inference experience conclusion legitimately general propos	1843_Mill_System_I.txt
+433	  practical business common life case legitimate 	inference experience conclusion legitimately general propos	1843_Mill_System_II.txt
+434	  coming causb effect natural mind draw 	inference experience correct inference corrected con firmed	1838_Newman_Lectures.txt
+435	 scription ground induction universal fact warrant 	inference experience dif ferent philosophers forms language	1843_Mill_System_I.txt
+436	 scription ground induction universal fact warrant 	inference experience dif ferent philosophers forms language	1843_Mill_System_II.txt
+437	 ws nature contemplation uniformity nature assumed 	inference experience observa tions present uniformity quest	1843_Mill_System_I.txt
+438	 ws nature contemplation uniformity nature assumed 	inference experience observa tions present uniformity quest	1843_Mill_System_II.txt
+439	  ms obvious ia apparently author mediate 	inference exprcfwd meana express differ form hypothetical 	1860_Hamilton_Lectures_II.txt
+440	  zo xyz zz yxz x condition 	inference exprefles itfelf con clufion muft negative 	1847_DeMorgan_Logic.txt
+441	  invariably united mere words results process 	inference expressed form substantial element appendix scien	1854_Devey_Logic.txt
+442	 aristotle roman roman european aristotle european 	inference expressed true remark inference premises necessit	1860_Hamilton_Lectures_I.txt
+443	 sult generation proposition cases explained place 	inference expressed words called simple illation cases 	1856_Ingleby_Outlines.txt
+444	  nature demonstrate laws thought impossible logic 	inference expressly rejects de monstrate laws nature 	1860_Hamilton_Lectures_II.txt
+445	  deli vered external authority case sphere 	inference extend ground led infer existence indubitable 	1854_Devey_Logic.txt
+446	 r extremely instructive observe rapidity facility 	inference extended solar system laws motion planet 	1838_Powell_Connexion.txt
+447	  logic induction embrace bis mind range 	inference extending special facts general principles hut 	1858_Whewell_Renovatum.txt
+448	  amount evidence case limits time space 	inference extends obvious regard succession day town 	1854_Devey_Logic.txt
+449	 elations properly reduion fpecific fhowing matter 	inference extent confifts inftance complement noncom plemen	1847_DeMorgan_Logic.txt
+450	  duty bribe fact hypothesis reasoner draw 	inference extent men similar circumstances occasionally exp	1851_Bailey_Reasoning.txt
+451	 treme premise extremes subjects predicates middle 	inference extreme indifterently subject predicate indiflere	1860_Hamilton_Lectures_II.txt
+452	 gorous protests intrusion realms conjecture basis 	inference fact appearance arbitrary constants solutions pro	1854_Boole_Laws.txt
+453	  care facts suffi ciently numerous authorize 	inference fact brought forward conclusion destroys inductio	1827_Huyshe_Logic.txt
+454	  classes common vice verscl perfectly legitimate 	inference fact declares general asserted original propositi	1847_Boole_Analysis.txt
+455	  needed enable draw drawing ference reasoning 	inference fact drawn nature case interposed shows 	1851_Bailey_Reasoning.txt
+456	  universal law force amined consecutive train 	inference fact established certainty proved correctness sim	1854_Devey_Logic.txt
+457	  sweeping application prin ciple deductive range 	inference fact left law law included wider 	1854_Devey_Logic.txt
+458	 nferred proposition means exclusive ail competent 	inference fact real opposi tion logicians vimlicate 	1860_Hamilton_Lectures_II.txt
+459	  con founds mere description observed facts 	inference facts ascribes characteristic property induction 	1843_Mill_System_I.txt
+460	  con founds mere description observed facts 	inference facts ascribes characteristic property induction 	1843_Mill_System_II.txt
+461	  facts facts pose premises argument truth 	inference facts distinction observed recourse expedient cal	1848_Holyoake_Logic.txt
+462	 perfect perfect inductions totally kind induction 	inference facts facts unknown mere shorthand registration 	1843_Mill_System_I.txt
+463	 perfect perfect inductions totally kind induction 	inference facts facts unknown mere shorthand registration 	1843_Mill_System_II.txt
+464	 g expressed premises conclusion reverse deductive 	inference facts general law logically drawn intervention 	1853_Ramsay_Introduction.txt
+465	  analysing facts oonsdousness induction induction 	inference facts induction verifies tlon syllogism show 	1848_Holyoake_Logic.txt
+466	  process investiga tion collecting facts deducing 	inference facts processes ob servation experiment undoubted	1826_Whately_Elements.txt
+467	  class belongs class class destitute case 	inference fall figure middle term figure subject 	1854_Devey_Logic.txt
+468	  attended great difficulties ad mitted true 	inference fallacious pro question attended greater difficul	1826_Bushby_Logic.txt
+469	  sition reticence supposi tion deduces fallacious 	inference fallacy cepartws cornutus asked cast horns 	1860_Hamilton_Lectures_I.txt
+470	 ing senses afford information indefinite infinity 	inference fallen fallacy release embarrassment tacking word	1839_Haughton_Inquiry.txt
+471	  ways man kind minds wrong grounds 	inference false facts erroneous general propo sitions 	1851_Bailey_Reasoning.txt
+472	  propofitions term flatement ddici xyz invalid 	inference fame flatement equally valid courfe exprefted 	1847_DeMorgan_Logic.txt
+473	 understand objects prima intentio purpose drawing 	inference farmer artist naturalist takes notice horse 	1848_Moberly_Lectures.txt
+474	 sciences con sider useless physical investigation 	inference faulty form open receive aid syllogistic 	1854_Devey_Logic.txt
+475	  chofen amination cafes cited neglefted form 	inference faved perfefl indefinitenefs apply word terms 	1847_DeMorgan_Logic.txt
+476	  half developed account logician affording valid 	inference fcien tific error referred univerfal definite 	1847_DeMorgan_Logic.txt
+477	  ariftotelian fyllogifms brought firft cafe firft 	inference fecond cafe ariftoteli fyuogifm deduced fecond 	1847_DeMorgan_Logic.txt
+478	  zs number give form main law 	inference fecond form mnuj diftribute ys ys 	1847_DeMorgan_Logic.txt
+479	 resent treatise accommodated canon dictum figures 	inference fect exhibiting syllogism perfect figure dispense	1842_Thomson_Outline.txt
+480	  ct tliey revolve opposite direction extend 	inference feel persuaded thing common nature planetary 	1838_Powell_Connexion.txt
+481	 rriving happen afpels fame arijiotelian syllogifm 	inference feen figures give fliades charafter fimple 	1847_DeMorgan_Logic.txt
+482	  con abftrasl form ditions apply forms 	inference fenfe equal fatisfy conditions fenfe ij 	1847_DeMorgan_Logic.txt
+483	  term declared fecond premife middle term 	inference fentence true middle term true part 	1847_DeMorgan_Logic.txt
+484	  tions inference derived imply takes care 	inference fhall true premifes true fay men 	1847_DeMorgan_Logic.txt
+485	 sion emerges indirect mediate unnatural irregular 	inference figures terms hold relation middle term 	1860_Hamilton_Lectures_II.txt
+486	  aioi oaare inconclufive ooi courfe rationale 	inference fince fubidentical fuperidentical fuperidentical 	1847_DeMorgan_Logic.txt
+487	  zy amounts ziy confider thefe incapable 	inference fince premifes nega tive reducible pofitive 	1847_DeMorgan_Logic.txt
+488	  concluding terms changed contrary made forms 	inference find inference mxy wyz numerically definite 	1860_DeMorgan_Syllabus.txt
+489	 iguous awkward case relations judgment subsequent 	inference find natural expression nineteen moods plea 	1854_Devey_Logic.txt
+490	  descent men duke wellington inference resides 	inference finished asserted mi mortal remains performed 	1843_Mill_System_I.txt
+491	  descent men duke wellington inference resides 	inference finished asserted mi mortal remains performed 	1843_Mill_System_II.txt
+492	  reasoning natural scientific define effect draw 	inference fiom mans possessing reason atftions fiee 	1848_Chretian_Method.txt
+493	 tronger conclufion figure conclufion appears mode 	inference firft fyllogifms defcribed otherfigures fefapo fr	1847_DeMorgan_Logic.txt
+494	  equivalent nixy partially purious write forms 	inference fixteen ways inference combine propofition xy 	1847_DeMorgan_Logic.txt
+495	 er probability relation purely formal proposition 	inference follow elementary logic terms formal relation 	1860_DeMorgan_Syllabus.txt
+496	 lusion proper determinate alternative alternation 	inference follow imme diately fundamental proposition al 	1860_Hamilton_Lectures_II.txt
+497	 tion univerfe true premifes univerfe illegitimate 	inference follow premifes conclufion knotun fpurious means 	1847_DeMorgan_Logic.txt
+498	  long chain inductive reasoning deduction proper 	inference follow till original premises hand fifthly 	1853_Ramsay_Introduction.txt
+499	 inference remaining found applying varieties case 	inference follow xy yz consistent relations ascertained 	1860_DeMorgan_Syllabus.txt
+500	 ltivated abused importance calls support fidelity 	inference force conviction legiti macy conclusion depend 	1850_Field_Analogy.txt
+501	  changed circumstance arise falsity premises mode 	inference force expression regarded logic aldrich prater 	1827_Huyshe_Logic.txt
+502	 cedere pramitti reason termed antecedent premises 	inference force premises concluded inferred collected deduc	1827_Huyshe_Logic.txt
+503	  heavens division sciences treated logic science 	inference form inappropriate conclusion work character dire	1854_Devey_Logic.txt
+504	 clufion flmll feleft thefe clafsfying conclufions 	inference form manner univerial affirmative conclufion draw	1847_DeMorgan_Logic.txt
+505	  reasoning clear copula analytical formal judging 	inference formal reasoning material judgments cluded logic 	1860_Mansel_Prolegomena.txt
+506	  thereon overtly infer magnets attract iron 	inference formally false materially untrue ironattracting s	1860_Hamilton_Lectures_II.txt
+507	 tance distance objects matter perception judgment 	inference formed sensations judgment position ear distinctl	1840_Whewell_Philosophy_I.txt
+508	  error application aim analytic enlarging field 	inference fortunate practical sense succeed accomplished ob	1854_Devey_Logic.txt
+509	  trains research tend increase force inductive 	inference fossil animals plants alluded existed incalculabl	1838_Powell_Connexion.txt
+510	  conclusion conclusion general aristotelian cases 	inference found distinct forms final equation considerable 	1847_Boole_Analysis.txt
+511	 gment relation objects amply sufficient guarantee 	inference foundations evidence laws spring source connectin	1854_Devey_Logic.txt
+512	 ull exemplifications thefe methods found probable 	inference fources conviftion argument mony reafon thing 	1847_DeMorgan_Logic.txt
+513	 ed figures premises requires interpolation mental 	inference fourth figure pre mises require conclusion 	1860_Hamilton_Lectures_I.txt
+514	  deny extension observed exclu tin sively 	inference fourth figure rnftceiu rules fact enunciation 	1860_Hamilton_Lectures_I.txt
+515	 medium conversion showed kind reasoning competent 	inference fourth figure valid convenient useless form 	1860_Hamilton_Lectures_I.txt
+516	 obferve complete deduuon ariftotelian forms modes 	inference fpecific particulars fhort account number xs 	1847_DeMorgan_Logic.txt
+517	  number relation knew mu lefs fliould 	inference fpurious lefs inference add condition mi 	1847_DeMorgan_Logic.txt
+518	  fitted fignify offence againft formal rules 	inference frequently abufed mathematical writers fignified 	1847_DeMorgan_Logic.txt
+519	  practice words mendosa collectio er roneous 	inference frequently translated faulty arrangement terms ar	1827_Huyshe_Logic.txt
+520	 ate general relative applicable propositions form 	inference fresh instance aflforded remark particles abbrena	1843_Mill_System_I.txt
+521	 ate general relative applicable propositions form 	inference fresh instance aflforded remark particles abbrena	1843_Mill_System_II.txt
+522	  cases formula induction modified condition state 	inference fter enumeration analysis facts these facts 	1858_Whewell_Renovatum.txt
+523	  dainties discovery de montmorine sight appears 	inference ftom single fact adjacent induction general 	1848_Holyoake_Logic.txt
+524	  written axiom inference ad mind makes 	inference fubordinate notation ufed abbrevia tion propofiti	1847_DeMorgan_Logic.txt
+525	 ascribed conclasions geometry mechanics certainty 	inference full assurance results suppositions assurance pos	1843_Mill_System_I.txt
+526	 ascribed conclasions geometry mechanics certainty 	inference full assurance results suppositions assurance pos	1843_Mill_System_II.txt
+527	 ties matter observation carries liberty inductive 	inference full extent rule appears encourage assert 	1840_Whewell_Philosophy_II.txt
+528	 imperfect elliptical expressions complex pro cess 	inference fully enounced mani festly reasoning figure 	1860_Hamilton_Lectures_I.txt
+529	 gebraical forms constituted laws observed process 	inference functions logic restricted definition syllogism t	1854_Devey_Logic.txt
+530	 ng proposition duke wellington mortal immediately 	inference functions syllogism proposition men mortal derive	1843_Mill_System_I.txt
+531	 ng proposition duke wellington mortal immediately 	inference functions syllogism proposition men mortal derive	1843_Mill_System_II.txt
+532	  caotf thing equal underlies ma thematical 	inference fundamental kind valid inference matter employed 	1854_Devey_Logic.txt
+533	  lift thefe verbs unfeen operation effeft 	inference fupplanted verb phrafeology fay murder death 	1847_DeMorgan_Logic.txt
+534	 ed sufficient ground determining disposition draw 	inference future actions argument priori legitimate sophism	1826_Bushby_Logic.txt
+535	  lefs inference add condition mi firft 	inference fyl logifm aiaiai fecond inference uixz 	1847_DeMorgan_Logic.txt
+536	  man animal head man head animal 	inference fyllo gifm mere fubftitution identity head 	1847_DeMorgan_Logic.txt
+537	  true logical ufe elegant mode exhibiting 	inference fyllogifms inftance cameftres pzzm u ju 	1847_DeMorgan_Logic.txt
+538	  obtained definite firft form make firft 	inference fyuogifm iiaji fecond jy ixz indefinite 	1847_DeMorgan_Logic.txt
+539	  case middle term employed extremes dififer 	inference g irrational accountable man irrational tlie 	1850_Munro_Logic.txt
+540	  logic cilap instance sets sign foot 	inference gained medium necessities speech tliey lead 	1831_Smart_Sematology.txt
+541	  found true true indefinite number cases 	inference general examined examine nature grounds inference	1843_Mill_System_I.txt
+542	  found true true indefinite number cases 	inference general examined examine nature grounds inference	1843_Mill_System_II.txt
+543	 istinguish kinds apparent hypothetical syllogisms 	inference general hypothesis special instances relation ind	1860_Mansel_Prolegomena.txt
+544	  virtue insures virtue habit worth attaining 	inference general invalid thing worth acquiring secure 	1860_Hamilton_Lectures_I.txt
+545	 resent warmblooded creature present absent absent 	inference general manual young students proper dwell 	1843_Mill_System_I.txt
+546	 resent warmblooded creature present absent absent 	inference general manual young students proper dwell 	1843_Mill_System_II.txt
+547	 ses legitimately draw inference legitimately make 	inference general observa tion experiment conclude case 	1843_Mill_System_I.txt
+548	 ses legitimately draw inference legitimately make 	inference general observa tion experiment conclude case 	1843_Mill_System_II.txt
+549	  tested notation methods kinds syllo gisms 	inference general principles universal thods degrees eviden	1854_Devey_Logic.txt
+550	 eneralization experience speaks greater precision 	inference general proposition general definitions descripti	1860_Whewell_Discovery.txt
+551	 ed induction parity reasoning induction involving 	inference general proposition instances remains improper te	1843_Mill_System_I.txt
+552	 ed induction parity reasoning induction involving 	inference general proposition instances remains improper te	1843_Mill_System_II.txt
+553	 ference contra dicting general experience species 	inference general proposition singly inferred induction ded	1854_Devey_Logic.txt
+554	  present head treat great canon mediate 	inference general rules observed application moods figures 	1854_Devey_Logic.txt
+555	 tjm properties syllogisms universal canon mediate 	inference general rules syllogism figures syllogism moods 	1854_Devey_Logic.txt
+556	 oks peopebties syllogisms universal canon mediate 	inference general rules syllogism reasoning virtually resol	1854_Devey_Logic.txt
+557	  mula standard form words properly express 	inference general truth facts supposed formula inductive 	1840_Whewell_Philosophy_II.txt
+558	  standard form words pro perly express 	inference general truth facts supposed formula inductive 	1858_Whewell_Renovatum.txt
+559	  cases inference proper acceptation term set 	inference general truths arrive distinct reasoning extended	1843_Mill_System_I.txt
+560	  cases inference proper acceptation term set 	inference general truths arrive distinct reasoning extended	1843_Mill_System_II.txt
+561	 clude universal affirmative proposi tion inferred 	inference general water liquid implied liquid water 	1843_Mill_System_I.txt
+562	 clude universal affirmative proposi tion inferred 	inference general water liquid implied liquid water 	1843_Mill_System_II.txt
+563	 eduction mathematical consequence express logical 	inference generality method permit express arbi trary 	1847_Boole_Analysis.txt
+564	 subsumption chiefly affected conversive inference 	inference generally made total partial affirmation lesser 	1850_Baynes_Essay.txt
+565	  thug step speak invention conception inductive 	inference generally overlooked noticed preceding philosophe	1840_Whewell_Philosophy_II.txt
+566	  facts step speak invention conception inductive 	inference generally overlooked noticed preceding philoso ph	1858_Whewell_Renovatum.txt
+567	  quantity undetermined ts subsumption nega tive 	inference genus things species shown men arc 	1860_Hamilton_Lectures_I.txt
+568	 distinction conclusion inference utmost certainty 	inference give instance error proving proving sequitur 	1849_Smart_Logic.txt
+569	  put infer conclufion bring ftatement concluded 	inference give make fee faw ideally peaking 	1847_DeMorgan_Logic.txt
+570	 ell hear distinguished senses derived indubitable 	inference god soul power called abstract subdivision 	1839_Haughton_Inquiry.txt
+571	  affirmative pro positions figure give reason 	inference good bad syllogism cf moniua philoponus 	1860_Hamilton_Lectures_II.txt
+572	  reducible rules thefe rules obeyed inference 	inference good confe quently bad inference breach 	1847_DeMorgan_Logic.txt
+573	  faultlefs morals homer faultlefs morals firft 	inference good grant poflible mode knowing exiftence 	1847_DeMorgan_Logic.txt
+574	 ondition exiftence middle term independent fecond 	inference good ihould homer perfeft poet elfe 	1847_DeMorgan_Logic.txt
+575	  reasonhy facts natural world conduct farther 	inference good mixed evil idea mixed attribute 	1838_Powell_Connexion.txt
+576	  cases demonstrative reasoning premise suificient 	inference granted cases form complete syllogism thrusting 	1851_Bailey_Reasoning.txt
+577	  men manifest furnish motive suspending judgment 	inference granted expense double inconsistency premiss argu	1854_Devey_Logic.txt
+578	  combination abg ahe abd abd draw 	inference granted find combinations discoveries made point 	1860_Whewell_Discovery.txt
+579	 protect reasonings stand rule designed strengthen 	inference gravitation celcl tial phenomena describing vera 	1860_Whewell_Discovery.txt
+580	 protect reasonings stand rule designed strengthen 	inference gravitation celestial phenomena describing vera c	1840_Whewell_Philosophy_II.txt
+581	  phe nomenon law unscientific fully justified 	inference great share operation methods physical sciences 	1854_Devey_Logic.txt
+582	  terms thirdly indefinite cafe ftated poffibility 	inference greater manner extent introduce degree definitene	1847_DeMorgan_Logic.txt
+583	 erable likelihood premisses insuf ficient general 	inference ground comprise fact facts reverse true 	1843_Mill_System_I.txt
+584	 erable likelihood premisses insuf ficient general 	inference ground comprise fact facts reverse true 	1843_Mill_System_II.txt
+585	 absence ability discriminate inference perception 	inference grounded attributed marvel lous stories posterity	1854_Devey_Logic.txt
+586	 efully sufficiency experience appealed supporting 	inference grounded important advantage reasoning individual	1843_Mill_System_I.txt
+587	 efully sufficiency experience appealed supporting 	inference grounded important advantage reasoning individual	1843_Mill_System_II.txt
+588	 e manifest presence prescribing conditions formal 	inference grounds connecting peculiar tendencies physical s	1854_Boole_Laws.txt
+589	 moral importance logical temper doubt precipitate 	inference guarded diffused knowledge commonest requirements	1848_Moberly_Lectures.txt
+590	 efers consultation experience point issue keeping 	inference harmony fall surveil lance syllogistic rules 	1854_Devey_Logic.txt
+591	  perimental principles endeavour bring operations 	inference harmony linking increasing powers calculus laws 	1854_Devey_Logic.txt
+592	 ated understanding propositions understood assent 	inference heard general truth things equal thing 	1843_Mill_System_I.txt
+593	 ated understanding propositions understood assent 	inference heard general truth things equal thing 	1843_Mill_System_II.txt
+594	 idental proposition qualifying attri bute bearing 	inference heavy things fall ground impelled teaching 	1854_Devey_Logic.txt
+595	  permit set limits extent applications grant 	inference high degree probability reason maintain sufficien	1847_Boole_Analysis.txt
+596	  creation fo manage add fomething methods 	inference higheft attained numerically definite proportion 	1847_DeMorgan_Logic.txt
+597	  distinc tion advance mere phyrical relations 	inference higher order things mhich elevates ideas 	1838_Powell_Connexion.txt
+598	  peculiar trade general rule solution question 	inference hold good introduction mental philosophy case 	1853_Ramsay_Introduction.txt
+599	  impossible deny con clusion terms changed 	inference hold good islands surrounded water england 	1827_Huyshe_Logic.txt
+600	 speaking prosperous outwardly happy wardly wicked 	inference hold good words future state rewards 	1853_Ramsay_Introduction.txt
+601	  drawing similar inference respect class cases 	inference hold holds cases description cases definable 	1843_Mill_System_I.txt
+602	  drawing similar inference respect class cases 	inference hold holds cases description cases definable 	1843_Mill_System_II.txt
+603	 terms positively related required relations terms 	inference hqothetical matter dispute logicians class call 	1860_Hamilton_Lectures_II.txt
+604	  figments intellect enable reason follow matter 	inference human reason accordance divine intelligence diffe	1839_Haughton_Inquiry.txt
+605	  fact differ alto gether consequence drawn 	inference humes observation truth conclusion falsehood prem	1840_Whewell_Philosophy_I.txt
+606	  term distribution grand classes meiliato la 	inference hyjiothotic authors tide maintainchl distinction 	1860_Hamilton_Lectures_II.txt
+607	 oncquentiif scotua quregtioneiy super elaichon qu 	inference hypothetical prior qu apuleiua de ijah 	1860_Hamilton_Lectures_II.txt
+608	  proving classes inference simple ference complex 	inference hypotheticals con junctive disjunctive syllogisms	1860_Hamilton_Lectures_II.txt
+609	  concluaion ita maoer illatita mark unites 	inference ia aa nere cnn eap eufitiinafia 	1850_Munro_Logic.txt
+610	 point abstract statement supposed allowable forms 	inference idea classification pervading element systems exh	1854_Boole_Laws.txt
+611	 d logicians term complete enumeration geometrical 	inference if stewart parts primary original premises 	1851_Bailey_Reasoning.txt
+612	 jr conversion definitions jonerd cose iiuinoliato 	inference ih names fur tho pruksiiiod iven 	1860_Hamilton_Lectures_II.txt
+613	 ous complete impofjtble fpurious fundamental form 	inference ij contranominals partially fpurious deduslion re	1847_DeMorgan_Logic.txt
+614	  man engage test conclu sions arrive 	inference il op inductions improperly called induction 	1843_Mill_System_I.txt
+615	  man engage test conclu sions arrive 	inference il op inductions improperly called induction 	1843_Mill_System_II.txt
+616	 tyled conclusion ques tion complexion consequence 	inference illa tion proposition assumption named premisses 	1842_Thomson_Outline.txt
+617	 ation argumentatio frequently argument argumentum 	inference illation illatio collection collect io conclusion	1860_Hamilton_Lectures_I.txt
+618	  pro possons process arriig judgment called 	inference illation illation oppositicn simplest instance ex	1856_Ingleby_Outlines.txt
+619	 on argumentationis ratiocination ratio cinationis 	inference illation inferendi collecting colligendi concludi	1860_Hamilton_Lectures_I.txt
+620	 faciendam fidem applied coextensive argumentation 	inference illation infero carry inference ing proposition 	1860_Hamilton_Lectures_I.txt
+621	  mars venus planets move ellipses kinds 	inference illative process implies judgments term compared 	1854_Devey_Logic.txt
+622	 sition animals proposition universally conclusion 	inference illegitimate evident preceding rules num ber 	1850_Munro_Logic.txt
+623	 ect things agree induction universalisation truth 	inference imiform facts intuition imaginary whewell logic 	1848_Holyoake_Logic.txt
+624	 tive hypothetical dis junctive syllogisms mediate 	inference immense majority hold mediate small minority 	1860_Hamilton_Lectures_II.txt
+625	  aliquis homo animat kn im meiliate 	inference immetliate affirmative reinhold loqik negative wo	1860_Hamilton_Lectures_II.txt
+626	 clusion sumption expressed subsumption conversive 	inference implied subsump tion immediately proceeds conclus	1860_Hamilton_Lectures_I.txt
+627	 stance logic correlatives demonstrate immediately 	inference imply equality reciprocalness analogism concludes	1850_Field_Analogy.txt
+628	 luded perception connexion treated step inductive 	inference imply steps demon strative proof connexion 	1858_Whewell_Renovatum.txt
+629	 luded perception connexion treated step inductive 	inference imply steps demonstrative proof con nexion 	1840_Whewell_Philosophy_II.txt
+630	  animal man faultlefs thought agreed modes 	inference import fimple propofition kind difference fay 	1847_DeMorgan_Logic.txt
+631	 nevus prohandi nature probation evident probation 	inference impossible thesis proved principles proof stand 	1860_Hamilton_Lectures_II.txt
+632	  fresh phases stage development direct modes 	inference inadequate grasp perpetually changing nature phen	1854_Devey_Logic.txt
+633	  laws nature term induction denotes precedes 	inference include similar brown speaks wide induction 	1851_Bailey_Reasoning.txt
+634	  words general property bodies earths surface 	inference included premises neces sary conclusion fallen 	1849_Smart_Logic.txt
+635	  ta appendix evident proposition general rule 	inference inclusion proceeds wit subjective part subjective	1860_Hamilton_Lectures_II.txt
+636	 tinctions operations syllogism ope rates illation 	inference inclusive pre mises oeneralogism induction deduct	1850_Field_Analogy.txt
+637	  logic confirm prin ciple canon ratiocination 	inference inclvded species oemisf universal partakes attrib	1850_Field_Analogy.txt
+638	  syllogism relative pre ceding essay mediate 	inference incorrectly called categori cal conjunctive disju	1850_Baynes_Essay.txt
+639	 ninc inference aauthors doctrinefragments mediate 	inference incorrectly called categori cal conjunctive disju	1860_Hamilton_Lectures_II.txt
+640	  thought men animals animals implies animals 	inference indefinitely afisrma tive negative antecedent neg	1860_Hamilton_Lectures_II.txt
+641	 xclufion maintained told logic confiders validity 	inference independently truth falfehood matter fupplies con	1847_DeMorgan_Logic.txt
+642	 distinguished respecting facts considered warrant 	inference indications record draw conclusion intents purpos	1843_Mill_System_I.txt
+643	 distinguished respecting facts considered warrant 	inference indications record draw conclusion intents purpos	1843_Mill_System_II.txt
+644	 onent converfation prefented reafbn fully concurs 	inference indifputable iidden turn argument fees favourite 	1847_DeMorgan_Logic.txt
+645	 nting conclusion deductive process remains faulty 	inference induc tive observation proper made place 	1849_Smart_Logic.txt
+646	 iformity nature vain incompetent evince necessity 	inference induction analogy fact denominated kiw nature 	1860_Hamilton_Lectures_II.txt
+647	  applied means binding facts producing truth 	inference induction conception superindiiced facts hencefor	1840_Whewell_Philosophy_II.txt
+648	  applied means binding facts producing truth 	inference induction conception superinduced facts hencefort	1858_Whewell_Renovatum.txt
+649	  bear mind feature attempted mark recollect 	inference induction conception supplied mind superin duced 	1840_Whewell_Philosophy_II.txt
+650	  mind feature attempted mark recollect eery 	inference induction conception supplied mind superinduced f	1858_Whewell_Renovatum.txt
+651	  exclusive study mathematics injure common mode 	inference induction mathematical truths speak infallible mo	1854_Devey_Logic.txt
+652	 ossessed objects class conclusion properly called 	inference induction observed things agree internal logic 	1860_Hamilton_Lectures_II.txt
+653	  induction separate inductions place render chain 	inference inductions founded diflferent sets individual ins	1843_Mill_System_I.txt
+654	  induction separate inductions place render chain 	inference inductions founded diflferent sets individual ins	1843_Mill_System_II.txt
+655	 enter tained induction foregoing cases legitimate 	inference inductions instances conclusion false ground infe	1843_Mill_System_I.txt
+656	 enter tained induction foregoing cases legitimate 	inference inductions instances conclusion false ground infe	1843_Mill_System_II.txt
+657	 emises conclusion deductive process distinguished 	inference inductive concurrent probabilities rhetorical del	1849_Smart_Logic.txt
+658	 eak principally act invention requisite inductive 	inference inductive inference act invention requisite act 	1840_Whewell_Philosophy_II.txt
+659	 strations doctrine hypothesis deductive reasoning 	inference inductive process special fiicts basis inductive 	1840_Whewell_Philosophy_II.txt
+660	 strations doctrine hypothesis deductive reasoning 	inference inductive process special facts basis inductive 	1858_Whewell_Renovatum.txt
+661	  james john mortal men men mortal 	inference inductively drawn mind law affirming attribute 	1852_Young_Elementary.txt
+662	  facts steady familiar scarcely student satisfy 	inference inevitable arrives conviction sees cases ways 	1840_Whewell_Philosophy_II.txt
+663	  facts steady familiar scarcely student satisfy 	inference inevitable arrives conviction sees cases ways 	1858_Whewell_Renovatum.txt
+664	  place provided arrangement terms preserved cub 	inference inevitable terms substituted letters form real 	1827_Huyshe_Logic.txt
+665	 mises argument ratiocination supe rior conclusion 	inference infe rior repeat essence logical conclusion 	1850_Field_Analogy.txt
+666	  fuch perception refped ideas comparifon procefs 	inference infer comparifon abftrad ideas peculiar privilege	1847_DeMorgan_Logic.txt
+667	 spects resemble obseitcd remarks principles rules 	inference infer general propositions individual facts compl	1843_Mill_System_I.txt
+668	 spects resemble obseitcd remarks principles rules 	inference infer general propositions individual facts compl	1843_Mill_System_II.txt
+669	  eaten herb ill effect obliged renounce 	inference infer herb poison case inference conclusion 	1849_Smart_Logic.txt
+670	 gure hand subsumption chiefly affected conversive 	inference inference generally made total partial affirmatio	1850_Baynes_Essay.txt
+671	  work reducible rules thefe rules obeyed 	inference inference good confe quently bad inference 	1847_DeMorgan_Logic.txt
+672	 isions inference syllogism general november isiis 	inference inference kinds call mutative explicative compara	1860_Hamilton_Lectures_II.txt
+673	  figure sumption part moods aftected conversive 	inference inference made chiefly absolute negation notion 	1850_Baynes_Essay.txt
+674	  relations ascertained trial test validity rule 	inference inference premises universal premise middle term 	1860_DeMorgan_Syllabus.txt
+675	  deduction conclu word understood imply correct 	inference inference proof sion premises case conclusion 	1826_Whately_Elements.txt
+676	 s proposition set strictness conclusion practical 	inference inferences appended practical logic hints themewr	1851_Gilbart_Logic.txt
+677	 stance excluding con version predicate quantified 	inference inferences depend ing logical opposition proposit	1856_Ingleby_Outlines.txt
+678	 god soul power perceptions conceptions discovered 	inference inferences phrases opinions conjectures notions p	1839_Haughton_Inquiry.txt
+679	 uestion labouring elicit previous stock knowledge 	inference inferring proving ch dissertation province reason	1826_Whately_Elements.txt
+680	 ompanitivo mediate peremptory mediate al tomativc 	inference infinite notion exprusseil negrtivo terms ln 	1860_Hamilton_Lectures_II.txt
+681	 ive argumentation inference illation infero carry 	inference ing proposition virtually contained antecedent ju	1860_Hamilton_Lectures_I.txt
+682	 s business physical sciences conclusion belonging 	inference instance case room suspect disease man 	1849_Smart_Logic.txt
+683	 ductive conclusion inquire reason confidence make 	inference instance suppose feeling number balls bag 	1838_Powell_Connexion.txt
+684	 nderstand meant principle reasoning general truth 	inference instance truth selfevident mathematics capable pr	1853_Ramsay_Introduction.txt
+685	 served generalisation process mere naming process 	inference instances observed feel warranted concluding foun	1843_Mill_System_I.txt
+686	 served generalisation process mere naming process 	inference instances observed feel warranted concluding foun	1843_Mill_System_II.txt
+687	 se previous knowledge phenomena brought intellect 	inference instantly arises phenomena present circumstances 	1849_Smart_Logic.txt
+688	 considered logic employment assist defeat process 	inference instruments kind care faithfully transmit propert	1854_Devey_Logic.txt
+689	 ence inductions instances conclusion false ground 	inference insuffi cient ground conception induction admitte	1843_Mill_System_I.txt
+690	 ence inductions instances conclusion false ground 	inference insuffi cient ground conception induction admitte	1843_Mill_System_II.txt
+691	 rpolating wanting steps process conclusion virtue 	inference interpolation mental terpolation recognised real 	1850_Baynes_Essay.txt
+692	  points view deny create peculiar modes 	inference invention names mufl aftually pointing objefts 	1847_DeMorgan_Logic.txt
+693	  inference afford change fyuogifm fame mode 	inference invert premifes change prepofition inconvertibles	1847_DeMorgan_Logic.txt
+694	  tributary branches commonly blended large train 	inference investigation nature methods predominate confound	1854_Devey_Logic.txt
+695	  years ago animal peculiar kind case 	inference ioken arrived apparently stated recognise fragmen	1848_Holyoake_Logic.txt
+696	 correct conclusion utterly false reason reasoning 	inference irrefragable conclusion granted premises granted 	1853_Ramsay_Introduction.txt
+697	  irrefragable conclusion granted premises granted 	inference irrefragable syllogism fact shows preliminary pro	1853_Ramsay_Introduction.txt
+698	  syllogism point major proposition granted order 	inference irrefragable words conclusion follow necessarily 	1853_Ramsay_Introduction.txt
+699	 s syllogism general truism unwarranted assumption 	inference irresistible conclusion trifling uncertain previo	1853_Ramsay_Introduction.txt
+700	  fall earth feet objects virtue weight 	inference irresistible moon earth virtue weight phenomena 	1843_Mill_System_I.txt
+701	  fall earth feet objects virtue weight 	inference irresistible moon earth virtue weight phenomena 	1843_Mill_System_II.txt
+702	  atoms defies multiplying powers calculus compute 	inference irresistible uniformity exhibit impressed externa	1854_Devey_Logic.txt
+703	  forcnce fourth figure nrovod illustrated nrid 	inference is unnatural useless logically invalid general 	1860_Hamilton_Lectures_II.txt
+704	  middle term altogether difint major eoncluon 	inference isely drawn follacia accidentjs refitted distjn 	1850_Munro_Logic.txt
+705	  ys nature fuppofitions xs zs muft 	inference ixz units excefs oimn ixyyzw xz 	1847_DeMorgan_Logic.txt
+706	 endeio truth admitted validity established evolve 	inference judg ments propositions called probation proving 	1860_Hamilton_Lectures_II.txt
+707	 on hierarchy notions connection notions judgments 	inference judgment general con sciousness relations univers	1860_Hamilton_Lectures_I.txt
+708	 nt potentially inferring stiu intervention actual 	inference jump quantity change pe saltum predicate 	1860_Hamilton_Lectures_II.txt
+709	 ofitable investments influx gold bring prosperity 	inference justified major premiss influx gold favourable 	1848_Moberly_Lectures.txt
+710	  nature phenomena suggested led direct deduction 	inference keplers laws proved supposition lead keplers 	1854_Devey_Logic.txt
+711	  resolves process intuition memory presents case 	inference kind generally called instance reasoning judgment	1854_Devey_Logic.txt
+712	  unjuflly imputed ihould remembered demonjirative 	inference kind inference elucidatory inference recapitulato	1847_DeMorgan_Logic.txt
+713	 y drawn unrestricted argument frequent occurrence 	inference kind lawful exhibited results method restricting 	1847_Boole_Analysis.txt
+714	  universal fourth class lawful cases cases 	inference kind pos sible find fourth class 	1847_Boole_Analysis.txt
+715	  mn firft form fecond pair yi 	inference kind required firft form fyllogifm fince 	1847_DeMorgan_Logic.txt
+716	  form aiaiai ufe contraries reafon fundamental 	inference kind treated ter aaa contained syuogifm 	1847_DeMorgan_Logic.txt
+717	 erence syllogism general november isiis inference 	inference kinds call mutative explicative comparative propo	1860_Hamilton_Lectures_II.txt
+718	  wit actual hete place place fact 	inference kinds petdrfn aristotle determination subaltemati	1860_Hamilton_Lectures_II.txt
+719	 conceived predicate ils constituent parts logical 	inference kinds proceed parts parts character constituted 	1850_Munro_Logic.txt
+720	  method general outline inductive science problem 	inference kinds uni versal canon general principles 	1854_Devey_Logic.txt
+721	  sought case members analogism essential complete 	inference knowledge cases analogism apparent extremes obscu	1850_Field_Analogy.txt
+722	 equal efficient instance question provided ground 	inference knowledge effect form inductions obliged content 	1827_Bentham_Outline.txt
+723	 reasoning limited knowledge intuition unable draw 	inference knowledge shut discovery countless multitude trut	1860_Hamilton_Lectures_I.txt
+724	  referred forms reasoning violate canons pure 	inference laid syllogisms kind fallacy vogue supposing 	1854_Devey_Logic.txt
+725	 d statement proposition suffices purposes logical 	inference language common life sanctions view essential 	1854_Boole_Laws.txt
+726	  con veyance thought bound argument imputation 	inference language logic wide sig nification amid 	1850_Field_Analogy.txt
+727	 clude theory reasoning fellowcreatures sooner die 	inference large number facts ways gathered sonal 	1851_Bailey_Reasoning.txt
+728	  comet toarm summer auuiorized draw sweeping 	inference latoyers dishonest comets occasion toarm season 	1851_Gilbart_Logic.txt
+729	 require links reasoning construction science case 	inference law fofce elliptical form orbit newton 	1840_Whewell_Philosophy_II.txt
+730	  deduced deduction require links reasoning case 	inference law force elliptical fornf orbit newton 	1858_Whewell_Renovatum.txt
+731	  sky cloudy night theory harmonised deductive 	inference law led strengthened series partial inductions 	1854_Devey_Logic.txt
+732	 n law motion characteristic uncertainty affecting 	inference law variation quantities observe umits observatio	1843_Mill_System_I.txt
+733	 n law motion characteristic uncertainty affecting 	inference law variation quantities observe umits observatio	1843_Mill_System_II.txt
+734	  conclusion light regard argument mistake drawing 	inference laying premise fact forming premise friend 	1851_Bailey_Reasoning.txt
+735	  ments arise application compels reject useless 	inference lead equivocal ambiguous awkward case relations 	1854_Devey_Logic.txt
+736	  figure jected nineteen remain valid forms 	inference lead result neglected belonging fourth figure 	1854_Devey_Logic.txt
+737	 conclusions knowledge relations notions bear laws 	inference lead warmth view science maintained driven 	1854_Devey_Logic.txt
+738	  necessarily affir mation algazel wrong wrong 	inference leading member sentence clause drew assertion 	1839_Haughton_Inquiry.txt
+739	 ormation explicitly conveyed data deduced logical 	inference leads statement general principle question events	1854_Boole_Laws.txt
+740	  dertr pimtatd bf vtngetmc tree snbuqnent 	inference leae enoneoiu cookqaeuce hu tliaking aninwl 	1850_Munro_Logic.txt
+741	  open cavil sought place dispute additional 	inference leans materialism contradicts scripture leans mat	1854_Devey_Logic.txt
+742	  figures respect lines applied sole pertinent 	inference leaps sense standing precise ambiguity vagueness 	1860_Hamilton_Lectures_II.txt
+743	 ye intuition reality inferencegrounded experience 	inference learn make make correctness experience increases 	1843_Mill_System_I.txt
+744	 ye intuition reality inferencegrounded experience 	inference learn make make correctness experience increases 	1843_Mill_System_II.txt
+745	  observed planets move round sun natural 	inference learned prelate observes false false inference 	1852_Young_Elementary.txt
+746	  conveying formula final con viction truth 	inference leave thought insisting cases true true 	1840_Whewell_Philosophy_II.txt
+747	 ertaking conveying formula final conviction truth 	inference leave thought insisting ing cases true 	1858_Whewell_Renovatum.txt
+748	  judgment term terms apply propositions mediate 	inference leave thought undetermined subjectively uncertain	1860_Hamilton_Lectures_II.txt
+749	  inference valid logically scientifically invalid 	inference legi timated occult conversion quantity takes 	1860_Hamilton_Lectures_I.txt
+750	  made key stone system admit species 	inference legitimate general compelled place perfection rea	1854_Devey_Logic.txt
+751	  cases included advantage judging contro verted 	inference legitimate referring parallel case universally ac	1843_Mill_System_I.txt
+752	  cases included advantage judging contro verted 	inference legitimate referring parallel case universally ac	1843_Mill_System_II.txt
+753	  remarked withal set cases legitimately draw 	inference legitimately make inference general observa tion 	1843_Mill_System_I.txt
+754	  remarked withal set cases legitimately draw 	inference legitimately make inference general observa tion 	1843_Mill_System_II.txt
+755	  ixz ij ixz myxh iim izx 	inference lhii m yz j iyz contrary 	1847_DeMorgan_Logic.txt
+756	 r argument prussian government ultimate inductive 	inference liable revolution inference drawn formula desire 	1843_Mill_System_I.txt
+757	 r argument prussian government ultimate inductive 	inference liable revolution inference drawn formula desire 	1843_Mill_System_II.txt
+758	  mative figure restrict figures forms valid 	inference lieu twentyfour obtained table examining forms 	1854_Devey_Logic.txt
+759	  conceptions opera tions concur deduction correct 	inference limit conceive easily drawn marks boundaries 	1854_Devey_Logic.txt
+760	  notion law excluded middle dis junctive 	inference limitation subject notion predicates thought cont	1860_Hamilton_Lectures_II.txt
+761	 ason existence law reason consequent hypothetical 	inference limitation supposed notion mode ijcing posited 	1860_Hamilton_Lectures_II.txt
+762	  parts nature means guidance correct train 	inference limited extent led observe connexion class 	1838_Powell_Connexion.txt
+763	 d aristotelian logic maintained opinion judgement 	inference limited facts fore degrees real nonsequitur 	1849_Smart_Logic.txt
+764	 ropositions posed eliminating part terms relation 	inference limiting major exact sense proposition syllogism 	1854_Devey_Logic.txt
+765	  diftintion angular univerfal becaufe ineffeflive 	inference lingular propofition objeftively fingular ideally	1847_DeMorgan_Logic.txt
+766	  denote inferiority conclusion signifies illation 	inference logic conclude include argument premises argument	1850_Field_Analogy.txt
+767	 re constituting essential ground difference forms 	inference logic conversant present science number law 	1854_Boole_Laws.txt
+768	 udes induction similars parison general universal 	inference logic things nature thoughts reason concur 	1850_Field_Analogy.txt
+769	  assertion inference wide gulf leap bridge 	inference logical connection premises conclusion irresistib	1853_Ramsay_Introduction.txt
+770	  unusable cases force word essential mode 	inference logical consequences essential found found confin	1860_DeMorgan_Syllabus.txt
+771	 icious middle term animal quantifications affords 	inference logical notation lamberts linear notation defecti	1860_Hamilton_Lectures_II.txt
+772	  inference learned prelate observes false false 	inference lordships logical theory false principle attempt 	1852_Young_Elementary.txt
+773	  inference tomorrow day ten thousand years 	inference loses conclusive perfectly consonant idea hinder 	1854_Devey_Logic.txt
+774	 ished tracing reasoning backwards examine grounds 	inference made assertion conclusion grounds rests premises 	1854_Devey_Logic.txt
+775	  proposition justly inferred fact inferred insist 	inference made chain reasoning desire produce reasoning 	1851_Bailey_Reasoning.txt
+776	 sumption part moods aftected conversive inference 	inference made chiefly absolute negation notion predicate 	1850_Baynes_Essay.txt
+777	 rt sophistical arguments good logicians syllogism 	inference made conclusion simple converse proposition truth	1827_Huyshe_Logic.txt
+778	  fhine theory fasls made follow theory 	inference made feen word fentence capable put 	1847_DeMorgan_Logic.txt
+779	  connection facts mentioned text case obvious 	inference made hypothesis circumstance reasoner appearing p	1860_Mansel_Prolegomena.txt
+780	  central force law force discovered exist 	inference made induction introduced general conception phen	1840_Whewell_Philosophy_II.txt
+781	  force law aftd foijce discovered exist 	inference made induction introduced general conception phen	1858_Whewell_Renovatum.txt
+782	  commerce increased foreign war pre vious 	inference made men regard things pro duce 	1854_Devey_Logic.txt
+783	 is numerical quantity terms propofition numerical 	inference made numerical relations feveral terms fully 	1847_DeMorgan_Logic.txt
+784	  notx infer xs ys infer included 	inference made proposition result called conclusion anteced	1860_DeMorgan_Syllabus.txt
+785	  judgment truth falsity enter idea nature 	inference made subject opinion opine aristotle descartes 	1854_Devey_Logic.txt
+786	  ways men arrive error doubted mere 	inference main objel work reducible rules thefe 	1847_DeMorgan_Logic.txt
+787	  attribute conclusion minor subject natural form 	inference major position extensive minor syllogism wise 	1854_Devey_Logic.txt
+788	 akes conclusion alternatively double make mediate 	inference make alternative determinate extralogical true ma	1860_Hamilton_Lectures_II.txt
+789	 ct instance melts theory interpretation phenomena 	inference make ideas general conscious act thought 	1840_Whewell_Philosophy_I.txt
+790	 embered premises faulty state certainty inductive 	inference makes probable phrases apriori aposteriori occur 	1849_Smart_Logic.txt
+791	  consists stating facts inference manner evidence 	inference manifest logic deduction consists stating premise	1840_Whewell_Philosophy_I.txt
+792	  animal contradict logical grounds false thought 	inference manner empirically inconsequent grounded relation	1860_Mansel_Prolegomena.txt
+793	  xyii logic induction consists stating facts 	inference manner evidence ference manifest logic deduction 	1858_Whewell_Renovatum.txt
+794	  fact logic induction consists stating facts 	inference manner evidence inference manifest logic deductio	1840_Whewell_Philosophy_I.txt
+795	  show equal axioms mathematical reasoners justify 	inference marked conjunctive word equals added equals 	1840_Whewell_Philosophy_I.txt
+796	 y fubjeft predicate converfes fiindamental notion 	inference material repreientation fyllogifm elements fyllog	1847_DeMorgan_Logic.txt
+797	  good logicians good logicians sophists case 	inference materially true ad mitted class men 	1827_Huyshe_Logic.txt
+798	  knowledge premises assumed true required logical 	inference mathematical forms pass current equivalent mathem	1840_Whewell_Philosophy_II.txt
+799	  premises assumed bo true required logical 	inference mathematical forms pjiss current equivalent mathe	1860_Whewell_Discovery.txt
+800	  high authority logic maintains draw simplest 	inference mathematics universal principle reasoning equal e	1853_Ramsay_Introduction.txt
+801	 istributed consequence privative conceptions kind 	inference matter consequent ground form preceding differenc	1842_Thomson_Outline.txt
+802	  ma thematical inference fundamental kind valid 	inference matter employed transform axiom universal canon 	1854_Devey_Logic.txt
+803	 ressions involves member terms factor syllogistic 	inference matter form admit contrary classes conclusion 	1854_Boole_Laws.txt
+804	 qpup artftotelian syllogijm time ariftotle formal 	inference matter ftudy writings great philofbpher fbmewhat 	1847_DeMorgan_Logic.txt
+805	 ral diredions ftatement fubmitted adoption theory 	inference matter preface form propofition copula made 	1847_DeMorgan_Logic.txt
+806	 idea substance necessarily applied imuction force 	inference mecha nical forces figom phenomena abundantly 	1858_Whewell_Renovatum.txt
+807	 dea substance necessarily applied induction force 	inference mechaniod forces phenomena abundantly practised p	1840_Whewell_Philosophy_II.txt
+808	  term order determine relation terms kind 	inference medi ate term compared called middle 	1856_Ingleby_Outlines.txt
+809	 rgumentation logicians general limited reason ing 	inference mediate eduction proposition correlation supposed	1860_Hamilton_Lectures_II.txt
+810	 rbart hold dispute solved distinction categorical 	inference mediate medium conclusion term hypothetical disju	1860_Hamilton_Lectures_II.txt
+811	 observation extended found fallible universal law 	inference men fallible man peter men past 	1851_Bailey_Reasoning.txt
+812	  ground virtue expressed pre mises accomplish 	inference mental interpolation comple mentary steps conclus	1860_Hamilton_Lectures_I.txt
+813	 ing mentioned seak conversant thought conceptions 	inference mental operations general assert broadly logic 	1848_Chretian_Method.txt
+814	 on analysis intellectual process called reasoning 	inference mental operations intended faciutate founda tion 	1843_Mill_System_I.txt
+815	 on analysis intellectual process called reasoning 	inference mental operations intended faciutate founda tion 	1843_Mill_System_II.txt
+816	  middle term exceis number cafes involved 	inference mentioned conclufionterm terms pofitive premifs p	1847_DeMorgan_Logic.txt
+817	  fluxion logicians reckon kinds imme diate 	inference mentioned questionable illation inferences deny s	1856_Ingleby_Outlines.txt
+818	  acyustment material world truth caa advance 	inference mere existence powerful intelligent rise vague 	1838_Powell_Connexion.txt
+819	 ersion aequipouency propositions called reasoning 	inference mere reassertion words asserted important intelle	1843_Mill_System_I.txt
+820	 ersion aequipouency propositions called reasoning 	inference mere reassertion words asserted important intelle	1843_Mill_System_II.txt
+821	  human knowledge intro duced strong bearing 	inference metaphysical discussions foundations evidence col	1854_Devey_Logic.txt
+822	 anguage opinions giving dialectic process logical 	inference metaphysical speculation times hegel platonic sig	1860_Hamilton_Lectures_I.txt
+823	 finitions differ results supposed equally correct 	inference method work questions theory probabilities presen	1854_Boole_Laws.txt
+824	  science basis grouping preface central idea 	inference methods sys tems connected functions leading 	1854_Devey_Logic.txt
+825	 involving symbol coefficient deduce law condition 	inference middle term universal rule inference equate 	1854_Boole_Laws.txt
+826	  zs notvs belong case satisfy condition 	inference middle term ys premiss particularaffirmative pre 	1854_Boole_Laws.txt
+827	  reference role pre misses case shown 	inference middle terms case legi timate conclusion 	1850_Munro_Logic.txt
+828	 extremes analysis equations condition syllogistic 	inference middle terms quality member reduces single 	1854_Boole_Laws.txt
+829	  logic end functions discharge relate part 	inference mill denies competency fulfil throw light 	1854_Devey_Logic.txt
+830	  cniy ify adopt conception assertion inductive 	inference mind properly dis eiplined order connexion 	1840_Whewell_Philosophy_II.txt
+831	 pressed fact adopt conception assertion inductive 	inference mind properly disciplined order con nexion 	1858_Whewell_Renovatum.txt
+832	 nowledge relations solid space knowledge acquired 	inference mind taught celebrated bishop berkeley doctrine 	1840_Whewell_Philosophy_I.txt
+833	 itions mistaken inference syllogisms common false 	inference mistaken inference rigid logicians confine word 	1838_Newman_Lectures.txt
+834	 ation cumulative evidence ehctra xrifiua examples 	inference mmm part logical training importance powers 	1848_Moberly_Lectures.txt
+835	 ecalled hymithctical syllogism material character 	inference moaning term distribution grand classes meiliato 	1860_Hamilton_Lectures_II.txt
+836	 analogy identity diversity sole principle logical 	inference mode instrument employed connecting extremes prod	1850_Field_Analogy.txt
+837	  thought logic laws thought involved process 	inference modebn schools logic dealing conceptions employed	1854_Devey_Logic.txt
+838	 irectly present subject suffices ordinary purpose 	inference modes arguing distinct commonly observed regard 	1848_Chretian_Method.txt
+839	  zs exceed num ber places rules 	inference modifications prove xs zs muft fliow 	1847_DeMorgan_Logic.txt
+840	 ence meta physical logical conditions syllogistic 	inference modified extraformal condition equally apodictic 	1860_Mansel_Prolegomena.txt
+841	  fy mbols poffible affirma tive logical 	inference mood figure emerges fyllogifms negative queftions	1847_DeMorgan_Logic.txt
+842	  extent trace physical senses surely founded 	inference moral allpowerful intelligence derived contemplat	1838_Powell_Connexion.txt
+843	  motions astronomy called deductive laws pointed 	inference movement elliptical orbit fact ascertained ductiv	1854_Devey_Logic.txt
+844	  cafes fliall fee matter fidly examined 	inference muil confift bringing things compared comparifon 	1847_DeMorgan_Logic.txt
+845	  logic converge exposition laws simple cases 	inference multiform functions fulfil construction great bra	1854_Devey_Logic.txt
+846	  found colour conclude agree colour case 	inference mutually unapproachable substances colour resting	1851_Bailey_Reasoning.txt
+847	  changed contrary made forms inference find 	inference mxy wyz numerically definite proposition fourth 	1860_DeMorgan_Syllabus.txt
+848	 easts shoulders singular observe full conjectural 	inference naked statement wrung illiterate person facts 	1854_Devey_Logic.txt
+849	  concealed young logician guard remember reaches 	inference narrow induction conclusion development knowledge	1849_Smart_Logic.txt
+850	 ly feparate examining fundamental laws fyuogiftic 	inference neceffary confider thing pofitive forms mxiny 	1847_DeMorgan_Logic.txt
+851	 formal logic calculus 	inference neceflary probable augustus de morgan trinity 	1847_DeMorgan_Logic.txt
+852	  tme ia aeddtruoi codvenion con terse 	inference neceisaiil convertend eipouta ampie conversion co	1850_Munro_Logic.txt
+853	 ocess process conclusion properly strictly called 	inference necessarily premises included probable highest de	1849_Smart_Logic.txt
+854	  term person thing denoted term subject 	inference necessarily principle predj cables found apply 	1848_Moberly_Lectures.txt
+855	 tellectual qualities exist intellect person draws 	inference necessarily relation opinions borrowed acquired v	1839_Haughton_Inquiry.txt
+856	 ivable relation subor dination coordination forms 	inference necessarily subject classes predicaments treatise	1854_Devey_Logic.txt
+857	 aterial vith loffical words process investigation 	inference necessitated laws thought logic vrith things 	1850_Munro_Logic.txt
+858	  implied conception tbe premisses logic rectises 	inference necessitated laws thought presumed induction perf	1850_Munro_Logic.txt
+859	  sum total parts represent atives identification 	inference necessitated laws thought physical difficulty add	1860_Mansel_Prolegomena.txt
+860	  supposition premises true guar antees legitimacy 	inference necessity conclusion account pre mises greek 	1860_Hamilton_Lectures_I.txt
+861	  language signs ian guage consists register 	inference necessity language means vestigation applies minc	1831_Smart_Sematology.txt
+862	  ufed propofitions terms term common admit 	inference negative fum eflfeduve numbers premifes greater 	1847_DeMorgan_Logic.txt
+863	 or premiss logical fallacies quality categoricals 	inference negative pre negative misses affords ground 	1848_Moberly_Lectures.txt
+864	 olved contrary terms confequence legitimate modes 	inference neglefted feveral ufual fyuogifms ftrong premifes	1847_DeMorgan_Logic.txt
+865	  comparifon abftrad ideas peculiar privilege man 	inference nis imper fection point man carry 	1847_DeMorgan_Logic.txt
+866	  laws thought principle contra diction premise 	inference notb produced change quality affirmative negative	1860_Mansel_Prolegomena.txt
+867	 ertain favourable opinion neglecting pass species 	inference noticed logicians call subaliernation unambiguous	1860_Hamilton_Lectures_II.txt
+868	  man immoiial john man mortal hypothetical 	inference notion thought thought existing nonexisting thoug	1860_Hamilton_Lectures_II.txt
+869	  univerfal cafes found ame law prevails 	inference numbers exceptional inftances premifes amount num	1847_DeMorgan_Logic.txt
+870	  class likewise referred essences derive strict 	inference ob serve design harmony operations nature 	1839_Haughton_Inquiry.txt
+871	 r remaining elements interpret expression logical 	inference object accomplished means difference interpretati	1854_Boole_Laws.txt
+872	  question obtained imply occurrence future kind 	inference objection stretched limits ob served warrant 	1854_Devey_Logic.txt
+873	  root branch leave single vestige science 	inference objections strikingly stated meet character works	1854_Devey_Logic.txt
+874	 egree application term induction process illative 	inference objective process investigating facts prepara tor	1854_Devey_Logic.txt
+875	 phenomena collected arranged number truths gained 	inference observ atipn ordinary procedure science observed 	1848_Chretian_Method.txt
+876	 te principal mediate constitute subaltern classes 	inference observe outset hypothetic called hypothetical syl	1860_Hamilton_Lectures_II.txt
+877	 s reference authority whatsoever solely inductive 	inference observed phenomena deviating proper line sdentifi	1838_Powell_Connexion.txt
+878	 sts philosophers idealist unreflective conversive 	inference obtain real sump tion philosopher unreflective 	1850_Baynes_Essay.txt
+879	  good man fights fight happy conversive 	inference obtain sumption fight good men syllogism 	1850_Baynes_Essay.txt
+880	  give quantities premifes conftruled inverfe rule 	inference obtained complex premife lowered univerfal ftreng	1847_DeMorgan_Logic.txt
+881	 ted selection middle term affirmative proposition 	inference obtained dropping symbols middle term xyz 	1860_DeMorgan_Syllabus.txt
+882	 rmediate quantity occurrence breach rule quantity 	inference obtained erasing intermediate terms quantities al	1860_DeMorgan_Syllabus.txt
+883	  concep tion inclusive act judgment signifies 	inference obtained medium words rational conclusion cases 	1831_Smart_Sematology.txt
+884	 emifes capable contradiftion give conclufion rule 	inference obvioufly fliow xs zs comparifon unlefs 	1847_DeMorgan_Logic.txt
+885	 ed proceed higher problems contemplated practical 	inference obvious advancing power scientific methods find 	1847_Boole_Analysis.txt
+886	  alqhj solid crowded heavy deepsound ing 	inference obvious osiyof applied sirens means clear 	1848_Moberly_Lectures.txt
+887	 tonished learn absolutely detest metaphysics draw 	inference obvious result metaphysical process equalling dif	1839_Haughton_Inquiry.txt
+888	  vexed yesterday hungry today examples truths 	inference occurrences place absent events recorded history 	1843_Mill_System_I.txt
+889	  vexed yesterday hungry today examples truths 	inference occurrences place absent events recorded history 	1843_Mill_System_II.txt
+890	 tuition consciousness foundation knowledge truths 	inference occurrences place absent events history theorems 	1848_Holyoake_Logic.txt
+891	 ently xyz fyllogifhi exprefted nominals rationale 	inference oieii parcel xs zs becaufe ys 	1847_DeMorgan_Logic.txt
+892	  command divine law clauses brackets incidental 	inference omitted affecting validity part premiss inci 	1854_Devey_Logic.txt
+893	  views nature science prwesses formed tliis 	inference ono fact case induction sort induction 	1860_Whewell_Discovery.txt
+894	  proposition number judg ments means sort 	inference opposition conversion pro positions make series 	1854_Devey_Logic.txt
+895	 red author supplementary doctrine googic appendix 	inference order considered logi cians treating group 	1860_Hamilton_Lectures_II.txt
+896	  facts enumerated suffi cient number authorise 	inference order make correct induction number facts 	1827_Huyshe_Logic.txt
+897	  men rational beings rational beings mortal 	inference order premises otie provided propositions univers	1856_Latham_Logic.txt
+898	  figure ik disallowed tt sty cross 	inference osibe extension comprehension vice ivra tho 	1860_Hamilton_Lectures_II.txt
+899	  mark placing brackets avoid confusing conversive 	inference ostensible conclusion syllogism mark illative con	1860_Hamilton_Lectures_I.txt
+900	  obtain conclusion ostensible conclusion instance 	inference ostensible sumption proximate real sumption subsu	1860_Hamilton_Lectures_I.txt
+901	 vestigating partieular fects preparatory illation 	inference otgected adopt formal defi nition logic 	1850_Munro_Logic.txt
+902	  defirable ftate attempt deal forms pf 	inference otherwife ariftotelian method time wallis mathema	1847_DeMorgan_Logic.txt
+903	 ricta species inference recognised logicians kind 	inference overlooked logical writers fonnerly noticed enume	1860_Hamilton_Lectures_II.txt
+904	  natural line discussion turns attention evidence 	inference overlooks step importance knowledge ihvefuion ext	1840_Whewell_Philosophy_II.txt
+905	  natural line discussion turns attention evidence 	inference overlooks step importance ledge invention extreme	1858_Whewell_Renovatum.txt
+906	  ware peter pindars hero work fpurious 	inference pafles confequencc premifes reality follow thofe 	1847_DeMorgan_Logic.txt
+907	  number ys fiippofition ufelefs attempt draw 	inference pair enter par tially quantified ry 	1847_DeMorgan_Logic.txt
+908	 change prepofition inconvertibles aoioi oaio fame 	inference pairs point view identical eeaefa leio 	1847_DeMorgan_Logic.txt
+909	  precede entrance concluding terms condition aft 	inference panion muft made terms compared middle 	1847_DeMorgan_Logic.txt
+910	 stood syllogistic theory universal type reasoning 	inference par ticulars particulars marks marks conclu 	1854_Devey_Logic.txt
+911	 ate reasoning syllogism common arrangement places 	inference part logic objection opposition treated points 	1860_Mansel_Prolegomena.txt
+912	 accidental essential order procedure gards nature 	inference part parts constitutes deductive probation induct	1860_Hamilton_Lectures_II.txt
+913	  process infer observed land question island 	inference partial facts navigator circumnavigation facts su	1843_Mill_System_I.txt
+914	  process infer observed land question island 	inference partial facts navigator circumnavigation facts su	1843_Mill_System_II.txt
+915	 asoning individual particidar universal signifies 	inference partial similarity things complete total similari	1860_Hamilton_Lectures_II.txt
+916	 mation opponent numerical fyllogifm remark fecond 	inference partially definite fyftem nonexiftence definite n	1847_DeMorgan_Logic.txt
+917	  prelimi nary exposition touching general rules 	inference partially relevant question hand designed discuss	1850_Baynes_Essay.txt
+918	 les intellectual constitution consequent corodary 	inference particu lars particulars general propositions mer	1854_Devey_Logic.txt
+919	  major term nni versa major proposition 	inference particulari ad universale obvious syllogism foart	1850_Munro_Logic.txt
+920	 ii meant inference univerfal propofition feparate 	inference particulars compofed thefe particulars defcend fo	1847_DeMorgan_Logic.txt
+921	 ence particulars particulars autho rised previous 	inference particulars generals substantially nature inducti	1843_Mill_System_I.txt
+922	 ence particulars particulars autho rised previous 	inference particulars generals substantially nature inducti	1843_Mill_System_II.txt
+923	 ng intermediate links chain digitizedby reasoning 	inference particulars observed apply observation suffi cien	1843_Mill_System_I.txt
+924	 ng intermediate links chain digitizedby reasoning 	inference particulars observed apply observation suffi cien	1843_Mill_System_II.txt
+925	 oning inference contrary mere inference testimony 	inference particulars particulars autho rised previous infe	1843_Mill_System_I.txt
+926	 oning inference contrary mere inference testimony 	inference particulars particulars autho rised previous infe	1843_Mill_System_II.txt
+927	 fsoi petiho prineipii insufficiency common theory 	inference particulars particulars general propositions reco	1843_Mill_System_I.txt
+928	 sm considerations adduced conclusions established 	inference particulars particulars general propositions regi	1843_Mill_System_I.txt
+929	 fsoi petiho prineipii insufficiency common theory 	inference particulars particulars general propositions reco	1843_Mill_System_II.txt
+930	 sm considerations adduced conclusions established 	inference particulars particulars general propositions regi	1843_Mill_System_II.txt
+931	  mortal experience john thomas dead contends 	inference particulars particulars general propositions regi	1851_Gilbart_Logic.txt
+932	  ascertained similar process marks marks real 	inference particulars particulars observed instances unobse	1843_Mill_System_I.txt
+933	  ascertained similar process marks marks real 	inference particulars particulars observed instances unobse	1843_Mill_System_II.txt
+934	 ature assumes priori deduction compared inductive 	inference particulars theoretic conclusion type character f	1854_Devey_Logic.txt
+935	 rial conditions logicians treated logic inductive 	inference parts exclusively warranted law identity converti	1860_Hamilton_Lectures_I.txt
+936	  syllogism false matters fact true leading 	inference peoposinons structure ordinary syllogism corribin	1856_Latham_Logic.txt
+937	  practice considerate men demonstrative reasoning 	inference perceive impossible follow premises kind reasonin	1826_Bushby_Logic.txt
+938	 maic system objected absence ability discriminate 	inference perception inference grounded attributed marvel l	1854_Devey_Logic.txt
+939	  induction means syllogism strung point make 	inference perfect form including indefinite collection case	1860_Whewell_Discovery.txt
+940	 tury valid ground refuting conclusions legitimate 	inference perfectly idle prove wrong time galluppi 	1854_Devey_Logic.txt
+941	  means googi appendix original proposition mly 	inference perfectly legitimate explica tion thought men 	1860_Hamilton_Lectures_II.txt
+942	 tion univerfe fort fpurious conclufion legitimate 	inference perfeuy diftint charafter inferences bear word 	1847_DeMorgan_Logic.txt
+943	  laws material world observe calculate led 	inference perpe tual universal maintainance principle secur	1838_Powell_Connexion.txt
+944	 oirna arranged composinsstick shape order natural 	inference person designed work carried design execution 	1851_Gilbart_Logic.txt
+945	  motive election om appearance election complied 	inference petuio prindpii assuming true opponents abgcikg 	1850_Munro_Logic.txt
+946	  moon termed theory persons familiar simple 	inference phenomena accomplished astronomers similar cases 	1840_Whewell_Philosophy_I.txt
+947	  fact theory theory conscious fact unconscious 	inference phenomena presented senses distinction stated rig	1840_Whewell_Philosophy_I.txt
+948	 se inference conclusion belonging deductive logic 	inference physics assignable inductive learning examples ex	1849_Smart_Logic.txt
+949	  fallen fallen fall sort conclusion called 	inference physics difference argument enumeration induction	1849_Smart_Logic.txt
+950	  krter lotjtk kd lectdre lootc dent 	inference piiort supposing antecedents empirical cha racter	1860_Hamilton_Lectures_II.txt
+951	  general axiomatic laws admit direct deductive 	inference place solutions physical pheno mena problems 	1831_Herschel_Discourse.txt
+952	 ion suppress altogether conclude argument stating 	inference plain fully established point position opponent 	1852_Young_Elementary.txt
+953	  move round sun elliptical orbit natural 	inference planets move round sun elliptical orbit 	1852_Young_Elementary.txt
+954	  respect detached words sentences mind paring 	inference plato deserving respect expressed sentence plato 	1831_Smart_Sematology.txt
+955	  propofidon number cafes mddle term criterion 	inference pofiible fum effeve num bers premifes 	1847_DeMorgan_Logic.txt
+956	  opinion prevail exact nature induc tive 	inference point agree induc tive argument inference 	1850_Munro_Logic.txt
+957	  replied moment concede premisses believed draw 	inference point belief syllo gism logic logic 	1838_Newman_Lectures.txt
+958	  signs probabilities affords perfect neces sary 	inference point fact word arexs manifest interpolation 	1860_Hamilton_Lectures_I.txt
+959	 ies predilections relation interfere make correct 	inference point impossible prejudices cast dismiss natural 	1854_Devey_Logic.txt
+960	 ontrary reason directly opposite inference pursue 	inference points kind connexion tween wind rain 	1854_Devey_Logic.txt
+961	 ch undoubtedlj claims absolutely unlimited extent 	inference points objects vast minute remote space 	1838_Powell_Connexion.txt
+962	 miss argument truth incapable demonstrated follow 	inference points totally opposite conclusion layers stone 	1854_Devey_Logic.txt
+963	  implies physical reality hypo thesis poissons 	inference pois son views capillary action treats 	1840_Whewell_Philosophy_I.txt
+964	  baldwin paulina driver deveys logic science 	inference popular manual devey dictionary latin greek 	1854_Devey_Logic.txt
+965	 distinct reasoning extended sense term synonymous 	inference popularly kinds reasoning particulars generals re	1843_Mill_System_I.txt
+966	 distinct reasoning extended sense term synonymous 	inference popularly kinds reasoning particulars generals re	1843_Mill_System_II.txt
+967	  eyes knowledge enables draw im mediate 	inference pound fact decompose facts animal legs 	1851_Bailey_Reasoning.txt
+968	 oning obvious relation connexion liie proposition 	inference power facidty mind perceives relations called 	1851_Gilbart_Logic.txt
+969	  meanings fo power invent meanings forms 	inference power make meanings fatisfy condi tions 	1847_DeMorgan_Logic.txt
+970	  double putting forms making double forms 	inference pre fence fymbols neceflfary fubtraftions remind 	1847_DeMorgan_Logic.txt
+971	  names join gether xy loz rules 	inference pre fently fhow loz neceflary confequence 	1847_DeMorgan_Logic.txt
+972	  fallible case instructive mark superior range 	inference pre mises proposition men fallible embodies 	1851_Bailey_Reasoning.txt
+973	 e form syllogistic conclusion establish condition 	inference preceded single condition suffice examples suffic	1854_Boole_Laws.txt
+974	 plex mediate mediacy concealed concealment mental 	inference precedes line broken line figure syllogism 	1860_Hamilton_Lectures_II.txt
+975	 lfevident truth chain reasoning link irresistible 	inference preceding arrived conclusion irresistible inferen	1853_Ramsay_Introduction.txt
+976	 previously observed past event fallen observation 	inference preceding gay people walking beach sooner 	1851_Bailey_Reasoning.txt
+977	 ll treatises logic remember predicate proposition 	inference precisely attributes logician concerned common di	1843_Mill_System_I.txt
+978	 ll treatises logic remember predicate proposition 	inference precisely attributes logician concerned common di	1843_Mill_System_II.txt
+979	  produces effect case question proceed generalise 	inference predicting conditions discovered effect follow re	1854_Devey_Logic.txt
+980	  predicate c common hypothetical proposi tions 	inference prefixing rule essentials cognate hypothetical sy	1860_Hamilton_Lectures_II.txt
+981	 nferred highly impossible perfect analysis effect 	inference premature dwell present scholastic abuse method 	1848_Chretian_Method.txt
+982	 n jpurious illegitimate exifts languztge fpurious 	inference premifes perfeftly good true conftitution univerf	1847_DeMorgan_Logic.txt
+983	 istinct original judgment expressed language case 	inference premise process reasoning process thinking change	1860_Mansel_Prolegomena.txt
+984	  fore seldom openly stated lastly drawing 	inference premises establish specific difference call case 	1853_Ramsay_Introduction.txt
+985	 ristotle european inference expressed true remark 	inference premises necessitate conclusion fore virtually tr	1860_Hamilton_Lectures_I.txt
+986	  facts states general proposition agree drawing 	inference premises question inference bc drawn principle 	1853_Ramsay_Introduction.txt
+987	 ound included particularised fourth rule preclude 	inference premises resulting syllo gism involve undistribut	1854_Devey_Logic.txt
+988	  ascertained trial test validity rule inference 	inference premises universal premise middle term quantities	1860_DeMorgan_Syllabus.txt
+989	  term premisses imply implied generally drawing 	inference premisses expresses relation terms premisses impl	1848_Moberly_Lectures.txt
+990	  term illicit process major minor term 	inference premisses fallacy lies copula spring confusion 	1848_Moberly_Lectures.txt
+991	  fyllo gifms fame general ipecies cafe 	inference preponderance largenefe inference depends extent 	1847_DeMorgan_Logic.txt
+992	  prudence avithheld galileo fiom leaping hastily 	inference preponderating inclination facts feel peraons tim	1860_Whewell_Discovery.txt
+993	  part process concerns mere obtaining materials 	inference present con fine pointing characteristics distinc	1854_Devey_Logic.txt
+994	 ises transposed understood subsumption conversive 	inference pressed proximate antecedent real conclusion imme	1860_Hamilton_Lectures_I.txt
+995	 llogism generalize process principle law involved 	inference presupposed syllogism propositions verbal find un	1843_Mill_System_I.txt
+996	 llogism generalize process principle law involved 	inference presupposed syllogism propositions verbal find un	1843_Mill_System_II.txt
+997	  truth case reasoning logical process formal 	inference presupposing reasoning prefixed begging question 	1860_Mansel_Prolegomena.txt
+998	  omni nullo considered paramount law correct 	inference pretext reducing arguments moods figure dictum 	1854_Devey_Logic.txt
+999	  conclusion child passed sand marks imprinted 	inference previous observation single fact similar kind 	1851_Bailey_Reasoning.txt
+1000	  cast result theorem demon strated links 	inference previous pro positions led establishment brought 	1854_Devey_Logic.txt
+1001	  con clusion premise governed laws mediate 	inference primary processes rest made depend altern 	1860_Mansel_Prolegomena.txt
+1002	 distance optical instruments distinctly reasoning 	inference principal itad names propositions subject logic 	1843_Mill_System_I.txt
+1003	 distance optical instruments distinctly reasoning 	inference principal itad names propositions subject logic 	1843_Mill_System_II.txt
+1004	 lustrated principle complex classes formal limits 	inference principle analogical rules instinct intellect tri	1850_Field_Analogy.txt
+1005	 nsation pure cognitions intuitive obtained formal 	inference principles bound nature mind forming part 	1854_Devey_Logic.txt
+1006	  omne nullo laid aristotle condition perfect 	inference prior anal ch mills system logic 	1854_Devey_Logic.txt
+1007	  reference made original ground indirect deducing 	inference pristine evidence rests vid pursue parallel 	1851_Bailey_Reasoning.txt
+1008	 ition affords somex somey proposition categorical 	inference privation drawn somex anyy somex somenoty 	1856_Ingleby_Outlines.txt
+1009	  versa nonb nonb positive affinned positive 	inference privative affirmed privative provided undistribut	1842_Thomson_Outline.txt
+1010	  particulars generals subject ndes govern formal 	inference pro cesses stated doctrine syllogisms considerati	1860_Hamilton_Lectures_II.txt
+1011	  rules induction real relation analogy members 	inference probability certainty common fallacious build arg	1850_Field_Analogy.txt
+1012	 cambridge transactions part formal logic calculus 	inference probable london taylor walton vo symbols 	1860_DeMorgan_Syllabus.txt
+1013	  extends belief facts similar nature observed 	inference proceeds basis cquise slelcbntabir ifrtatisb nalu	1852_Young_Elementary.txt
+1014	 bordination higher lower notion predicate belongs 	inference proceeds rule subject concluding judgment stand 	1860_Hamilton_Lectures_II.txt
+1015	 iio conceived constitute class magnet thecompwhen 	inference proceeds supposition extennion denied inference s	1860_Hamilton_Lectures_I.txt
+1016	  infe rence proceeds unknown operation involving 	inference process conclusion wider premisses drawn fall 	1843_Mill_System_I.txt
+1017	  infe rence proceeds unknown operation involving 	inference process conclusion wider premisses drawn fall 	1843_Mill_System_II.txt
+1018	  risible animal risible noticed tlie logicians 	inference process inferred proposition means exclusive ail 	1860_Hamilton_Lectures_II.txt
+1019	  relates meaning form discourse operation process 	inference process interpretation phrase obtained expression	1843_Mill_System_I.txt
+1020	  relates meaning form discourse operation process 	inference process interpretation phrase obtained expression	1843_Mill_System_II.txt
+1021	 mined form undoubtedly general canons syllogistic 	inference process investigation deduced needless complexity	1854_Boole_Laws.txt
+1022	  certainty science point attempt analyze process 	inference processes subordinate infe rence requisite ascert	1843_Mill_System_I.txt
+1023	  certainty science point attempt analyze process 	inference processes subordinate infe rence requisite ascert	1843_Mill_System_II.txt
+1024	  certainty requires strong combina tion sources 	inference produce doubt scarcely contradictory observation 	1827_Bentham_Outline.txt
+1025	 me propositions denial assertion assertion denial 	inference production proposition consequence propositions f	1860_DeMorgan_Syllabus.txt
+1026	 ilemma chain syllogism sorites general principles 	inference proemium universal methods inference analysis syn	1854_Devey_Logic.txt
+1027	  process reasoning generals particu lars process 	inference progress unknown means coming knowledge logicians	1843_Mill_System_I.txt
+1028	  process reasoning generals particu lars process 	inference progress unknown means coming knowledge logicians	1843_Mill_System_II.txt
+1029	  proper and taking care avoid confounding 	inference proof appears universally man possess reasoningfa	1826_Whately_Elements.txt
+1030	  elements pp ch induction distinction tween 	inference proof ch theory logic relates deduction 	1827_Bentham_Outline.txt
+1031	 ogicians persisted representing syllogism process 	inference proof cleared difficulty arises inconsistency ass	1843_Mill_System_I.txt
+1032	 ogicians persisted representing syllogism process 	inference proof cleared difficulty arises inconsistency ass	1843_Mill_System_II.txt
+1033	  provi nce reasoning induction discovery truth 	inference proof contents verbal real questions realism 	1826_Whately_Elements.txt
+1034	 ctive purely mental experiment physical operation 	inference proof elements occasion differ measure author 	1827_Bentham_Outline.txt
+1035	 deficiency subjectmatter conversant remains saule 	inference proof indifferent disputant arguments led conclu 	1826_Whately_Elements.txt
+1036	 eprecate sophistry striving depreciate called the 	inference proof school logic perpetually contrasting system	1826_Whately_Elements.txt
+1037	  conclu word understood imply correct inference 	inference proof sion premises case conclusion set 	1826_Whately_Elements.txt
+1038	 ap plied mathematical demonstration appears words 	inference proof strictly opposed proof conclusion por 	1827_Bentham_Outline.txt
+1039	  utmost particle truth contrary falsehood men 	inference proof strong contrary man men strong 	1860_DeMorgan_Syllabus.txt
+1040	  mere repetition logical antecedent pass cases 	inference proper acceptation term set inference general 	1843_Mill_System_I.txt
+1041	  mere repetition logical antecedent pass cases 	inference proper acceptation term set inference general 	1843_Mill_System_II.txt
+1042	 ultivate noticed order exclude province reasoning 	inference properly called cases progress truth apparent 	1843_Mill_System_I.txt
+1043	 ultivate noticed order exclude province reasoning 	inference properly called cases progress truth apparent 	1843_Mill_System_II.txt
+1044	  real require notice chiefly confounded cases 	inference properly called occurs proposition ostensibly inf	1843_Mill_System_I.txt
+1045	  real require notice chiefly confounded cases 	inference properly called occurs proposition ostensibly inf	1843_Mill_System_II.txt
+1046	  fuppofition lefe degree knowledge affet power 	inference propofe notation denote equivalent propofltions x	1847_DeMorgan_Logic.txt
+1047	 nd inference elucidatory inference recapitulatory 	inference propofition afterted explanation prefented fyllog	1847_DeMorgan_Logic.txt
+1048	  tirji notions logic fion pofitively muft 	inference propofition called fupprefled premife fuch fuppre	1847_DeMorgan_Logic.txt
+1049	  examination diameter direc tions effort draw 	inference proportions processes intellect arrived infe renc	1839_Haughton_Inquiry.txt
+1050	  moods logic mentally converted real sumption 	inference proposi tions follow regularly arc real 	1860_Hamilton_Lectures_I.txt
+1051	 cated names propositions hypothetical proposition 	inference proposition attributes predi cated greater part 	1843_Mill_System_I.txt
+1052	 cated names propositions hypothetical proposition 	inference proposition attributes predi cated greater part 	1843_Mill_System_II.txt
+1053	  logic view firstly relation propositions process 	inference proposition determined character explanation mean	1860_Mansel_Prolegomena.txt
+1054	 isb isd found abbreviation proposition legitimate 	inference proposition distinction hypothetical categorical 	1843_Mill_System_I.txt
+1055	 isb isd found abbreviation proposition legitimate 	inference proposition distinction hypothetical categorical 	1843_Mill_System_II.txt
+1056	 inferences describes drawn justly drawn connexion 	inference proposition drawn intuitively perceived ference e	1851_Bailey_Reasoning.txt
+1057	 ant syllogisms understanding careftdly borne mind 	inference proposition immensely facilitate process reasonin	1856_Ingleby_Outlines.txt
+1058	 sition mahomet prophet god affirmation legitimate 	inference proposition koran god subject predicate hypotheti	1843_Mill_System_I.txt
+1059	 sition mahomet prophet god affirmation legitimate 	inference proposition koran god subject predicate hypotheti	1843_Mill_System_II.txt
+1060	  mere daub analogy examples apply term 	inference proposition porannq fdv olv iari xoyoc 	1851_Bailey_Reasoning.txt
+1061	 dent granted consequent inferred fts eontequentia 	inference proposition tme parts false providence future 	1850_Munro_Logic.txt
+1062	 ffected accord ance quantification predicate lead 	inference proposition universal drawn nugatory appears advo	1854_Devey_Logic.txt
+1063	  aggregate sum represent im probability arising 	inference proposition untrue supported testimony discordant	1854_Devey_Logic.txt
+1064	  propositions assertion means thing person draws 	inference propositions mind propositions requisite make inf	1851_Bailey_Reasoning.txt
+1065	 ents argument analogy direct ansogy unconditional 	inference propositions principle expressed pro position spe	1848_Moberly_Lectures.txt
+1066	 ost hoc frequent comparatively instances contrary 	inference propter hoc unfair ap plied individual 	1827_Bentham_Outline.txt
+1067	 tioued reality constituents tbe species inductive 	inference province tbe logician extend province logic 	1850_Munro_Logic.txt
+1068	 ctified sumption expressed subsumption conversive 	inference proximate sumption proceeds real conclusion conve	1860_Hamilton_Lectures_I.txt
+1069	  perfect kind calm contem plation turmoil 	inference pure intuition succeeded minds eye wander 	1848_Chretian_Method.txt
+1070	  comxand tisias cose referred kiroharies curvinus 	inference pure jmirticulars cousin victor bis contradiction	1860_Hamilton_Lectures_II.txt
+1071	 inus institutiones pkilosophue rationalis appears 	inference pure particulars learned ambitious men men 	1860_Hamilton_Lectures_II.txt
+1072	 espondence deductive syllogism wrich type logical 	inference pure science type methodical knowledge pure 	1848_Chretian_Method.txt
+1073	  rain draw contrary reason directly opposite 	inference pursue inference points kind connexion tween 	1854_Devey_Logic.txt
+1074	  made supply logic embodying leading forms 	inference pursued chief depart ments science john 	1854_Devey_Logic.txt
+1075	  formal pledges mankind obser vations lead 	inference qualities intellectual property analogy terms qua	1839_Haughton_Inquiry.txt
+1076	  zs fome xs zs legiti mate 	inference quanti tative prefix moji plurimi excited 	1847_DeMorgan_Logic.txt
+1077	 nd indication generalifed comprebenfive principle 	inference quantifications middle term jhould exceed fingle 	1847_DeMorgan_Logic.txt
+1078	  de morgan fallen holding general principle 	inference quantifications middle term fhould exceed fyllogi	1847_DeMorgan_Logic.txt
+1079	  logic perpendicular lines competent indefi nite 	inference quantity existence quantity ssdtst condition urm 	1860_Hamilton_Lectures_I.txt
+1080	  rules fact enunciation figure conditions cross 	inference quantity rule shown error result observing 	1860_Hamilton_Lectures_I.txt
+1081	  acquainted logic matter settled words show 	inference question involved cir cuius concludendo refutatio	1860_Hamilton_Lectures_I.txt
+1082	 ing declaration recognition contained fact termed 	inference question phraseology disposed fact shown implied 	1851_Bailey_Reasoning.txt
+1083	  proof reductio ad absurdum induction deduction 	inference question proposition mind instigating judgment le	1854_Devey_Logic.txt
+1084	  inductive process mind hearer explained hringing 	inference question proved class held signify collection 	1850_Munro_Logic.txt
+1085	  experience observation constancy nature sciences 	inference rarely generally small number constituent parts 	1860_Hamilton_Lectures_I.txt
+1086	  ivdividual facts facts tjie order particularity 	inference rate induction induction induction applied instan	1860_Whewell_Discovery.txt
+1087	 logy interpretation historical introduction basis 	inference ratiocination view de pendent subsidiary process 	1854_Devey_Logic.txt
+1088	  double inferences cafe made ufe form 	inference real equi valent elfe impoffible feen 	1847_DeMorgan_Logic.txt
+1089	 tedly consciousness obscured made ground habitual 	inference real figure consciousness constantly referred dra	1840_Whewell_Philosophy_I.txt
+1090	 essential constituent mans nature previous making 	inference reality assumption major premiss men mortal 	1854_Devey_Logic.txt
+1091	  con tinence simulation experience fact sense 	inference reason analogy relation consciousness corresponde	1850_Field_Analogy.txt
+1092	 ntradiction sound sense admitting premise denying 	inference reason designated logical demonstrative material 	1851_Bailey_Reasoning.txt
+1093	  instance reason give instances give called 	inference reason effect give instances latin phrases 	1849_Smart_Logic.txt
+1094	  forcible strike claim logic analysis methods 	inference reason employs investigation truth limit science 	1854_Devey_Logic.txt
+1095	  fifty hundred times running driven seduced 	inference reason guided experience teaching case dif 	1849_Smart_Logic.txt
+1096	 ple syllogisms general principle whereon validity 	inference reason rests determinately enounced formula stand	1860_Hamilton_Lectures_II.txt
+1097	 estion proposition proved called proof conclusion 	inference reasoning act proceeding judgment founded tle 	1832_Wesley_Guide.txt
+1098	  matter infer ence altogether correct species 	inference reasoning argumenta tion preparatory doctrine rel	1860_Hamilton_Lectures_II.txt
+1099	 th science established observation chiefly ground 	inference reasoning common discourse popular works blended 	1853_Ramsay_Introduction.txt
+1100	 e relations propositions warrant educe manifestly 	inference reasoning considered light evident inference conc	1860_Hamilton_Lectures_II.txt
+1101	  iras atrsbeii abibt analyt prior cap 	inference reasoning general preceding occupied nature proof	1843_Mill_System_I.txt
+1102	  iras atrsbeii abibt analyt prior cap 	inference reasoning general preceding occupied nature proof	1843_Mill_System_II.txt
+1103	 t logicians entertaining fundamentally views draw 	inference reasoning general proposition employed preserve c	1854_Devey_Logic.txt
+1104	  act judgment act parison process procedure 	inference reasoning intuitional propositions guard extendin	1852_Young_Elementary.txt
+1105	 prehen sion quantity deductive quantity inductive 	inference reasoning quantities omitted logicians exclusivel	1860_Hamilton_Lectures_I.txt
+1106	  illuminated sun ob servation involves inferences 	inference reasoning simplest terms antithesis expressed app	1860_Whewell_Discovery.txt
+1107	 uction peculiar case ratiocination universal type 	inference reasoning syllogism inquiries led directly opposi	1843_Mill_System_I.txt
+1108	 uction peculiar case ratiocination universal type 	inference reasoning syllogism inquiries led directly opposi	1843_Mill_System_II.txt
+1109	 emonjirative inference kind inference elucidatory 	inference recapitulatory inference propofition afterted exp	1847_DeMorgan_Logic.txt
+1110	 conclusion sug gests included premises conclusion 	inference receive true instance ascer tain truth 	1849_Smart_Logic.txt
+1111	 ture inhabitants internal structure similar cases 	inference received degrees probability amount evidence case	1854_Devey_Logic.txt
+1112	  work doubt perfect expositions logic science 	inference received present day sees distinctly subject 	1854_Devey_Logic.txt
+1113	  restrict restricted propositio restricta species 	inference recognised logicians kind inference overlooked lo	1860_Hamilton_Lectures_II.txt
+1114	  truth ward crust earth completely obyious 	inference recoil bj trifling extent succeeded obtaining 	1838_Powell_Connexion.txt
+1115	  tested rules avoid ambiguity higher processes 	inference reduce simpler form categorical propositions purp	1854_Devey_Logic.txt
+1116	  thing elfe days purchafes infers rightly 	inference reduced common fyuogifm names queftion terms 	1847_DeMorgan_Logic.txt
+1117	  sophisms detected fewer forms correct habitual 	inference reduced compact moods legitimate reasoning repres	1854_Devey_Logic.txt
+1118	  zs aitertion made things parifon fimple 	inference reduced preceding forms generally fpeaking premif	1847_DeMorgan_Logic.txt
+1119	  real elements method logic true fact 	inference reducible forms syllogism conversion vide ndly 	1854_Boole_Laws.txt
+1120	  reducible forms syllogism conversion vide ndly 	inference reducible processes maintained reducible syllogis	1854_Boole_Laws.txt
+1121	 e proposition accomplished formal conversion real 	inference reduction spoken essay dwell regard process 	1850_Baynes_Essay.txt
+1122	  thofe cafe fail exception nature determines 	inference reduftion xpq obvious xpqrs fyllogiftically demon	1847_DeMorgan_Logic.txt
+1123	  fubje matter die premifes connexion proceis 	inference refiilt produced illuflrated doubtfiil fuch premi	1847_DeMorgan_Logic.txt
+1124	  equivalence cited deduce facts atomic theory 	inference regard existence smallest particles theory dogmat	1840_Whewell_Philosophy_I.txt
+1125	  perfectly sound man mere forms reasoning 	inference regarded con tingently conclusively demonstrated 	1851_Bailey_Reasoning.txt
+1126	  matters gard higher step treatise simple 	inference regarded lord bacons manner pro dromi 	1854_Devey_Logic.txt
+1127	 gency circumstances affect logical copula logical 	inference relate connexion subject predicate antecedent con	1860_Mansel_Prolegomena.txt
+1128	 ment nonfpecies noncomplement syllogifm syllogism 	inference relation names relation thofe names names 	1847_DeMorgan_Logic.txt
+1129	  commission doubly wrong omission overlook tlie 	inference relation propositions subcontrariety affortls suf	1860_Hamilton_Lectures_II.txt
+1130	 hurch knowledge single circumstance guide correct 	inference religion great majority fellow countrymen explana	1851_Bailey_Reasoning.txt
+1131	 quantity middle term combinations enumerated give 	inference remaining found applying varieties case inference	1860_DeMorgan_Syllabus.txt
+1132	 teriflics terms propofition wanted abflraft forms 	inference remains confider thofe connefting copulae complet	1847_DeMorgan_Logic.txt
+1133	  case fallacy relations genus sophist drawn 	inference remains matter doubt head referred man 	1854_Devey_Logic.txt
+1134	  perish lilr inductive method lyell extends 	inference remarkable manner condition globe remote period 	1838_Powell_Connexion.txt
+1135	 n equally apodictic contingent matter syllogistic 	inference remarks strictly accurate conclusive modality pro	1860_Mansel_Prolegomena.txt
+1136	  train evidence religion natural revealed direct 	inference representation scripture variance truths elicited	1838_Powell_Connexion.txt
+1137	 separate proposition theless forced adds strength 	inference represents separate mental operation naturalist s	1851_Bailey_Reasoning.txt
+1138	  relative secondary natural theology lead higher 	inference reproach science enable proceed limits oavn 	1838_Powell_Connexion.txt
+1139	  law deal distinctly marked nature case 	inference required calculate question operate advantage com	1854_Devey_Logic.txt
+1140	  origin christianity proof consist close compact 	inference resemblance system nature economy gods visible 	1854_Devey_Logic.txt
+1141	 ducing material considerations theory form nature 	inference resembled differed bhistorical notices conjuncnvb	1860_Hamilton_Lectures_II.txt
+1142	  reasoning process descent men duke wellington 	inference resides inference finished asserted mi mortal 	1843_Mill_System_I.txt
+1143	  reasoning process descent men duke wellington 	inference resides inference finished asserted mi mortal 	1843_Mill_System_II.txt
+1144	  species illus trate logical analysis process 	inference resolved syllogisms syllogisms pro positions term	1854_Devey_Logic.txt
+1145	  unknown case evidence justified drawing similar 	inference respect class cases inference hold holds 	1843_Mill_System_I.txt
+1146	  unknown case evidence justified drawing similar 	inference respect class cases inference hold holds 	1843_Mill_System_II.txt
+1147	 cess reasoning deduce observation induction cases 	inference respect unknown employing syllogism barbara major	1826_Whately_Elements.txt
+1148	  reasoning observation cer tain instances draw 	inference respect unknown means enabled supply degree 	1826_Bushby_Logic.txt
+1149	 idence derive observation cases justifies drawing 	inference respecting unknown case evidence justified drawin	1843_Mill_System_I.txt
+1150	 idence derive observation cases justifies drawing 	inference respecting unknown case evidence justified drawin	1843_Mill_System_II.txt
+1151	 nating properties sun related phenomenon question 	inference resting strongest grounds sun rise tomorrow 	1854_Devey_Logic.txt
+1152	  appendix mediate argumentation complex varieties 	inference restriction subalternation relieved load perversi	1860_Hamilton_Lectures_II.txt
+1153	  fortunes applicable intentions infer pro vided 	inference rests good induction reasoning particulars partic	1843_Mill_System_I.txt
+1154	  fortunes applicable intentions infer pro vided 	inference rests good induction reasoning particulars partic	1843_Mill_System_II.txt
+1155	  auxiliary equation case vl case class 	inference result elimination reducible form examples multip	1847_Boole_Analysis.txt
+1156	  hold good result necessarily formal consequence 	inference result necessarily stand good terms changed 	1827_Huyshe_Logic.txt
+1157	 t search proper correlative certainty uncertainty 	inference resulting search certainty deductive conclusion c	1849_Smart_Logic.txt
+1158	  knowledge things xll contents reasoning chaptbb 	inference reuoning general paob retrospect preceding infere	1843_Mill_System_I.txt
+1159	  knowledge things xll contents reasoning chaptbb 	inference reuoning general paob retrospect preceding infere	1843_Mill_System_II.txt
+1160	  axioms barren truisms propositions deduce single 	inference reviewer asserts principles laws thought expressi	1840_Whewell_Philosophy_I.txt
+1161	  formed conjunftively disjunc tively enters imple 	inference rife called copulative fyuogifm disjunsfive fyllo	1847_DeMorgan_Logic.txt
+1162	 erence syllogisms common false inference mistaken 	inference rigid logicians confine word false propositions 	1838_Newman_Lectures.txt
+1163	  belong case universal middle terms condition 	inference satisfied rule change quantity quality extreme 	1854_Boole_Laws.txt
+1164	  medium chain reasoning required enable draw 	inference sceptical doubts part theory reasoning confesses 	1851_Bailey_Reasoning.txt
+1165	  proper conclusion converse gained imme diate 	inference schohon inventor fourth figure confer immortality	1842_Thomson_Outline.txt
+1166	  moment recal experience register single judgment 	inference science exist conclusion arrive attempt im 	1854_Devey_Logic.txt
+1167	  knowledge general truths facts avowedly matter 	inference science human conduct amenable authority logic 	1843_Mill_System_I.txt
+1168	  knowledge general truths facts avowedly matter 	inference science human conduct amenable authority logic 	1843_Mill_System_II.txt
+1169	  accurate data justify extend descending scale 	inference sciences mentioned phenomena amenable similar pos	1854_Devey_Logic.txt
+1170	 giving attention solely etxdeiioe indispose minds 	inference scientijic details prejudices minute investigatio	1838_Powell_Connexion.txt
+1171	 ative conclusion negative premise tlie legitimate 	inference sec appendix tnmparous organic viviparous organic	1860_Hamilton_Lectures_II.txt
+1172	 iving consistencies failing attendants erro neous 	inference securing derivative principles error sciences ame	1854_Devey_Logic.txt
+1173	  terms relate solely made senses indubitable 	inference sensations invariably habit mistaking things prod	1839_Haughton_Inquiry.txt
+1174	 dy sensitive degrees certainty attending probable 	inference sense carried great perfection acute mathematical	1854_Devey_Logic.txt
+1175	  real priority phenomena general proposition draw 	inference sense prior distinction mind case persist 	1853_Ramsay_Introduction.txt
+1176	 idence induction induction real process reasoning 	inference sense syllogism remains determined examination en	1843_Mill_System_I.txt
+1177	 idence induction induction real process reasoning 	inference sense syllogism remains determined examination en	1843_Mill_System_II.txt
+1178	  men happy denude syllogism words irrelevant 	inference set terms clear light fre quently 	1854_Devey_Logic.txt
+1179	 oever conclusion deduced immediately notion genus 	inference shorter beautiful strictures lamberts doctrine in	1860_Hamilton_Lectures_II.txt
+1180	 flicts portion law ultimate derivative principles 	inference shown strict connexion received doubt resolved 	1854_Devey_Logic.txt
+1181	 choloiib animals longlived mode putting induetive 	inference shows strong weak point illustration induction 	1860_Whewell_Discovery.txt
+1182	  inductive table facts tied bracket inductive 	inference side bracket arrangement repeated form genealogic	1858_Whewell_Renovatum.txt
+1183	  inductive table facts tied bracket ductive 	inference side bracket science xli arrangement repeated 	1840_Whewell_Philosophy_I.txt
+1184	  substantives derived words express occasion mind 	inference sig nify conclusion proposition inferred proof 	1826_Whately_Elements.txt
+1185	 dicative qvxintity long quantity predicate matter 	inference sign expressed subject stood predicate propositio	1856_Latham_Logic.txt
+1186	 coguandi appendix note part conclusion antecedent 	inference siihcontrariety qualified means presumption term 	1860_Hamilton_Lectures_II.txt
+1187	  dogma esta fbom paley wished process 	inference similar character ethical deductions de scribed 	1854_Devey_Logic.txt
+1188	  argu ment capable meeting cases rests 	inference similarity relation direct resem blance things 	1854_Devey_Logic.txt
+1189	 on manifestly true accidental conversion complete 	inference simple conversion simple converse proposition acc	1827_Huyshe_Logic.txt
+1190	 rking predetermining thing proved proving classes 	inference simple ference complex inference hypotheticals co	1860_Hamilton_Lectures_II.txt
+1191	  ordinary fyllogifm ing conftitute ultimate forms 	inference simple iden tity nonidentity ultimate flite 	1847_DeMorgan_Logic.txt
+1192	 eater portion treatise consideration laws methods 	inference simplest complex combina tions include design 	1854_Devey_Logic.txt
+1193	  view thinks successful recalling common doctrine 	inference single canon canon the terms conclusion 	1860_Hamilton_Lectures_II.txt
+1194	  bribe exclaims man price draws universal 	inference single case immediately hasty undue generalisatio	1851_Bailey_Reasoning.txt
+1195	  made inference drawn ect sentence expresses 	inference single word sign knowledge deposited mind 	1831_Smart_Sematology.txt
+1196	  conjecturing term con fined cases grounds 	inference slight conclusions historical facts pass guesses 	1851_Bailey_Reasoning.txt
+1197	  system valid forms syllogism text law 	inference slightly modified middle spicula turn spicula 	1860_DeMorgan_Syllabus.txt
+1198	 re sentation appears referred perspective surface 	inference solid form operation alike reality picture 	1840_Whewell_Philosophy_II.txt
+1199	 presentation appears referred perspective surface 	inference solid form operation alike reality picture 	1858_Whewell_Renovatum.txt
+1200	 practice definition essential preliminary correct 	inference solving disputes day cases verbal equivo 	1854_Devey_Logic.txt
+1201	 hetical illation proposition aux ally disjunctive 	inference somex anyy anyx somey conjimctive inferences 	1856_Ingleby_Outlines.txt
+1202	  relation simple syllogism place evident formal 	inference sorites equally equally manifest simple syllogism	1860_Hamilton_Lectures_I.txt
+1203	  arise syllogisms resolved conform rules mediate 	inference sorites proved correct order premisses sor 	1842_Thomson_Outline.txt
+1204	 nduction exhibited means formulas train inductive 	inference sound capable resolution scheme formulae legitima	1840_Whewell_Philosophy_I.txt
+1205	  indnction partial vote chosen premises capacious 	inference sounder whately natural philosophy ringu mtianc 	1848_Holyoake_Logic.txt
+1206	 nguish inference appearance mix tures observation 	inference speak judgment formed fact directly observed 	1840_Whewell_Philosophy_I.txt
+1207	  difference moods baralip dibatis fesapo fresison 	inference species genus calentes denied species denied 	1860_Hamilton_Lectures_II.txt
+1208	 erence determined con clusion species alternative 	inference species proposition alternative aflsrmation nega 	1860_Hamilton_Lectures_II.txt
+1209	  sir hamilton made basis method syllogistic 	inference spoken high respect authorities subject logic 	1854_Boole_Laws.txt
+1210	  ence founded true analogy false judgment 	inference spring apparent false analogy truth falsehood 	1850_Field_Analogy.txt
+1211	  desig nates formal part syllogism material 	inference springs comparison terms conclusion middle result	1854_Devey_Logic.txt
+1212	 n inference proceeds supposition extennion denied 	inference stated inductive syllogism equally competent comp	1860_Hamilton_Lectures_I.txt
+1213	  terms obtain jiroposition placing general rule 	inference stating alter natives disguised true major 	1860_Hamilton_Lectures_II.txt
+1214	 ombination observation reasoning pre ceding final 	inference stewart instance speaks those general conclusions	1851_Bailey_Reasoning.txt
+1215	  thomas judge incorruptible form trace deduction 	inference strengthened despoiled illative force bore figure	1854_Devey_Logic.txt
+1216	  researches science afford examples vast range 	inference strict induction extended conclusions apparently 	1838_Powell_Connexion.txt
+1217	  proved called proved question proved conclusion 	inference strict technical sense popular word argument 	1826_Whately_Elements.txt
+1218	  thought abstracted conditions matter formal view 	inference strictly logical diaracter inductive deduc tive 	1850_Munro_Logic.txt
+1219	  class consists xs ys ys xs 	inference strictly logical zl ys zs notxs 	1847_Boole_Analysis.txt
+1220	  con ttrutione ei tq kindii immetiiate 	inference subaltemation convention opposition contradiction	1860_Hamilton_Lectures_II.txt
+1221	 ivision genus supposition contradictories species 	inference subaltemation restriction hypotheticals conjuncti	1860_Hamilton_Lectures_II.txt
+1222	  subalternation declared sense vindicate doctrine 	inference subalternation manner declared counter sense easi	1860_Hamilton_Lectures_II.txt
+1223	  subject predicate unilateral subject predi cate 	inference subcontrariety call nteyration mind determine par	1860_Hamilton_Lectures_II.txt
+1224	 tain universality conversion incompe tent process 	inference subordination involved majority logical writers a	1850_Baynes_Essay.txt
+1225	  fact man died eaten herb poison 	inference subsequently find thousands people eaten herb 	1849_Smart_Logic.txt
+1226	  judgement voluntary act lay blame praise 	inference substance earth include turn earth judgement 	1849_Smart_Logic.txt
+1227	  taking place deeper deposits kinds rock 	inference successive periods classes bdngs inhabited earth 	1838_Powell_Connexion.txt
+1228	 thetical definition measure probability conducted 	inference successive steps suggestion termed received numer	1854_Boole_Laws.txt
+1229	  aucinu ah appendix allowed converse direct 	inference suffered fapesmo frisesnio logicians ad mitted 	1860_Hamilton_Lectures_II.txt
+1230	  warrant general law case par ticular 	inference sufficient needless proceed reasoning ostensibly 	1851_Bailey_Reasoning.txt
+1231	 iamonds valuable reduction unnecessary urged form 	inference sufficiently obvious advantage reduce material ar	1827_Huyshe_Logic.txt
+1232	 conception exists judgment accordance expe rience 	inference sufficiently probable furnish reasonable motive a	1860_Mansel_Prolegomena.txt
+1233	 connexion relations inseparably involves conducts 	inference suggestion definition scientific view theory prob	1854_Boole_Laws.txt
+1234	 ng abstract general proposition special practical 	inference suit views reasoner draw general terms 	1849_Smart_Logic.txt
+1235	  accept fail deductive process datum foregoing 	inference supplies utmost degree strength stone lifted 	1849_Smart_Logic.txt
+1236	  premises indistinctly recalled reasoner betrayed 	inference support reader likelihood supinely follow misreco	1851_Bailey_Reasoning.txt
+1237	  motives imme diate consciousness tells mere 	inference supposed general law causality law derived 	1860_Mansel_Prolegomena.txt
+1238	 erpendicular plane ecliptic fair ground inductive 	inference supposing connexion inclination orbits direction 	1838_Powell_Connexion.txt
+1239	  angle denotes collective fact general law 	inference supposing distances points equal thing triangle 	1851_Bailey_Reasoning.txt
+1240	  subordination strictest consequence highest form 	inference syllogism barbara subordination fiiuy displayed t	1848_Chretian_Method.txt
+1241	 examples analytic synthetic fore natuke divisions 	inference syllogism general november isiis inference infere	1860_Hamilton_Lectures_II.txt
+1242	 elation posited sublated equipollence iaw mediate 	inference syllogism mem cxplicand conversion propositions e	1860_Hamilton_Lectures_II.txt
+1243	 mpetent give observations shown process reasoning 	inference syllogism syllogism correct analysis process reas	1843_Mill_System_I.txt
+1244	 mpetent give observations shown process reasoning 	inference syllogism syllogism correct analysis process reas	1843_Mill_System_II.txt
+1245	 olume philosopher asserts order perceive justness 	inference syllogism understand meaning means admit scott 	1851_Bailey_Reasoning.txt
+1246	 ehension terms false belief propositions mistaken 	inference syllogisms common false inference mistaken infere	1838_Newman_Lectures.txt
+1247	  syllogism laws excluded middle reason consequent 	inference syllogisms krug logik aum logic impossible 	1860_Hamilton_Lectures_I.txt
+1248	  infer planets describe ellipses sun making 	inference syllogistically assume evident proposition mercur	1840_Whewell_Philosophy_II.txt
+1249	  infer planets describe ellipses sun making 	inference syllogistically assume evident proposition mercur	1858_Whewell_Renovatum.txt
+1250	  california san diego ft logic science 	inference systematic view principles evidence methods op 	1854_Devey_Logic.txt
+1251	 matic syllogism made varieties principle onymatic 	inference systematically introduced numerous xyz giving xz 	1860_DeMorgan_Syllabus.txt
+1252	  apples drop ground men act manner 	inference tafer gathered widett induetion obierre rationale	1848_Holyoake_Logic.txt
+1253	  condi tions make legitimate subject discussion 	inference takes place susceptible question induction procee	1843_Mill_System_I.txt
+1254	  condi tions make legitimate subject discussion 	inference takes place susceptible question induction procee	1843_Mill_System_II.txt
+1255	  gene ral compare philosophical aphorisms plainer 	inference takes place universal rule reason expressed 	1860_Hamilton_Lectures_II.txt
+1256	 sitates conclusion diminishing doubt accompanying 	inference taking drug person dies probable drug 	1849_Smart_Logic.txt
+1257	  aristotle early date donbt aristotle conudered 	inference tbe labour expends endeatoaring hygoogle hanlal 	1850_Munro_Logic.txt
+1258	 gronnda implied motion antecedent formal illation 	inference tbe universal invidual legitimated solely lawa 	1850_Munro_Logic.txt
+1259	 nclusions natural theology aa unwamntable stretch 	inference tbej liirrriffiir natural theology attach chaige 	1838_Powell_Connexion.txt
+1260	  moral doctrines christ unison natural law 	inference teaching accepted conflicts portion law ultimate 	1854_Devey_Logic.txt
+1261	  f zy i i oz law 	inference tells mn greater ixz fpurious upper 	1847_DeMorgan_Logic.txt
+1262	  regard effect constitutes form cases mixed 	inference tendencies operate presentations experience acts 	1860_Mansel_Prolegomena.txt
+1263	  wide profound theory embrace mind range 	inference tending special facts general principles greatest	1840_Whewell_Philosophy_II.txt
+1264	 jor premiss dittributiveli minor tbere legitimate 	inference term collective sense premiss distxibntive sense 	1850_Munro_Logic.txt
+1265	  term distributed called term sides draw 	inference term partially employed term employed universally	1827_Huyshe_Logic.txt
+1266	  deals form thought concepts relation judgment 	inference term refer aaually existing thing class 	1856_Ingleby_Outlines.txt
+1267	  term narrower sense reasoning confined form 	inference termed ratiocination syllogism general type reaso	1843_Mill_System_I.txt
+1268	  term narrower sense reasoning confined form 	inference termed ratiocination syllogism general type reaso	1843_Mill_System_II.txt
+1269	  zs deduce conclusion as zs syllogistic 	inference terms called extremes called middle term 	1854_Boole_Laws.txt
+1270	  contradicts premise logicians aware cases exist 	inference terras comparison reducible syllogism equals equa	1860_DeMorgan_Syllabus.txt
+1271	 fallacy union induction deduction universal canon 	inference test syllogisms universal propositions dis tingui	1854_Devey_Logic.txt
+1272	 lates confusion disappear syllogism presents mode 	inference tested conclu siveness form purpose mechanism 	1854_Devey_Logic.txt
+1273	  logic logician strangely avers formal portion 	inference tested experimental canons inductive quiry part 	1854_Devey_Logic.txt
+1274	 nalysis process reasoning inference contrary mere 	inference testimony inference particulars particulars autho	1843_Mill_System_I.txt
+1275	 nalysis process reasoning inference contrary mere 	inference testimony inference particulars particulars autho	1843_Mill_System_II.txt
+1276	 simpler form representationism adopted legitimate 	inference theism pantheism ideas conscious admitted exist 	1860_Mansel_Prolegomena.txt
+1277	  arc drcomstances affect logical copnia logical 	inference thej relate connection subject predicate antecede	1850_Munro_Logic.txt
+1278	  contradictory haye ao fig admits legitimate 	inference theorem true exception general theorems manner 	1847_Boole_Analysis.txt
+1279	  fact expressed major proposition unknown fact 	inference theory reasoning essence conclusion cases consist	1851_Bailey_Reasoning.txt
+1280	 inal proposition opposed propositions form double 	inference therefrom proceed illation privation table exhibi	1856_Ingleby_Outlines.txt
+1281	 ction thesis proposition proved logical formality 	inference thesis argumenta proposition principle proof cith	1860_Hamilton_Lectures_II.txt
+1282	  topic human mind apprehend moment strictness 	inference thing alleges simultaneously unsay propositions r	1838_Newman_Lectures.txt
+1283	 accounts facts connection premises number effects 	inference thing effects innumerable similar irre sistible 	1853_Ramsay_Introduction.txt
+1284	  unfettled queftions order properly examine laws 	inference thing elfe muft firft endeavour arrive 	1847_DeMorgan_Logic.txt
+1285	  things partly direct observation fails reasoning 	inference thing exist expect thing ascertained anticipation	1853_Ramsay_Introduction.txt
+1286	  rule simple logic sophism act illegal 	inference things concealed circuitous manner made prove 	1860_Hamilton_Lectures_I.txt
+1287	 aracters present thing regard negative attributes 	inference things number qualities belong similar negative 	1860_Hamilton_Lectures_II.txt
+1288	  notation work tests validity assignment symbol 	inference thirtytwo forms arise application contraries writ	1860_DeMorgan_Syllabus.txt
+1289	 proximate real conclusion colour sound conversivo 	inference tho expressed conclusion sound colour evident 	1860_Hamilton_Lectures_I.txt
+1290	 ptel immcdiato peremptoiy im nieiuate alternative 	inference tho siiccics em bracing theso imsjunctivo 	1860_Hamilton_Lectures_II.txt
+1291	  wtdtk perfaape tue reofler part consisted 	inference thongh tiie relatod ot infwence batav 	1848_Holyoake_Logic.txt
+1292	 id incomikjtent thrcrfuurtlu arr tivothinls suvie 	inference threefourths added thirds greater unity bo 	1860_Hamilton_Lectures_II.txt
+1293	 ogism confounded deduction made guarantee cogency 	inference thrust moods figure argue man sponsible 	1854_Devey_Logic.txt
+1294	  stricter looser sense term afiblsed process 	inference tiie classificatory sdences bn extreme mass 	1848_Chretian_Method.txt
+1295	  names man rational animal poitefiion fecond 	inference till written definite syllogifm identical names 	1847_DeMorgan_Logic.txt
+1296	  inference point agree induc tive argument 	inference tini versal words tite aggregate individuals 	1850_Munro_Logic.txt
+1297	 ight grow startling magnitude overwhelming extend 	inference tomorrow day ten thousand years inference 	1854_Devey_Logic.txt
+1298	  exceptions altogether fall fliort number xs 	inference total number exceptions fmall compared number 	1847_DeMorgan_Logic.txt
+1299	  constituted rules exclusively deter mine formal 	inference transcends violates transcends violates logic equ	1860_Hamilton_Lectures_I.txt
+1300	  speaking speaking object law thought acts 	inference transitiveness notion concomitancy names denote c	1860_DeMorgan_Syllabus.txt
+1301	 ses includes introduction generality order obtain 	inference travel cases mere exemplifii cations ideal 	1840_Whewell_Philosophy_II.txt
+1302	 ses includes introduction generality order obtain 	inference travel cases ve mere exemplifications ideal 	1858_Whewell_Renovatum.txt
+1303	  judgment event result simple intuitive truth 	inference travels affirmation agreement dis agreement terms	1854_Devey_Logic.txt
+1304	 rms confidered obeying thofe conditions neceflary 	inference treated connexion contrary contradiiory diftincft	1847_DeMorgan_Logic.txt
+1305	  deny greater includes denied implication cases 	inference trivial examples manuals logic rules syllogism 	1843_Mill_System_I.txt
+1306	  deny greater includes denied implication cases 	inference trivial examples manuals logic rules syllogism 	1843_Mill_System_II.txt
+1307	  op loqic referenc terms proposition laid 	inference trm changed aniversal words argument particulari 	1850_Munro_Logic.txt
+1308	  double inference cafe premife negative double 	inference true arif totelian fyllogifm bokardo application 	1847_DeMorgan_Logic.txt
+1309	  de omni nullo syllogism resolved treat 	inference true class true things belong class 	1843_Mill_System_I.txt
+1310	  de omni nullo syllogism resolved treat 	inference true class true things belong class 	1843_Mill_System_II.txt
+1311	  fuch truth matter lafl cafe fubjeft 	inference true fired affertion fired true aftertion 	1847_DeMorgan_Logic.txt
+1312	  presumptions inference derived simply takes care 	inference true pre mises true objected logic 	1848_Holyoake_Logic.txt
+1313	 fition true cafe neceffary confequence legitimate 	inference true true true true fer con 	1847_DeMorgan_Logic.txt
+1314	  kind involves petitio principii furnishes real 	inference truth allegation true renders classreasoning nuga	1851_Bailey_Reasoning.txt
+1315	 en correct absurd test selfevidence demonstrative 	inference truth evident means demonstration criterion oppos	1853_Ramsay_Introduction.txt
+1316	 ion result called conclusion antecedents premises 	inference truth falsehood antecedents necessity consequence	1860_DeMorgan_Syllabus.txt
+1317	 itherto art science discovery established correct 	inference truth premises means art science developement 	1850_Field_Analogy.txt
+1318	 tly medium truths subject intuition consciousness 	inference truths intuition original pre misses inferred 	1843_Mill_System_I.txt
+1319	 tly medium truths subject intuition consciousness 	inference truths intuition original pre misses inferred 	1843_Mill_System_II.txt
+1320	  idoas things evidence cogent sav matters 	inference truths testimony wiu ehised truths inference 	1851_Gilbart_Logic.txt
+1321	  observation misconception mis recollection error 	inference turn important acts contingent reasoning consist 	1851_Bailey_Reasoning.txt
+1322	  long contraries view ultimate ele ment 	inference twofold charafter elfe fingle inftances names 	1847_DeMorgan_Logic.txt
+1323	  firft inference fyl logifm aiaiai fecond 	inference uixz definite relation enters zx xz 	1847_DeMorgan_Logic.txt
+1324	  prin ciple intelligence inferred marks effect 	inference unavoidable made perfect security men fore 	1826_Bushby_Logic.txt
+1325	 ary adversaries produce totally uncalled possibly 	inference unavoidably justly drawn medium chain reasoning 	1851_Bailey_Reasoning.txt
+1326	  conclusions wrong facts premises wrong processes 	inference undertake journey fail reach proposed end 	1851_Bailey_Reasoning.txt
+1327	  substance opinion thinkers days uke rapid 	inference undoubted fact ver unlike mediaeval view 	1848_Chretian_Method.txt
+1328	 interpose direct mandate advance welfare subjects 	inference unfair analogy agreed essential point contributes	1854_Devey_Logic.txt
+1329	  belongs obliged infer inverted premises case 	inference unintel ligible archbishop whately hand takes 	1854_Devey_Logic.txt
+1330	  procefs reft fubjeft induftion lraywyii meant 	inference univerfal propofition feparate inference particul	1847_DeMorgan_Logic.txt
+1331	  certainty possess compacted link induc tive 	inference universal absolute pro positions identical contin	1854_Devey_Logic.txt
+1332	 olly general detennined superordi nated universal 	inference universal call sylloyism figure universal subordi	1860_Hamilton_Lectures_II.txt
+1333	 rsal call sylloyism figure universal subordinated 	inference universal called syllogism figure subordination g	1860_Hamilton_Lectures_II.txt
+1334	  law inference case middle terms condition 	inference universal extreme rule inference change quantity 	1854_Boole_Laws.txt
+1335	  states major principles sufficient ground mversa 	inference universal grounds knowing moun tainous countries 	1848_Moberly_Lectures.txt
+1336	  extreme wz premiss general law condition 	inference universal middle terms rule inference change 	1854_Boole_Laws.txt
+1337	  ad mitted province logic material illation 	inference universal om singular warranted general analogies	1850_Munro_Logic.txt
+1338	  ys noy tj ws sorites valid 	inference universal premises universal intermediate term en	1860_DeMorgan_Syllabus.txt
+1339	  work logic syllabus make syllogism valid 	inference unlimited selection middle term affirmative propo	1860_DeMorgan_Syllabus.txt
+1340	 etent communicate information fairly form subject 	inference unnatural manner mind confused state stumbles 	1854_Devey_Logic.txt
+1341	  march fesapo fresiso fapesmo frisesmo proceed 	inference unnoticed logicians quantities terms propositions	1860_Hamilton_Lectures_II.txt
+1342	 ility circumstances affect logical copula logical 	inference unsupported assertion simply assertion unwarrante	1842_Thomson_Outline.txt
+1343	  limited observation give ground extend ing 	inference untried cases observed facts visible bond 	1840_Whewell_Philosophy_I.txt
+1344	  character account rn ul reasoning figures 	inference upwards equable homogeneous quantity short natura	1860_Hamilton_Lectures_I.txt
+1345	 upply give inference contradistinction conclusion 	inference utmost certainty inference give instance error 	1849_Smart_Logic.txt
+1346	 m disamis premises reversed conclusion conversive 	inference uy dam quires interpolate proximate subsumption 	1860_Hamilton_Lectures_I.txt
+1347	  true sphere thought wider sphere reality 	inference valid correctest thinking object actual existence	1860_Hamilton_Lectures_I.txt
+1348	  mere logical caprice place ground loyally 	inference valid logically scientifically invalid inference 	1860_Hamilton_Lectures_I.txt
+1349	  short con clusion enable deduce suppose 	inference valid step argument belongs direct contingent 	1851_Bailey_Reasoning.txt
+1350	 etency figure character calculated enforce assent 	inference valid tortuous perverse felt fact logicians 	1860_Hamilton_Lectures_I.txt
+1351	  middle term syllogism premises af fording 	inference valid utility appendix thought generalized found 	1850_Baynes_Essay.txt
+1352	  cddixyz fed thefe rules depend character 	inference validity effefts produced fingle propofitions ter	1847_DeMorgan_Logic.txt
+1353	 tem ariftotelian fyftem multiplication fame modes 	inference varieties figure propofe reduplication moft eflte	1847_DeMorgan_Logic.txt
+1354	  changed principles stated laws thought deniedi 	inference vice versa nonb nonb positive affinned 	1842_Thomson_Outline.txt
+1355	 onings warrants hypothesis premises assumed truth 	inference view conclu sion separate proposition true 	1860_Hamilton_Lectures_I.txt
+1356	  meta physics facts compose evidence grounds 	inference view heri necessarily subjects examination coguot	1848_Holyoake_Logic.txt
+1357	  syl logism point overlooked bearing conclusion 	inference viewed shapes premises assume serviceable simply 	1854_Devey_Logic.txt
+1358	  necessity existence supremacy truth laws correct 	inference violated exist account equally remain unaffected 	1854_Boole_Laws.txt
+1359	  back state things state conclusion consequence 	inference virtual difference syllogism expression construct	1849_Smart_Logic.txt
+1360	 ndispensable step strange ludicrous maintain draw 	inference visible notorious qualities object separate menta	1851_Bailey_Reasoning.txt
+1361	  notions logic mo formal logic calculus 	inference vo notices arithmetical books authors post 	1860_DeMorgan_Syllabus.txt
+1362	 mined question constitutes direct natural orderly 	inference vtien reversed conversion emerges indirect mediat	1860_Hamilton_Lectures_II.txt
+1363	  nis imper fection point man carry 	inference wanted a bjeisy ideas names language 	1847_DeMorgan_Logic.txt
+1364	  universal premises conclusion test validity rule 	inference ways universals give quantity middle term 	1860_DeMorgan_Syllabus.txt
+1365	  form prove transformation add cogency inductive 	inference weakens force representing unnatural manner sir 	1854_Devey_Logic.txt
+1366	  deduce general law general law draw 	inference wears ap pearance demonstrated truth theory 	1851_Bailey_Reasoning.txt
+1367	  similar circumstances bodies make experi ment 	inference whately justly observes syllogism barbara major 	1827_Huyshe_Logic.txt
+1368	  bnt reason nhj ahanld accoant called 	inference whatetejis vien adopted teit onlj reference 	1850_Munro_Logic.txt
+1369	 passage describes method induction includes final 	inference wherever interesting change preceded combination 	1851_Bailey_Reasoning.txt
+1370	 rgenefe inference depends extent preponderance xz 	inference whj exceeds fo units excefs lb 	1847_DeMorgan_Logic.txt
+1371	 inction cases logical distinction assertion force 	inference wholly derived case likewise correct mani 	1860_Hamilton_Lectures_II.txt
+1372	  ground belief case time past assertion 	inference wide gulf leap bridge inference logical 	1853_Ramsay_Introduction.txt
+1373	 n complex reasoning conclusions conclusion direct 	inference wit conversion con clusion mediate indirect 	1860_Hamilton_Lectures_I.txt
+1374	  rules syllogisms rules educed canon mediate 	inference word agreement means agreement coin cidence 	1842_Thomson_Outline.txt
+1375	  inference truths testimony wiu ehised truths 	inference word extmded sense looio fob million 	1851_Gilbart_Logic.txt
+1376	 ifference union propositions essen tial formation 	inference words reason comparison propositions judge compar	1854_Devey_Logic.txt
+1377	 njunction ideas instantaneously asit draw logical 	inference writers argued favour syllogisms founded doctrine	1834_Blakey_Essay.txt
+1378	  ing preceding fland hiftory pafs good 	inference written form fyuogifm weak princes prone 	1847_DeMorgan_Logic.txt
+1379	 onclusions proceed wrong premises wrong processes 	inference wrong pre mises case contingent reasoning 	1851_Bailey_Reasoning.txt
+1380	  combe boys philosopher questioned making vast 	inference xatio notat united states korth amtiiet 	1848_Holyoake_Logic.txt
+1381	  pre scribing rules guidance alike investigation 	inference xtndoia cobectio nmdied bir niles sjuobm 	1850_Munro_Logic.txt
+1382	  charaber verb occur logic diftineuon affefts 	inference xy exaduy fame proper ties interpret 	1847_DeMorgan_Logic.txt
+1383	  vy means fymbol reminds reader laws 	inference xy yields true univerfe cafe premifes 	1847_DeMorgan_Logic.txt
+1384	 e process investigation collecting facts deducing 	inference yrom ats processes obecvaiiotv logic periment 	1839_Brenan_Logic.txt
+1385	  term number cafes affirmative premifs fubjedb 	inference ys fay xs ys zs ys 	1847_DeMorgan_Logic.txt
+1386	  upper premifes lower premifes alfo give 	inference yz i y f greater i 	1847_DeMorgan_Logic.txt
