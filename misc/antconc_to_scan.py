@@ -26,19 +26,19 @@ if enc_format == '':
 #Iterate through the files in the given directory.
 for file in os.listdir(conc_dir):
 
-        #First, check to see if the file is a text file.
-        if file.endswith(".txt"):
-            #Then, open that file using the specified encoding.
-            with open(file, 'r', encoding = enc_format) as input_file, open("scan_" + file, 'w+') as output_file:
-                #Iterate through the lines of that file.
-                for line in input_file:
-                    #And split them with the TAB delimiter.
-                    tokens = line.split("\t")
-                    #Also, split the filename with the UNDERSCORE delimiter.
-                    tokens[3] = tokens[3].split("_")
-                    #And print the following pieces to the new file: [YEAR]\t[CONCORDANCE].
-                    print(tokens[3][0] + "\t" + tokens[1] + tokens[2] + "\n", file = output_file)
-            input_file.close()
-            output_file.close()
+	#First, check to see if the file is a text file.
+	if file.endswith(".txt"):
+		#Then, open that file using the specified encoding.
+		with open(file, 'r', encoding = enc_format) as input_file, open("scan_" + file, 'w+') as output_file:
+			#Iterate through the lines of that file.
+			for line in input_file:
+				#And split them with the TAB delimiter.
+				tokens = line.split("\t")
+				#Also, split the filename with the UNDERSCORE delimiter.
+				tokens[3] = tokens[3].split("_")
+				#And print the following pieces to the new file: [YEAR]\t[CONCORDANCE].
+				print(tokens[3][0] + "\t" + tokens[1] + tokens[2] + "\n", file = output_file)
+		input_file.close()
+		output_file.close()
 	else:
 		continue

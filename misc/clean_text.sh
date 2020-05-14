@@ -8,6 +8,6 @@
 for f in *.txt
 do
 	echo "Processing file $f..."
-	cat $f | tr -d '[:punct:]' | tr -d '[:digit:]' | tr -d '[Ã¢Â¦«»@#$%^*}{|£¢§]' | tr '[:upper:]' '[:lower:]' | tr '[\n\r]' ' ' | tr -s ' ' > c_$f
+	cat $f | tr -d '[:punct:]' | tr -d '[:digit:]' | tr -d '[Ã¢Â¦«»@#$%^*}{|£¢§]' | tr '[:upper:]' '[:lower:]' | tr '[\n\r]' ' ' | tr -cd '\11\12\15\40-\176' | tr -s ' ' > c_$f
 done
 
