@@ -23,7 +23,8 @@ section
 book
 google
 coogle
-vjooq ic
+vjooq
+ic
 vjooqic
 digitized
 https
