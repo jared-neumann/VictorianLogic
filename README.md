@@ -94,11 +94,8 @@ These original concordances are contained in the [conc_original.zip](https://git
 
 The translation was done with a simple Python script contained in [antconc_to_scan.py](https://github.com/janeumanIU/VictorianLogic/blob/master/misc/antconc_to_scan.py). Furthermore -- another methodological issue -- it may be beneficial to avoid over-representing concordances from texts that are simply longer than others. One way to do this is to put a cap on the number of concordances drawn from any given text. I did not do that for for now, as I thought it might resolve itself given a larger corpus. The new concordances are found in the [input](https://github.com/janeumanIU/VictorianLogic/tree/master/input) folder. 
 
-### Running the SCAN Model
-
-### Interpreting the Output
-
-### Visualizing the Output
+### Further Reading
+For more on running the SCAN model and interpreting the results, as well as motivating and contextualizing the project, see the included report, Semantic Change in the Technical Terms of Victorian Logic.
 
 ## Representing Influence by Citation Analysis
 
